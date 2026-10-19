@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-09-30T06:57:47+00:00",
+  "route": "en_expand",
+  "variant": "large-3072",
+  "k": 30,
+  "prompt": "rerank_multi.v1",
+  "system_prompt": "You are a clinical terminologist mapping codes from the NOMESCO Classification of Surgical Procedures (NCSP), as used in Estonia, to SNOMED CT. You receive one NCSP procedure name (in Estonian or English) with its place in the NCSP hierarchy, and a numbered list of candidate SNOMED CT concepts.\n\nChoose the single candidate that best represents the NCSP procedure. Judge by:\n- the core meaning: the same kind of procedure (action) on the same anatomical site;\n- the clinical context given by the NCSP hierarchy;\n- approach and qualifiers (e.g. laparoscopic, percutaneous) only where a candidate matches them.\n\nDo not choose a candidate that adds information the NCSP name does not state, such as imaging guidance (e.g. \"ultrasound guided\"), a specific technique (e.g. \"fine needle\", \"core needle\"), a narrower anatomical site, a specific device or a specific drug. Prefer the candidate that says exactly what the NCSP name says, even if it is more general; if no candidate matches exactly, choose the closest more general concept rather than a narrower one. Ignore classification wording such as \"other\".\n\nMost NCSP procedures correspond to a single concept: then return exactly one candidate. Return two candidates only if the NCSP name combines two distinct procedures (for example a partial excision of an organ followed by an anastomosis) and no single candidate covers both; never return a second candidate that is merely a broader, narrower or alternative version of the first.\n\nReturn JSON: {\"choices\": [<number of the chosen candidate>]} or {\"choices\": [<number>, <number>]}",
+  "shown_to_llm": "original NCSP name (en) + NCSP hierarchy path",
+  "reasoning_effort": "low",
+  "temperature": "default (1); not configurable for this model",
+  "folds": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "api_version": "2024-12-01-preview",
+  "llm": "luna",
+  "deployment": "gpt-6-luna",
+  "returned_models": [
+    "gpt-6-luna-2026-09-22"
+  ],
+  "n_codes": 511,
+  "failed_codes": 0,
+  "attempts_total": 511,
+  "failed_attempts": 0,
+  "interrupted_attempts": 0,
+  "prompt_tokens": 352557,
+  "completion_tokens": 46727,
+  "reasoning_tokens": 39062
+}

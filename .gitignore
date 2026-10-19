@@ -1,0 +1,20 @@
+# OMOP vocabulary: licensed, download it yourself (see data/vocabulary/README.md)
+data/vocabulary/*
+!data/vocabulary/README.md
+
+# Large, regenerable artefacts:
+# SNOMED CT name embeddings (build_index.py), query embeddings (retrieve.py), run logs
+outputs/index/
+outputs/queries/cache/
+outputs/logs/
+
+# Credentials
+.azure_key
+.env
+
+# Python, editors, OS
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store

@@ -1,0 +1,639 @@
+source_code,source_name,source_frequency,estonian_name,ncsp_chapter,set
+LAA00,Ovarian cyst puncture,1,Munasarjatsüsti punktsioon,L,development
+LAA01,Laparoscopic ovarian cyst puncture,1,Laparoskoopiline munasarjatsüsti punktsioon,L,development
+LAA03,Percutaneous ovarian cyst puncture,1,Perkutaanne munasarjatsüsti punktsioon,L,development
+LAA06,Transvaginal ovarian cyst puncture,1,Transvaginaalne munasarjatsüsti punktsioon,L,development
+LAA10,Percutaneous and transvaginal follicular puncture and oocyte retrieval,1,Folliikuli perkutaanne ja transvaginaalne punktsioon ja ootsüüdi väljatoomine,L,development
+LAA11,Laparoscopic oocyte retrieval,1,Laparoskoopiline ootsüüdi väljatoomine,L,development
+LAA20,Percutaneous or transvaginal injection into an ovarian pregnancy,1,Perkutaanne või transvaginaalne injektsioon munasarja rasedusse,L,development
+LAA31,Ovarioscopy,1,Ovarioskoopia,L,development
+LAA96,Other ovarian puncture,1,Munasarja muu punktsioon,L,development
+LAA97,Other laparoscopic ovarian puncture,1,Muu laparoskoopiline munasarja punktsioon,L,development
+LAB00,Ovariotomy,1,Ovariotoomia,L,test
+LAB01,Laparoscopic ovariotomy,1,Laparoskoopiline ovariotoomia,L,test
+LAB10,Ovarian biopsy,1,Munasarja biopsia,L,test
+LAB11,Laparoscopic ovarian biopsy,1,Laparoskoopiline munasarja biopsia,L,test
+LAB21,Laparoscopic ovarian needle biopsy,1,Laparoskoopiline munasarja nõelbiopsia,L,test
+LAB96,Other incision or biopsy of the ovary,1,Munasarja muu intsisioon või biopsia,L,test
+LAB97,Other laparoscopic incision or biopsy of the ovary,1,Muu laparoskoopiline munasarja intsisioon või biopsia,L,test
+LAC00,Excision of an ovarian cyst,1,Munasarjatsüsti ekstsisioon,L,test
+LAC01,Laparoscopic excision of an ovarian cyst,1,Laparoskoopiline munasarjatsüsti ekstsisioon,L,test
+LAC10,Fenestration of an ovarian cyst,1,Munasarjatsüsti fenestratsioon,L,test
+LAC11,Laparoscopic fenestration of an ovarian cyst,1,Laparoskoopiline munasarjatsüsti fenestratsioon,L,test
+LAC20,Destruction of an ovarian lesion,1,Munasarja lesiooni destruktsioon,L,test
+LAC21,Laparoscopic destruction of an ovarian lesion,1,Laparoskoopiline munasarja lesiooni destruktsioon,L,test
+LAC30,Excision of a paraovarian cyst,1,Paraovariaalse tsüsti ekstsisioon,L,test
+LAC31,Laparoscopic excision of a paraovarian cyst,1,Laparoskoopiline paraovariaalse tsüsti ekstsisioon,L,test
+LAC96,Other excision or destruction of an ovarian lesion,1,Munasarja lesiooni muu ekstsisioon või destruktsioon,L,test
+LAC97,Other laparoscopic excision or destruction of an ovarian lesion,1,Muu laparoskoopiline munasarja lesiooni ekstsisioon või destruktsioon,L,test
+LAD00,Partial removal of the ovary,1,Munasarja osaline eemaldamine,L,development
+LAD01,Laparoscopic partial removal of the ovary,1,Laparoskoopiline munasarja osaline eemaldamine,L,development
+LAE10,Unilateral oophorectomy,1,Ühepoolne ooforektoomia,L,test
+LAE11,Unilateral laparoscopic oophorectomy,1,Ühepoolne laparoskoopiline ooforektoomia,L,test
+LAE20,Bilateral oophorectomy,1,Mõlemapoolne ooforektoomia,L,test
+LAE21,Bilateral laparoscopic oophorectomy,1,Mõlemapoolne laparoskoopiline ooforektoomia,L,test
+LAF00,Unilateral Salpingo-oophorectomy,1,Ühepoolne salpingo-ooforektoomia,L,test
+LAF01,Unilateral laparoscopic salpingo-oophorectomy,1,Ühepoolne laparoskoopiline salpingo-ooforektoomia,L,test
+LAF10,Bilateral salpingo-oophorectomy,1,Mõlemapoolne salpingo-ooforektoomia,L,test
+LAF11,Bilateral laparoscopic salpingo-oophorectomy,1,Mõlemapoolne laparoskoopiline salpingo-ooforektoomia,L,test
+LAF17,Laparoscopic lymph node removal for a malignant ovarian tumor,1,Laparoskoopiline lümfisõlmede eemaldamine munasarja pahaloomulise kasvaja korral,L,test
+LAF20,Unilateral transvaginal salpingo-oophorectomy,1,Unilateraalne transvaginaalne salpingo-ooforektoomia,L,test
+LAF30,Bilateral transvaginal salpingo-oophorectomy,1,Bilateraalne transvaginaalne salpingo-ooforektoomia,L,test
+LAG00,Adhesiolysis of the ovary,1,Munasarja liidetest vabastamine,L,test
+LAG01,Laparoscopic adhesiolysis of the ovary,1,Laparoskoopiline munasarja liidetest vabastamine,L,test
+LAG10,Oophoropexy,1,Ooforopeksia,L,test
+LAG11,Laparoscopic oophoropexy,1,Laparoskoopiline ooforopeksia,L,test
+LAG20,Detorsion of the ovary,1,Munasarja detorsioon,L,test
+LAG21,Laparoscopic detorsion of the ovary,1,Laparoskoopiline munasarja detorsioon,L,test
+LAG96,Other reconstructive surgery on the ovary,1,Muu rekonstruktiivne operatsioon munasarjal,L,test
+LAG97,Other laparoscopic reconstructive surgery on the ovary,1,Muu laparoskoopiline rekonstruktiivne operatsioon munasarjal,L,test
+LAW96,Other surgery on the ovary,1,Muu operatsioon munasarjal,L,test
+LAW97,Other laparoscopic surgery on the ovary,1,Muu laparoskoopiline operatsioon munasarjal,L,test
+LB1YT,Catheterization of the fallopian tube,1,Munajuha kateteriseerimine,L,test
+LBA00,Percutaneous puncture of the fallopian tube,1,Perkutaanne munajuha punktsioon,L,test
+LBA01,Laparoscopic puncture of the fallopian tube,1,Laparoskoopiline munajuha punktsioon,L,test
+LBA03,Transvaginal puncture of the fallopian tube,1,Transvaginaalne munajuha punktsioon,L,test
+LBA07,Salpingoscopy,1,Salpingoskoopia,L,test
+LBA97,Other laparoscopic puncture of the fallopian tube,1,Muu laparoskoopiline munajuha punktsioon,L,test
+LBA98,Other endoscopic transluminal procedure on the fallopian tube,1,Muu endoskoopiline transluminaalne protseduur munajuhal,L,test
+LBB00,Biopsy of the fallopian tube,1,Munajuha biopsia,L,test
+LBB01,Laparoscopic biopsy of the fallopian tube,1,Laparoskoopiline munajuha biopsia,L,test
+LBB04,Salpingoscopic biopsy of the fallopian tube,1,Salpingoskoopiline munajuha biopsia,L,test
+LBB11,Laparoscopic needle biopsy of the fallopian tube,1,Laparoskoopiline munajuha nõelbiopsia,L,test
+LBB96,Other biopsy of the fallopian tube,1,Munajuha muu biopsia,L,test
+LBC00,Percutaneous injection into a tubal pregnancy,1,Perkutaanne injektsioon munajuharasedusse,L,test
+LBC03,Transvaginal injection into a tubal pregnancy,1,Transvaginaalne injektsioon munajuharasedusse,L,test
+LBC07,Laparoscopic injection into a tubal pregnancy,1,Laparoskoopiline injektsioon munajuharasedusse,L,test
+LBC08,Falloposcopic injection into a tubal pregnancy,1,Falloposkoopiline injektsioon munajuharasedusse,L,test
+LBC10,Products of conception Removal from the fallopian tube,1,Viljastumise produktide eemaldamine munajuhast,L,test
+LBC11,Laparoscopic removal of products of conception from the fallopian tube,1,Laparoskoopiline viljastumise produktide eemaldamine munajuhast,L,test
+LBC20,Salpingotomy and removal of products of conception,1,Salpingotoomia ja viljastumise produktide eemaldamine,L,test
+LBC21,Laparoscopic salpingotomy and removal of products of conception,1,Laparoskoopiline salpingotoomia ja viljastumise produktide eemaldamine,L,test
+LBC96,Other fallopian tube-sparing surgery for tubal pregnancy,1,Munajuha muu säilitav operatsioon munajuharaseduse korral,L,test
+LBC97,Other laparoscopic fallopian tube-sparing surgery for tubal pregnancy,1,Muu laparoskoopiline munajuha säilitav operatsioon munajuharaseduse korral,L,test
+LBC98,Other transluminal fallopian tube-sparing surgery for tubal pregnancy,1,Muu transluminaalne munajuha säilitav operatsioon munajuharaseduse korral,L,test
+LBD00,Resection of the fallopian tube,1,Munajuha resektsioon,L,test
+LBD01,Laparoscopic resection of the fallopian tube,1,Laparoskoopiline munajuha resektsioon,L,test
+LBE00,Salpingectomy,1,Salpingektoomia,L,test
+LBE01,Laparoscopic salpingectomy,1,Laparoskoopiline salpingektoomia,L,test
+LBF00,Perfusion of the fallopian tube,1,Munajuha perfusioon,L,development
+LBF01,Laparoscopic perfusion of the fallopian tube,1,Laparoskoopiline munajuha perfusioon,L,development
+LBF03,Perfusion of the fallopian tube following reconstruction,1,Munajuha perfusioon rekonstruktsiooni järgselt,L,development
+LBF11,Laparoscopy for assisted reproduction,1,Laparoskoopia abistatud viljastamise korral,L,development
+LBF12,Hysteroscopy for assisted reproduction,1,Hüsteroskoopia abistatud viljastamise korral,L,development
+LBF20,Transcervical catheter salpingoplasty,1,Transtservikaalne kateeter-salpingoplastika,L,development
+LBF30,Salpingolysis,1,Salpingolüüs,L,development
+LBF31,Laparoscopic salpingolysis,1,Laparoskoopiline salpingolüüs,L,development
+LBF40,Fimbrioplasty,1,Fimbrioplastika,L,development
+LBF41,Laparoscopic fimbrioplasty,1,Laparoskoopiline fimbrioplastika,L,development
+LBF50,Salpingostomy,1,Salpingostoomia,L,development
+LBF51,Laparoscopic salpingostomy,1,Laparoskoopiline salpingostoomia,L,development
+LBF60,Partial removal of the fallopian tube and anastomosis,1,Munajuha osaline eemaldamine ja anastomoos,L,development
+LBF61,Laparoscopic partial removal of the fallopian tube and anastomosis,1,Laparoskoopiline munajuha osaline eemaldamine ja anastomoos,L,development
+LBF70,Partial removal of the fallopian tube and reimplantation,1,Munajuha osaline eemaldamine ja reimplantatsioon,L,development
+LBF71,Laparoscopic partial excision and reimplantation of the fallopian tube,1,Munajuha laparoskoopiline osaline ekstsisioon ja reimplantatsioon,L,development
+LBF96,Other surgery on the fallopian tube for infertility,1,Muu operatsioon munajuhal infertiilsuse korral,L,development
+LBF97,Other laparoscopic surgery on the fallopian tube for infertility,1,Muu laparoskoopiline operatsioon munajuhal infertiilsuse korral,L,development
+LBW20,Catheterization of the fallopian tube under X-ray guidance,1,Munajuha kateteriseerimine rõntgeni kontrolliga,L,test
+LBW80,Perfusion of the fallopian tube with gaseous oxygen (PSF),1,Munajuha perfusioon gaasilise hapnikuga (PSF),L,test
+LBW96,Other surgery on the fallopian tube,1,Muu operatsioon munajuhal,L,test
+LBW97,Other laparoscopic surgery on the fallopian tube,1,Muu laparoskoopiline operatsioon munajuhal,L,test
+LBW98,Other transluminal endoscopic surgery on the fallopian tube,1,Muu transluminaalne endoskoopiline operatsioon munajuhal,L,test
+LBX14,Perfusion of the fallopian tube with gaseous oxygen (PSF),1,Munajuha perfusioon gaasilise hapnikugs (PSF),L,development
+LCA00,Biopsy of the uterus and uterine ligaments,1,Emaka ja emakasidemete biopsia,L,test
+LCA01,Laparoscopic biopsy of the uterus and uterine ligaments,1,Laparoskoopiline emaka ja emakasidemete biopsia,L,test
+LCA06,Endometrial biopsy,1,Endomeetriumi biopsia,L,test
+LCA10,Abrasion of the uterine cavity,1,Emakaõõne abrasioon,L,test
+LCA13,Abrasion of the uterine cavity and cervix,1,Emakaõõne ja -kaela abrasioon,L,test
+LCA16,Destruction of the endometrium,1,Endomeetriumi destruktsioon,L,test
+LCA20,Removal of a foreign body from the uterus,1,Võõrkeha eemaldamine emakast,L,test
+LCA22,Hysteroscopic removal of a foreign body,1,Hüsteroskoopiline võõrkeha eemaldamine,L,test
+LCA30,Transfer of an oocyte or embryo into the uterine cavity (assisted reproduction),1,Ootsüüdi ja embrüo emakaõõnde viimine abistatud viljastamise korral,L,test
+LCA96,Other intrauterine surgery,1,Muu emakasisene operatsioon,L,test
+LCA98,Other transluminal endoscopic procedure on the uterus,1,Muu transluminaalne endoskoopiline protseduur emakal,L,test
+LCB00,Hysterotomy,1,Hüsterotoomia,L,test
+LCB01,Laparoscopic hysterotomy,1,Laparoskoopiline hüsterotoomia,L,test
+LCB10,Myomectomy,1,Müomektoomia,L,test
+LCB11,Laparoscopic myomectomy,1,Laparoskoopiline müomektoomia,L,test
+LCB14,Laparoscopic myolysis,1,Laparoskoopiline müolüüs,L,test
+LCB20,Transvaginal myomectomy,1,Transvaginaalne müomektoomia,L,test
+LCB25,Hysteroscopic excision of a lesion,1,Hüsteroskoopiline lesiooni ekstsisioon,L,test
+LCB28,Hysteroscopic excision of the endometrium,1,Hüsteroskoopiline endomeetriumi ekstsisioon,L,test
+LCB32,Hysteroscopic destruction of the endometrium,1,Hüsteroskoopiline endomeetriumi destruktsioon,L,test
+LCB90,Needle biopsy of the uterus,1,Emaka nõelbiopsia,L,test
+LCB96,Other excision of a uterine lesion,1,Emaka lesiooni muu ekstsisioon,L,test
+LCB97,Other laparoscopic excision of a uterine lesion,1,Muu laparoskoopiline emaka lesiooni ekstsisioon,L,test
+LCB98,Other transluminal endoscopic excision of a uterine lesion,1,Muu transluminaalne endoskoopiline emaka lesiooni ekstsisioon,L,test
+LCC00,Partial removal of the uterus,1,Emaka osaline eemaldamine,L,test
+LCC01,Laparoscopic partial removal of the uterus,1,Laparoskoopiline emaka osaline eemaldamine,L,test
+LCC05,Hysteroscopic removal of uterine wall tissue,1,Hüsteroskoopiline emakaseina eemaldamine,L,test
+LCC10,Supravaginal hysterectomy,1,Supravaginaalne hüsterektoomia,L,test
+LCC11,Laparoscopic subtotal hysterectomy,1,Laparoskoopiline subtotaalne hüsterektoomia,L,test
+LCC20,Vaginal supravaginal hysterectomy,1,Tupekaudne supravaginaalne hüsterektoomia,L,test
+LCC96,Other partial removal of the uterus,1,Emaka muu osaline eemaldamine,L,test
+LCC97,Other laparoscopic partial removal of the uterus,1,Muu laparoskoopiline emaka osaline eemaldamine,L,test
+LCD00,Hysterectomy,1,Hüsterektoomia,L,test
+LCD01,Total laparoscopic hysterectomy,1,Totaalne laparoskoopiline hüsterektoomia,L,test
+LCD04,Laparoscopic hysterectomy,1,Laparoskoopiline hüsterektoomia,L,test
+LCD10,Vaginal hysterectomy,1,Vaginaalne hüsterektoomia,L,test
+LCD11,Laparoscopically assisted vaginal hysterectomy,1,Laparoskoopiliselt assisteeritud vaginaalne hüsterektoomia,L,test
+LCD30,Radical hysterectomy,1,Radikaalne hüsterektoomia,L,test
+LCD31,Radical laparoscopic hysterectomy,1,Radikaalne laparoskoopiline hüsterektoomia,L,test
+LCD40,Radical vaginal hysterectomy,1,Radikaalne vaginaalne hüsterektoomia,L,test
+LCD96,Other hysterectomy,1,Muu hüsterektoomia,L,test
+LCD97,Other laparoscopic hysterectomy,1,Muu laparoskoopiline hüsterektoomia,L,test
+LCE00,Anterior pelvic exenteration in women,1,Vaagnaelundite eesmine evistseratsioon naistel,L,test
+LCE10,Posterior pelvic exenteration in women,1,Vaagnaelundite tagumine evistseratsioon naistel,L,test
+LCE20,Total pelvic exenteration in women,1,Vaagnaelundite totaalne evistseratsioon naistel,L,test
+LCE96,Other pelvic exenteration in women,1,Vaagnaelundite muu evistseratsioon naistel,L,test
+LCF00,Excision of a parametrial lesion,1,Parameetriumi lesiooni ekstsisioon,L,development
+LCF01,Laparoscopic excision of a parametrial lesion,1,Laparoskoopiline parameetriumi lesiooni ekstsisioon,L,development
+LCF10,Excision of a varicocele in women,1,Varikotseele ekstsisioon naistel,L,development
+LCF11,Laparoscopic excision of a varicocele in women,1,Laparoskoopiline varikotseele ekstsisioon naistel,L,development
+LCF20,Removal of a lesion in the pouch of Douglas,1,G.Douglase piirkonna lesiooni eemaldamine,L,development
+LCF21,Laparoscopic removal of a lesion in the pouch of Douglas,1,Laparoskoopiline G.Douglase piirkonna lesiooni eemaldamine,L,development
+LCF96,Other excision of a parametrial lesion,1,Parameetriumi lesiooni muu ekstsisioon,L,development
+LCF97,Other laparoscopic excision of a parametrial lesion,1,Muu laparoskoopiline parameetriumi lesiooni ekstsisioon,L,development
+LCG02,Hysteroscopic adhesiolysis,1,Hüsteroskoopiline liidete vabastamine,L,test
+LCG10,Suturing of the uterus,1,Emaka suturatsioon,L,test
+LCG11,Laparoscopic suturing of the uterus,1,Laparoskoopiline emaka suturatsioon,L,test
+LCG20,Hysteropexy,1,Hüsteropeksia,L,test
+LCG21,Laparoscopic hysteropexy,1,Laparoskoopiline hüsteropeksia,L,test
+LCG30,Resection or transection of the uterosacral ligaments,1,Sakrouteriinsete sidemete resektsioon või transtsisioon,L,test
+LCG31,Laparoscopic [resection/transection] of the uterosacral ligaments resection or transsection,1,Laparoskoopiline sakrouteriinsete sidemete resektsioon või transtsisioon,L,test
+LCG40,Uterine reconstruction,1,Emaka rekonstruktsioon,L,test
+LCG41,Laparoscopic uterine reconstruction,1,Laparoskoopiline emaka rekonstruktsioon,L,test
+LCG96,Other reconstructive surgery on the uterus,1,Muu rekonstruktiivne operatsioon emakal,L,test
+LCG97,Other laparoscopic reconstructive surgery on the uterus,1,Muu laparoskoopiline rekonstruktiivne operatsioon emakal,L,test
+LCG98,Other transluminal endoscopic reconstructive surgery on the uterus,1,Muu transluminaalne endoskoopiline rekonstruktiivne operatsioon emakal,L,test
+LCH00,Removal of products of conception from the uterine cavity via vacuum aspiration,1,Viljastumisproduktide eemaldamine emakaõõnest vaakum-aspiratsiooni teel,L,test
+LCH03,Removal of products of conception from the uterine cavity and curettage of the uterine cavity,1,Viljastumisproduktide eemaldamine emakaõõnest ja emakaõõne küretaaž,L,test
+LCH10,Intra-amniotic or extra-amniotic administration of abortifacient agents,1,Aborti põhjustavate ravimite amnionisisene või -väline kasutamine,L,test
+LCH11,Extra-amniotic administration of an abortifacient agent,1,Aborti indutseeriva ravimi amnioniväline kasutamine,L,test
+LCH12,Oral administration of an abortifacient agent,1,Aborti indutseeriva ravimi suukaudne kasutamine,L,test
+LCH13,Vacuum aspiration of the uterine cavity following a medically induced abortion,1,Emakaõõne vaakum-aspiratsioon meditsiiniliselt esilekutsutud abordi järgselt,L,test
+LCH15,Removal of products of conception from the uterine cavity following an incomplete induced abortion,1,Viljastumisproduktide eemaldamine emakaõõnest mittetäieliku indutseeritud abordi järel,L,test
+LCH20,Hysterectomy and evacuation of products of conception,1,Hüsterektoomia ja viljastumisproduktide evakuatsioon,L,test
+LCH96,Other termination of pregnancy,1,Raseduse muu lõpetamine,L,test
+LCW96,Other surgery on the uterus and uterine ligaments,1,Muu operatsioon emakal ja emakasidemetel,L,test
+LCW97,Other laparoscopic surgery on the uterus and uterine ligaments,1,Muu laparoskoopiline operatsioon emakal ja emakasidemetel,L,test
+LCW98,Other hysteroscopic surgery on the uterus,1,Muu hüsteroskoopiline operatsioon emakal,L,test
+LDA00,Cervical dilation,1,Emakakaela dilatatsioon,L,test
+LDA10,Cervical abrasion,1,Emakakaela abrasioon,L,test
+LDA20,Cervical biopsy,1,Emakakaela biopsia,L,test
+LDA91,Removal of a foreign body from the cervix via the vagina,1,Emakakaela võõrkeha eemaldamine tupe kaudu,L,test
+LDA96,Other cervical biopsy,1,Emakakaela muu biopsia,L,test
+LDB00,Excision of a cervical lesion,1,Emakakaela lesiooni ekstsisioon,L,test
+LDB10,Cervical cryotherapy,1,Emakakaela krüoteraapia,L,test
+LDB20,Cervical electrocoagulation or laser therapy,1,Emakakaela elektrokoagulatsioon või laserteraapia,L,test
+LDC00,Cervical conization using a knife,1,Emakakaela konisatsioon noa abil,L,test
+LDC03,Cervical conization using diathermy or a laser,1,Emakakaela konisatsioon diatermia või laseri abil,L,test
+LDC10,Partial removal of the cervix,1,Emakakaela osaline eemaldamine,L,test
+LDC20,Radical removal of the cervix,1,Emakakaela radikaalne eemaldamine,L,test
+LDC96,Other removal of the cervix,1,Emakakaela muu eemaldamine,L,test
+LDD00,Cervical Suturing,1,Emakakaela suturatsioon,L,development
+LDD01,Endoscopic cervical suturing,1,Emakakaela endoskoopiline õmblus,L,development
+LDD03,Cervical suturing in a non-pregnant patient,1,Emakakaela õmblus mitterasedal,L,development
+LDD10,Plastic repair of the cervix,1,Emakakaela plastiline korrektsioon,L,development
+LDD20,Removal of a cervical cerclage (support suture),1,Emakakaela tugiõmbluse eemaldamine,L,development
+LDW96,Other surgery on the cervix,1,Muu operatsioon emakakaelal,L,test
+LDX12,Replacement of a vaginal pessary,1,Tupepessaari vahetus,L,test
+LE003,Colposcopy with biopsy,1,Kolposkoopia koos biopsiaga,L,test
+LE010,Removal of a foreign body from the vagina (adult),1,Täiskasvanu tupest võõrkeha eemaldamine,L,test
+LEA01,Culdoscopy,1,Kuldoskoopia,L,test
+LEA10,Colpotomy,1,Kolpotoomia,L,test
+LEB00,Vaginal biopsy,1,Tupe biopsia,L,test
+LEB10,Excision of a vaginal lesion,1,Tupe lesiooni ekstsisioon,L,test
+LEB11,Laparoscopic removal of a vaginal lesion,1,Laparoskoopioline tupe lesiooni eemaldamine,L,test
+LEB20,Marsupialization of a vaginal cyst,1,Tupe tsüsti marsupialisatsioon,L,test
+LEB30,Destruction of a lesion of the vaginal mucosa,1,Tupe limaskesta lesiooni destruktsioon,L,test
+LEC00,Partial vaginectomy,1,Tupe osaline eemaldamine,L,test
+LEC10,Removal of a vaginal septum,1,Tupe vaheseina eemaldamine,L,test
+LED00,Colpectomy,1,Kolpektoomia,L,test
+LED01,Laparoscopic removal of the cervix,1,Emakakaela laparoskoopiline eemaldamine,L,test
+LEE00,Vaginal suturing,1,Tupe õmblus,L,development
+LEE10,Vaginal repair using a graft or flap,1,Tupe korrektsioon transplantaadi või koelapi abil,L,development
+LEE20,Closure of a urovaginal fistula using a graft or flap,1,Urovaginaalse fistuli sulgemine transplantaadi või koelapi abil,L,development
+LEE21,Percutaneous closure of a urovaginal fistula,1,Urovaginaalse fistuli perkutaanne sulgemine,L,development
+LEE30,Closure of an intestinovaginal fistula using a graft or flap,1,Intestinovaginaalse fistuli sulgemine transplantaadi või koelapi abil,L,development
+LEE40,Vaginoplasty (vaginal construction),1,Tupe konstruktsioon,L,development
+LEE96,Other vaginal repair,1,Tupe muu korrektsioon,L,development
+LEF00,Anterior colporrhaphy,1,Eesmine kolporaafia,L,test
+LEF01,Anterior colporrhaphy with mesh,1,Eesmine kolpraafia võrguga,L,test
+LEF03,Posterior colporrhaphy,1,Tagumine kolporaafia,L,test
+LEF05,Anterior colporrhaphy without mesh for recurrent cystocele,1,Eesmine kolporaafia võrguta tsüstotseele retsidiivi korral,L,test
+LEF06,Anterior colporrhaphy with mesh for recurrent cystocele,1,Eesmine kolporaafia võrguga tsütotseele retsidiivi korral,L,test
+LEF10,Colpoperineoplasty,1,Kolpoperineoplastika,L,test
+LEF13,Colpoperineoplasty and vaginal hysterectomy,1,Kolpoperineoplastika ja vaginaalne hüsterektoomia,L,test
+LEF20,Partial colpocleisis,1,Osaline kolpokleiis,L,test
+LEF23,Total colpocleisis,1,Täielik kolpokleiis,L,test
+LEF30,Uterine interposition (between the vagina and the bladder),1,Emaka interpositsioon tupe ja põie vahele,L,test
+LEF40,Vaginal repair of an enterocele,1,Vaginaalne enterotseele korrektsioon,L,test
+LEF41,Laparoscopic repair of an enterocele,1,Laparoskoopiline enterotseele korrektsioon,L,test
+LEF43,Abdominal repair of an enterocele correction,1,Enterotseele abdominaalne korrektsioon,L,test
+LEF50,Colpopexy following a prior hysterectomy,1,Kolpopeksia eelnenud hüsterektoomia järgselt,L,test
+LEF51,Laparoscopic colpopexy following a prior hysterectomy,1,Laparoskoopiline kolpopeksia eelnenud hüsterektoomia järgselt,L,test
+LEF53,Vaginal colpopexy following a prior hysterectomy,1,Vaginaalne kolpopeksia eelnenud hüsterektoomia järgselt,L,test
+LEF60,Lateral colpopexy,1,Lateraalne kolpopeksia,L,test
+LEF63,Vaginal hysteropexy with suture placement,1,Vaginaalne hüsteropeksia õmbluste asetamisega,L,test
+LEF96,Other surgery for uterine or vaginal vault prolapse,1,Muu operatsioon emaka või tupevõlvi prolapsi korral,L,test
+LEF97,Other laparoscopic surgery for uterine or vaginal vault prolapse,1,Muu laparoskoopiline operatsioon emaka või tupevõlvi prolapsi korral,L,test
+LEG00,Vaginal ureterocystorrhaphy,1,Vaginaalne ureterotsüstoraafia,L,test
+LEG10,Vaginal ureterocystopexy,1,Vaginaalne ureterotsüstopeksia,L,test
+LEG12,Transobturator tape (TOT) placement,1,Transobturatoorse lingu asetamine (TOT),L,test
+LEG13,Vaginal transobturator ureteropexy,1,Vaginaalne transobturatoorne ureteropeksia,L,test
+LEG20,Plastic repair of the female pelvic floor involving the levator ani muscle,1,Vaagnapõhja plastiline korrektsioon naistel koos tõstjalihase läbimisega,L,test
+LEG70,Division of a suburethral sling (tape),1,Tsüstopeksia lingu läbilõikamine,L,test
+LEG80,Hysteropexy with mesh repair,1,Hüsteropeksia võrgu korrektsioon,L,test
+LEG96,Other vaginal surgery for incontinence,1,Muu vaginaalne operatsioon inkontinentsi puhul,L,test
+LEW96,Other surgery on the vagina,1,Muu operatsioon tupel,L,development
+LEW97,Other endoscopic surgery on the vagina,1,Muu endoskoopiline operatsioon tupel,L,development
+LFA00,Incision of the external genitalia and perineum,1,Välissuguelundite ja perineumi intsisioon,L,test
+LFA10,Incision of an imperforate hymen or hymenal remnant,1,Mitteperforeerunud hüümeni või hüümeni jäänuse intsisioon,L,test
+LFA20,Correction of the external genitalia following ritual circumcision,1,Välisgenitaalide korrektsioon peale rituaalset ümberlõikamist,L,test
+LFB00,Biopsy of the external genitalia and perineum,1,Välissuguelundite ja perineumi biopsia,L,test
+LFB10,Excision of a lesion of the external genitalia and perineum,1,Välissuguelundite ja perineumi lesiooni ekstsisioon,L,test
+LFB20,Removal of a lesion of the external genitalia and perineum,1,Välissuguelundite ja perineumi lesiooni likvideerimine,L,test
+LFB31,Thermocoagulation of a genital lesion,1,Suguelundite kahjustuse termokoagulatsioon,L,test
+LFC00,Partial removal of the external genitalia,1,Välissuguelundite osaline eemaldamine,L,test
+LFC96,Other partial removal of the external genitalia or perineum,1,Välissuguelundite või perineumi muu osaline eemaldamine,L,test
+LFD00,Vulvectomy,1,Vulvektoomia,L,test
+LFD10,Vulvectomy with removal of regional lymph nodes,1,Vulvektoomia ja regionaalsete lümfisõlmede eemaldamine,L,test
+LFE00,Suture of the external genitalia,1,Välissuguelundite õmblus,L,test
+LFE10,Plastic repair of the external genitalia,1,Välissuguelundite plastiline korrektsioon,L,test
+LFE20,Suture of the perineum,1,Perineumi õmblus,L,test
+LFE96,Other repair of the external genitalia and perineum,1,Välissuguelundite ja perineumi muu korrektsioon,L,test
+LFF00,Marsupialization of a Bartholin's gland,1,Bartholini näärme marsupialisatsioon,L,test
+LFF10,Excision of a Bartholin's gland,1,Bartholini näärme ekstsisioon,L,test
+LFF96,Other surgery on a Bartholin's gland,1,Muu operatsioon Bartholini näärmel,L,test
+LFW96,Other Operation on external genitalia or perineum,1,Muu operatsioon välissuguelunditel või perineumil,L,test
+LGA00,Sterilization by tubal ligation,1,Steriliseerimine munajuhade ligeerimisega,L,test
+LGA10,Sterilization by tubal removal or division,1,Steriliseerimine munajuhade eemaldamise või läbimisega,L,test
+LGA11,Laparoscopic sterilization by tubal removal or division,1,Laparoskoopiline steriliseerimine munajuhade eemaldamise või läbimisega,L,test
+LGA20,Sterilization by tubal constriction,1,Steriliseerimine munajuhade konstriktsiooni teel,L,test
+LGA21,Laparoscopic sterilization by tubal constriction,1,Laparoskoopiline steriliseerimine munajuhade konstriktsiooni teel,L,test
+LGA22,Hysteroscopic sterilization,1,Hüsteroskoopiline steriliseerimine,L,test
+LGA96,Other female sterilization,1,Naise muu steriliseerimine,L,test
+LGA97,Other laparoscopic female sterilization,1,Muu laparoskoopiline naise steriliseerimine,L,test
+LGA98,Other transluminal endoscopic sterilization,1,Muu transluminaalne endoskoopiline steriliseerimine,L,test
+LWA00,Repair of wound dehiscence in gynecological surgery,1,Haava dehistsentsi korrektsioon günekoloogilises kirurgias,L,test
+LWB00,Reoperation for superficial infection in gynecological surgery,1,Kordusoperatsioon pindmise infektsiooni korral günekoloogilises kirurgias,L,test
+LWC00,Reoperation for deep infection in gynecological surgery,1,Kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias,L,development
+LWC01,Percutaneous endoscopic reoperation for deep infection in gynecological surgery,1,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias,L,development
+LWD00,Reoperation for superficial hemorrhage in gynecological surgery,1,Kordusoperatsioon pindmise verejooksu korral günekoloogilises kirurgias,L,test
+LWE00,Reoperation for internal hemorrhage in gynecological surgery,1,Kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,L,test
+LWE01,Percutaneous endoscopic reoperation for internal hemorrhage in gynecological surgery,1,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,L,test
+LWE02,Transluminal endoscopic reoperation for internal hemorrhage in gynecological surgery,1,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,L,test
+LWF00,Reoperation for dehiscence of an anastomosis or suture in gynecological surgery,1,Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias,L,test
+LWF01,Percutaneous endoscopic reoperation for dehiscence of an anastomosis or suture in gynecological surgery,1,Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias,L,test
+LWK03,Division of a sling (cystopexy),1,Tsüstopeksia lingu läbilõikamine,L,test
+LWL03,Revision of a mesh used for hysteropexy,1,Hüsteropeksia võrgu korrektsioon,L,test
+LWW00,Repeat abrasion of the uterine cavity Following an induced abortion,1,Korduv emakaõõne abrasioon indutseeritud abordi järel,L,development
+LWW96,Other repeat operation in gynecological surgery,1,Muu kordusoperatsioon günekoloogilises kirurgias,L,development
+LWW97,Other percutaneous endoscopic repeat operation in gynecological surgery,1,Muu perkutaanne endoskoopiline kordusoperatsioon günekoloogilises kirurgias,L,development
+LWW98,Other transluminal endoscopic repeat operation in gynecological surgery,1,Muu transluminaalne endoskoopiline kordusoperatsioon günekoloogilises kirurgias,L,development
+LX1LT,Thermocoagulation of a genital lesion,1,Suguelundite kahjustuse termokoagulatsioon,L,development
+MA0AT,Chorionic villus sampling under ultrasound guidance,1,Koorioni biopsia ultraheli kontrolli all,M,test
+MA3AE,Combined screening for early pregnancy (first trimester),1,Varase raseduse (I trimestri) kombineeritud sõeluuring,M,development
+MAA00,Amniocentesis,1,Amniotsentees,M,test
+MAA01,Chorionic villus sampling under ultrasound guidance,1,Koorioni biopsia ultraheli kontrolli all,M,test
+MAA03,Intra-amniotic infusion,1,Intraamniaalne infusioon,M,test
+MAA06,Amnioreduction,1,Amnioreduktsioon,M,test
+MAA10,Chorionic villus sampling,1,Koorionihatu biopsia,M,test
+MAA12,Microhysteroscopic chorionic villus sampling,1,Koorionihatu mikrohüsteroskoopiline biopsia,M,test
+MAA20,Removal of an intrauterine contraceptive device under ultrasound guidance,1,Emakasisese rasestumisvastase vahendi eemaldamine ultraheli kontrolliga,M,test
+MAA22,Hysteroscopic removal of an intrauterine device during pregnancy,1,Hüsteroskoopiline emakasisese vahendi eemaldamine raseduse ajal,M,test
+MAA30,Cordocentesis,1,Kordotsentees,M,test
+MAA32,Catheterization of fetal umbilical vessels,1,Loote nabaveresoonte kateteriseerimine,M,test
+MAA40,Fetal puncture,1,Loote punktsioon,M,test
+MAA41,Collection of fetal blood sample in utero,1,Loote üsasisese vereanalüüsi võtmine,M,test
+MAA43,Fetal biopsy,1,Loote biopsia,M,test
+MAA52,Embryo freezing,1,Embrüo külmutamine,M,test
+MAA54,Fetoscopy,1,Fetoskoopia,M,test
+MAA82,Laser coagulation of placental anastomoses,1,Platsenta anastomooside laserkoagulatsioon,M,test
+MAA96,Other operation on the uterus or fetus during pregnancy,1,Muu rasedusaegne operatsioon emakal või lootel,M,test
+MAA98,Other hysteroscopic procedure on the uterus or fetus during pregnancy,1,Muu hüsteroskoopiline protseduur emakal raseduse ajal või lootel,M,test
+MAB00,Placement of a cervical cerclage during pregnancy,1,Emakakaelale õmbluse asetamine raseduse ajal,M,test
+MAB03,Removal of a cervical cerclage before childbirth,1,Emakakaela õmbluse eemaldamine enne sünnitust,M,test
+MAB04,Suppression of uterine contractions in preterm labor,1,Emaka kokkutõmmete pärssimine enneaegsel sünnitusel,M,test
+MAB10,External cephalic version,1,Loote väline pööre,M,test
+MAB20,Failed external cephalic version,1,Ebaõnnestunud loote väline pööre,M,test
+MAC00,Rupture of the amniotic sac,1,Looteveepõie avamine,M,test
+MAC02,Rupture of the amniotic sac during labor,1,Looteveepõie avamine sünnituse ajal,M,test
+MAC03,Induction of labor using a vibrator,1,Sünnitustegevuse esilekutsumine vibraatoriga,M,test
+MAC04,Water birth Assistance,1,Vettesünnituse abistamine,M,test
+MAC10,Pre-labor dilation of the cervical canal,1,Emakakaelakanali sünnituseelne laiendamine,M,test
+MAC20,Vacuum traction,1,Vaakum traktsioon,M,test
+MAC23,Traction with forceps,1,Traktsioon tangidega,M,test
+MAC31,Induction of labor with prostaglandins,1,Sünnitustegevuse esilekutsumine prostaglandiinidega,M,test
+MAC32,Induction or stimulation of labor with oxytocin,1,Sünnitustegevuse esilekutsumine või stimuleerimine oksütotsiiniga,M,test
+MAC90,Preparation for labor,1,Ettevalmistus sünnituseks,M,test
+MAC91,Extra-amniotic infusion for the induction of labor,1,Amnioniväline infusioon sünnituse esilekutsumiseks,M,test
+MAC96,Instrumental induction or augmentation of labor,1,Sünnituse instrumentaalne esilekutsumine või edendamine,M,test
+MAD00,Incision of the cervix to assist labor,1,Emakakaela intsisioon sünnituse abistamiseks,M,test
+MAD20,Pubiotomy to assist labor,1,Pubiotoomia sünnituse abistamiseks,M,test
+MAD96,Other dilation of the birth canal to assist labor,1,Sünnitusteede muu laiendamine sünnituse abistamiseks,M,test
+MAE00,Vacuum-assisted delivery,1,Vaakumsünnitus,M,test
+MAE03,Mid-cavity or high vacuum-assisted delivery,1,Õõne- või kõrge vaakumsünnitus,M,test
+MAE20,Failed vacuum-assisted delivery,1,Ebaõnnestunud vaakumsünnitus,M,test
+MAE96,Other vacuum-assisted delivery,1,Muu vaakumsünnitus,M,test
+MAF00,Low forceps delivery (outlet forceps) for fetal head presentation,1,Madaltangsünnitus e. väljapääsutangid loote peaseisu korral,M,test
+MAF10,Mid-cavity forceps delivery Mid-forceps delivery (cephalic presentation),1,Õõnetangsünnitus e. keskmised tangid loote peaseisu korral,M,test
+MAF20,Failed forceps delivery (cephalic presentation),1,Ebaõnnestunud tangsünnitus loote peaseisu korral,M,test
+MAF96,Other forceps-assisted delivery (cephalic presentation),1,Muu sünnitus peaseisust tangide abil,M,test
+MAG00,Assisted breech delivery,1,Abistatud tuharseis-sünnitus,M,test
+MAG03,Breech delivery with forceps-assisted delivery of the aftercoming head,1,"Tuharseis-sünnitus, järeltuleva pea väljutamine tangidega",M,test
+MAG10,Breech delivery with extraction of the fetus,1,Tuharseis-sünnitus loote ekstraktsiooniga,M,test
+MAG13,Breech delivery with extraction of the fetus and forceps-assisted delivery of the aftercoming head,1,"Tuharseis-sünnitus loote ekstraktsiooniga, järeltuleva pea väljutamine tangidega",M,test
+MAG20,Internal version or version with extraction,1,Sisemine loote pööre või pööre ekstraktsiooniga,M,test
+MAG96,Other breech delivery,1,Muu tuharseis-sünnitus,M,test
+MAH10,Repositioning of a prolapsed umbilical cord,1,Väljalangenud nabaväädi reponeerimine,M,development
+MAH20,Correction of malposition (cephalic presentation),1,Peaseisu valeasendi korrektsioon,M,development
+MAH22,External cephalic version,1,Loote väline pööramine peaseisu,M,development
+MAH30,Destructive operation on the fetus during delivery,1,Loodet purustav operatsioon sünnitusel,M,development
+MAH41,Application of external pressure to the abdomen to assist delivery,1,Välise surve rakendamine kõhule sünnituse abistamisel,M,development
+MAJ00,Reduction of a multiple pregnancy by one fetus,1,Mitmikraseduse vähendamine ühe loote võrra,M,test
+MAJ10,Reduction of a multiple pregnancy by more than one fetus,1,Mitmikraseduse vähendamine enam kui ühe loote võrra,M,test
+MAW96,Other operation during pregnancy or delivery,1,Muu operatsioon raseduse ajal ja sünnitusel,M,test
+MAW97,Other laparoscopic operation during pregnancy,1,Muu laparoskoopiline operatsioon raseduse ajal,M,test
+MAW98,Other transluminal endoscopic procedure during pregnancy,1,Muu transluminaalne endoskoopiline protseduur raseduse ajal,M,test
+MBA00,Vacuum aspiration of the uterine cavity following delivery or abortion,1,Emakaõõne vaakumaspiratsioon pärast sünnitust või aborti,M,development
+MBA03,Curettage of the uterine cavity following delivery or abortion,1,Emakaõõne abrasioon pärast sünnitust või aborti,M,development
+MBA10,Manual exploration of the uterine cavity postpartum,1,Emakaõõne sünnitusjärgne manuaalne revisioon,M,development
+MBA20,Delivery of the placenta using external maneuvers,1,Platsenta väljutamine välise võttega,M,development
+MBA30,Manual removal of the placenta postpartum,1,Platsenta manuaalne eemaldamine pärast sünnitust,M,development
+MBA32,Manual removal of fetal membranes,1,Lootekestade manuaalne eemaldamine,M,development
+MBA40,Pharmacological evacuation of retained products following abortion,1,Abordijärgse retensiooni evakuatsioon ravimitega,M,development
+MBA96,Other removal of placenta or fetal parts following delivery or abortion,1,Platsenta ja looteosade muu eemaldamine pärast sünnitust või aborti,M,development
+MBB00,Repositioning of the uterus in cases of uterine inversion,1,Emaka reponeerimine inversiooni korral,M,test
+MBB10,Postpartum uterine [procedure/intervention] Tamponade,1,Emaka sünnitusjärgne tamponeerimine,M,test
+MBB96,Other manual procedure on the uterus following childbirth,1,Muu manuaalne protseduur emakal pärast sünnitust,M,test
+MBC00,Repair of obstetric lacerations of the cervix,1,Emakakaela sünnitusrebendite korrektsioon,M,test
+MBC10,Repair of obstetric lacerations of the vagina,1,Tupe sünnitusrebendite korrektsioon,M,test
+MBC20,Repair of obstetric lacerations of the external genitalia,1,Välissuguelundite sünnitusrebendite korrektsioon,M,test
+MBC30,Repair of partial perineal laceration,1,Perineumi osalise rebendi korrektsioon,M,test
+MBC33,Repair of complete perineal laceration,1,Perineumi täieliku rebendi korrektsioon,M,test
+MBC40,Repair of paravaginal or vulvar hematoma following childbirth or abortion,1,Paravaginaalse või välissuguelundite hematoomi korrektsioon pärast sünnitust või aborti,M,test
+MBC80,Intravascular embolization for postpartum uterine hemorrhage,1,Sünnitusjärgse emakaverejooksu intravaskulaarne embolisatsioon,M,test
+MBC90,Control of postpartum hemorrhage,1,Sünnitusjärgse verejooksu peatamine,M,test
+MBC96,Other repair of obstetric lacerations,1,Sünnitusrebendite muu korrektsioon,M,test
+MBS00,Collection of a blood sample from the umbilical vein following childbirth,1,Vereproovi võtmine nabaveenist pärast sünnitust,M,test
+MBW96,Other surgical procedure following childbirth or abortion,1,Muu operatsioon pärast sünnitust või aborti,M,test
+MCA00,Cesarean section on the uterine body,1,Keisrilõige emakakehal,M,test
+MCA10,Cesarean section on the lower uterine segment,1,Keisrilõige emaka alumises segmendis,M,test
+MCA20,Vaginal Cesarean section,1,Vaginaalne keisrilõige,M,test
+MCA30,Supravaginal hysterectomy during Cesarean section,1,Supravaginaalne hüsterektoomia keisrilõikel,M,test
+MCA33,Hysterectomy during Cesarean section,1,Hüsterektoomia keisrilõikel,M,test
+MCA96,Other Cesarean section,1,Muu keisrilõige,M,test
+MCB00,Laparotomy and delivery in cases of extrauterine pregnancy,1,Laparotoomia ja sünnitus emakavälise loote korral,M,development
+MCC00,Repair of uterine rupture following childbirth,1,Emakaruptuuri sünnitusjärgne korrektsioon,M,test
+MCW00,Postpartum hysterectomy,1,Sünnitusjärgne hüsterektoomia,M,test
+MCW96,Other laparotomy in obstetrics,1,Muu laparotoomia sünnitusabis,M,test
+MWA00,Repair of wound dehiscence in obstetrics,1,Haava dehistsentsi korrektsioon sünnitusabis,M,test
+MWB00,Reoperation for superficial infection in obstetrics,1,Kordusoperatsioon pindmise infektsiooni korral sünnitusabis,M,test
+MWC00,Reoperation for deep infection in obstetrics,1,Kordusoperatsioon süvainfektsiooni korral sünnitusabis,M,development
+MWC01,Percutaneous endoscopic reoperation for deep infection in obstetrics,1,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral sünnitusabis,M,development
+MWD00,Reoperation for superficial hemorrhage in obstetrics,1,Kordusoperatsioon pindmise verejooksu korral sünnitusabis,M,test
+MWE00,Reoperation for internal hemorrhage in obstetrics,1,Kordusoperatsioon sisemise verejooksu korral sünnitusabis,M,test
+MWE01,Percutaneous endoscopic reoperation for internal hemorrhage in obstetrics,1,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis,M,test
+MWE02,Transluminal endoscopic reoperation for internal bleeding in obstetrics,1,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis,M,test
+MWF00,Reoperation for dehiscence of an anastomosis or suture in obstetrics,1,Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis,M,test
+MWF01,Percutaneous endoscopic reoperation for dehiscence of an anastomosis or suture in obstetrics,1,Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis,M,test
+MWW00,Repeat abrasion of the uterine cavity following childbirth or spontaneous abortion,1,Korduv emakaõõne abrasioon pärast sünnitust või spontaanset aborti,M,development
+MWW96,Other reoperation in obstetrics,1,Muu kordusoperatsioon sünnitusabis,M,development
+MWW97,Other percutaneous endoscopic reoperation in obstetrics,1,Muu perkutaanne endoskoopiline kordusoperatsioon sünnitusabis,M,development
+MWW98,Other transluminal endoscopic reoperation in obstetrics,1,Muu transluminaalne endoskoopiline kordusoperatsioon sünnitusabis,M,development
+MXB00,Preparation for childbirth,1,Ettevalmistus sünnituseks,M,test
+TAB00,Lumbar puncture,1,Lumbaalpunktsioon,T,development
+TAC00,Peripheral nerve block,1,Perifeerne närviblokaad,T,test
+TBA00,Thyroid puncture,1,Kilpnäärme punktsioon,T,development
+TBA10,Thyroid needle biopsy,1,Kilpnäärme nõelbiopsia,T,development
+TBA20,Thyroid aspiration cytology,1,Kilpnäärme aspiratsiooni tsütoloogia,T,development
+TBB00,Parathyroid puncture,1,Kõrvalkilpnäärme punktsioon,T,test
+TBB10,Parathyroid needle biopsy,1,Kõrvalkilpnäärme nõelbiopsia,T,test
+TBC00,Adrenal gland needle biopsy,1,Neerupealise nõelbiopsia,T,test
+TBW99,Other minor procedure in endocrine surgery,1,Muu väike protseduur endokriinkirurgias,T,test
+TCA00,Orbital needle biopsy,1,Orbita nõelbiopsia,T,test
+TCA15,Retrobulbar therapeutic injection into the orbit,1,Retrobulbaarne terapeutiline injektsioon orbitasse,T,test
+TCA20,Peribulbar therapeutic injection into the orbit,1,Peribulbaarne terapeutiline injektsioon orbitasse,T,test
+TCB00,Eyelid needle biopsy,1,Silmalau nõelbiopsia,T,test
+TCB20,Injection of medication into the eyelid,1,Ravimi süstimine silmalaugu,T,test
+TCC00,Lacrimal gland needle biopsy,1,Pisaranäärme nõelbiopsia,T,test
+TCC10,Probing of the lacrimal duct or nasolacrimal duct,1,Pisarakanali või nasolakrimaaljuha sondeerimine,T,test
+TCC30,Intubation of the lacrimal duct or nasolacrimal duct,1,Pisarakanali intubatsioon või nasolakrimaaljuha intubatsioon,T,test
+TCF00,Subconjunctival therapeutic injection,1,Subkonjuktivaalne terapeutiline injektsioon,T,test
+TCG10,Removal of sutures from the cornea,1,Õmbluste eemaldamine sarvkestast,T,test
+TCK10,Choroidal needle biopsy,1,Pärissoonkesta nõelbiopsia,T,test
+TCK20,Vitreous body needle biopsy,1,Klaaskeha nõelbiopsia,T,test
+TCK30,Retinal needle biopsy,1,Võrkkesta nõebiopsia,T,test
+TCW99,Other minor procedure in ophthalmic surgery,1,Muu väike protseduur silmakirurgias,T,test
+TDA00,Biopsy of the auricle or external auditory canal,1,Kõrvalesta või välise kuulmekanali biopsia,T,test
+TDA10,Needle biopsy of the auricle or external auditory canal,1,Kõrvalesta või välise kuulmekanali nõelbiopsia,T,test
+TDA90,Removal of earwax,1,Kõrvavaigu eemaldamine,T,test
+TDB00,Removal of a foreign body from the external auditory canal,1,Võõrkeha eemaldamine välisest kuulmekanalist,T,development
+TDC00,Needle biopsy of the eardrum,1,Trummikile nõelbiopsia,T,test
+TDH00,Needle biopsy of the nose,1,Nina nõelbiopsia,T,test
+TDH10,Removal of a foreign body from the nasal cavity,1,Võõrkeha eemaldamine ninaõõnest,T,test
+TDJ00,Needle biopsy of the nasal septum,1,Ninavaheseina nõelbiopsia,T,test
+TDM00,Needle biopsy of the maxillary sinus,1,Põsekoopa nõelbiopsia,T,test
+TDM10,Puncture and irrigation of the maxillary sinus,1,Põseluukoopa punktsioon ja loputus,T,test
+TDN00,Needle biopsy of the ethmoid bone and ethmoid sinus,1,Sõelluu ja sõelluukoopa nõelbiopsia,T,test
+TDP00,Needle biopsy of the frontal sinus,1,Otsmikukoopa nõelbiopsia,T,test
+TDP05,Puncture of the frontal sinus,1,Frontaalsiinuse punktsioon,T,test
+TDP10,Needle biopsy of the sphenoid sinus,1,Põhiluukoopa nõelbiopsia,T,test
+TDQ00,Needle biopsy of the larynx,1,Kõri nõelbiopsia,T,test
+TEA00,Biopsy of the lip,1,Huule biopsia,T,test
+TEA10,Needle biopsy of the lip,1,Huule nõelbiopsia,T,test
+TEC00,Needle biopsy of the gum,1,Igeme nõelbiopsia,T,test
+TED00,Closed reduction of a jaw dislocation,1,Lõualuu dislokatsiooni kinnine paigaldamine,T,test
+TED10,Needle biopsy of the mandible,1,Alalõualuu nõelbiopsia,T,test
+TEE00,Needle biopsy of the maxilla,1,Ülalõualuu nõelbiopsia,T,development
+TEG00,Needle biopsy of the temporomandibular joint,1,Alalõualuuliigese nõelbiopsia,T,development
+TEG10,Arthrocentesis of the temporomandibular joint,1,Alalõualuu artrotsentees,T,development
+TEH00,Needle biopsy of the hard palate,1,Kõva suulae nõelbiopsia,T,test
+TEJ00,Needle biopsy of the tongue or floor of the mouth,1,Keele või suupõhja nõelbiopsia,T,test
+TEL00,Needle biopsy of the salivary glands,1,Süljenäärmete nõelbiopsia,T,development
+TEM00,Needle biopsy of the tonsils or adenoids,1,Mandlite või adenoidide nõelbiopsia,T,test
+TEN00,Needle biopsy of the pharynx or adjacent structures,1,Neelu või külgnevate struktuuride nõelbiopsia,T,test
+TEW99,Other minor procedure in oral and maxillofacial surgery,1,"Muu väike protseduur hammaste, lõualuude, suu ja neelu kirurgias",T,test
+TFC00,Catheterization of the right atrium or ventricle,1,Parema koja või vatsakese kateteriseerimine,T,test
+TFC10,Catheterization of the left atrium or ventricle,1,Vasaku koja või vatsakese kateteriseerimine,T,test
+TFE00,Pericardiocentesis,1,Perikardiotsentees,T,development
+TFJ00,Cardiac puncture,1,Südame punktsioon,T,test
+TFP00,Temporary use of a transvenous or epicardial cardiac pacemaker,1,Transvenoosse või epikardiaalse südame tehisrütmuri ajutine kasutamine,T,development
+TFP20,Cardioversion,1,Kardioversioon,T,development
+TGA00,Needle biopsy of the chest wall,1,Rindkereseina nõelbiopsia,T,test
+TGA10,Needle biopsy of the pleura,1,Pleura nõelbiopsia,T,test
+TGA20,Needle biopsy of the diaphragm,1,Diafragma nõelbiopsia,T,test
+TGA30,Thoracentesis,1,Torakotsentees,T,test
+TGB00,Needle biopsy of the trachea,1,Trahhea nõelbiopsia,T,test
+TGD00,Needle biopsy of the lung,1,Kopsu nõelbiopsia,T,development
+TGE00,Needle biopsy of the mediastinum,1,Mediastiinumi nõelbiopsia,T,test
+TGW99,Other minor procedure in thoracic surgery,1,Muu väike protseduur torakaalkirurgias,T,test
+THA00,Needle biopsy of the nipple,1,Rinnanibu nõelbiopsia,T,test
+THA10,Breast Needle biopsy,1,Rinnanäärme nõelbiopsia,T,test
+THW99,Other minor procedure in breast surgery,1,Muu väike protseduur rinnanäärme kirurgias,T,test
+TJA00,Peritoneal cavity puncture,1,Peritoneaalõõne punktsioon,T,test
+TJA10,Laparocentesis,1,Laparotsentees,T,test
+TJA35,Removal of a peritoneal dialysis catheter,1,Peritoneaaldialüüsi kateetri eemaldamine,T,test
+TJD00,Insertion of a nasogastric or nasogastroduodenal tube,1,Nasogastraal- või nasogastroduodenaalsondi asetamine,T,test
+TJD20,Replacement of a gastrostomy tube,1,Gastrostoomi toru vahetus,T,test
+TJF00,Insertion of a jejunal catheter,1,Jejunaalkateetri sisseviimine,T,test
+TJF20,Oral biopsy of the small intestine,1,Peensoole peroraalne biopsia,T,test
+TJF30,Reduction of intussusception using a barium enema,1,Soole invaginatsiooni likvideerimine kasutades baarium-klistiiri,T,test
+TJG10,Removal of a foreign body from the rectum,1,Võõrkeha eemaldamine rektumist,T,test
+TJJ00,Percutaneous needle biopsy of the liver,1,Maksa perkutaanne nõelbiopsia,T,test
+TJK00,Intraoperative cholangiography,1,Operatsiooniaegne kolangiograafia,T,test
+TJK01,Laparoscopic cholangiography,1,Laparoskoopiline kolangiograafia,T,test
+TJL00,Percutaneous needle biopsy of the pancreas,1,Pankrease perkutaanne nõelbiopsia,T,test
+TJM00,Needle biopsy of the spleen,1,Põrna nõelbiopsia,T,test
+TK800,Hemodialysis,1,Hemodialüüs,T,test
+TK810,Hemofiltration,1,Hemofiltratsioon,T,test
+TK820,Peritoneal dialysis,1,Peritoneaaldialüüs,T,test
+TKA00,Needle biopsy of the kidney or renal pelvis,1,Neeru või neeruvaagna nõelbiopsia,T,test
+TKA02,Needle biopsy of a transplanted kidney,1,Nõelbiopsia siirdatud neerust,T,test
+TKA10,Percutaneous puncture of the kidney or renal pelvis,1,Neeru või neeruvaagna perkutaanne punktsioon,T,test
+TKB40,Closure of a ureterostomy,1,Ureeterostoomi sulgemine,T,test
+TKC00,Needle biopsy of the bladder,1,Põie nõelbiopsia,T,development
+TKC10,Percutaneous puncture of the bladder,1,Põie perkutaanne punktsioon,T,development
+TKC20,Bladder catheterization,1,Põie kateteriseerimine,T,development
+TKC40,"Checking, replacement, or removal of a suprapubic bladder catheter",1,"Suprapubikaalse põiekateetri kontrollimine, vahetamine või eemaldamine",T,development
+TKD00,Urethral dilation,1,Ureetra dilatatsioon,T,test
+TKE00,Needle biopsy of the prostate,1,Prostata nõelbiopsia,T,test
+TKE05,Aspiration cytology of the prostate,1,Prostata aspiratsiooni tsütoloogia,T,test
+TKE10,Puncture of the prostate,1,Prostata punktsioon,T,test
+TKF00,Needle biopsy of the testis,1,Testise nõelbiopsia,T,test
+TKF20,Needle biopsy of the epididymis,1,Epididüümise nõelbiopsia,T,test
+TKF30,Puncture of the epididymis,1,Epididüümise punktsioon,T,test
+TKF60,Puncture of the scrotum,1,Skrootumi punktsioon,T,test
+TKW10,Hemodialysis,1,Hemodialüüs,T,test
+TKW12,Patient-managed hemodialysis,1,Patsiendijuhitud hemodialüüs,T,test
+TKW20,Hemofiltration,1,Hemofiltratsioon,T,test
+TKW22,Home peritoneal dialysis,1,Kodune peritoneaaldialüüs,T,test
+TKW24,Chronic peritoneal dialysis,1,Krooniline peritoneaaldialüüs,T,test
+TKW30,Peritoneal dialysis,1,Peritoneaaldialüüs,T,test
+TKW44,Chronic hemodialysis,1,Krooniline hemodialüüs,T,test
+TKW99,Other minor surgical procedure in urology,1,Muu väike kirurgiline protseduur uroloogias,T,test
+TLA00,Ovarian needle biopsy,1,Munasarja nõelbiopsia,T,development
+TLB00,Fallopian tube needle biopsy,1,Munajuha nõelbiopsia,T,test
+TLC00,Insertion of an intrauterine contraceptive device,1,Emakasisese rasestumisvastase vahendi sissepanek,T,development
+TLC02,Simple removal of an intrauterine contraceptive device,1,Emakasisese rasestumisvastase vahendi lihtne eemaldamine,T,development
+TLE00,Vaginal dilation,1,Tupe dilatatsioon,T,test
+TLE05,Removal of a foreign body from the vagina (adult),1,Täiskasvanu tupest võõrkeha eemaldamine,T,test
+TLE10,Removal of a foreign body from the vagina (child),1,Võõrkeha eemaldamine tupest lapseeas,T,test
+TLE20,Transvaginal puncture of the cul-de-sac,1,Cul-de-sac’i transvaginaalne punktsioon,T,test
+TLE30,Vaginal tamponade,1,Tupe tamponaad,T,test
+TLE40,Insertion of a vaginal pessary or ring,1,Tupepessaari või -rõnga paigaldamine,T,test
+TLE80,Replacement of a vaginal pessary,1,Tupepessaari vahetus,T,test
+TLF00,Defibulation of the labia,1,Häbememokkade defibulatsioon,T,test
+TLW00,Insemination,1,Inseminatsioon,T,development
+TLW11,Myometrial embryo transfer,1,Embrüo siirdamine müomeetriumi kaudu,T,development
+TLW12,Frozen embryo transfer,1,Külmutatud embrüo siirdamine,T,development
+TLW14,Intracytoplasmic sperm injection (ICSI),1,Tsütoplasmasisene sperma injektsioon (ICSI),T,development
+TLW20,Medicated induction of ovulation,1,Ovulatsiooni medikamentoosne esilekutsumine,T,development
+TLW99,Other minor surgical procedure in gynecology,1,Muu väike kirurgiline protseduur günekoloogias,T,development
+TMA00,Episiotomy,1,Episiotoomia,T,test
+TMA20,Assistance with normal childbirth,1,Normaalse sünnituse abistamine,T,test
+TMA40,Fetal monitoring,1,Loote monitooring,T,test
+TMA80,Breastfeeding support,1,Rinnaga toitmise toetamine,T,test
+TMW99,Other minor surgical procedure in obstetrics,1,Muu väike kirurgiline protseduur sünnitusabis,T,test
+TNA00,Soft tissue puncture or needle biopsy; spine and neck,1,Pehme koe punktsioon või nõelbiopsia; lülisammas ja kael,T,test
+TNA10,Arthrocentesis; spine and neck,1,Artrotsentees; lülisammas ja kael,T,test
+TNA11,Injection of a diagnostic or therapeutic substance into a joint; spine and neck,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; lülisammas ja kael,T,test
+TNA20,Bone marrow aspiration; spine and neck,1,Luuüdi aspiratsioon; lülisammas ja kael,T,test
+TNA25,Bone marrow trephine biopsy; spine and neck,1,Luuüdi puurbiopsia; lülisammas ja kael,T,test
+TNA30,Soft dressing/bandage; spine and neck,1,Pehme side; lülisammas ja kael,T,test
+TNA32,Custom-made splint; spine and neck,1,Eritellimusel valmistatud lahas; lülisammas ja kael,T,test
+TNA33,Custom-made cast; spine and neck,1,Eritellimusel valmistatud kips; lülisammas ja kael,T,test
+TNB00,Soft tissue puncture or needle biopsy; shoulder and upper arm (including clavicle and scapula),1,Pehme koe punktsioon või nõelbiopsia; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB10,Arthrocentesis; shoulder and upper arm (including clavicle and scapula),1,Artrotsentees; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB11,Injection of a diagnostic or therapeutic substance into a joint; shoulder and upper arm (including clavicle and scapula),1,Diagnostilise või terapeutilise aine injektsioon liigesesse; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB20,Bone marrow aspiration; shoulder and upper arm (including clavicle and scapula),1,Luuüdi aspiratsioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB30,Soft dressing/bandage; shoulder and upper arm (including clavicle and scapula),1,Pehme side; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB32,Custom-made splint; shoulder and upper arm (including clavicle and scapula),1,Eritellimusel valmistatud lahas; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB33,Custom-made cast; Shoulder and upper arm (including clavicle and scapula),1,Eritellimusel valmistatud kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNB34,Custom-made large cast; shoulder and upper arm (including clavicle and scapula),1,Eritellimusel valmistatud suur kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),T,test
+TNC00,Soft tissue puncture or needle biopsy; elbow and forearm,1,Pehme koe punktsioon või nõelbiopsia; küünarnukk ja küünarvars,T,development
+TNC10,Arthrocentesis; elbow and forearm,1,Artrotsentees; küünarnukk ja küünarvars,T,development
+TNC11,Injection of a diagnostic or therapeutic substance into a joint; elbow and forearm,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; küünarnukk ja küünarvars,T,development
+TNC20,Bone marrow aspiration; elbow and forearm,1,Luuüdi aspiratsioon; küünarnukk ja küünarvars,T,development
+TNC30,Soft dressing/bandage; elbow and forearm,1,Pehme side; küünarnukk ja küünarvars,T,development
+TNC32,Custom-made splint; elbow and forearm,1,Eritellimusel valmistatud lahas; küünarnukk ja küünarvars,T,development
+TNC33,Custom-made cast; elbow and forearm,1,Eritellimusel valmistatud kips; küünarnukk ja küünarvars,T,development
+TNC34,Custom-made large cast; elbow and forearm,1,Eritellimusel valmistatud suur kips; küünarnukk ja küünarvars,T,development
+TND00,Soft tissue puncture or needle biopsy; wrist and hand,1,Pehme koe punktsioon või nõelbiopsia; ranne ja labakäsi,T,test
+TND10,Arthrocentesis; wrist and hand,1,Artrotsentees; ranne ja labakäsi,T,test
+TND11,Injection of a diagnostic or therapeutic substance into a joint; wrist and hand,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; ranne ja labakäsi,T,test
+TND20,Bone marrow aspiration; wrist and hand,1,Luuüdi aspiratsioon; ranne ja labakäsi,T,test
+TND30,Soft dressing/bandage; wrist and hand,1,Pehme side; ranne ja labakäsi,T,test
+TND32,Custom-made splint; wrist and hand,1,Eritellimusel valmistatud lahas; ranne ja labakäsi,T,test
+TND33,Custom-made cast; wrist and hand,1,Eritellimusel valmistatud kips; ranne ja labakäsi,T,test
+TND34,Custom-made large cast; wrist and hand,1,Eritellimusel valmistatud suur kips; ranne ja labakäsi,T,test
+TNE00,Soft tissue puncture or needle biopsy; pelvis (including sacrum and coccyx),1,Pehme koe punktsioon või nõelbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE10,Arthrocentesis; pelvis (including sacrum and coccyx),1,Artrotsentees; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE11,Injection of a diagnostic or therapeutic substance into a joint; Pelvis (including sacrum and coccyx),1,Diagnostilise või terapeutilise aine injektsioon liigesesse; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE20,Bone marrow aspiration; pelvis (including sacrum and coccyx),1,Luuüdi aspiratsioon; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE25,Bone marrow trephine biopsy; pelvis (including sacrum and coccyx),1,Luuüdi puurbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE30,Soft dressing; pelvis (including sacrum and coccyx),1,Pehme side; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE32,Custom-made splint; pelvis (including sacrum and coccyx),1,Eritellimusel valmistatud lahas; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE33,Custom-made cast; pelvis (including sacrum and coccyx),1,Eritellimusel valmistatud kips; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNE34,Custom-made large cast; pelvis (including sacrum and coccyx),1,Eritellimusel valmistatud suur kips; vaagen (kaasaarvatud ristluu ja sabaluu),T,development
+TNF00,Soft tissue puncture or needle biopsy; hip joint and thigh,1,Pehme koe punktsioon või nõelbiopsia; puusaliiges ja reis,T,test
+TNF10,Arthrocentesis; hip joint and thigh,1,Artrotsentees; puusaliiges ja reis,T,test
+TNF11,Injection of a diagnostic or therapeutic substance into a joint; hip joint and thigh,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; puusaliiges ja reis,T,test
+TNF20,Bone marrow aspiration; hip joint and thigh,1,Luuüdi aspiratsioon; puusaliiges ja reis,T,test
+TNF30,Soft dressing; hip joint and thigh,1,Pehme side; puusaliiges ja reis,T,test
+TNF32,Custom-made splint; hip joint and thigh,1,Eritellimusel valmistatud lahas; puusaliiges ja reis,T,test
+TNF33,Custom-made cast; hip joint and thigh,1,Eritellimusel valmistatud kips; puusaliiges ja reis,T,test
+TNF34,Custom-made large cast; hip joint and thigh,1,Eritellimusel valmistatud suur kips; puusaliiges ja reis,T,test
+TNG00,Soft tissue puncture or needle biopsy; knee joint and lower leg,1,Pehme koe punktsioon või nõelbiopsia; põlveliiges ja säär,T,test
+TNG10,Arthrocentesis; knee joint and lower leg,1,Artrotsentees; põlveliiges ja säär,T,test
+TNG11,Injection of a diagnostic or therapeutic substance into a joint; knee joint and lower leg,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; põlveliiges ja säär,T,test
+TNG20,Bone marrow aspiration; knee joint and lower leg,1,Luuüdi aspiratsioon; põlveliiges ja säär,T,test
+TNG30,Soft dressing; knee joint and lower leg,1,Pehme side; põlveliiges ja säär,T,test
+TNG31,Commercially manufactured orthosis; knee joint and lower leg,1,Tööstuslikult toodetud ortoos; põlveliiges ja säär,T,test
+TNG32,Custom-made splint; Knee joint and lower leg,1,Eritellimusel valmistatud lahas; põlveliiges ja säär,T,test
+TNG33,Custom-made cast; knee joint and lower leg,1,Eritellimusel valmistatud kips; põlveliiges ja säär,T,test
+TNG34,Custom-made large cast; knee joint and lower leg,1,Eritellimusel valmistatud suur kips; põlveliiges ja säär,T,test
+TNG40,External traction; knee joint and lower leg,1,Väline traktsioon; põlveliiges ja säär,T,test
+TNH00,Soft tissue puncture or needle biopsy; ankle and foot,1,Pehme koe punktsioon või nõelbiopsia; hüppeliiges ja labajalg,T,test
+TNH10,Arthrocentesis; ankle and foot,1,Artrotsentees; hüppeliiges ja labajalg,T,test
+TNH11,Injection of a diagnostic or therapeutic substance into a joint; ankle and foot,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; hüppeliiges ja labajalg,T,test
+TNH20,Bone marrow aspiration; ankle and foot,1,Luuüdi aspiratsioon; hüppeliiges ja labajalg,T,test
+TNH30,Soft dressing; ankle and foot,1,Pehme side; hüppeliiges ja labajalg,T,test
+TNH32,Custom-made splint; ankle and foot,1,Eritellimusel valmistatud lahas; hüppeliiges ja labajalg,T,test
+TNH33,Custom-made cast; ankle and foot,1,Eritellimusel valmistatud kips; hüppeliiges ja labajalg,T,test
+TNH34,Custom-made large cast; ankle and foot,1,Eritellimusel valmistatud suur kips; hüppeliiges ja labajalg,T,test
+TNX00,Soft tissue puncture or needle biopsy; unspecified region,1,Pehme koe punktsioon või nõelbiopsia; määratlemata piirkond,T,test
+TNX05,Simple incision of soft tissue; unspecified region,1,Pehme koe lihtne intsisioon; määratlemata piirkond,T,test
+TNX10,Arthrocentesis; unspecified region,1,Artrotsentees; määratlemata piirkond,T,test
+TNX11,Injection of a diagnostic or therapeutic substance into a joint; unspecified region,1,Diagnostilise või terapeutilise aine injektsioon liigesesse; määratlemata piirkond,T,test
+TNX20,Bone marrow aspiration; unspecified region,1,Luuüdi aspiratsioon; määratlemata piirkond,T,test
+TNX25,Bone marrow trephine biopsy; unspecified region,1,Luuüdi puurbiopsia; määratlemata piirkond,T,test
+TNX30,Soft dressing; unspecified region,1,Pehme side; määratlemata piirkond,T,test
+TNX32,Custom-made splint; unspecified region,1,Eritellimusel valmistatud lahas; määratlemata piirkond,T,test
+TNX33,Custom-made cast; unspecified region,1,Eritellimusel valmistatud kips; määratlemata piirkond,T,test
+TNX34,Custom-made large cast; unspecified region,1,Eritellimusel valmistatud suur kips; määratlemata piirkond,T,test
+TNX39,Other orthopedic dressing; unspecified region,1,Muu ortopeediline side; määratlemata piirkond,T,test
+TNX40,External traction; Unspecified region,1,Väline traktsioon; määratlemata piirkond,T,test
+TNX50,Implantation of a skeletal marker; unspecified region,1,Skeletimarkeri implantatsioon; määratlemata piirkond,T,test
+TPH00,Phlebotomy,1,Flebotoomia,T,test
+TPH05,Open cannulation of a peripheral vein,1,Perifeerse veeni lahtine kanüleerimine,T,test
+TPH07,Insertion of an intra-arterial cannula,1,Intra-arteriaalse kanüüli paigaldamine,T,test
+TPH10,Sclerotherapy for varicose veins,1,Veenilaiendite skleroteraapia,T,test
+TPH15,Insertion of a central venous catheter via the external or internal jugular vein,1,Tsentraalse veenikateetri paigaldamine välise või sisemise jugulaarveeni kaudu,T,test
+TPH20,Insertion of a central venous catheter via the subclavian or brachiocephalic vein,1,Tsentraalse veenikateetri paigaldamine v. subclavia või v. brachiocephalica kaudu,T,test
+TPH90,Removal of an indwelling intravenous catheter,1,Fikseeritud intravenoosse kateetri eemaldamine,T,test
+TPJ00,Biopsy of a superficial lymph node,1,Pindmise lümfisõlme biopsia,T,test
+TPJ05,Needle biopsy of a lymph node,1,Lümfisõlme nõelbiopsia,T,test
+TPW99,Other minor surgical procedure on a peripheral blood vessel or the lymphatic system,1,Muu väike kirurgiline protseduur perifeersel veresoonel või lümfisüsteemil,T,test
+TPX00,Biopsy of an artery or vein,1,Arteri või veeni biopsia,T,test
+TPX10,Insertion of a vascular injection port,1,Vaskulaarse injektsioonipordi paigaldamine,T,test
+TPX15,Removal of a vascular injection port,1,Vaskulaarse injektsioonipordi eemaldamine,T,test
+TPX22,Intravenous thrombolysis for arterial thrombosis,1,Intravenoosne trombolüüs arteriaalse tromboosi korral,T,test
+TQW11,Vacuum-assisted wound therapy,1,Haava vaakumravi,T,test
+TQW38,Subcutaneous sclerotherapy,1,Subkutanne skleroteraapia,T,test
+TQW99,Other minor procedure on the skin,1,Muu väike protseduur nahal,T,test
+TQX00,Skin biopsy,1,Naha biopsia,T,development
+TQX10,Needle biopsy of the skin,1,Naha nõelbiopsia,T,development
+TQX40,Removal of skin sutures,1,Naha õmbluste eemaldamine,T,development

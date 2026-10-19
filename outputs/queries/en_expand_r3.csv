@@ -1,0 +1,3057 @@
+source_code,text
+LAB00,Incision of ovary
+LAB00,Ovarian incision
+LAB00,Ovariotomy
+LAB00,Procedure on ovary
+LAB00,An incision is made into the ovary.
+LAB01,Laparoscopic incision of ovary
+LAB01,Laparoscopic ovarian incision
+LAB01,Laparoscopic ovariotomy
+LAB01,Incision of ovary
+LAB01,Procedure on ovary
+LAB01,The ovary is incised using a laparoscopic approach.
+LAB10,Ovarian biopsy
+LAB10,Biopsy of ovary
+LAB10,Biopsy of the ovary
+LAB10,Sampling of ovarian tissue
+LAB10,Ovary biopsy
+LAB10,Procedure on ovary
+LAB10,A tissue sample is taken from the ovary for examination.
+LAB11,Laparoscopic biopsy of ovary
+LAB11,Laparoscopic ovarian biopsy
+LAB11,Laparoscopic biopsy of ovarian tissue
+LAB11,Biopsy of ovary
+LAB11,Procedure on ovary
+LAB11,A tissue sample is taken from the ovary using a laparoscopic approach.
+LAB21,Laparoscopic needle biopsy of ovary
+LAB21,Laparoscopic ovarian needle biopsy
+LAB21,Needle biopsy of ovary performed laparoscopically
+LAB21,Needle biopsy of ovary
+LAB21,Procedure on ovary
+LAB21,A needle is used during laparoscopy to obtain a tissue sample from the ovary.
+LAB96,Incision and biopsy of ovary
+LAB96,Ovarian biopsy
+LAB96,Incisional biopsy of ovary
+LAB96,Procedure on ovary
+LAB96,An incision is made in the ovary and tissue may be removed for examination.
+LAB97,Laparoscopic biopsy of ovary
+LAB97,Laparoscopic ovarian biopsy
+LAB97,Laparoscopic incision of ovary
+LAB97,Biopsy or incision of ovary
+LAB97,Procedure on ovary
+LAB97,The ovary is approached laparoscopically and incised or sampled for biopsy.
+LAC00,Excision of ovarian cyst
+LAC00,Ovarian cystectomy
+LAC00,Excision of cyst of ovary
+LAC00,Excision of ovarian lesion
+LAC00,Procedure on ovary
+LAC00,Surgical removal of an ovarian cyst.
+LAC01,Laparoscopic excision of ovarian cyst
+LAC01,Laparoscopic ovarian cystectomy
+LAC01,Excision of ovarian cyst by laparoscopy
+LAC01,Laparoscopic excision of cyst of ovary
+LAC01,Excision of ovarian cyst
+LAC01,Procedure on ovary
+LAC01,A cyst is surgically removed from the ovary using a laparoscopic approach.
+LAC10,Marsupialization of ovarian cyst
+LAC10,Fenestration of ovarian cyst
+LAC10,Ovarian cyst fenestration or marsupialization
+LAC10,Procedure on ovary
+LAC10,A procedure is performed to create an opening in an ovarian cyst or to marsupialize it.
+LAC11,Laparoscopic fenestration of ovarian cyst
+LAC11,Laparoscopic marsupialisation of ovarian cyst
+LAC11,Fenestration or marsupialisation of ovarian cyst
+LAC11,Procedure on ovary
+LAC11,A laparoscope is used to open an ovarian cyst and create a drainage opening.
+LAC20,Destruction of lesion of ovary
+LAC20,Destruction of ovarian lesion
+LAC20,Ablation of ovarian lesion
+LAC20,Destruction of lesion of ovary (ovarian lesion destruction)
+LAC20,Procedure on ovary
+LAC20,The lesion on the ovary is destroyed.
+LAC21,Laparoscopic destruction of lesion of ovary
+LAC21,Laparoscopic destruction of ovarian lesion
+LAC21,Destruction of lesion of ovary
+LAC21,Procedure on ovary
+LAC21,Operation on ovary
+LAC21,A lesion of the ovary is destroyed using a laparoscopic approach.
+LAC30,Excision of paraovarian cyst
+LAC30,Removal of paraovarian cyst
+LAC30,Excision of paratubal cyst
+LAC30,Resection of paraovarian cyst
+LAC30,Excision of cyst adjacent to the ovary
+LAC30,Operation on ovary
+LAC30,The paraovarian cyst is surgically removed.
+LAC31,Laparoscopic excision of paraovarian cyst
+LAC31,Laparoscopic removal of paraovarian cyst
+LAC31,Laparoscopic excision of paratubal cyst
+LAC31,Excision of paraovarian cyst
+LAC31,Excision of ovarian lesion
+LAC31,Procedure on ovary
+LAC31,The paraovarian cyst is surgically excised using a laparoscopic approach.
+LAC96,Excision or destruction of lesion of ovary
+LAC96,Excision of ovarian lesion
+LAC96,Destruction of lesion of ovary
+LAC96,Procedure on ovary
+LAC96,Operation on ovary
+LAC96,A lesion of the ovary is removed or destroyed.
+LAC97,Laparoscopic excision or destruction of lesion of ovary
+LAC97,Laparoscopic removal or destruction of ovarian lesion
+LAC97,Laparoscopic treatment of ovarian lesion
+LAC97,Excision or destruction of lesion of ovary
+LAC97,Procedure on ovary
+LAC97,A lesion of the ovary is excised or destroyed using a laparoscopic approach.
+LAE10,Unilateral oophorectomy
+LAE10,Unilateral excision of ovary
+LAE10,Unilateral ovariectomy
+LAE10,Oophorectomy
+LAE10,Operation on ovary
+LAE10,Surgical removal of one ovary
+LAE11,Laparoscopic unilateral oophorectomy
+LAE11,Unilateral laparoscopic removal of ovary
+LAE11,Laparoscopic unilateral excision of ovary
+LAE11,Oophorectomy
+LAE11,Operation on ovary
+LAE11,Surgically removes one ovary using a laparoscopic approach.
+LAE20,Bilateral oophorectomy (procedure)
+LAE20,Bilateral ovariectomy
+LAE20,Excision of both ovaries
+LAE20,Oophorectomy
+LAE20,Procedure on ovary
+LAE20,Both ovaries are surgically removed.
+LAE21,Laparoscopic bilateral oophorectomy
+LAE21,Bilateral laparoscopic removal of ovaries
+LAE21,Bilateral laparoscopic excision of ovaries
+LAE21,Bilateral oophorectomy
+LAE21,Operation on ovary
+LAE21,Both ovaries are surgically removed using a laparoscopic approach.
+LAF00,Unilateral salpingo-oophorectomy (procedure)
+LAF00,Unilateral excision of ovary and fallopian tube
+LAF00,Unilateral adnexectomy
+LAF00,Excision of ovary and fallopian tube
+LAF00,Operation on ovary
+LAF00,Surgically removes one ovary together with its associated Fallopian tube.
+LAF01,Laparoscopic unilateral salpingo-oophorectomy
+LAF01,Laparoscopic removal of one ovary and fallopian tube
+LAF01,Laparoscopic excision of unilateral uterine adnexa
+LAF01,Unilateral salpingo-oophorectomy
+LAF01,Operation on ovary and fallopian tube
+LAF01,The ovary and fallopian tube on one side are surgically removed using a laparoscope.
+LAF10,Bilateral salpingo-oophorectomy (procedure)
+LAF10,Bilateral removal of the ovaries and fallopian tubes
+LAF10,Bilateral adnexectomy
+LAF10,Excision of ovary and fallopian tube
+LAF10,Procedure on ovary and fallopian tube
+LAF10,Both ovaries and both fallopian tubes are surgically removed.
+LAF11,Bilateral laparoscopic salpingo-oophorectomy
+LAF11,Laparoscopic bilateral excision of ovary and Fallopian tube
+LAF11,Bilateral laparoscopic removal of the ovaries and Fallopian tubes
+LAF11,Laparoscopic bilateral removal of adnexa
+LAF11,Bilateral salpingo-oophorectomy
+LAF11,Procedure on ovary and Fallopian tube
+LAF11,Both ovaries and Fallopian tubes are removed using a laparoscopic approach.
+LAF17,"Laparoscopic excision of uterus, adnexa and lymph nodes for ovarian cancer"
+LAF17,"Laparoscopic removal of uterus, adnexa and lymph nodes for ovarian cancer"
+LAF17,Laparoscopic hysterectomy with excision of adnexa and lymph nodes for ovarian cancer
+LAF17,"Excision of uterus, adnexa and lymph nodes for ovarian cancer"
+LAF17,Operation on female genital organs
+LAF17,"The uterus, adnexa and lymph nodes are removed laparoscopically as treatment for ovarian cancer."
+LAF20,Transvaginal unilateral salpingo-oophorectomy
+LAF20,Unilateral salpingo-oophorectomy via transvaginal approach
+LAF20,Transvaginal excision of one ovary and Fallopian tube
+LAF20,Salpingo-oophorectomy
+LAF20,Procedure on ovary and Fallopian tube
+LAF20,One ovary and its Fallopian tube are removed through the vagina.
+LAF30,Bilateral salpingo-oophorectomy by vaginal approach
+LAF30,Bilateral transvaginal removal of ovaries and Fallopian tubes
+LAF30,Bilateral vaginal salpingo-oophorectomy
+LAF30,Bilateral salpingo-oophorectomy
+LAF30,Operation on ovary and Fallopian tube
+LAF30,Both ovaries and Fallopian tubes are removed through the vagina.
+LAG00,Lysis of adhesions of ovary
+LAG00,Ovariolysis
+LAG00,Release of adhesions of ovary
+LAG00,Adhesiolysis
+LAG00,Operation on ovary
+LAG00,Adhesions involving the ovary are divided or released.
+LAG01,Laparoscopic adhesiolysis of ovary
+LAG01,Laparoscopic release of ovarian adhesions
+LAG01,Laparoscopic freeing of adhesions involving ovary
+LAG01,Adhesiolysis of ovary
+LAG01,Procedure on ovary
+LAG01,Adhesions involving the ovary are divided laparoscopically to free the ovary.
+LAG10,Oophoropexy
+LAG10,Ovariopexy
+LAG10,Fixation of ovary
+LAG10,Surgical fixation of ovary
+LAG10,Ovarian reconstructive procedure
+LAG10,Procedure on ovary
+LAG10,The ovary is surgically fixed in position.
+LAG11,Laparoscopic oophoropexy
+LAG11,Laparoscopic fixation of ovary
+LAG11,Laparoscopic ovarian fixation
+LAG11,Oophoropexy
+LAG11,Operation on ovary
+LAG11,A laparoscopic procedure that fixes the ovary in place.
+LAG20,Detorsion of ovary
+LAG20,Ovarian detorsion
+LAG20,Untwisting of ovary
+LAG20,Operation on ovary
+LAG20,The ovary is untwisted to correct ovarian torsion.
+LAG21,Laparoscopic detorsion of ovary
+LAG21,Laparoscopic ovarian detorsion
+LAG21,Laparoscopic untwisting of ovary
+LAG21,Detorsion of ovary
+LAG21,Operation on ovary
+LAG21,The ovary is surgically untwisted using a laparoscopic approach.
+LAG96,Reconstruction of ovary
+LAG96,Ovarian reconstruction
+LAG96,Reconstructive surgery of ovary
+LAG96,Repair of ovary
+LAG96,Operation on ovary
+LAG96,Surgery is performed to reconstruct the ovary.
+LAG97,Laparoscopic reconstruction of ovary
+LAG97,Laparoscopic ovarian reconstruction
+LAG97,Laparoscopic reconstructive procedure on ovary
+LAG97,Reconstructive operation on ovary
+LAG97,Operation on ovary
+LAG97,The ovary is surgically reconstructed using a laparoscopic approach.
+LAW96,Operation on ovary
+LAW96,Ovarian operation
+LAW96,Surgery of ovary
+LAW96,Surgical procedure on ovary
+LAW96,Procedure on ovary
+LAW96,A surgical operation is performed on the ovary.
+LAW97,Laparoscopic procedure on ovary
+LAW97,Laparoscopic ovarian surgery
+LAW97,Laparoscopic operation on the ovary
+LAW97,Operation on ovary
+LAW97,Procedure on female reproductive system
+LAW97,A surgical procedure is performed on the ovary using a laparoscopic approach.
+LB1YT,Catheterization of fallopian tube
+LB1YT,Fallopian tube catheterization
+LB1YT,Catheterisation of uterine tube
+LB1YT,Instrumentation of fallopian tube
+LB1YT,Procedure on fallopian tube
+LB1YT,A catheter is passed into a fallopian tube.
+LBA00,Percutaneous puncture of fallopian tube
+LBA00,Needle puncture of fallopian tube
+LBA00,Transcutaneous puncture of fallopian tube
+LBA00,Puncture of fallopian tube
+LBA00,Procedure on fallopian tube
+LBA00,A needle is passed through the skin to puncture a fallopian tube.
+LBA01,Laparoscopic puncture of fallopian tube
+LBA01,Laparoscopic puncture of uterine tube
+LBA01,Laparoscopic tubal puncture
+LBA01,Puncture of fallopian tube
+LBA01,Procedure on fallopian tube
+LBA01,The fallopian tube is punctured using a laparoscopic approach.
+LBA03,Transvaginal puncture of fallopian tube
+LBA03,Puncture of fallopian tube by transvaginal approach
+LBA03,Transvaginal puncture of uterine tube
+LBA03,Puncture of fallopian tube
+LBA03,Procedure on fallopian tube
+LBA03,The fallopian tube is punctured through the vagina.
+LBA07,Endoscopy of fallopian tube
+LBA07,Salpingoscopy
+LBA07,Endoscopic examination of uterine tube
+LBA07,Examination of fallopian tube
+LBA07,Procedure on fallopian tube
+LBA07,A scope is used to examine the inside of a fallopian tube.
+LBA97,Laparoscopic puncture of fallopian tube
+LBA97,Laparoscopic tubal puncture
+LBA97,Fallopian tube puncture using laparoscopy
+LBA97,Fallopian tube puncture
+LBA97,Procedure on fallopian tube
+LBA97,A laparoscope is used to puncture a fallopian tube.
+LBA98,Transluminal endoscopic procedure of fallopian tube
+LBA98,Endoscopic procedure of fallopian tube
+LBA98,Transluminal endoscopy of fallopian tube
+LBA98,Procedure on fallopian tube
+LBA98,Procedure on female reproductive system
+LBA98,An endoscope is passed through a natural lumen to perform a procedure on the fallopian tube.
+LBB00,Biopsy of fallopian tube
+LBB00,Fallopian tube biopsy
+LBB00,Biopsy of uterine tube
+LBB00,Biopsy of the fallopian tube
+LBB00,Procedure on fallopian tube
+LBB00,A tissue sample is taken from the fallopian tube for examination.
+LBB01,Laparoscopic biopsy of fallopian tube
+LBB01,Fallopian tube biopsy by laparoscopy
+LBB01,Laparoscopic biopsy of uterine tube
+LBB01,Biopsy of fallopian tube
+LBB01,Procedure on fallopian tube
+LBB01,A tissue sample is taken from the fallopian tube using a laparoscopic approach.
+LBB04,Salpingoscopic biopsy of fallopian tube
+LBB04,Biopsy of fallopian tube by salpingoscopy
+LBB04,Endoscopic biopsy of fallopian tube
+LBB04,Biopsy of fallopian tube
+LBB04,Procedure on fallopian tube
+LBB04,A biopsy specimen is taken from the fallopian tube under salpingoscopic visualization.
+LBB11,Laparoscopic needle biopsy of fallopian tube
+LBB11,Needle biopsy of fallopian tube by laparoscopy
+LBB11,Laparoscopic biopsy of uterine tube using needle
+LBB11,Needle biopsy of fallopian tube
+LBB11,Procedure on fallopian tube
+LBB11,A needle is used to obtain a tissue sample from the fallopian tube during laparoscopy.
+LBB96,Biopsy of fallopian tube
+LBB96,Fallopian tube biopsy
+LBB96,Biopsy of uterine tube
+LBB96,Salpingial biopsy
+LBB96,Procedure on fallopian tube
+LBB96,A tissue sample is taken from the fallopian tube for examination.
+LBC00,Percutaneous injection into tubal pregnancy
+LBC00,Needle injection into tubal pregnancy
+LBC00,Percutaneous injection into ectopic pregnancy of fallopian tube
+LBC00,Injection into tubal pregnancy
+LBC00,Procedure on fallopian tube
+LBC00,A substance is injected directly into a pregnancy located in the fallopian tube.
+LBC03,Transvaginal injection into tubal ectopic pregnancy
+LBC03,Injection into tubal pregnancy via the vagina
+LBC03,Transvaginal injection into ectopic gestation
+LBC03,Injection into tubal pregnancy
+LBC03,Procedure on fallopian tube
+LBC03,A substance is injected into a tubal pregnancy through the vagina.
+LBC07,Laparoscopic injection into tubal pregnancy
+LBC07,Laparoscopic injection into tubal ectopic pregnancy
+LBC07,Laparoscopic local injection of tubal pregnancy
+LBC07,Injection into tubal pregnancy
+LBC07,Procedure on fallopian tube
+LBC07,A substance is injected directly into a tubal pregnancy using a laparoscopic approach.
+LBC08,Falloposcopic injection into tubal ectopic pregnancy
+LBC08,Falloposcopic injection of tubal pregnancy
+LBC08,Injection into fallopian tube ectopic pregnancy using falloposcope
+LBC08,Injection into tubal pregnancy
+LBC08,Operation on fallopian tube
+LBC08,Injection is performed into a tubal pregnancy using a falloposcope.
+LBC10,Removal of products of conception from fallopian tube
+LBC10,Removal of tubal pregnancy
+LBC10,Removal of ectopic pregnancy from fallopian tube
+LBC10,Removal of ectopic pregnancy
+LBC10,Operation on fallopian tube
+LBC10,Products of conception are removed from the fallopian tube while preserving the tube.
+LBC11,Laparoscopic removal of products of conception from Fallopian tube
+LBC11,Laparoscopic removal of tubal pregnancy
+LBC11,Laparoscopic evacuation of ectopic pregnancy
+LBC11,Removal of products of conception from Fallopian tube
+LBC11,Operation on Fallopian tube
+LBC11,Products of conception are removed from the Fallopian tube using a laparoscopic approach.
+LBC20,Salpingotomy with removal of products of conception
+LBC20,Removal of ectopic pregnancy by salpingotomy
+LBC20,Salpingotomy for tubal pregnancy with removal of gestational tissue
+LBC20,Salpingotomy
+LBC20,Operation on fallopian tube
+LBC20,Procedure on fallopian tube
+LBC20,An incision is made in the fallopian tube and the products of conception are removed while conserving the tube.
+LBC21,Laparoscopic salpingotomy with removal of products of conception
+LBC21,Laparoscopic removal of ectopic pregnancy from fallopian tube
+LBC21,Laparoscopic salpingostomy for tubal pregnancy
+LBC21,Salpingotomy with removal of products of conception
+LBC21,Procedure on fallopian tube
+LBC21,The fallopian tube is opened laparoscopically and the products of conception are removed.
+LBC96,Conservative operation on fallopian tube for ectopic pregnancy
+LBC96,Fallopian tube-conserving surgery for tubal pregnancy
+LBC96,Conservative surgery for tubal ectopic pregnancy
+LBC96,Operation on fallopian tube for ectopic pregnancy
+LBC96,Procedure on fallopian tube
+LBC96,The fallopian tube is treated to manage the ectopic pregnancy while preserving the tube.
+LBC97,Laparoscopic conservative surgery for tubal ectopic pregnancy
+LBC97,Laparoscopic tube-conserving operation for ectopic pregnancy
+LBC97,Laparoscopic conservative treatment of tubal pregnancy
+LBC97,Tube-conserving surgery for tubal pregnancy
+LBC97,Operation on fallopian tube
+LBC97,A laparoscopic operation is performed to treat a tubal pregnancy while preserving the fallopian tube.
+LBC98,Endoscopic tube-conserving surgery for tubal ectopic pregnancy
+LBC98,Endoscopic conservative surgery for ectopic pregnancy of the fallopian tube
+LBC98,Tube-preserving endoscopic operation for tubal pregnancy
+LBC98,Tube-conserving operation for tubal pregnancy
+LBC98,Procedure on the fallopian tube
+LBC98,An endoscopic operation is performed to treat a tubal pregnancy while preserving the fallopian tube.
+LBD00,Partial salpingectomy
+LBD00,Partial excision of fallopian tube
+LBD00,Partial resection of fallopian tube
+LBD00,Excision of fallopian tube
+LBD00,Procedure on fallopian tube
+LBD00,Part of the fallopian tube is surgically removed.
+LBD01,Laparoscopic partial salpingectomy
+LBD01,Laparoscopic partial excision of fallopian tube
+LBD01,Laparoscopic partial removal of fallopian tube
+LBD01,Partial excision of fallopian tube
+LBD01,Procedure on fallopian tube
+LBD01,The surgeon removes part of a fallopian tube using a laparoscopic approach.
+LBE00,Salpingectomy
+LBE00,Total salpingectomy
+LBE00,Excision of fallopian tube
+LBE00,Procedure on fallopian tube
+LBE00,The fallopian tube is completely removed.
+LBE01,Laparoscopic salpingectomy
+LBE01,Laparoscopic excision of fallopian tube
+LBE01,Laparoscopic removal of fallopian tube
+LBE01,Salpingectomy
+LBE01,Procedure on fallopian tube
+LBE01,The fallopian tube is completely removed using a laparoscopic approach.
+LBW20,Catheterization of fallopian tube
+LBW20,Fallopian tube catheterization
+LBW20,Catheterisation of uterine tube
+LBW20,Procedure on fallopian tube
+LBW20,A catheter is inserted into the fallopian tube.
+LBW80,Fallopian tube persufflation
+LBW80,Insufflation of fallopian tube
+LBW80,Tubal insufflation
+LBW80,Procedure on fallopian tube
+LBW80,Operation on fallopian tube
+LBW80,Gas is passed through the fallopian tube.
+LBW96,Operation on fallopian tube
+LBW96,Fallopian tube surgery
+LBW96,Surgery of fallopian tube
+LBW96,Tubal surgery
+LBW96,Fallopian tube operation
+LBW96,Procedure on fallopian tube
+LBW96,A surgical operation is performed on a fallopian tube; the specific technique and purpose are not stated.
+LBW97,Laparoscopic procedure on fallopian tube
+LBW97,Laparoscopic operation on uterine tube
+LBW97,Laparoscopic surgery of fallopian tube
+LBW97,Operation on fallopian tube
+LBW97,Procedure on fallopian tube
+LBW97,A procedure is performed on the fallopian tube using a laparoscopic approach.
+LBW98,Transluminal endoscopic procedure on fallopian tube
+LBW98,Transluminal endoscopic operation of uterine tube
+LBW98,Endoluminal endoscopic procedure on fallopian tube
+LBW98,Operation on fallopian tube
+LBW98,Procedure on female reproductive system
+LBW98,An endoscope is used to perform an unspecified operation on the fallopian tube through a lumen.
+LCA00,Biopsy of uterus or uterine ligament
+LCA00,Uterine or uterine ligament biopsy
+LCA00,Biopsy of uterine tissue or ligament
+LCA00,Procedure on uterus or uterine ligament
+LCA00,Tissue is sampled from the uterus or a uterine ligament for examination.
+LCA01,Biopsy of uterus or uterine ligament using laparoscope
+LCA01,Laparoscopic biopsy of uterus or uterine ligament
+LCA01,Laparoscopic uterine or uterine ligament biopsy
+LCA01,Biopsy of uterus or uterine ligament
+LCA01,Procedure on uterus or uterine ligament
+LCA01,A tissue sample is taken from the uterus or a uterine ligament using a laparoscope.
+LCA06,Endometrial biopsy
+LCA06,Biopsy of endometrium
+LCA06,Endometrial tissue sampling
+LCA06,Biopsy of uterus
+LCA06,Procedure on uterus
+LCA06,A tissue sample is taken from the lining of the uterus for examination.
+LCA10,Curettage of uterus
+LCA10,Uterine curettage
+LCA10,Curettage of uterine cavity
+LCA10,Procedure on uterus
+LCA10,Scraping tissue from the body of the uterus using a curette.
+LCA13,Curettage of cervix and body of uterus
+LCA13,Cervical and uterine curettage
+LCA13,Endocervical and endometrial curettage
+LCA13,Curettage of uterus
+LCA13,Procedure on uterus
+LCA13,Tissue is removed by scraping the cervix and body of the uterus.
+LCA16,Endometrial ablation
+LCA16,Destruction of endometrium
+LCA16,Ablation of endometrium
+LCA16,"Destruction of endometrium, unspecified method"
+LCA16,Procedure on endometrium
+LCA16,Procedure on uterus
+LCA16,The endometrial lining is destroyed.
+LCA20,Removal of foreign body from uterus
+LCA20,Foreign body removal from uterus
+LCA20,Removal of intrauterine foreign body
+LCA20,Procedure on uterus
+LCA20,A foreign body is removed from the uterus.
+LCA22,Removal of foreign body from uterus using hysteroscope
+LCA22,Hysteroscopic removal of intrauterine foreign body
+LCA22,Removal of intrauterine foreign body by hysteroscopy
+LCA22,Removal of foreign body from uterus
+LCA22,Procedure on uterus
+LCA22,A foreign body is removed from the uterus using a hysteroscope.
+LCA30,Transfer of oocyte or embryo to uterus for assisted reproduction
+LCA30,Intrauterine transfer of oocyte or embryo
+LCA30,Uterine transfer of oocyte or embryo during assisted fertilisation
+LCA30,Transfer to uterus
+LCA30,Procedure on uterus
+LCA30,An oocyte or embryo is transferred into the uterus as part of assisted fertilisation.
+LCA96,Intrauterine surgical procedure
+LCA96,Intrauterine operation
+LCA96,Procedure within the uterine cavity
+LCA96,Procedure on uterus
+LCA96,Operation on uterus
+LCA96,A procedure is performed within the uterus; the specific intervention is not specified.
+LCA98,Hysteroscopic procedure on uterus
+LCA98,Hysteroscopic operation on uterus
+LCA98,Intrauterine endoscopic procedure
+LCA98,Operation on uterus
+LCA98,Procedure on uterus
+LCA98,An endoscope is passed through the cervix to perform an operation within the uterus.
+LCB00,Incision of uterus
+LCB00,Hysterotomy
+LCB00,Uterine incision
+LCB00,Procedure on uterus
+LCB00,An incision is made into the uterus.
+LCB01,Laparoscopic incision of uterus
+LCB01,Laparoscopic hysterotomy
+LCB01,Laparoscopic uterotomy
+LCB01,Laparoscopic uterine incision
+LCB01,Incision of uterus
+LCB01,Procedure on uterus
+LCB01,The uterus is incised using a laparoscopic approach.
+LCB10,Myomectomy
+LCB10,Excision of uterine fibroid
+LCB10,Excision of uterine leiomyoma
+LCB10,Excision of lesion of uterus
+LCB10,Procedure on uterus
+LCB10,Surgical removal of a fibroid from the uterus.
+LCB11,Laparoscopic myomectomy
+LCB11,Laparoscopic excision of uterine leiomyoma
+LCB11,Laparoscopic removal of uterine fibroid
+LCB11,Excision of uterine leiomyoma
+LCB11,Procedure on uterus
+LCB11,Surgical removal of one or more fibroids from the uterus using a laparoscope.
+LCB14,Laparoscopic destruction of uterine lesion
+LCB14,Laparoscopic myolysis of uterus
+LCB14,Laparoscopic destruction of uterine fibroid
+LCB14,Destruction of lesion of uterus
+LCB14,Procedure on uterus
+LCB14,Uterine tissue is destroyed laparoscopically.
+LCB20,Transvaginal excision of uterine leiomyoma
+LCB20,Vaginal myomectomy
+LCB20,Transvaginal excision of uterine fibroid
+LCB20,Myomectomy
+LCB20,Procedure on uterus
+LCB20,A uterine fibroid is surgically excised through the vagina.
+LCB25,Hysteroscopic excision of uterine lesion
+LCB25,Excision of uterine lesion using hysteroscope
+LCB25,Hysteroscopic removal of lesion of uterus
+LCB25,Resection of uterine lesion by hysteroscopy
+LCB25,Excision of lesion of uterus
+LCB25,Procedure on uterus
+LCB25,A lesion of the uterus is excised under hysteroscopic visualization.
+LCB28,Hysteroscopic excision of endometrium
+LCB28,Hysteroscopic resection of endometrium
+LCB28,Endometrial excision by hysteroscopy
+LCB28,Hysteroscopic endometrial resection
+LCB28,Excision of endometrium
+LCB28,Procedure on uterus
+LCB28,The endometrium is excised using a hysteroscope.
+LCB32,Hysteroscopic endometrial ablation
+LCB32,Hysteroscopic destruction of endometrium
+LCB32,Endometrial ablation by hysteroscopy
+LCB32,Endometrial ablation
+LCB32,Procedure on uterus
+LCB32,The endometrium is destroyed using a hysteroscope.
+LCB90,Needle biopsy of uterus
+LCB90,Biopsy of uterus using needle
+LCB90,Uterine needle biopsy
+LCB90,Uterine biopsy
+LCB90,Procedure on uterus
+LCB90,A needle is used to obtain a tissue sample from the uterus for examination.
+LCB96,Excision of lesion of uterus
+LCB96,Excision of uterine lesion
+LCB96,Resection of uterine lesion
+LCB96,Procedure on uterus
+LCB96,A lesion of the uterus is surgically excised.
+LCB97,Laparoscopic excision of lesion of uterus
+LCB97,Laparoscopic excision of uterine lesion
+LCB97,Laparoscopic removal of lesion of uterus
+LCB97,Excision of lesion of uterus
+LCB97,Procedure on uterus
+LCB97,The uterine lesion is excised using a laparoscopic approach.
+LCB98,Hysteroscopic excision of lesion of uterus
+LCB98,Excision of uterine lesion using hysteroscope
+LCB98,Hysteroscopic removal of uterine lesion
+LCB98,Excision of lesion of uterus
+LCB98,Procedure on uterus
+LCB98,A lesion of the uterus is excised using an endoscope passed through the uterine cavity.
+LCC00,Partial excision of uterus
+LCC00,Partial hysterectomy
+LCC00,Subtotal hysterectomy
+LCC00,Partial resection of uterus
+LCC00,Excision of uterus
+LCC00,Procedure on uterus
+LCC00,Part of the uterus is surgically removed.
+LCC01,Laparoscopic partial excision of uterus
+LCC01,Laparoscopic partial hysterectomy
+LCC01,Laparoscopic subtotal hysterectomy
+LCC01,Partial excision of uterus
+LCC01,Procedure on uterus
+LCC01,Part of the uterus is surgically removed using a laparoscopic approach.
+LCC05,Hysteroscopic excision of uterine wall
+LCC05,Hysteroscopic resection of uterine wall
+LCC05,Resection of uterine wall by hysteroscopy
+LCC05,Partial excision of uterus
+LCC05,Procedure on uterus
+LCC05,The uterine wall is partially excised using a hysteroscope.
+LCC10,Subtotal hysterectomy
+LCC10,Supracervical hysterectomy
+LCC10,Supravaginal hysterectomy
+LCC10,Partial hysterectomy
+LCC10,Procedure on uterus
+LCC10,The body of the uterus is removed while the cervix is retained.
+LCC11,Laparoscopic subtotal hysterectomy
+LCC11,Laparoscopic supracervical hysterectomy
+LCC11,Laparoscopic partial hysterectomy
+LCC11,Subtotal hysterectomy
+LCC11,Procedure on uterus
+LCC11,The uterine body is surgically removed laparoscopically while the cervix is retained.
+LCC20,Vaginal subtotal hysterectomy
+LCC20,Vaginal supracervical hysterectomy
+LCC20,Vaginal amputation of uterus above cervix
+LCC20,Subtotal hysterectomy
+LCC20,Procedure on uterus
+LCC20,"The body of the uterus is removed through the vagina, leaving the cervix in place."
+LCC96,Partial excision of uterus (procedure)
+LCC96,Partial hysterectomy
+LCC96,Partial uterectomy
+LCC96,Excision of part of uterus
+LCC96,Procedure on uterus
+LCC96,Surgical removal of part of the uterus.
+LCC97,Laparoscopic partial hysterectomy
+LCC97,Laparoscopic subtotal hysterectomy
+LCC97,Laparoscopic excision of part of uterus
+LCC97,Partial hysterectomy
+LCC97,Operation on uterus
+LCC97,Part of the uterus is surgically removed using a laparoscopic approach.
+LCD00,Total hysterectomy
+LCD00,Complete excision of uterus
+LCD00,Uterectomy
+LCD00,Excision of uterus
+LCD00,Operation on uterus
+LCD00,The uterus is completely removed.
+LCD01,Total laparoscopic hysterectomy
+LCD01,Laparoscopic total hysterectomy
+LCD01,Total hysterectomy by laparoscopic approach
+LCD01,Total excision of uterus
+LCD01,Procedure on uterus
+LCD01,Surgically removes the uterus completely using a laparoscopic approach.
+LCD04,Total laparoscopic hysterectomy
+LCD04,Laparoscopic total hysterectomy
+LCD04,Laparoscopic removal of uterus
+LCD04,Total hysterectomy
+LCD04,Excision of uterus
+LCD04,Procedure on uterus
+LCD04,The uterus is completely removed using a laparoscopic approach.
+LCD10,Vaginal hysterectomy
+LCD10,Total vaginal hysterectomy
+LCD10,Excision of uterus by vaginal approach
+LCD10,Hysterectomy
+LCD10,Procedure on uterus
+LCD10,The uterus is removed through the vagina.
+LCD11,Laparoscopic assisted vaginal hysterectomy
+LCD11,Laparoscopically assisted vaginal hysterectomy
+LCD11,Laparoscopic-assisted vaginal removal of uterus
+LCD11,Total hysterectomy
+LCD11,Procedure on uterus
+LCD11,The uterus is completely removed through the vagina with laparoscopic assistance.
+LCD30,Radical hysterectomy
+LCD30,Radical uterine hysterectomy
+LCD30,Wertheim hysterectomy
+LCD30,Hysterectomy
+LCD30,Procedure on uterus
+LCD30,Surgical removal of the uterus and associated tissues is performed.
+LCD31,Laparoscopic radical hysterectomy
+LCD31,Radical hysterectomy by laparoscopy
+LCD31,Laparoscopic radical excision of uterus
+LCD31,Radical hysterectomy
+LCD31,Operation on uterus
+LCD31,Surgical removal of the uterus and associated tissues using a laparoscopic approach.
+LCD40,Radical vaginal hysterectomy
+LCD40,Vaginal radical hysterectomy
+LCD40,Radical hysterectomy by vaginal approach
+LCD40,Radical hysterectomy
+LCD40,Operation on uterus
+LCD40,Surgical removal of the uterus and surrounding tissues through the vagina.
+LCD96,Total hysterectomy
+LCD96,Complete hysterectomy
+LCD96,Total excision of uterus
+LCD96,Hysterectomy
+LCD96,Procedure on uterus
+LCD96,The uterus is surgically removed.
+LCD97,Laparoscopic hysterectomy
+LCD97,Laparoscopic removal of uterus
+LCD97,Hysterectomy by laparoscopy
+LCD97,Hysterectomy
+LCD97,Procedure on uterus
+LCD97,The uterus is surgically removed using a laparoscopic approach.
+LCE00,Anterior pelvic exenteration
+LCE00,Anterior exenteration of the female pelvis
+LCE00,Anterior exenteration of pelvis
+LCE00,Pelvic exenteration
+LCE00,Operation on female pelvic organs
+LCE00,Surgical removal of the anterior pelvic organs while preserving the posterior pelvic compartment.
+LCE10,Posterior pelvic exenteration
+LCE10,Posterior exenteration of the pelvis
+LCE10,Posterior pelvic evisceration
+LCE10,Pelvic exenteration
+LCE10,Surgical procedure on the female pelvis
+LCE10,The posterior compartment of the female pelvis is surgically removed as part of a pelvic exenteration.
+LCE20,Total pelvic exenteration
+LCE20,Female pelvic exenteration
+LCE20,Complete exenteration of the female pelvis
+LCE20,Pelvic exenteration
+LCE20,Operation on female pelvic organs
+LCE20,Surgery removing the pelvic organs and tissues in the female pelvis.
+LCE96,Pelvic exenteration
+LCE96,Exenteration of female pelvis
+LCE96,Exenteration of pelvis
+LCE96,Procedure on female reproductive system
+LCE96,Surgical removal of pelvic organs in a female patient.
+LCG02,Hysteroscopic division of intrauterine adhesions
+LCG02,Hysteroscopic adhesiolysis
+LCG02,Hysteroscopic division of uterine synechiae
+LCG02,Division of intrauterine adhesions
+LCG02,Procedure on uterus
+LCG02,Intrauterine adhesions are divided using a hysteroscope.
+LCG10,Suture of uterus
+LCG10,Suturing of uterus
+LCG10,Uterine suturing
+LCG10,Repair of uterus
+LCG10,Procedure on uterus
+LCG10,Sutures are placed in the uterus to repair it.
+LCG11,Laparoscopic suturing of uterus
+LCG11,Laparoscopic uterine suture
+LCG11,Laparoscopic repair of uterus
+LCG11,Suturing of uterus
+LCG11,Reconstructive procedure on uterus
+LCG11,The uterus is sutured using a laparoscopic approach.
+LCG20,Hysteropexy
+LCG20,Uterine suspension
+LCG20,Suspension of uterus
+LCG20,Uterine fixation
+LCG20,Procedure on uterus
+LCG20,The uterus is surgically fixed or suspended to support it.
+LCG21,Laparoscopic uterine suspension
+LCG21,Laparoscopic hysteropexy
+LCG21,Laparoscopic fixation of uterus
+LCG21,Hysteropexy
+LCG21,Procedure on uterus
+LCG21,The uterus is surgically suspended and fixed in position using a laparoscopic approach.
+LCG30,Excision or transection of uterosacral ligament
+LCG30,Resection of uterosacral ligament
+LCG30,Transection of uterine sacral ligament
+LCG30,Operation on uterine ligament
+LCG30,Procedure on uterus
+LCG30,The uterosacral ligament is surgically removed or divided.
+LCG31,Laparoscopic excision or division of uterosacral ligament
+LCG31,Laparoscopic resection or transection of uterosacral ligament
+LCG31,Laparoscopic incision or excision of sacrouterine ligament
+LCG31,Excision or division of uterosacral ligament
+LCG31,Procedure on uterine ligament
+LCG31,The uterosacral ligament is surgically excised or divided using a laparoscopic approach.
+LCG40,Reconstruction of uterus
+LCG40,Uterine reconstruction
+LCG40,Uteroplasty
+LCG40,Reconstructive procedure on uterus
+LCG40,Operation on uterus
+LCG40,Surgery is performed to reconstruct the uterus.
+LCG41,Laparoscopic reconstruction of uterus
+LCG41,Laparoscopic uterine reconstruction
+LCG41,Uterine reconstruction by laparoscopy
+LCG41,Reconstruction of uterus
+LCG41,Operation on uterus
+LCG41,Surgical reconstruction of the uterus is performed using a laparoscopic approach.
+LCG96,Reconstruction of uterus
+LCG96,Uterine reconstructive surgery
+LCG96,Uteroplasty
+LCG96,Reconstructive procedure on uterus
+LCG96,Procedure on uterus
+LCG96,Surgery is performed to restore or improve the structure of the uterus.
+LCG97,Laparoscopic reconstruction of uterus
+LCG97,Laparoscopic uterine reconstruction
+LCG97,Laparoscopic reconstructive surgery of uterus
+LCG97,Reconstruction of uterus
+LCG97,Surgical procedure on uterus
+LCG97,The uterus is surgically reconstructed using a laparoscopic approach.
+LCG98,Endoscopic reconstructive procedure of uterus
+LCG98,Endoscopic uterine reconstruction
+LCG98,Transluminal endoscopic reconstruction of uterus
+LCG98,Reconstructive procedure of uterus
+LCG98,Operation on uterus
+LCG98,The uterus is reconstructed using a transluminal endoscopic approach.
+LCH00,Vacuum aspiration of products of conception from uterus
+LCH00,Suction aspiration of products of conception from uterus
+LCH00,Suction evacuation of uterus
+LCH00,Evacuation of products of conception from uterus
+LCH00,Procedure on uterus
+LCH00,Removal of products of conception from the uterus using vacuum suction.
+LCH03,Evacuation of products of conception and curettage of uterus
+LCH03,Uterine evacuation and curettage for termination of pregnancy
+LCH03,Dilation and curettage for termination of pregnancy
+LCH03,Evacuation and curettage of uterus
+LCH03,Procedure on uterus
+LCH03,Products of conception are evacuated from the uterus and the uterine cavity is curetted.
+LCH10,Induction of abortion by intra- or extra-amniotic administration of abortifacient
+LCH10,Induction of abortion by intra-amniotic injection of abortifacient
+LCH10,Induction of abortion by extra-amniotic administration of abortifacient
+LCH10,Induction of abortion by administration of abortifacient
+LCH10,Procedure on uterus
+LCH10,An abortifacient is introduced into the amniotic cavity or outside it to terminate the pregnancy.
+LCH11,Extra-amniotic administration of abortifacient
+LCH11,Extra-amniotic instillation of abortifacient
+LCH11,Introduction of abortifacient into extra-amniotic space
+LCH11,Administration of abortifacient for termination of pregnancy
+LCH11,Procedure on uterus
+LCH11,An abortifacient is introduced into the extra-amniotic space to terminate the pregnancy.
+LCH12,Medical termination of pregnancy by oral administration of abortifacient
+LCH12,Oral administration of abortifacient for termination of pregnancy
+LCH12,Pharmacological termination of pregnancy
+LCH12,Induced termination of pregnancy
+LCH12,Procedure on uterus
+LCH12,An abortifacient is administered orally to terminate the pregnancy.
+LCH13,Vacuum aspiration of uterus following induced abortion
+LCH13,Suction evacuation of uterus after medical termination of pregnancy
+LCH13,Uterine aspiration following medically induced abortion
+LCH13,Evacuation of uterus after induced abortion
+LCH13,Procedure on uterus
+LCH13,The contents of the uterus are removed by vacuum aspiration after a medically induced abortion.
+LCH15,Evacuation of retained products of conception following incomplete induced abortion
+LCH15,Evacuation of products of conception after incomplete termination of pregnancy
+LCH15,Uterine evacuation for incomplete induced abortion
+LCH15,Evacuation of retained products of conception
+LCH15,Procedure on uterus
+LCH15,The retained products of conception are evacuated from the uterus following an incomplete induced abortion.
+LCH20,Hysterotomy with evacuation of products of conception
+LCH20,Evacuation of products of conception by hysterotomy
+LCH20,Surgical termination of pregnancy by hysterotomy
+LCH20,Evacuation of products of conception
+LCH20,Procedure on uterus
+LCH20,The uterus is opened surgically and the products of conception are evacuated.
+LCH96,Termination of pregnancy
+LCH96,Induced termination of pregnancy
+LCH96,Induced abortion
+LCH96,Pregnancy termination
+LCH96,Procedure on uterus
+LCH96,A procedure performed to end a pregnancy.
+LCW96,Surgical procedure on uterus and uterine ligaments
+LCW96,Operation on uterus and uterine ligaments
+LCW96,Surgery of uterus and uterine ligaments
+LCW96,Procedure on uterus and uterine ligaments
+LCW96,Procedure on female reproductive system
+LCW96,A surgical procedure is performed on the uterus or its ligaments; the specific procedure is not specified.
+LCW97,Laparoscopic procedure on uterus and uterine ligaments
+LCW97,Laparoscopic operation on the uterus and uterine ligaments
+LCW97,Laparoscopy of uterus and uterine ligaments
+LCW97,Operation on uterus and uterine ligaments
+LCW97,Procedure on female reproductive organs
+LCW97,A procedure is performed laparoscopically on the uterus and uterine ligaments.
+LCW98,Hysteroscopic procedure on uterus
+LCW98,Hysteroscopic surgery of uterus
+LCW98,Uterine operation using hysteroscope
+LCW98,Operation on uterus
+LCW98,Procedure on uterus
+LCW98,An operation is performed on the uterus using a hysteroscope.
+LDA00,Dilatation of cervix uteri
+LDA00,Dilation of cervix
+LDA00,Cervical dilatation
+LDA00,Dilatation of cervix
+LDA00,Procedure on cervix uteri
+LDA00,The cervical opening is widened.
+LDA10,Curettage of cervix
+LDA10,Cervical curettage
+LDA10,Curettage of uterine cervix
+LDA10,Curettage of cervix uteri
+LDA10,Procedure on cervix uteri
+LDA10,Curettage is performed to obtain tissue from the cervix.
+LDA20,Biopsy of cervix uteri
+LDA20,Cervical biopsy
+LDA20,Biopsy of uterine cervix
+LDA20,Procedure on cervix uteri
+LDA20,A tissue sample is taken from the cervix for examination.
+LDA91,Removal of foreign body from cervix uteri via vaginal approach
+LDA91,Vaginal removal of foreign body from cervix
+LDA91,Extraction of foreign body from cervix uteri through vagina
+LDA91,Removal of foreign body from cervix uteri
+LDA91,Procedure on cervix uteri
+LDA91,A foreign body is removed from the cervix through the vagina.
+LDA96,Biopsy of cervix uteri
+LDA96,Cervical biopsy
+LDA96,Biopsy of uterine cervix
+LDA96,Procedure on cervix uteri
+LDA96,A tissue sample is taken from the cervix uteri for examination.
+LDB00,Excision of lesion of uterine cervix
+LDB00,Excision of cervical lesion
+LDB00,Cervical lesion excision
+LDB00,Excision of lesion of cervix uteri
+LDB00,Procedure on cervix uteri
+LDB00,Surgical removal of a lesion from the cervix uteri
+LDB10,Cryotherapy of cervix (procedure)
+LDB10,Cryosurgery of cervix
+LDB10,Destruction of lesion of cervix by cryotherapy
+LDB10,Destruction of lesion of cervix
+LDB10,Procedure on cervix uteri
+LDB10,Cervical cryotherapy destroys tissue on the cervix using extreme cold.
+LDB20,Destruction of lesion of cervix uteri
+LDB20,Electrocoagulation of lesion of cervix uteri
+LDB20,Laser ablation of lesion of cervix uteri
+LDB20,Destruction of cervical lesion
+LDB20,Procedure on cervix uteri
+LDB20,The cervical lesion is destroyed using electrocoagulation or laser therapy.
+LDC00,Excision of cone of cervix uteri
+LDC00,Cervical conization
+LDC00,Cold knife cone biopsy of cervix
+LDC00,Excision of cervix uteri
+LDC00,Procedure on cervix uteri
+LDC00,A cone-shaped portion of the cervix is excised using a surgical knife.
+LDC03,Conization of cervix uteri
+LDC03,Cervical conization
+LDC03,Cone biopsy of cervix
+LDC03,Excision of cervix uteri
+LDC03,Procedure on cervix uteri
+LDC03,A cone-shaped portion of the cervix is excised using diathermy or laser.
+LDC10,Partial excision of cervix uteri
+LDC10,Partial excision of cervix
+LDC10,Excision of part of cervix uteri
+LDC10,Excision of cervix uteri
+LDC10,Procedure on cervix uteri
+LDC10,A portion of the cervix uteri is surgically removed.
+LDC20,Radical excision of cervix uteri
+LDC20,Radical trachelectomy
+LDC20,Radical excision of uterine cervix
+LDC20,Radical cervical excision
+LDC20,Excision of cervix uteri
+LDC20,Procedure on cervix uteri
+LDC20,Surgically removes the cervix uteri with a radical extent of excision.
+LDC96,Excision of cervix uteri
+LDC96,Cervical excision
+LDC96,Excision of uterine cervix
+LDC96,Procedure on cervix uteri
+LDC96,Surgical removal of tissue from the cervix uteri.
+LDW96,Surgical procedure on cervix uteri
+LDW96,Operation on uterine cervix
+LDW96,Surgical operation on cervix
+LDW96,Procedure on cervix uteri
+LDW96,Operation on cervix
+LDW96,A surgical procedure is performed on the uterine cervix.
+LDX12,Replacement of vaginal pessary
+LDX12,Exchange of vaginal pessary
+LDX12,Change of vaginal pessary
+LDX12,Pessary replacement
+LDX12,Procedure on vagina
+LDX12,The existing vaginal pessary is removed and replaced with another pessary.
+LE003,Colposcopy with biopsy
+LE003,Colposcopic biopsy
+LE003,Biopsy guided by colposcopy
+LE003,Biopsy of female genital tract
+LE003,Procedure on female genital system
+LE003,"The female genital tract is examined using a colposcope, and a tissue sample is taken."
+LE010,Removal of foreign body from vagina in adult
+LE010,Extraction of foreign body from vagina in adult
+LE010,Removal of vaginal foreign body
+LE010,Foreign body removal from vagina
+LE010,Procedure on vagina
+LE010,A foreign body is removed from the vagina of an adult.
+LEA01,Culdoscopy
+LEA01,Endoscopic examination of the pouch of Douglas
+LEA01,Endoscopy of the rectouterine pouch
+LEA01,Examination of the pouch of Douglas
+LEA01,Procedure on vagina
+LEA01,The pouch of Douglas is examined endoscopically through the vagina.
+LEA10,Incision of vagina
+LEA10,Colpotomy
+LEA10,Vaginal incision
+LEA10,Incision of vaginal wall
+LEA10,Procedure on vagina
+LEA10,Surgical incision is made into the vagina.
+LEB00,Biopsy of vagina
+LEB00,Vaginal biopsy
+LEB00,Biopsy of vaginal tissue
+LEB00,Procedure on vagina
+LEB00,A tissue sample is taken from the vagina for examination.
+LEB10,Excision of lesion of vagina
+LEB10,Excision of vaginal lesion
+LEB10,Vaginal lesion excision
+LEB10,Excision of vaginal tissue
+LEB10,Procedure on vagina
+LEB10,Surgically removes a lesion from the vagina.
+LEB11,Laparoscopic excision of lesion of vagina
+LEB11,Laparoscopic excision of vaginal lesion
+LEB11,Excision of vaginal lesion by laparoscopy
+LEB11,Excision of lesion of vagina
+LEB11,Procedure on vagina
+LEB11,The vaginal lesion is surgically excised using a laparoscopic approach.
+LEB20,Marsupialization of vaginal cyst
+LEB20,Marsupialisation of cyst of vagina
+LEB20,Vaginal cyst marsupialization
+LEB20,Surgical treatment of vaginal cyst
+LEB20,Procedure on vagina
+LEB20,The vaginal cyst is opened and its edges are sutured to the surrounding tissue to create a permanent opening.
+LEB30,Destruction of lesion of vaginal mucosa
+LEB30,Destruction of vaginal mucosal lesion
+LEB30,Ablation of lesion of vaginal mucosa
+LEB30,Destruction of vaginal lesion
+LEB30,Destruction of lesion of vagina
+LEB30,Procedure on vagina
+LEB30,A lesion of the vaginal mucosa is destroyed.
+LEC00,Partial excision of vagina
+LEC00,Partial vaginectomy
+LEC00,Partial resection of vagina
+LEC00,Excision of vagina
+LEC00,Operation on vagina
+LEC00,Part of the vagina is surgically removed.
+LEC10,Excision of vaginal septum
+LEC10,Resection of vaginal septum
+LEC10,Vaginal septum excision
+LEC10,Partial excision of vagina
+LEC10,Procedure on vagina
+LEC10,Surgical removal of part or all of a vaginal septum.
+LED00,Total vaginectomy
+LED00,Complete excision of vagina
+LED00,Colpectomy
+LED00,Excision of vagina
+LED00,Procedure on vagina
+LED00,The vagina is completely surgically removed.
+LED01,Laparoscopic total vaginectomy
+LED01,Laparoscopic excision of the vagina
+LED01,Laparoscopic colpectomy
+LED01,Total excision of vagina
+LED01,Procedure on vagina
+LED01,The entire vagina is surgically removed using a laparoscopic approach.
+LEF00,Anterior colporrhaphy (procedure)
+LEF00,Anterior vaginal wall repair
+LEF00,Anterior vaginal repair
+LEF00,Colporrhaphy
+LEF00,Procedure on vagina
+LEF00,Surgical repair of the anterior vaginal wall.
+LEF01,Anterior colporrhaphy with mesh
+LEF01,Anterior vaginal wall repair with mesh
+LEF01,Repair of anterior vaginal wall using mesh
+LEF01,Anterior colporrhaphy
+LEF01,Vaginal repair
+LEF01,The anterior vaginal wall is repaired and reinforced with mesh.
+LEF03,Repair of posterior wall of vagina
+LEF03,Posterior colporrhaphy
+LEF03,Posterior vaginal wall repair
+LEF03,Vaginal wall repair
+LEF03,Operation on vagina
+LEF03,Surgical repair of the posterior vaginal wall.
+LEF05,Anterior colporrhaphy for recurrent cystocele
+LEF05,Repair of recurrent cystocele
+LEF05,Anterior vaginal wall repair for recurrent cystocele
+LEF05,Anterior colporrhaphy
+LEF05,Repair of vagina
+LEF05,Operation on vagina
+LEF05,The anterior vaginal wall is repaired with sutures to correct a recurrent cystocele.
+LEF06,Anterior colporrhaphy with mesh insertion for recurrent cystocele
+LEF06,Mesh repair of recurrent cystocele by anterior colporrhaphy
+LEF06,Anterior vaginal repair with mesh for recurrent bladder prolapse
+LEF06,Anterior colporrhaphy
+LEF06,Operation on vagina
+LEF06,The anterior vaginal wall is repaired with mesh to treat a recurrent cystocele.
+LEF10,Colpoperineoplasty
+LEF10,Colpoperineorrhaphy
+LEF10,Repair of vagina and perineum
+LEF10,Operation on vagina
+LEF10,Surgical repair of the vagina and perineum.
+LEF13,Vaginal hysterectomy with colpoperineoplasty
+LEF13,Vaginal hysterectomy and colpoperineal repair
+LEF13,Hysterectomy with colpoperineoplasty
+LEF13,Operation on uterus and vagina
+LEF13,"The uterus is removed through the vagina, and the vagina and perineum are repaired."
+LEF20,Partial colpocleisis
+LEF20,Partial closure of vagina
+LEF20,Partial vaginal obliteration
+LEF20,Colpocleisis
+LEF20,Operation on vagina
+LEF20,A portion of the vagina is surgically closed.
+LEF23,Complete colpocleisis
+LEF23,Total colpocleisis
+LEF23,Complete surgical obliteration of the vagina
+LEF23,Colpocleisis
+LEF23,Operation on vagina
+LEF23,A procedure that surgically closes and obliterates the vagina.
+LEF30,Uterine interposition procedure
+LEF30,Interposition of uterus between bladder and vagina
+LEF30,Uterovaginal interposition operation
+LEF30,Uterine interposition
+LEF30,Procedure on uterus
+LEF30,A procedure that places the uterus between the bladder and vagina.
+LEF40,Vaginal repair of enterocele
+LEF40,Repair of enterocele by vaginal approach
+LEF40,Vaginal enterocele repair
+LEF40,Repair of enterocele
+LEF40,Operation on vagina
+LEF40,The enterocele is repaired through the vagina.
+LEF41,Laparoscopic repair of enterocele
+LEF41,Laparoscopic enterocele repair
+LEF41,Laparoscopic correction of enterocele
+LEF41,Repair of enterocele
+LEF41,Procedure on vagina
+LEF41,Surgery is performed laparoscopically to repair the enterocele.
+LEF43,Abdominal repair of enterocele
+LEF43,Abdominal enterocele repair
+LEF43,Repair of enterocele by abdominal approach
+LEF43,Repair of enterocele
+LEF43,Procedure on vagina
+LEF43,The enterocele is repaired through an abdominal approach.
+LEF50,Vaginal vault suspension
+LEF50,Colpopexy following hysterectomy
+LEF50,Suspension of vaginal vault
+LEF50,Fixation of vaginal vault
+LEF50,Colpopexy
+LEF50,Operation on vagina
+LEF50,The vaginal vault is suspended and fixed after hysterectomy.
+LEF51,Laparoscopic suspension of vaginal vault after hysterectomy
+LEF51,Laparoscopic colpopexy following hysterectomy
+LEF51,Laparoscopic vaginal vault fixation after hysterectomy
+LEF51,Colpopexy after hysterectomy
+LEF51,Operation on vagina
+LEF51,The vaginal vault is suspended and fixed laparoscopically after a previous hysterectomy.
+LEF53,Vaginal vault suspension following hysterectomy
+LEF53,Vaginal vault suspension
+LEF53,Vaginal vault fixation
+LEF53,Colpopexy
+LEF53,Operation on vagina
+LEF53,Suspension of the vaginal vault to support it after hysterectomy.
+LEF60,Lateral colpopexy
+LEF60,Lateral suspension of vagina
+LEF60,Lateral suspension of vaginal vault
+LEF60,Lateral vaginal suspension
+LEF60,Colpopexy
+LEF60,Procedure on vagina
+LEF60,The vagina is surgically suspended and fixed laterally to support the vaginal vault.
+LEF63,Vaginal hysteropexy using sutures
+LEF63,Suture vaginal hysteropexy
+LEF63,Vaginal uterine suspension with sutures
+LEF63,Hysteropexy
+LEF63,Procedure on uterus
+LEF63,Operation on female genital organ
+LEF63,The uterus is suspended using sutures placed through the vagina.
+LEF96,Surgical procedure for prolapse of uterus or vaginal vault
+LEF96,Operation for uterine or vaginal vault prolapse
+LEF96,Surgical treatment of uterine or vaginal vault prolapse
+LEF96,Procedure for prolapse of uterus or vaginal vault
+LEF96,Operation on female genital organs
+LEF96,Procedure on vagina
+LEF96,A surgical procedure is performed to treat prolapse of the uterus or vaginal vault.
+LEF97,Laparoscopic repair of uterine or vaginal vault prolapse
+LEF97,Laparoscopic surgery for prolapse of the uterus or vaginal vault
+LEF97,Laparoscopic correction of uterine or vaginal vault prolapse
+LEF97,Operation for prolapse of the uterus or vaginal vault
+LEF97,Procedure on the vagina
+LEF97,A laparoscopic procedure is performed to treat prolapse of the uterus or vaginal vault.
+LEG00,Vaginal repair of urethra and urinary bladder
+LEG00,Vaginal urethrocystorrhaphy
+LEG00,Urethrocystorrhaphy via vaginal approach
+LEG00,Urethrocystorrhaphy
+LEG00,Procedure on the urethra and urinary bladder
+LEG00,The urethra and urinary bladder are repaired by suturing through the vagina.
+LEG10,Vaginal urethrocystopexy
+LEG10,Urethrocystopexy by vaginal approach
+LEG10,Vaginal suspension of the urethra and bladder neck
+LEG10,Urethrocystopexy
+LEG10,Operation on vagina
+LEG10,The urethra and bladder neck are surgically supported and fixed through a vaginal approach.
+LEG12,Insertion of transobturator tape for urinary incontinence
+LEG12,Transobturator tape insertion
+LEG12,Transobturator sling procedure
+LEG12,Insertion of suburethral sling
+LEG12,Vaginal operation for urinary incontinence
+LEG12,A transobturator tape is placed vaginally to support the urethra and treat urinary incontinence.
+LEG13,Transobturator urethropexy
+LEG13,Vaginal transobturator urethral suspension
+LEG13,Transobturator vaginal urethral suspension
+LEG13,Urethropexy
+LEG13,Procedure on the urethra
+LEG13,The urethra is suspended using a transobturator approach through the vagina.
+LEG20,Repair of pelvic floor with division of levator ani muscle
+LEG20,Plastic repair of pelvic floor with levator ani division
+LEG20,Pelvic floor reconstruction with division of levator ani
+LEG20,Pelvic floor repair
+LEG20,Operation on the vagina
+LEG20,"The pelvic floor is surgically repaired, with division of the levator ani muscle."
+LEG70,Division of suburethral sling
+LEG70,Incision of suburethral sling
+LEG70,Release of vaginal sling
+LEG70,Operation on vagina
+LEG70,Procedure on female genital organ
+LEG70,The sling used for cystopexy is cut to divide or release it.
+LEG80,Hysteropexy using mesh
+LEG80,Mesh hysteropexy
+LEG80,Uterine suspension using mesh
+LEG80,Hysteropexy
+LEG80,Procedure on uterus
+LEG80,The uterus is suspended using mesh.
+LEG96,Vaginal operation for urinary incontinence
+LEG96,Vaginal procedure for urinary incontinence
+LEG96,Surgical treatment of urinary incontinence by vaginal approach
+LEG96,Surgical procedure for urinary incontinence
+LEG96,Procedure on vagina
+LEG96,Surgery is performed through the vagina to treat urinary incontinence.
+LFA00,Incision of vulva or perineum
+LFA00,Incision into vulva or perineum
+LFA00,Vulvar or perineal incision
+LFA00,Procedure on vulva or perineum
+LFA00,An incision is made in the vulva or perineum.
+LFA10,Hymenotomy
+LFA10,Incision of hymen
+LFA10,Surgical opening of imperforate hymen
+LFA10,Incision of hymen or hymenal remnant
+LFA10,Incision of vulva
+LFA10,Procedure on vulva and perineum
+LFA10,An incision is made in the imperforate hymen or a remnant of the hymen.
+LFA20,Repair of vulva following female circumcision
+LFA20,Vulvar reconstruction after ritual circumcision
+LFA20,Repair of vulva after female genital mutilation
+LFA20,Vulvar repair
+LFA20,Operation on vulva
+LFA20,The vulva is repaired following ritual circumcision.
+LFB00,Biopsy of vulva or perineum
+LFB00,Vulvar or perineal biopsy
+LFB00,Biopsy of vulva and perineum
+LFB00,Biopsy of female external genitalia
+LFB00,Procedure on vulva or perineum
+LFB00,A tissue sample is taken from the vulva or perineum for examination.
+LFB10,Excision of lesion of vulva or perineum
+LFB10,Excision of vulval lesion
+LFB10,Excision of perineal lesion
+LFB10,Procedure on vulva or perineum
+LFB10,A lesion is surgically removed from the vulva or perineum.
+LFB20,Destruction of lesion of vulva and perineum
+LFB20,Ablation of lesion of vulva or perineum
+LFB20,Destruction of vulvar or perineal lesion
+LFB20,Destruction of lesion of external genitalia
+LFB20,Procedure on vulva and perineum
+LFB20,The lesion on the vulva or perineum is destroyed.
+LFB31,Thermal destruction of lesion of vulva and perineum
+LFB31,Thermal coagulation of lesion of vulva and perineum
+LFB31,Cauterization of lesion of vulva and perineum
+LFB31,Destruction of lesion of vulva and perineum
+LFB31,Procedure on vulva and perineum
+LFB31,The lesion of the vulva and perineum is destroyed by heat.
+LFC00,Partial vulvectomy
+LFC00,Partial excision of vulva
+LFC00,"Vulvectomy, partial"
+LFC00,Excision of vulva
+LFC00,Procedure on vulva
+LFC00,A portion of the vulva is surgically removed.
+LFC96,Partial excision of vulva or perineum
+LFC96,Partial vulvectomy
+LFC96,Excision of part of the vulva
+LFC96,Partial excision of perineum
+LFC96,Excision of vulva or perineum
+LFC96,Procedure on vulva or perineum
+LFC96,Part of the vulva or perineum is surgically removed.
+LFD00,Total vulvectomy
+LFD00,Complete excision of vulva
+LFD00,Total excision of vulva
+LFD00,Vulvectomy
+LFD00,Operation on vulva
+LFD00,The vulva is completely surgically removed.
+LFD10,Vulvectomy with regional lymph node excision
+LFD10,Excision of vulva and regional lymph nodes
+LFD10,Vulvectomy with lymphadenectomy
+LFD10,Vulvectomy
+LFD10,Operation on vulva
+LFD10,The vulva and regional lymph nodes are surgically removed.
+LFE00,Suture of vulva
+LFE00,Suturing of vulva
+LFE00,Suturing of vulvar tissue
+LFE00,Vulvar repair
+LFE00,Repair of vulva
+LFE00,Procedure on vulva
+LFE00,Sutures are placed to close or repair tissue of the vulva.
+LFE10,Vulvoplasty
+LFE10,Plastic repair of vulva
+LFE10,Surgical repair of vulva
+LFE10,Repair of vulva
+LFE10,Procedure on vulva
+LFE10,Surgical reconstruction of the vulva to repair it.
+LFE20,Repair of perineum
+LFE20,Suture of perineum
+LFE20,Perineorrhaphy
+LFE20,Perineal repair
+LFE20,Procedure on perineum
+LFE20,The perineal tissues are sutured to repair them.
+LFE96,Repair of vulva or perineum
+LFE96,Vulvar or perineal repair
+LFE96,Repair of vulva and perineum
+LFE96,Procedure on vulva or perineum
+LFE96,Surgical repair of the vulva or perineum
+LFF00,Marsupialization of Bartholin gland
+LFF00,Marsupialisation of Bartholin's gland
+LFF00,Bartholin gland marsupialization
+LFF00,Marsupialization of gland
+LFF00,Operation on Bartholin gland
+LFF00,Procedure on female genital structure
+LFF00,The Bartholin gland is opened and its edges are sutured to create a persistent opening.
+LFF10,Excision of Bartholin gland
+LFF10,Bartholin gland excision
+LFF10,Excision of the greater vestibular gland
+LFF10,Excision of gland of vestibule of vagina
+LFF10,Procedure on Bartholin gland
+LFF10,The Bartholin gland is surgically removed.
+LFF96,Procedure on Bartholin's gland
+LFF96,Operation on Bartholin gland
+LFF96,Surgical procedure on Bartholin's gland
+LFF96,Operation on vulva
+LFF96,A surgical procedure is performed on the Bartholin's gland.
+LFW96,Surgical procedure on vulva and perineum
+LFW96,Operation on vulva and perineum
+LFW96,Surgical operation of vulva and perineum
+LFW96,Procedure on vulva or perineum
+LFW96,Operation on female genital organs
+LFW96,Surgery is performed on the vulva or perineum.
+LGA00,Sterilization of fallopian tubes by ligation
+LGA00,Tubal ligation for sterilization
+LGA00,Ligation of fallopian tubes
+LGA00,Fallopian tube sterilization
+LGA00,Procedure on fallopian tube
+LGA00,Fallopian tubes are ligated to achieve sterilization.
+LGA10,Sterilization of fallopian tubes by destruction or division
+LGA10,Tubal sterilization by division or destruction
+LGA10,Fallopian tube sterilization procedure
+LGA10,Procedure on fallopian tubes
+LGA10,Operation on female genital organs
+LGA10,The fallopian tubes are divided or destroyed to achieve sterilization.
+LGA11,Laparoscopic sterilization of fallopian tubes by division or destruction
+LGA11,Laparoscopic tubal sterilization by division
+LGA11,Laparoscopic tubal sterilization by destruction
+LGA11,Sterilization of fallopian tubes by division or destruction
+LGA11,Procedure on fallopian tubes
+LGA11,The fallopian tubes are divided or destroyed laparoscopically to achieve sterilization.
+LGA20,Ligation of fallopian tubes for sterilization
+LGA20,Bilateral tubal ligation
+LGA20,Tubal sterilization by ligation
+LGA20,Fallopian tube occlusion for sterilization
+LGA20,Female sterilization
+LGA20,Procedure on fallopian tube
+LGA20,The fallopian tubes are constricted by ligation to prevent pregnancy.
+LGA21,Laparoscopic sterilization by fallopian tube constriction
+LGA21,Laparoscopic tubal ligation for sterilization
+LGA21,Laparoscopic occlusion of fallopian tubes for sterilization
+LGA21,Sterilization by constriction of the fallopian tubes
+LGA21,Procedure on the fallopian tubes
+LGA21,The fallopian tubes are constricted laparoscopically to achieve sterilization.
+LGA22,Hysteroscopic sterilization of fallopian tubes
+LGA22,Hysteroscopic tubal sterilization
+LGA22,Transcervical sterilization
+LGA22,Tubal sterilization
+LGA22,Procedure on female genital organs
+LGA22,The fallopian tubes are accessed through the uterus using a hysteroscope to perform sterilization.
+LGA96,Female sterilization
+LGA96,Sterilisation of female
+LGA96,Female reproductive sterilization
+LGA96,Sterilization of female reproductive system
+LGA96,Procedure on female genital organs
+LGA96,A procedure is performed to permanently prevent pregnancy in a female.
+LGA97,Laparoscopic sterilization of female (procedure)
+LGA97,Laparoscopic female sterilisation
+LGA97,Laparoscopic female sterilization procedure
+LGA97,Female sterilization
+LGA97,Procedure on female genital organs
+LGA97,The female reproductive organs are accessed laparoscopically to perform a sterilisation procedure.
+LGA98,Transluminal endoscopic sterilization of female
+LGA98,Hysteroscopic sterilization
+LGA98,Endoscopic sterilization of female
+LGA98,Female sterilization
+LGA98,Procedure on female genital organs
+LGA98,The fallopian tubes are accessed endoscopically through the genital tract to achieve sterilization.
+LWA00,Repair of dehiscence of gynecological surgical wound
+LWA00,Repair of dehisced wound following gynecological surgery
+LWA00,Resuturing of dehisced gynecological surgical wound
+LWA00,Repair of surgical wound dehiscence
+LWA00,Operation on female genital organs
+LWA00,The dehisced wound from gynecological surgery is repaired.
+LWB00,Reoperation for superficial infection following surgery on female genital organs
+LWB00,Re-exploration for superficial infection after gynaecological surgery
+LWB00,Reoperation for superficial postoperative infection in the female genital tract
+LWB00,Reoperation for infection following gynaecological surgery
+LWB00,Reoperation on female genital organs
+LWB00,Surgery is performed again to treat a superficial infection following gynaecological surgery.
+LWD00,Reoperation for control of superficial hemorrhage following gynecologic surgery
+LWD00,Re-exploration to control superficial bleeding after gynecologic surgery
+LWD00,Surgical control of superficial hemorrhage following gynecologic surgery
+LWD00,Reoperation for hemorrhage following gynecologic surgery
+LWD00,Reoperation on female genital organs
+LWD00,A repeat operation is performed to control superficial bleeding related to gynecologic surgery.
+LWE00,Reoperation for control of deep hemorrhage following gynecological surgery
+LWE00,Surgical re-exploration for deep bleeding after gynecologic surgery
+LWE00,Reoperation to control deep postoperative hemorrhage in female genital surgery
+LWE00,Reoperation for control of hemorrhage following gynecological surgery
+LWE00,Reoperation on female genital organs
+LWE00,The surgical site is re-explored and deep bleeding is controlled after gynecological surgery.
+LWE01,Endoscopic reoperation for control of deep hemorrhage following gynecological surgery
+LWE01,Endoscopic re-exploration for deep hemorrhage after gynecological surgery
+LWE01,Reoperation for deep hemorrhage following gynecological surgery
+LWE01,Reoperation for control of postoperative deep hemorrhage in gynecological surgery
+LWE01,Operation on female genital organs
+LWE01,Reoperation is performed using an endoscopic approach to control deep hemorrhage following gynecological surgery.
+LWE02,Transluminal endoscopic reoperation for control of deep hemorrhage following gynecological surgery
+LWE02,Endoscopic reoperation to control deep postoperative hemorrhage in gynecological surgery
+LWE02,Transluminal endoscopic reoperation for deep postoperative bleeding in female genital organs
+LWE02,Reoperation to control deep hemorrhage following gynecological surgery
+LWE02,Operation on female genital organs
+LWE02,A transluminal endoscopic reoperation is performed to control deep hemorrhage following gynecological surgery.
+LWF00,Reoperation for anastomotic or suture insufficiency in gynecological surgery
+LWF00,Revision of anastomosis or suture for insufficiency following gynecological surgery
+LWF00,Repair of dehiscence of anastomosis or suture in gynecological surgery
+LWF00,Repair of anastomotic or suture insufficiency
+LWF00,Operation on female genital organs
+LWF00,Surgery is performed to correct an insufficient anastomosis or suture from a previous gynecological operation.
+LWF01,Endoscopic reoperation for insufficiency of anastomosis or suture in female genital surgery
+LWF01,Endoscopic reoperation for failure of a gynaecological anastomosis or suture
+LWF01,Endoscopic reoperation to correct dehiscence of an anastomosis or suture in gynaecological surgery
+LWF01,Reoperation for insufficiency of anastomosis or suture in gynaecological surgery
+LWF01,Reoperation on female genital organs
+LWF01,The procedure uses a percutaneous endoscopic approach to reoperate on an insufficient anastomosis or suture from gynaecological surgery.
+LWK03,Division of cystopexy sling
+LWK03,Incision of cystopexy sling
+LWK03,Division of bladder suspension sling
+LWK03,Division of sling
+LWK03,Operation on vagina
+LWK03,The cystopexy sling is divided to relieve or revise the sling used for urinary incontinence.
+LWL03,Revision of mesh hysteropexy
+LWL03,Repair of mesh hysteropexy
+LWL03,Correction of hysteropexy with mesh
+LWL03,Hysteropexy correction
+LWL03,Operation on uterus
+LWL03,Surgical correction of a hysteropexy involving mesh.
+MA0AT,Ultrasound-guided chorionic villus sampling
+MA0AT,Ultrasound-guided chorion biopsy
+MA0AT,Ultrasound-guided biopsy of chorionic villi
+MA0AT,Chorionic villus sampling
+MA0AT,Biopsy of chorion
+MA0AT,Procedure on chorion
+MA0AT,A biopsy of the chorion is performed with ultrasound guidance.
+MAA00,Amniocentesis
+MAA00,Amniotic fluid sampling
+MAA00,Needle aspiration of amniotic fluid
+MAA00,Procedure on amniotic sac
+MAA00,A needle is inserted through the uterus into the amniotic sac to obtain a sample of amniotic fluid.
+MAA01,Ultrasonography-guided chorionic villus sampling
+MAA01,Ultrasound-guided chorionic villus biopsy
+MAA01,Ultrasound-guided chorion biopsy
+MAA01,Chorionic villus sampling
+MAA01,Biopsy of chorion
+MAA01,A chorionic tissue sample is obtained under ultrasound guidance.
+MAA03,Intra-amniotic infusion
+MAA03,Amnioinfusion
+MAA03,Infusion into amniotic cavity
+MAA03,Infusion procedure
+MAA03,Procedure on amniotic cavity
+MAA03,Fluid is infused into the amniotic cavity.
+MAA06,Amniotic fluid reduction
+MAA06,Amnioreduction procedure
+MAA06,Reduction of amniotic fluid volume
+MAA06,Procedure on amniotic fluid
+MAA06,Excess amniotic fluid is removed to reduce the volume of fluid surrounding the fetus.
+MAA10,Biopsy of chorionic villus
+MAA10,Chorionic villus sampling
+MAA10,Chorionic villus biopsy
+MAA10,Procedure on chorionic villus
+MAA10,A sample of chorionic villus tissue is obtained for examination.
+MAA12,Hysteroscopic biopsy of chorionic villus
+MAA12,Hysteroscopic chorionic villus sampling
+MAA12,Microhysteroscopic biopsy of chorionic villi
+MAA12,Biopsy of chorionic villus
+MAA12,Obstetric procedure on pregnant uterus
+MAA12,A small sample of chorionic villus tissue is taken from the pregnant uterus using a hysteroscope.
+MAA20,Removal of intrauterine contraceptive device under ultrasound guidance
+MAA20,Ultrasound-guided removal of intrauterine device
+MAA20,Removal of intrauterine contraceptive device with ultrasonic guidance
+MAA20,Removal of intrauterine device
+MAA20,Procedure on uterus
+MAA20,The intrauterine device is removed from the uterus with ultrasound guidance.
+MAA22,Hysteroscopic removal of intrauterine contraceptive device from pregnant uterus
+MAA22,Hysteroscopic extraction of intrauterine device from pregnant uterus
+MAA22,Removal of intrauterine contraceptive device from gravid uterus by hysteroscopy
+MAA22,Removal of intrauterine device from pregnant uterus
+MAA22,Procedure on pregnant uterus
+MAA22,The intrauterine device is removed from the pregnant uterus using a hysteroscope.
+MAA30,Percutaneous umbilical blood sampling
+MAA30,Cordocentesis
+MAA30,Fetal blood sampling by umbilical cord puncture
+MAA30,Umbilical cord blood sampling
+MAA30,Fetal blood sampling
+MAA30,Procedure on umbilical cord
+MAA30,A needle is used to obtain a fetal blood sample from the umbilical cord.
+MAA32,Catheterization of fetal umbilical vessels
+MAA32,Fetal umbilical vessel catheterization
+MAA32,Catheterisation of umbilical vessels of the fetus
+MAA32,Catheterization of umbilical vessels
+MAA32,Procedure on fetus
+MAA32,A catheter is inserted into the fetus's umbilical vessels.
+MAA40,Puncture of fetus
+MAA40,Fetal puncture
+MAA40,Intrauterine puncture of fetus
+MAA40,Needle puncture of fetus
+MAA40,Procedure on fetus
+MAA40,A needle is used to puncture the fetus.
+MAA41,Transvaginal fetal blood sampling
+MAA41,Fetal blood sampling by transvaginal approach
+MAA41,Transvaginal sampling of fetal blood
+MAA41,Fetal blood sampling
+MAA41,Procedure on fetus
+MAA41,Fetal blood is drawn using a transvaginal approach.
+MAA43,Biopsy of fetus
+MAA43,Fetal biopsy
+MAA43,Biopsy of fetal tissue
+MAA43,Procedure on fetus
+MAA43,A tissue sample is obtained from the fetus for examination.
+MAA52,Cryopreservation of embryo
+MAA52,Embryo cryopreservation
+MAA52,Embryo freezing
+MAA52,Storage of embryo
+MAA52,Procedure on embryo
+MAA52,An embryo is preserved for storage and possible later use.
+MAA54,Fetoscopy (procedure)
+MAA54,Fetoscopic examination of fetus
+MAA54,Endoscopic examination of fetus
+MAA54,Examination of fetus
+MAA54,Procedure on fetus
+MAA54,A fetoscope is used to examine the fetus within the uterus.
+MAA82,Laser coagulation of placental vascular anastomoses
+MAA82,Fetoscopic laser photocoagulation of placental anastomoses
+MAA82,Selective laser coagulation of placental vessels
+MAA82,Coagulation of placental anastomoses
+MAA82,Intrauterine procedure on placenta
+MAA82,Laser energy is used to coagulate vascular connections between placental vessels.
+MAA96,Intrauterine procedure on pregnant uterus or fetus
+MAA96,Intrauterine surgery during pregnancy
+MAA96,Fetal or uterine intrauterine operation
+MAA96,Operation on pregnant uterus or fetus
+MAA96,Procedure on pregnant uterus
+MAA96,An operation is performed within the pregnant uterus or on the fetus.
+MAA98,Hysteroscopic procedure on pregnant uterus or fetus
+MAA98,Hysteroscopic operation on pregnant uterus or fetus
+MAA98,Intrauterine endoscopic procedure during pregnancy
+MAA98,Procedure on pregnant uterus or fetus
+MAA98,Operation on pregnant uterus
+MAA98,A hysteroscope is used to perform an intrauterine procedure on the pregnant uterus or fetus.
+MAB00,Cervical cerclage
+MAB00,Cerclage of cervix during pregnancy
+MAB00,Cervical stitch
+MAB00,Cerclage of cervix
+MAB00,Procedure on cervix
+MAB00,A suture is placed around the cervix during pregnancy to provide support.
+MAB03,Removal of cervical cerclage during pregnancy
+MAB03,Removal of cervical cerclage before childbirth
+MAB03,Removal of cervical stitch during pregnancy
+MAB03,Removal of cerclage from cervix uteri
+MAB03,Procedure on cervix uteri
+MAB03,Removal of the cerclage suture from the cervix before childbirth.
+MAB04,Suppression of preterm labor
+MAB04,Tocolysis
+MAB04,Inhibition of premature uterine contractions
+MAB04,Suppression of uterine contractions
+MAB04,Procedure on uterus
+MAB04,Treatment to suppress uterine contractions during premature labor.
+MAB10,External cephalic version of fetus
+MAB10,External version of fetus
+MAB10,Manual external cephalic version
+MAB10,Fetal version
+MAB10,Procedure on fetus
+MAB10,Procedure performed by manipulating the pregnant abdomen to turn the fetus into a different position.
+MAB20,Failed external cephalic version
+MAB20,Unsuccessful external cephalic version
+MAB20,Failed attempt to turn fetus by external version
+MAB20,Attempted fetal version
+MAB20,Obstetric procedure on fetus
+MAB20,"An attempt was made to turn the fetus by manipulation through the maternal abdomen, but the version was unsuccessful."
+MAC00,Artificial rupture of membranes
+MAC00,Amniotomy
+MAC00,Artificial rupture of amniotic sac
+MAC00,Rupture of amniotic membrane
+MAC00,Procedure on amniotic membrane
+MAC00,The amniotic membrane is intentionally ruptured to induce or advance labour.
+MAC02,Artificial rupture of membranes
+MAC02,Amniotomy
+MAC02,Artificial rupture of fetal membranes during labor
+MAC02,Rupture of fetal membranes
+MAC02,Procedure on fetal membranes
+MAC02,The amniotic sac is deliberately ruptured to induce or advance labor.
+MAC03,Induction of labor using vibrator
+MAC03,Vibrator-assisted induction of labor
+MAC03,Induction of labor by vibratory stimulation
+MAC03,Induction of labor
+MAC03,Obstetric procedure on the uterus
+MAC03,Labor is induced using a vibrator.
+MAC04,Assistance with water birth
+MAC04,Assisted water birth
+MAC04,Assistance during water birth
+MAC04,Assistance with childbirth
+MAC04,Obstetric procedure during labor and delivery
+MAC04,Assistance is provided to the woman during a water birth.
+MAC10,Dilation of cervix uteri
+MAC10,Dilatation of cervical canal
+MAC10,Cervical dilatation
+MAC10,Dilation of cervix
+MAC10,Procedure on cervix uteri
+MAC10,The cervical canal is dilated before delivery.
+MAC20,Vacuum traction for induction of labor
+MAC20,Vacuum traction to induce labor
+MAC20,Mechanical induction of labor by vacuum traction
+MAC20,Mechanical induction of labor
+MAC20,Obstetric procedure
+MAC20,Vacuum traction is applied to stimulate or advance labor.
+MAC23,Obstetric forceps traction
+MAC23,Traction using obstetric forceps
+MAC23,Forceps-assisted traction during labour
+MAC23,Traction during labour
+MAC23,Obstetric procedure
+MAC23,Obstetric forceps are used to apply traction to assist the progress of labour.
+MAC31,Induction of labor using prostaglandin
+MAC31,Prostaglandin-induced induction of labor
+MAC31,Induction of labor by prostaglandin
+MAC31,Induction of labor
+MAC31,Obstetric procedure
+MAC31,Prostaglandin is administered to initiate labor.
+MAC32,Induction or augmentation of labor using oxytocin
+MAC32,Oxytocin induction of labor
+MAC32,Oxytocin augmentation of labor
+MAC32,Induction or augmentation of labor
+MAC32,Obstetric procedure
+MAC32,Oxytocin is administered to initiate labor or increase labor activity.
+MAC90,Preparation for childbirth
+MAC90,Childbirth preparation
+MAC90,Antenatal education for labour and delivery
+MAC90,Obstetric procedure
+MAC90,Education and preparation for labour and delivery before childbirth
+MAC91,Induction of labour by extra-amniotic infusion
+MAC91,Extra-amniotic infusion for induction of labour
+MAC91,Extra-amniotic infusion to induce labour
+MAC91,Induction of labour
+MAC91,Procedure on uterus
+MAC91,An infusion is introduced into the extra-amniotic space to induce labour.
+MAC96,Surgical induction of labor
+MAC96,Induction of labor by surgical procedure
+MAC96,Operative induction of labor
+MAC96,Induction of labor
+MAC96,Obstetric procedure
+MAC96,A surgical procedure is performed to initiate labor.
+MAD00,Incision of cervix to facilitate delivery
+MAD00,Cervical incision to assist delivery
+MAD00,Incision of the uterine cervix during delivery
+MAD00,Incision of cervix
+MAD00,Procedure on cervix
+MAD00,An incision is made in the cervix to assist delivery.
+MAD20,Pubiotomy
+MAD20,Obstetric pubiotomy
+MAD20,Pubic osteotomy to assist delivery
+MAD20,Osteotomy of pubis
+MAD20,Procedure on pelvis
+MAD20,The pubic bone is surgically divided to enlarge the birth passage and assist delivery.
+MAD96,Dilatation of birth canal to facilitate delivery
+MAD96,Expansion of the birth canal for delivery
+MAD96,Dilatation of the passages of the birth canal
+MAD96,Procedure on the birth canal
+MAD96,Dilatation of the birth canal widens the passages to assist delivery.
+MAE00,Outlet vacuum-assisted vaginal delivery
+MAE00,Vacuum extraction delivery at outlet
+MAE00,Outlet vacuum extraction
+MAE00,Vacuum-assisted vaginal delivery
+MAE00,Obstetric delivery procedure
+MAE00,A vacuum device is used to assist delivery of the baby at the outlet of the birth canal.
+MAE03,Mid-cavity or high vacuum extraction delivery
+MAE03,Vacuum-assisted delivery from mid-cavity or high station
+MAE03,High or mid-cavity vacuum delivery
+MAE03,Vacuum-assisted delivery
+MAE03,Obstetric delivery procedure
+MAE03,A vacuum device is used to assist delivery of the fetus from a mid-cavity or high station.
+MAE20,Failed vacuum extraction of fetus
+MAE20,Unsuccessful vacuum-assisted vaginal delivery
+MAE20,Failed ventouse delivery
+MAE20,Failed assisted vaginal delivery
+MAE20,Delivery of fetus
+MAE20,Obstetric procedure
+MAE20,Vacuum-assisted delivery was attempted but did not successfully deliver the fetus.
+MAE96,Vacuum extraction delivery
+MAE96,Delivery by vacuum extraction
+MAE96,Vacuum-assisted vaginal delivery
+MAE96,Assisted vaginal delivery
+MAE96,Delivery procedure
+MAE96,Vacuum is used to assist vaginal delivery of the fetus.
+MAF00,Delivery by outlet forceps
+MAF00,Outlet forceps delivery
+MAF00,Cephalic delivery using outlet forceps
+MAF00,Forceps delivery
+MAF00,Obstetric delivery procedure
+MAF00,The fetal head is delivered through the birth canal with outlet forceps.
+MAF10,Mid-cavity forceps delivery of fetus
+MAF10,Mid-forceps delivery of fetus
+MAF10,Forceps delivery of fetus at mid-cavity
+MAF10,Forceps delivery of fetus
+MAF10,Obstetric procedure
+MAF10,Forceps are applied to assist delivery of the fetus when the presenting part is at the mid-cavity.
+MAF20,Unsuccessful forceps delivery
+MAF20,Failed attempt at forceps delivery
+MAF20,Unsuccessful cephalic forceps extraction
+MAF20,Failed assisted vaginal delivery
+MAF20,Obstetric delivery procedure
+MAF20,Forceps delivery was attempted to assist cephalic birth but was unsuccessful.
+MAF96,Forceps delivery of fetus in cephalic presentation
+MAF96,Cephalic forceps delivery
+MAF96,Delivery of fetus by forceps in cephalic presentation
+MAF96,Cephalic delivery
+MAF96,Obstetric delivery
+MAF96,The fetus is delivered using forceps while in a cephalic presentation.
+MAG00,Assisted breech delivery
+MAG00,Assisted vaginal breech delivery
+MAG00,Breech delivery with assistance
+MAG00,Breech delivery
+MAG00,Obstetric delivery
+MAG00,The fetus is delivered in breech presentation with assistance.
+MAG03,Forceps-assisted delivery of aftercoming head in breech presentation
+MAG03,Forceps delivery of the aftercoming head
+MAG03,Assisted breech delivery of the aftercoming head
+MAG03,Breech delivery
+MAG03,Obstetric procedure
+MAG03,Forceps are used to assist delivery of the aftercoming head during a breech birth.
+MAG10,Breech extraction delivery
+MAG10,Breech extraction (procedure)
+MAG10,Extraction of fetus in breech presentation
+MAG10,Assisted breech delivery
+MAG10,Breech delivery
+MAG10,Obstetric delivery procedure
+MAG10,The fetus is extracted in a breech presentation during delivery.
+MAG13,Breech extraction delivery with forceps to aftercoming head
+MAG13,Forceps-assisted delivery of the aftercoming head in breech presentation
+MAG13,Breech delivery with forceps applied to the aftercoming head
+MAG13,Breech extraction delivery
+MAG13,Obstetric delivery procedure
+MAG13,"The fetus is delivered by breech extraction, with forceps used to assist delivery of the aftercoming head."
+MAG20,Internal podalic version with extraction of fetus
+MAG20,Internal version and breech extraction
+MAG20,Internal podalic version and breech extraction
+MAG20,Internal version with extraction
+MAG20,Procedure on fetus
+MAG20,The fetus is turned to a breech position by internal manipulation and delivered by extraction.
+MAG96,Breech delivery
+MAG96,Delivery of fetus in breech presentation
+MAG96,Delivery of breech presentation
+MAG96,Obstetric delivery procedure
+MAG96,Delivery of a fetus presenting buttocks or feet first.
+MAJ00,Reduction of multiple pregnancy by one fetus
+MAJ00,Fetal reduction of multiple pregnancy by one fetus
+MAJ00,Multifetal pregnancy reduction by one fetus
+MAJ00,Reduction of multiple pregnancy
+MAJ00,Procedure on fetus
+MAJ00,One fetus is removed or otherwise reduced to decrease the number of fetuses in a multiple pregnancy.
+MAJ10,Multifetal pregnancy reduction
+MAJ10,Reduction of multiple pregnancy
+MAJ10,Reduction of multiple gestation
+MAJ10,Fetal reduction procedure
+MAJ10,Reduction of pregnancy
+MAJ10,Obstetric procedure
+MAJ10,A procedure is performed to reduce the number of fetuses in a multiple pregnancy by more than one fetus.
+MAW96,Surgical procedure during pregnancy or childbirth
+MAW96,Operation during pregnancy or at delivery
+MAW96,Obstetric surgical procedure during pregnancy or childbirth
+MAW96,Obstetric procedure
+MAW96,Procedure performed during pregnancy or childbirth
+MAW97,Laparoscopic procedure during pregnancy
+MAW97,Laparoscopic operation during pregnancy
+MAW97,Laparoscopic surgery in a pregnant patient
+MAW97,Operation during pregnancy
+MAW97,Procedure on a pregnant patient
+MAW97,A laparoscopic operation is performed while the patient is pregnant.
+MAW98,Transluminal endoscopic operation during pregnancy
+MAW98,Endoluminal endoscopic surgery during pregnancy
+MAW98,Endoscopic operation performed during pregnancy
+MAW98,Operation during pregnancy
+MAW98,Procedure on pregnant patient
+MAW98,An operation is performed using an endoscope passed through a body lumen during pregnancy.
+MBB00,Manual replacement of inverted uterus
+MBB00,Manual reduction of uterine inversion
+MBB00,Manual repositioning of an inverted postpartum uterus
+MBB00,Repositioning of uterus
+MBB00,Procedure on uterus
+MBB00,The inverted uterus is manually returned to its normal position.
+MBB10,Uterine packing following delivery
+MBB10,Packing of uterus after delivery
+MBB10,Uterine tamponade following delivery
+MBB10,Packing of uterus
+MBB10,Procedure on uterus
+MBB10,Packing material is placed in the uterus after delivery.
+MBB96,Manual procedure on postpartum uterus
+MBB96,Manual procedure on uterus following delivery
+MBB96,Manual uterine procedure after childbirth
+MBB96,Manual procedure on uterus
+MBB96,Procedure on uterus
+MBB96,A manual procedure is performed on the uterus after delivery.
+MBC00,Repair of obstetric laceration of cervix uteri
+MBC00,Suture of obstetric cervical laceration
+MBC00,Repair of cervical tear following delivery
+MBC00,Repair of laceration of cervix uteri
+MBC00,Procedure on cervix uteri
+MBC00,"The cervical laceration is repaired, typically by suturing the torn tissue."
+MBC10,Repair of obstetric laceration of vagina
+MBC10,Repair of vaginal laceration following childbirth
+MBC10,Suture of obstetric vaginal tear
+MBC10,Repair of vaginal laceration
+MBC10,Procedure on vagina
+MBC10,Surgically repairs a laceration of the vagina sustained during childbirth.
+MBC20,Repair of obstetric laceration of vulva
+MBC20,Repair of vulvar laceration following childbirth
+MBC20,Suture of obstetric tear of the vulva
+MBC20,Repair of vulvar laceration
+MBC20,Procedure on vulva
+MBC20,Surgical repair of a tear in the vulva sustained during childbirth.
+MBC30,Repair of partial perineal laceration (procedure)
+MBC30,Suture of partial perineal tear
+MBC30,Repair of obstetric perineal laceration
+MBC30,Repair of perineal laceration
+MBC30,Procedure on perineum
+MBC30,Surgical repair of a partial tear of the perineum by bringing the torn tissue together
+MBC33,Repair of complete perineal tear
+MBC33,Repair of complete perineal laceration
+MBC33,Suture of complete perineal rupture
+MBC33,Repair of obstetric perineal laceration
+MBC33,Operation on perineum
+MBC33,Surgical repair of a complete tear of the perineum following childbirth.
+MBC40,Revision of obstetric hematoma of the vulva or paravaginal tissues
+MBC40,Repair of postpartum vulvovaginal hematoma
+MBC40,Revision of vulvar or paravaginal hematoma following delivery or abortion
+MBC40,Revision of vulvar or paravaginal hematoma
+MBC40,Procedure on the vulva or vagina
+MBC40,"Surgical revision of a hematoma in the vulvar or paravaginal tissues after delivery or abortion, to treat the hematoma."
+MBC80,Intravascular embolization for postpartum hemorrhage
+MBC80,Intravascular embolisation for postpartum haemorrhage
+MBC80,Embolization for bleeding following delivery
+MBC80,Procedure on uterus
+MBC80,Intravascular embolization is performed to control bleeding from the uterus after delivery.
+MBC90,Repair of obstetric laceration to control postpartum bleeding
+MBC90,Suture of obstetric laceration for hemorrhage control
+MBC90,Repair of birth canal laceration to control bleeding
+MBC90,Repair of obstetric laceration
+MBC90,Procedure on the female genital tract
+MBC90,An obstetric laceration is repaired to stop bleeding after delivery.
+MBC96,Repair of obstetric laceration
+MBC96,Suture of obstetric laceration
+MBC96,Obstetric laceration repair
+MBC96,Repair of laceration following childbirth
+MBC96,Repair of laceration
+MBC96,Procedure on the female genital tract
+MBC96,"The obstetric laceration is repaired, typically by bringing the wound edges together with sutures."
+MBS00,Blood sampling from umbilical vein
+MBS00,Umbilical venous blood sampling
+MBS00,Sampling of blood from the umbilical vein
+MBS00,Collection of umbilical venous blood
+MBS00,Blood sampling
+MBS00,Procedure on umbilical vein
+MBS00,Blood is collected from the umbilical vein after delivery.
+MBW96,Operation following delivery or abortion
+MBW96,Procedure following delivery or abortion
+MBW96,Operation following childbirth or termination of pregnancy
+MBW96,Postpartum or postabortion operation
+MBW96,Operation following pregnancy
+MBW96,Obstetric procedure
+MBW96,An operation is performed after delivery or abortion.
+MCA00,Classical cesarean section
+MCA00,Upper segment cesarean section
+MCA00,Classical caesarean delivery
+MCA00,Cesarean section
+MCA00,Procedure on uterus
+MCA00,A cesarean section is performed through an incision in the upper segment of the uterus to deliver the baby.
+MCA10,Lower segment caesarean section
+MCA10,Caesarean section of lower uterine segment
+MCA10,Lower uterine segment cesarean delivery
+MCA10,Caesarean section
+MCA10,Surgical procedure on uterus
+MCA10,Delivery of the fetus by making an incision in the lower uterine segment
+MCA20,Vaginal caesarean section
+MCA20,Caesarean section by vaginal approach
+MCA20,Transvaginal caesarean section
+MCA20,Caesarean section
+MCA20,Operation on uterus
+MCA20,The uterus is opened through the vagina to perform a caesarean section.
+MCA30,Caesarean section with subtotal hysterectomy
+MCA30,Caesarean hysterectomy with supracervical hysterectomy
+MCA30,Caesarean section and supracervical hysterectomy
+MCA30,Hysterectomy
+MCA30,Procedure on uterus
+MCA30,"The uterus is removed above the cervix during a caesarean section, leaving the cervix in place."
+MCA33,Total caesarean hysterectomy
+MCA33,Caesarean hysterectomy
+MCA33,Hysterectomy at time of caesarean section
+MCA33,Total hysterectomy performed during caesarean delivery
+MCA33,Hysterectomy
+MCA33,Surgical removal of the uterus is performed during caesarean delivery.
+MCA96,Caesarean section
+MCA96,Cesarean section
+MCA96,Caesarean delivery
+MCA96,Procedure on uterus
+MCA96,Surgical delivery of a fetus through incisions in the abdomen and uterus
+MCC00,Repair of postpartum uterine rupture
+MCC00,Postpartum repair of ruptured uterus
+MCC00,Suture repair of uterine rupture after delivery
+MCC00,Repair of uterine rupture
+MCC00,Procedure on uterus
+MCC00,Surgical repair of a rupture in the uterus after childbirth.
+MCW00,Obstetric hysterectomy
+MCW00,Peripartum hysterectomy
+MCW00,Hysterectomy performed during childbirth
+MCW00,Hysterectomy
+MCW00,Operation on uterus
+MCW00,Surgical removal of the uterus is performed in an obstetric context.
+MCW96,Obstetric laparotomy
+MCW96,Laparotomy in obstetrics
+MCW96,Obstetrical laparotomy
+MCW96,Laparotomy
+MCW96,Procedure on abdomen
+MCW96,The abdomen is opened surgically for an obstetric procedure.
+MWA00,Repair of dehisced obstetric surgical wound
+MWA00,Closure of dehisced obstetric surgical wound
+MWA00,Resuturing of obstetric surgical wound dehiscence
+MWA00,Repair of obstetric surgical wound
+MWA00,Procedure on obstetric surgical wound
+MWA00,The dehisced wound from obstetric surgery is repaired and closed.
+MWB00,Reoperation for superficial infection of obstetric surgical wound
+MWB00,Re-exploration of obstetric surgical wound for superficial infection
+MWB00,Revision of obstetric surgical wound for superficial infection
+MWB00,Reoperation in obstetric surgery
+MWB00,Procedure on an obstetric surgical site
+MWB00,A surgical reoperation is performed to treat a superficial infection at the site of an obstetric operation.
+MWD00,Reoperation for control of superficial hemorrhage following obstetric surgery
+MWD00,Re-exploration for superficial bleeding after obstetric surgery
+MWD00,Surgical reoperation to control superficial haemorrhage in obstetric surgery
+MWD00,Reoperation for hemorrhage following obstetric surgery
+MWD00,Reoperation on obstetric surgical site
+MWD00,A surgical site is re-explored and superficial bleeding is controlled after obstetric surgery.
+MWE00,Reoperation for control of deep hemorrhage following obstetric surgery
+MWE00,Re-exploration for deep bleeding after obstetric surgery
+MWE00,Surgical reintervention to control deep hemorrhage following an obstetric procedure
+MWE00,Reoperation for hemorrhage following obstetric surgery
+MWE00,Reoperation on an obstetric surgical site
+MWE00,The patient undergoes repeat surgery to control deep bleeding following obstetric surgery.
+MWE01,Percutaneous endoscopic reoperation for control of deep hemorrhage in obstetric surgery
+MWE01,Endoscopic reoperation for deep haemorrhage following obstetric surgery
+MWE01,Reoperation to control deep hemorrhage after obstetric surgery
+MWE01,Reoperation for deep hemorrhage in obstetric surgery
+MWE01,Reoperation on an obstetric surgical site
+MWE01,The obstetric surgical site is reoperated on endoscopically to treat deep hemorrhage.
+MWE02,Endoscopic reoperation to control deep haemorrhage following obstetric surgery
+MWE02,Transluminal endoscopic reoperation for control of obstetric haemorrhage
+MWE02,Endoscopic reoperation for haemostasis after obstetric surgery
+MWE02,Reoperation to control haemorrhage following obstetric surgery
+MWE02,Procedure on the obstetric surgical site
+MWE02,An endoscope is passed through a body lumen to reoperate and control deep bleeding following obstetric surgery.
+MWF00,Reoperation for failure of anastomosis or suture in obstetric surgery
+MWF00,Revision of failed obstetric anastomosis or suture
+MWF00,Repair of anastomotic or suture dehiscence after obstetric surgery
+MWF00,Repair of obstetric anastomosis or suture failure
+MWF00,Reoperation on an obstetric surgical site
+MWF00,The procedure reoperates on an obstetric surgical site to address failure of an anastomosis or suture.
+MWF01,Percutaneous endoscopic revision of anastomosis or suture for insufficiency in obstetric surgery
+MWF01,Endoscopic reoperation for obstetric anastomotic or suture insufficiency
+MWF01,Percutaneous endoscopic repair of failed obstetric anastomosis or suture
+MWF01,Reoperation for insufficiency of anastomosis or suture in obstetric surgery
+MWF01,Reoperation on an obstetric surgical site
+MWF01,The obstetric anastomosis or suture is reoperated on endoscopically through percutaneous access to address insufficiency.
+MXB00,Childbirth preparation education
+MXB00,Childbirth education
+MXB00,Preparation for labor and delivery
+MXB00,Preparation for childbirth
+MXB00,Obstetric procedure
+MXB00,Education and preparation for childbirth are provided to help the patient prepare for labor and delivery.
+TAC00,Peripheral nerve block
+TAC00,Nerve blockade
+TAC00,Block of peripheral nerve
+TAC00,Procedure on peripheral nerve
+TAC00,A local anesthetic is injected near a peripheral nerve to temporarily block nerve conduction.
+TBB00,Puncture of parathyroid gland
+TBB00,Parathyroid gland puncture
+TBB00,Needle puncture of parathyroid gland
+TBB00,Procedure on parathyroid gland
+TBB00,A needle is inserted into the parathyroid gland to obtain a sample or access the gland.
+TBB10,Needle biopsy of parathyroid gland
+TBB10,Parathyroid gland needle biopsy
+TBB10,Needle biopsy of parathyroid
+TBB10,Biopsy of parathyroid gland
+TBB10,Procedure on parathyroid gland
+TBB10,A needle is inserted into the parathyroid gland to obtain a tissue sample for examination.
+TBC00,Needle biopsy of adrenal gland
+TBC00,Percutaneous needle biopsy of adrenal gland
+TBC00,Adrenal gland needle biopsy
+TBC00,Biopsy of adrenal gland
+TBC00,Procedure on adrenal gland
+TBC00,A needle is used to obtain a tissue sample from the adrenal gland.
+TBW99,Minor surgical procedure on endocrine system
+TBW99,Minor endocrine surgical procedure
+TBW99,Minor procedure on an endocrine gland
+TBW99,Surgical procedure on endocrine system
+TBW99,Procedure on endocrine system
+TBW99,A minor surgical procedure is performed on an endocrine gland or the endocrine system.
+TCA00,Needle biopsy of orbit
+TCA00,Orbital needle biopsy
+TCA00,Biopsy of orbit by needle
+TCA00,Biopsy of orbit
+TCA00,Procedure on orbit
+TCA00,A needle is used to obtain a tissue sample from the orbit for examination.
+TCA15,Retrobulbar injection of therapeutic substance
+TCA15,Therapeutic retrobulbar injection
+TCA15,Injection of medication into retrobulbar space
+TCA15,Injection of therapeutic substance into orbit
+TCA15,Procedure on orbit
+TCA15,A therapeutic substance is injected into the space behind the eye.
+TCA20,Peribulbar injection of therapeutic substance
+TCA20,Injection of therapeutic agent into peribulbar space
+TCA20,Therapeutic injection into the peribulbar space
+TCA20,Injection of therapeutic substance into orbit
+TCA20,Injection procedure on orbit
+TCA20,Procedure on orbit
+TCA20,A therapeutic substance is injected into the tissue surrounding the eyeball within the orbit.
+TCB00,Needle biopsy of eyelid
+TCB00,Eyelid needle biopsy
+TCB00,Biopsy of eyelid
+TCB00,Procedure on eyelid
+TCB00,A needle is used to obtain a tissue sample from the eyelid.
+TCB20,Injection of therapeutic substance into eyelid
+TCB20,Therapeutic injection of eyelid
+TCB20,Administration of therapeutic agent by injection into eyelid
+TCB20,Injection into eyelid
+TCB20,Procedure on eyelid
+TCB20,A therapeutic substance is injected into the eyelid.
+TCC00,Needle biopsy of lacrimal gland
+TCC00,Lacrimal gland needle biopsy
+TCC00,Biopsy of lacrimal gland
+TCC00,Procedure on lacrimal gland
+TCC00,A needle is used to obtain a tissue sample from the lacrimal gland.
+TCC10,Probing of lacrimal drainage system (procedure)
+TCC10,Lacrimal duct probing
+TCC10,Probing of the lacrimal canaliculus
+TCC10,Probing of the nasolacrimal duct
+TCC10,Procedure on lacrimal drainage system
+TCC10,Procedure on lacrimal apparatus
+TCC10,A probe is passed through a lacrimal canaliculus or the nasolacrimal duct.
+TCC30,Intubation of lacrimal drainage passage
+TCC30,Lacrimal canaliculus intubation
+TCC30,Nasolacrimal duct intubation
+TCC30,Procedure on lacrimal drainage system
+TCC30,A tube is inserted into a lacrimal canaliculus or the nasolacrimal duct.
+TCF00,Subconjunctival injection of therapeutic agent
+TCF00,Therapeutic injection into subconjunctival space
+TCF00,Injection of medication beneath the conjunctiva
+TCF00,Injection procedure on conjunctiva
+TCF00,Procedure on conjunctiva
+TCF00,A therapeutic agent is injected into the space beneath the conjunctiva.
+TCG10,Removal of suture from cornea
+TCG10,Corneal suture removal
+TCG10,Removal of corneal sutures
+TCG10,Suture removal from eye
+TCG10,Procedure on cornea
+TCG10,Sutures are removed from the cornea.
+TCK10,Needle biopsy of choroid
+TCK10,Needle biopsy of choroidal tissue
+TCK10,Choroidal needle biopsy
+TCK10,Biopsy of choroid
+TCK10,Procedure on choroid
+TCK10,A needle is used to obtain a tissue sample from the choroid.
+TCK20,Biopsy of vitreous body
+TCK20,Needle biopsy of vitreous body
+TCK20,Vitreous body biopsy
+TCK20,Biopsy of vitreous
+TCK20,Procedure on vitreous body
+TCK20,A needle is used to obtain a tissue sample from the vitreous body.
+TCK30,Needle biopsy of retina
+TCK30,Retinal needle biopsy
+TCK30,Biopsy of retina using needle
+TCK30,Biopsy of retina
+TCK30,Procedure on retina
+TCK30,A needle is used to obtain a tissue sample from the retina.
+TCW99,Minor procedure on eye
+TCW99,Minor eye procedure
+TCW99,Minor ophthalmic procedure
+TCW99,Procedure on eye
+TCW99,A minor surgical procedure is performed on the eye.
+TDA00,Biopsy of external ear
+TDA00,Biopsy of auricle
+TDA00,Biopsy of external auditory canal
+TDA00,Biopsy of ear
+TDA00,Procedure on external ear
+TDA00,A tissue sample is taken from the auricle or external auditory canal for examination.
+TDA10,Needle biopsy of external ear
+TDA10,Needle biopsy of auricle
+TDA10,Needle biopsy of external auditory canal
+TDA10,Biopsy of external ear
+TDA10,Procedure on external ear
+TDA10,A needle is used to obtain a tissue sample from the auricle or external auditory canal.
+TDA90,Removal of cerumen from external auditory canal
+TDA90,Removal of ear wax
+TDA90,Cerumen removal
+TDA90,Removal of wax from ear
+TDA90,Procedure on external ear
+TDA90,Ear wax is removed from the ear canal.
+TDC00,Needle biopsy of tympanic membrane
+TDC00,Needle biopsy of the eardrum
+TDC00,Tympanic membrane needle biopsy
+TDC00,Biopsy of tympanic membrane
+TDC00,Procedure on tympanic membrane
+TDC00,A needle is used to obtain a tissue sample from the tympanic membrane.
+TDH00,Needle biopsy of nose
+TDH00,Needle biopsy of nasal tissue
+TDH00,Biopsy of nose
+TDH00,Procedure on nose
+TDH00,A needle is used to obtain a tissue sample from the nose for examination.
+TDH10,Removal of foreign body from nasal cavity
+TDH10,Extraction of foreign body from nasal cavity
+TDH10,Removal of nasal foreign body
+TDH10,Removal of foreign body from nose
+TDH10,Procedure on nose
+TDH10,A foreign body is extracted from the nasal cavity.
+TDJ00,Needle biopsy of nasal septum
+TDJ00,Nasal septum needle biopsy
+TDJ00,Needle biopsy of septum of nose
+TDJ00,Biopsy of nasal septum
+TDJ00,Procedure on nasal septum
+TDJ00,A needle is used to obtain a tissue sample from the nasal septum.
+TDM00,Needle biopsy of maxillary sinus
+TDM00,Needle biopsy of maxillary antrum
+TDM00,Biopsy of maxillary sinus using needle
+TDM00,Biopsy of maxillary sinus
+TDM00,Procedure on maxillary sinus
+TDM00,A needle is used to obtain a tissue sample from the maxillary sinus.
+TDM10,Puncture and irrigation of maxillary sinus
+TDM10,Maxillary sinus puncture and lavage
+TDM10,Puncture and lavage of maxillary antrum
+TDM10,Irrigation of maxillary sinus
+TDM10,Procedure on maxillary sinus
+TDM10,The maxillary sinus is punctured and irrigated.
+TDN00,Needle biopsy of ethmoid bone and sinus
+TDN00,Needle biopsy of ethmoid sinus
+TDN00,Needle biopsy of ethmoid bone
+TDN00,Biopsy of ethmoid bone and sinus
+TDN00,Procedure on ethmoid bone and sinus
+TDN00,A needle is used to obtain a tissue sample from the ethmoid bone and sinus.
+TDP00,Needle biopsy of frontal sinus
+TDP00,Needle biopsy of the frontal sinus
+TDP00,Frontal sinus needle biopsy
+TDP00,Biopsy of frontal sinus
+TDP00,Procedure on frontal sinus
+TDP00,A needle is used to obtain a tissue sample from the frontal sinus.
+TDP05,Puncture of frontal sinus
+TDP05,Frontal sinus puncture
+TDP05,Puncture of the frontal sinus
+TDP05,Puncture of paranasal sinus
+TDP05,Procedure on frontal sinus
+TDP05,A puncture is made into the frontal sinus.
+TDP10,Needle biopsy of sphenoid sinus
+TDP10,Biopsy of sphenoid sinus using needle
+TDP10,Needle aspiration biopsy of sphenoidal sinus
+TDP10,Biopsy of sphenoid sinus
+TDP10,Procedure on sphenoid sinus
+TDP10,A needle is used to obtain a tissue sample from the sphenoid sinus.
+TDQ00,Needle biopsy of larynx
+TDQ00,Laryngeal needle biopsy
+TDQ00,Biopsy of larynx using needle
+TDQ00,Biopsy of larynx
+TDQ00,Procedure on larynx
+TDQ00,A needle is used to obtain a tissue sample from the larynx.
+TEA00,Biopsy of lip
+TEA00,Lip biopsy
+TEA00,Biopsy of labial tissue
+TEA00,Procedure on lip
+TEA00,A sample of tissue is removed from the lip for examination.
+TEA10,Needle biopsy of lip
+TEA10,Biopsy of lip using needle
+TEA10,Lip needle biopsy
+TEA10,Biopsy of lip
+TEA10,Procedure on lip
+TEA10,A needle is used to obtain a tissue sample from the lip for examination.
+TEC00,Needle biopsy of gingiva
+TEC00,Needle biopsy of gum
+TEC00,Gingival needle biopsy
+TEC00,Biopsy of gingiva
+TEC00,Procedure on gingiva
+TEC00,A needle is used to obtain a tissue sample from the gingiva for examination.
+TED00,Closed reduction of dislocation of temporomandibular joint
+TED00,Closed reduction of dislocated jaw
+TED00,Manual reduction of dislocated temporomandibular joint
+TED00,Reduction of dislocation of jaw
+TED00,Procedure on jaw
+TED00,The dislocated jaw is manipulated back into its normal position without an incision.
+TED10,Needle biopsy of mandible
+TED10,Needle biopsy of lower jaw
+TED10,Percutaneous needle biopsy of mandible
+TED10,Biopsy of mandible
+TED10,Procedure on mandible
+TED10,A needle is used to obtain a tissue sample from the mandible.
+TEH00,Needle biopsy of palate
+TEH00,Palatal needle biopsy
+TEH00,Needle sampling of palate
+TEH00,Biopsy of palate
+TEH00,Procedure on palate
+TEH00,A needle is used to obtain a tissue sample from the palate.
+TEJ00,Needle biopsy of tongue or floor of mouth
+TEJ00,Needle biopsy of oral cavity
+TEJ00,Needle biopsy of tongue or oral floor
+TEJ00,Biopsy of tongue or floor of mouth
+TEJ00,Procedure on tongue or floor of mouth
+TEJ00,A needle is used to obtain a tissue sample from the tongue or floor of the mouth.
+TEM00,Needle biopsy of tonsil or adenoid
+TEM00,Needle biopsy of tonsil
+TEM00,Needle biopsy of adenoid
+TEM00,Biopsy of tonsil or adenoid
+TEM00,Procedure on tonsils or adenoids
+TEM00,A needle is used to obtain tissue from a tonsil or adenoid for examination.
+TEN00,Needle biopsy of pharynx or adjacent structure
+TEN00,Biopsy of pharynx or adjacent structure using needle
+TEN00,Pharyngeal needle biopsy
+TEN00,Biopsy of pharynx or adjacent structure
+TEN00,Procedure on pharynx
+TEN00,A needle is used to obtain a tissue sample from the pharynx or an adjacent structure.
+TEW99,Minor surgical procedure on oral cavity
+TEW99,Minor surgery of the mouth
+TEW99,"Minor surgical procedure of the teeth, jaws, mouth or pharynx"
+TEW99,Surgical procedure on the oral cavity
+TEW99,Procedure on the mouth and related structures
+TEW99,Surgical procedure on the oral cavity and pharynx
+TEW99,"A minor surgical procedure is performed on a structure of the teeth, jaws, mouth or pharynx."
+TFC00,Catheterization of right side of heart
+TFC00,Right heart catheterization
+TFC00,Catheterization of right atrium or right ventricle
+TFC00,Cardiac catheterization
+TFC00,Procedure on heart
+TFC00,A catheter is introduced into the right atrium or right ventricle.
+TFC10,Left heart catheterization
+TFC10,Catheterization of the left heart
+TFC10,Catheterisation of the left atrium or ventricle
+TFC10,Cardiac catheterization
+TFC10,Procedure on heart
+TFC10,A catheter is introduced into the left atrium or ventricle.
+TFJ00,Puncture of heart
+TFJ00,Cardiac puncture
+TFJ00,Heart puncture
+TFJ00,Procedure on heart
+TFJ00,A puncture is made in the heart.
+TGA00,Needle biopsy of chest wall
+TGA00,Biopsy of chest wall using needle
+TGA00,Needle biopsy of thoracic wall
+TGA00,Biopsy of chest wall
+TGA00,Procedure on chest wall
+TGA00,A needle is used to obtain a tissue sample from the chest wall.
+TGA10,Needle biopsy of pleura
+TGA10,Pleural needle biopsy
+TGA10,Biopsy of pleura using needle
+TGA10,Biopsy of pleura
+TGA10,Procedure on pleura
+TGA10,A needle is used to obtain a tissue sample from the pleura for examination.
+TGA20,Biopsy of diaphragm using needle
+TGA20,Needle biopsy of diaphragm
+TGA20,Biopsy of diaphragm
+TGA20,Procedure on diaphragm
+TGA20,A needle is inserted into the diaphragm to obtain a tissue sample for examination.
+TGA30,Thoracentesis
+TGA30,Thoracocentesis
+TGA30,Pleural puncture
+TGA30,Puncture of pleural cavity
+TGA30,Procedure on pleura
+TGA30,A needle is inserted through the chest wall into the pleural space.
+TGB00,Needle biopsy of trachea
+TGB00,Needle biopsy of the trachea
+TGB00,Tracheal needle biopsy
+TGB00,Biopsy of trachea
+TGB00,Procedure on trachea
+TGB00,A needle is used to obtain a tissue sample from the trachea.
+TGE00,Needle biopsy of mediastinum
+TGE00,Mediastinal needle biopsy
+TGE00,Biopsy of mediastinum using needle
+TGE00,Biopsy of mediastinum
+TGE00,Procedure on mediastinum
+TGE00,A needle is used to obtain a tissue sample from the mediastinum.
+TGW99,Minor surgical procedure of thorax
+TGW99,Minor thoracic surgical procedure
+TGW99,Minor procedure on thoracic cavity
+TGW99,Surgical procedure of thorax
+TGW99,Procedure on thoracic region
+TGW99,A minor surgical procedure is performed in the thoracic region.
+THA00,Needle biopsy of nipple
+THA00,Needle biopsy of the mamilla
+THA00,Nipple needle biopsy
+THA00,Biopsy of nipple
+THA00,Procedure on nipple
+THA00,A needle is used to obtain a tissue sample from the nipple for examination.
+THA10,Needle biopsy of breast
+THA10,Breast needle biopsy
+THA10,Needle biopsy of mammary gland
+THA10,Biopsy of breast
+THA10,Procedure on breast
+THA10,A needle is used to obtain a tissue sample from the breast for examination.
+THW99,Minor surgical procedure on breast
+THW99,Minor procedure of breast
+THW99,Minor operation on mammary gland
+THW99,Surgical procedure on breast
+THW99,Procedure on breast
+THW99,A minor surgical procedure is performed on the breast.
+TJA00,Peritoneal puncture
+TJA00,Puncture of peritoneal cavity
+TJA00,Paracentesis
+TJA00,Peritoneal cavity puncture
+TJA00,Procedure on peritoneum
+TJA00,Procedure on abdominal cavity
+TJA00,The peritoneum is punctured with a needle.
+TJA10,Paracentesis of peritoneal cavity
+TJA10,Abdominal paracentesis
+TJA10,Peritoneal cavity puncture
+TJA10,Puncture of peritoneal cavity
+TJA10,Procedure on abdomen
+TJA10,A needle is inserted through the abdominal wall into the peritoneal cavity.
+TJA35,Removal of peritoneal dialysis catheter
+TJA35,Peritoneal dialysis catheter removal
+TJA35,Removal of peritoneal catheter
+TJA35,Removal of catheter from peritoneal cavity
+TJA35,Procedure on peritoneal cavity
+TJA35,The peritoneal dialysis catheter is removed.
+TJD00,Insertion of nasogastric tube
+TJD00,Placement of nasogastric tube
+TJD00,Insertion of nasogastroduodenal tube
+TJD00,Insertion of gastrointestinal tube
+TJD00,Procedure on upper gastrointestinal tract
+TJD00,A tube is passed through the nose into the stomach or duodenum.
+TJD20,Replacement of gastrostomy tube
+TJD20,Gastrostomy tube exchange
+TJD20,Change of gastrostomy catheter
+TJD20,Replacement of gastrostomy tube. The existing gastrostomy tube is removed and replaced with another tube.
+TJD20,Procedure on stomach
+TJF00,Insertion of jejunal tube
+TJF00,Jejunal tube insertion
+TJF00,Insertion of tube into jejunum
+TJF00,Procedure on jejunum
+TJF00,A tube is inserted into the jejunum.
+TJF20,Biopsy of small intestine by oral approach
+TJF20,Peroral small intestinal biopsy
+TJF20,Small bowel biopsy via mouth
+TJF20,Biopsy of small intestine
+TJF20,Procedure on small intestine
+TJF20,A tissue sample is taken from the small intestine through the mouth.
+TJF30,Reduction of intestinal intussusception by barium enema
+TJF30,Reduction of intussusception of intestine using barium enema
+TJF30,Barium enema reduction of intestinal intussusception
+TJF30,Reduction of intestinal intussusception
+TJF30,Procedure on intestine
+TJF30,Intestinal intussusception is reduced by administering a barium enema.
+TJG10,Removal of foreign body from rectum
+TJG10,Extraction of foreign body from rectum
+TJG10,Rectal foreign body removal
+TJG10,Procedure on rectum
+TJG10,A foreign body is removed from the rectum.
+TJJ00,Percutaneous needle biopsy of liver
+TJJ00,Percutaneous liver biopsy
+TJJ00,Needle biopsy of liver
+TJJ00,Biopsy of liver
+TJJ00,Procedure on liver
+TJJ00,A needle is inserted through the skin to obtain a tissue sample from the liver.
+TJK00,Intraoperative cholangiography
+TJK00,Operative cholangiography
+TJK00,Intraoperative cholangiogram
+TJK00,Cholangiography
+TJK00,Imaging procedure on biliary tract
+TJK00,Contrast imaging of the bile ducts is performed during surgery to visualize the biliary tree.
+TJK01,Laparoscopic cholangiography
+TJK01,Cholangiography performed laparoscopically
+TJK01,Laparoscopic imaging of the biliary tract
+TJK01,Cholangiography
+TJK01,Procedure on biliary tract
+TJK01,Imaging of the bile ducts is performed using a laparoscopic approach.
+TJL00,Percutaneous needle biopsy of pancreas
+TJL00,Needle biopsy of pancreas by percutaneous approach
+TJL00,Percutaneous biopsy of pancreas
+TJL00,Biopsy of pancreas
+TJL00,Procedure on pancreas
+TJL00,A needle is inserted through the skin to obtain a tissue sample from the pancreas.
+TJM00,Needle biopsy of spleen
+TJM00,Biopsy of spleen using needle
+TJM00,Splenic needle biopsy
+TJM00,Biopsy of spleen
+TJM00,Procedure on spleen
+TJM00,A needle is used to obtain a tissue sample from the spleen.
+TK800,Hemodialysis
+TK800,Hemodialysis procedure
+TK800,Haemodialysis
+TK800,Extracorporeal dialysis
+TK800,Dialysis procedure
+TK800,A procedure in which blood is filtered through a dialysis machine to remove waste products and excess fluid.
+TK810,Hemofiltration
+TK810,Hemofiltration procedure
+TK810,Blood filtration procedure
+TK810,Extracorporeal blood filtration
+TK810,Procedure on blood
+TK820,Peritoneal dialysis
+TK820,Dialysis using the peritoneum
+TK820,Dialysis via the peritoneal cavity
+TK820,Dialysis
+TK820,Procedure on peritoneum
+TK820,Dialysis is performed using the peritoneal membrane to remove waste products and excess fluid from the blood.
+TKA00,Needle biopsy of kidney or renal pelvis
+TKA00,Renal needle biopsy
+TKA00,Needle biopsy of renal pelvis or kidney
+TKA00,Biopsy of kidney or renal pelvis
+TKA00,Procedure on kidney
+TKA00,A needle is used to obtain a tissue sample from the kidney or renal pelvis.
+TKA02,Needle biopsy of transplanted kidney
+TKA02,Needle biopsy of renal transplant
+TKA02,Renal transplant biopsy
+TKA02,Biopsy of kidney
+TKA02,Procedure on kidney
+TKA02,A needle is used to obtain a tissue sample from a transplanted kidney for examination.
+TKA10,Percutaneous puncture of kidney or renal pelvis
+TKA10,Percutaneous renal puncture
+TKA10,Needle puncture of kidney or renal pelvis
+TKA10,Puncture of kidney or renal pelvis
+TKA10,Procedure on kidney
+TKA10,A needle is passed through the skin to puncture the kidney or its renal pelvis.
+TKB40,Closure of ureterostomy
+TKB40,Ureterostomy closure
+TKB40,Closure of ureteral stoma
+TKB40,Closure of urinary stoma
+TKB40,Procedure on ureter
+TKB40,The ureterostomy is surgically closed.
+TKD00,Dilatation of urethra
+TKD00,Urethral dilatation
+TKD00,Dilation of urethra
+TKD00,Urethral dilation procedure
+TKD00,Procedure on urethra
+TKD00,The urethra is widened by dilating it.
+TKE00,Needle biopsy of prostate
+TKE00,Prostate needle biopsy
+TKE00,Needle biopsy of prostate gland
+TKE00,Biopsy of prostate
+TKE00,Procedure on prostate
+TKE00,A needle is used to remove a tissue sample from the prostate for examination.
+TKE05,Aspiration cytology of prostate
+TKE05,Prostatic aspiration cytology
+TKE05,Aspiration biopsy of prostate for cytology
+TKE05,Cytological examination of prostate aspirate
+TKE05,Cytology procedure on prostate
+TKE05,Procedure on prostate
+TKE05,Cells are collected from the prostate by aspiration for cytological examination.
+TKE10,Puncture of prostate
+TKE10,Prostate puncture
+TKE10,Puncture of prostate gland
+TKE10,Prostate procedure
+TKE10,Procedure on prostate
+TKE10,A puncture is made into the prostate.
+TKF00,Needle biopsy of testis
+TKF00,Testicular needle biopsy
+TKF00,Biopsy of testis using needle
+TKF00,Biopsy of testis
+TKF00,Procedure on testis
+TKF00,A needle is used to remove a small tissue sample from the testis for examination.
+TKF20,Needle biopsy of epididymis
+TKF20,Epididymal needle biopsy
+TKF20,Biopsy of epididymis
+TKF20,Procedure on epididymis
+TKF20,A needle is used to obtain a tissue sample from the epididymis.
+TKF30,Puncture of epididymis
+TKF30,Epididymal puncture
+TKF30,Needle puncture of epididymis
+TKF30,Procedure on epididymis
+TKF30,Procedure on male reproductive system
+TKF30,A needle is inserted into the epididymis.
+TKF60,Puncture of scrotum
+TKF60,Scrotal puncture
+TKF60,Puncture procedure of scrotum
+TKF60,Procedure on scrotum
+TKF60,The scrotum is punctured.
+TKW10,Hemodialysis
+TKW10,Haemodialysis
+TKW10,Dialysis of blood
+TKW10,Renal replacement therapy
+TKW10,Procedure on the urinary system
+TKW10,Blood is filtered by dialysis to remove waste products and excess fluid.
+TKW12,Self-administered hemodialysis
+TKW12,Patient-performed hemodialysis
+TKW12,Self-care hemodialysis
+TKW12,Hemodialysis
+TKW12,Renal replacement therapy
+TKW12,The patient performs hemodialysis.
+TKW20,Hemofiltration (procedure)
+TKW20,Haemofiltration
+TKW20,Filtration of blood
+TKW20,Blood filtration procedure
+TKW20,Procedure on blood
+TKW20,Blood is passed through a filter to remove waste products and excess fluid.
+TKW22,Home peritoneal dialysis
+TKW22,Domiciliary peritoneal dialysis
+TKW22,Home-based peritoneal dialysis
+TKW22,Peritoneal dialysis
+TKW22,Procedure on the peritoneum
+TKW22,Peritoneal dialysis is performed in the patient's home.
+TKW24,Chronic peritoneal dialysis (procedure)
+TKW24,Long-term peritoneal dialysis
+TKW24,Peritoneal dialysis
+TKW24,Peritoneal dialysis procedure
+TKW24,Procedure on peritoneum
+TKW24,Dialysis is performed using the peritoneum as a membrane for ongoing renal replacement therapy.
+TKW30,Peritoneal dialysis
+TKW30,Dialysis of peritoneum
+TKW30,Peritoneal dialysis procedure
+TKW30,Dialysis
+TKW30,Procedure on peritoneum
+TKW30,Dialysis is performed using the peritoneum as the dialysis membrane.
+TKW44,Chronic hemodialysis
+TKW44,Long-term hemodialysis
+TKW44,Maintenance hemodialysis
+TKW44,Hemodialysis
+TKW44,Renal replacement therapy
+TKW44,Ongoing extracorporeal dialysis of the blood to support kidney function.
+TKW99,Minor surgical procedure of genitourinary system
+TKW99,Minor urological surgical procedure
+TKW99,Minor surgery of the urinary tract
+TKW99,Surgical procedure on genitourinary system
+TKW99,Procedure on genitourinary system
+TKW99,A minor surgical procedure is performed on a structure of the urinary or genital system.
+TLB00,Needle biopsy of fallopian tube
+TLB00,Needle biopsy of uterine tube
+TLB00,Fallopian tube needle biopsy
+TLB00,Biopsy of fallopian tube
+TLB00,Procedure on fallopian tube
+TLB00,A needle is used to obtain a tissue sample from the fallopian tube.
+TLE00,Dilatation of vagina
+TLE00,Vaginal dilatation
+TLE00,Dilation of vaginal canal
+TLE00,Dilatation procedure on vagina
+TLE00,Procedure on vagina
+TLE00,The vagina is dilated.
+TLE05,Removal of foreign body from vagina in adult
+TLE05,Extraction of foreign body from vagina in adult
+TLE05,Vaginal foreign body removal in adult
+TLE05,Removal of foreign body from vagina
+TLE05,Procedure on vagina
+TLE05,A foreign body is removed from the vagina of an adult.
+TLE10,Removal of foreign body from vagina
+TLE10,Extraction of foreign body from vagina
+TLE10,Vaginal foreign body removal
+TLE10,Removal of foreign body from vagina in child
+TLE10,Procedure on vagina
+TLE10,A foreign body is removed from the vagina.
+TLE20,Culdocentesis
+TLE20,Transvaginal puncture of the pouch of Douglas
+TLE20,Puncture of the rectouterine pouch
+TLE20,Puncture of the cul-de-sac
+TLE20,Puncture of the peritoneum
+TLE20,A needle is passed through the vagina to puncture the cul-de-sac.
+TLE30,Vaginal tamponade
+TLE30,Vaginal packing
+TLE30,Packing of vagina
+TLE30,Tamponade of vagina
+TLE30,Procedure on vagina
+TLE30,A pack is placed in the vagina to apply pressure.
+TLE40,Insertion of vaginal pessary
+TLE40,Fitting of vaginal pessary
+TLE40,Insertion of vaginal ring pessary
+TLE40,Insertion of pessary
+TLE40,Procedure on vagina
+TLE40,A pessary or vaginal ring is placed in the vagina.
+TLE80,Replacement of vaginal pessary
+TLE80,Exchange of vaginal pessary
+TLE80,Changing of vaginal pessary
+TLE80,Vaginal pessary change
+TLE80,Procedure on vagina
+TLE80,Procedure involving replacement of a vaginal pessary.
+TLF00,Defibulation of labia
+TLF00,Surgical release of labial fusion
+TLF00,Separation of fused labia
+TLF00,Surgical procedure on labia
+TLF00,Procedure on vulva
+TLF00,The labial tissue is surgically opened to release the defibulation.
+TMA00,Episiotomy
+TMA00,Incision of perineum during childbirth
+TMA00,Perineotomy
+TMA00,Surgical incision of perineum
+TMA00,Procedure on perineum
+TMA00,An incision is made in the perineum during childbirth to enlarge the vaginal opening.
+TMA20,Assistance with normal delivery
+TMA20,Assisted vaginal delivery
+TMA20,Assistance during spontaneous delivery
+TMA20,Obstetric delivery assistance
+TMA20,Procedure on the pregnant uterus and birth canal
+TMA20,Assistance is provided to support the mother during a normal vaginal birth.
+TMA40,Fetal monitoring
+TMA40,Monitoring of fetal heart rate
+TMA40,Fetal heart rate monitoring
+TMA40,Obstetric monitoring procedure
+TMA40,Procedure on fetus
+TMA40,Monitoring the fetus during pregnancy or labor.
+TMA80,Breastfeeding support
+TMA80,Support of breastfeeding
+TMA80,Assistance with breastfeeding
+TMA80,Breastfeeding support procedure
+TMA80,Procedure related to breastfeeding
+TMA80,Providing assistance to support breastfeeding
+TMW99,Minor obstetric surgical procedure
+TMW99,Minor surgical procedure in obstetrics
+TMW99,Minor obstetrical procedure
+TMW99,Obstetric procedure
+TMW99,Procedure on the reproductive system
+TMW99,A minor surgical intervention performed as part of obstetric care.
+TNA00,Needle biopsy of soft tissue of spine and neck
+TNA00,Puncture biopsy of soft tissue of spine and neck
+TNA00,Biopsy of soft tissue of the spine and neck
+TNA00,Procedure on soft tissue of the spine and neck
+TNA00,A needle is used to obtain a sample of soft tissue from the spine or neck for examination.
+TNA10,Arthrocentesis of spinal joint
+TNA10,Aspiration of joint of spine
+TNA10,Puncture of spinal joint
+TNA10,Arthrocentesis of joint
+TNA10,Procedure on joint of spine
+TNA10,"A spinal joint is punctured to access the joint space, typically to aspirate fluid."
+TNA11,Injection of substance into joint of spine and neck
+TNA11,Intra-articular injection of spine or neck joint
+TNA11,Injection into spinal or cervical joint
+TNA11,Injection into joint
+TNA11,Procedure on joint of spine and neck
+TNA11,A diagnostic or therapeutic substance is injected into a joint in the spine or neck.
+TNA20,Bone marrow aspiration
+TNA20,Aspiration of bone marrow from spine and neck
+TNA20,Spinal bone marrow aspiration
+TNA20,Aspiration of bone marrow
+TNA20,Procedure on bone marrow
+TNA20,Procedure on spine and neck
+TNA20,Bone marrow is aspirated from the spine or neck.
+TNA25,Drill biopsy of bone marrow
+TNA25,Bone marrow drill biopsy
+TNA25,Bone marrow biopsy using a drill
+TNA25,Bone marrow biopsy
+TNA25,Procedure on bone marrow
+TNA25,A drill is used to obtain a bone marrow biopsy specimen.
+TNA30,Application of soft bandage to spine and neck
+TNA30,Soft bandaging of the spine and neck
+TNA30,Application of soft dressing to the spine and neck
+TNA30,Bandaging of the spine and neck
+TNA30,Procedure on the spine and neck
+TNA30,A soft bandage is applied to the spine and neck.
+TNA32,Application of custom-moulded splint to spine and neck
+TNA32,Fitting of a custom-moulded spinal and cervical splint
+TNA32,Application of custom-made orthopaedic splint to the spine and neck
+TNA32,Application of splint to spine and neck
+TNA32,Orthopaedic procedure on spine and neck
+TNA32,A custom-moulded splint is fitted to support the spine and neck.
+TNA33,Application of custom-moulded cast to spine and neck
+TNA33,Application of custom molded spinal cast
+TNA33,Application of spinal cast
+TNA33,Application of cast to spine and neck
+TNA33,Procedure on spine and neck
+TNA33,A custom-moulded cast is applied to the spine and neck.
+TNB00,Needle biopsy of soft tissue of shoulder and upper arm
+TNB00,Percutaneous biopsy of soft tissue of shoulder and upper arm
+TNB00,Puncture biopsy of soft tissue of shoulder and upper arm
+TNB00,Biopsy of soft tissue of shoulder and upper arm
+TNB00,Procedure on soft tissue of shoulder and upper arm
+TNB00,A needle is inserted into soft tissue of the shoulder or upper arm to obtain a tissue sample.
+TNB10,Arthrocentesis of shoulder joint
+TNB10,Aspiration of shoulder joint
+TNB10,Needle aspiration of shoulder joint
+TNB10,Arthrocentesis of joint
+TNB10,Procedure on shoulder region
+TNB10,A needle is inserted into the shoulder joint to withdraw fluid.
+TNB11,Injection of therapeutic substance into shoulder joint
+TNB11,Shoulder joint injection
+TNB11,Intra-articular injection of shoulder
+TNB11,Injection procedure on shoulder joint
+TNB11,Procedure on shoulder joint
+TNB11,A substance is injected into the shoulder joint for diagnostic or therapeutic purposes.
+TNB20,Bone marrow aspiration of shoulder and upper arm
+TNB20,Aspiration of bone marrow from the shoulder and upper arm
+TNB20,Bone marrow aspiration from a bone of the shoulder or upper arm
+TNB20,Bone marrow aspiration
+TNB20,Procedure on bone marrow
+TNB20,A needle is used to aspirate bone marrow from the shoulder or upper arm region.
+TNB30,Application of soft bandage to shoulder and upper arm
+TNB30,Soft bandaging of shoulder and upper arm
+TNB30,Application of soft dressing to shoulder and upper arm
+TNB30,Application of soft bandage
+TNB30,Bandaging of shoulder and upper arm
+TNB30,A soft bandage is applied to the shoulder and upper arm.
+TNB32,Application of custom-made splint to shoulder and upper arm
+TNB32,Application of moulded splint to shoulder and upper arm
+TNB32,Fitting of custom-moulded orthosis for shoulder and upper arm
+TNB32,Application of splint to shoulder and upper arm
+TNB32,Orthopedic procedure on shoulder and upper arm
+TNB32,A custom-moulded splint is fitted to the shoulder and upper arm.
+TNB33,Application of custom-moulded cast to shoulder and upper arm
+TNB33,Application of moulded cast to shoulder and upper arm
+TNB33,Casting of shoulder and upper arm
+TNB33,Application of cast to shoulder and upper arm
+TNB33,Orthopedic procedure on shoulder and upper arm
+TNB33,A custom-moulded cast is applied to the shoulder and upper arm.
+TNB34,Application of custom-moulded cast to shoulder and upper arm
+TNB34,Application of moulded cast to shoulder and upper arm
+TNB34,Custom cast application to shoulder and upper arm
+TNB34,Application of cast to shoulder and upper arm
+TNB34,Procedure on shoulder and upper arm
+TNB34,A custom-moulded cast is applied to the shoulder and upper arm.
+TND00,Needle biopsy of soft tissue of wrist and hand
+TND00,Puncture biopsy of soft tissue of wrist and hand
+TND00,Biopsy of soft tissue of wrist and hand using needle
+TND00,Biopsy of soft tissue of wrist and hand
+TND00,Procedure on soft tissue of wrist and hand
+TND00,A needle is used to obtain a tissue sample from the soft tissue of the wrist or hand.
+TND10,Arthrocentesis of wrist and hand
+TND10,Joint aspiration of wrist and hand
+TND10,Puncture of joint of wrist or hand
+TND10,Arthrocentesis
+TND10,Procedure on wrist and hand
+TND10,A joint in the wrist or hand is punctured to withdraw fluid.
+TND11,Injection of diagnostic or therapeutic substance into joint of wrist or hand
+TND11,Injection of substance into joint of wrist or hand
+TND11,Intra-articular injection into joint of wrist or hand
+TND11,Injection into joint
+TND11,Procedure on joint of wrist or hand
+TND11,A diagnostic or therapeutic substance is injected into a joint of the wrist or hand.
+TND20,Bone marrow aspiration of wrist and hand
+TND20,Aspiration of bone marrow from wrist or hand
+TND20,Wrist and hand bone marrow aspiration
+TND20,Bone marrow aspiration
+TND20,Procedure on bone of wrist and hand
+TND20,A needle is used to aspirate bone marrow from the wrist or hand.
+TND30,Application of soft bandage to wrist and hand
+TND30,Soft bandaging of wrist and hand
+TND30,Application of soft dressing to wrist and hand
+TND30,Application of bandage to wrist and hand
+TND30,Procedure on wrist and hand
+TND30,A soft bandage is applied to the wrist and hand.
+TND32,Application of custom-moulded splint to wrist and hand
+TND32,Fitting of a custom-made wrist and hand splint
+TND32,Custom-fabricated wrist and hand splint application
+TND32,Application of splint to wrist and hand
+TND32,Orthopedic procedure on wrist and hand
+TND32,A custom-moulded splint is fitted to the wrist and hand.
+TND33,Application of custom-moulded cast to wrist and hand
+TND33,Application of moulded cast to wrist and hand
+TND33,Casting of wrist and hand
+TND33,Cast application to wrist and hand
+TND33,Application of cast to wrist and hand
+TND33,Procedure on wrist and hand
+TND33,A cast is moulded and applied to the wrist and hand for support or immobilisation.
+TND34,Application of custom-moulded cast to wrist and hand
+TND34,Application of custom molded cast to wrist and hand
+TND34,Custom-moulded casting of wrist and hand
+TND34,Application of cast to wrist and hand
+TND34,Procedure on wrist and hand
+TND34,A custom-moulded cast is applied to the wrist and hand.
+TNF00,Puncture or biopsy of soft tissue of hip or thigh
+TNF00,Biopsy or puncture of hip or thigh soft tissue
+TNF00,Soft tissue puncture or biopsy of the hip/thigh
+TNF00,Soft tissue biopsy or puncture
+TNF00,Procedure on hip and thigh
+TNF00,"A puncture is made in, or a tissue sample is taken from, soft tissue of the hip or thigh."
+TNF10,Arthrocentesis of hip joint
+TNF10,Aspiration of hip joint
+TNF10,Hip joint aspiration
+TNF10,Joint aspiration
+TNF10,Procedure on hip joint
+TNF10,A needle is inserted into the hip joint to aspirate fluid.
+TNF11,Injection of substance into hip joint
+TNF11,Intra-articular injection of substance into hip joint
+TNF11,Injection of diagnostic or therapeutic substance into hip joint
+TNF11,Injection into hip joint
+TNF11,Procedure on hip joint
+TNF11,Procedure on hip joint and thigh
+TNF11,A diagnostic or therapeutic substance is injected into the hip joint.
+TNF20,Aspiration of bone marrow of hip and thigh
+TNF20,Bone marrow aspiration of the hip and thigh
+TNF20,Bone marrow aspiration
+TNF20,Procedure on bone marrow
+TNF20,A needle is used to aspirate bone marrow from the hip or thigh region.
+TNF30,Application of soft bandage to hip joint and thigh
+TNF30,Soft bandaging of hip and thigh
+TNF30,Bandage application to hip and thigh
+TNF30,Application of soft bandage
+TNF30,Procedure on hip joint and thigh
+TNF30,A soft bandage is applied to the hip joint and thigh.
+TNF32,Application of custom-moulded splint to hip and thigh
+TNF32,Fitting of custom-made splint to hip joint and thigh
+TNF32,Custom splinting of hip and thigh
+TNF32,Splinting of hip and thigh
+TNF32,Orthopedic procedure on hip and thigh
+TNF32,A custom-moulded splint is fitted to the hip and thigh.
+TNF33,Application of custom-moulded cast to hip joint and thigh
+TNF33,Custom molded cast application to hip and thigh
+TNF33,Application of hip and thigh cast
+TNF33,Cast application to hip joint and thigh
+TNF33,Application of cast to hip and thigh
+TNF33,Procedure on hip joint and thigh
+TNF33,A custom-moulded cast is applied to the hip joint and thigh.
+TNF34,Application of custom-moulded cast to hip and thigh
+TNF34,Application of hip and thigh cast
+TNF34,Application of hip spica cast
+TNF34,Casting of hip and thigh
+TNF34,Procedure on hip and thigh
+TNF34,A custom-moulded cast is applied to the hip and thigh.
+TNG00,Biopsy or puncture of soft tissue of knee and lower leg
+TNG00,Biopsy of soft tissue of knee and lower leg
+TNG00,Puncture of soft tissue of knee and lower leg
+TNG00,Biopsy or puncture of soft tissue
+TNG00,Procedure on soft tissue of knee and lower leg
+TNG00,A sample of soft tissue from the knee or lower leg is obtained by biopsy or puncture.
+TNG10,Arthrocentesis of knee joint
+TNG10,Aspiration of knee joint
+TNG10,Puncture of knee joint
+TNG10,Arthrocentesis of joint
+TNG10,Procedure on knee joint
+TNG10,A needle is inserted into the knee joint to aspirate fluid.
+TNG11,Injection of substance into knee joint
+TNG11,Intra-articular injection of diagnostic or therapeutic substance into knee
+TNG11,Injection of diagnostic or therapeutic agent into knee joint
+TNG11,Injection of substance into joint
+TNG11,Injection procedure on knee joint
+TNG11,Procedure on knee joint
+TNG11,A diagnostic or therapeutic substance is injected into the knee joint.
+TNG20,Bone marrow aspiration of lower leg
+TNG20,Aspiration of bone marrow from lower leg
+TNG20,Bone marrow aspiration involving knee and lower leg
+TNG20,Bone marrow aspiration
+TNG20,Procedure on bone marrow
+TNG20,Bone marrow is aspirated from the knee or lower leg region.
+TNG30,Application of soft bandage to knee and lower leg
+TNG30,Soft bandaging of knee and lower leg
+TNG30,Application of soft bandage to the knee and leg
+TNG30,Application of bandage to knee and lower leg
+TNG30,Bandaging of knee and lower leg
+TNG30,A soft bandage is applied to the knee and lower leg.
+TNG31,Application of prefabricated orthosis to knee joint and lower leg
+TNG31,Fitting of prefabricated knee and lower leg orthosis
+TNG31,Application of prefabricated knee-lower leg brace
+TNG31,Application of orthosis to knee joint and lower leg
+TNG31,Orthotic procedure on knee joint and lower leg
+TNG31,A prefabricated orthosis is fitted to support the knee joint and lower leg.
+TNG32,Application of custom-moulded splint to knee and lower leg
+TNG32,Fitting of a custom-moulded knee and lower-leg splint
+TNG32,Splinting of knee joint and lower leg
+TNG32,Application of splint to knee and lower leg
+TNG32,Procedure on knee joint and lower leg
+TNG32,A custom-moulded splint is fitted to support the knee joint and lower leg.
+TNG33,Application of custom-moulded cast to knee joint and lower leg
+TNG33,Custom-moulded casting of the knee and lower leg
+TNG33,Application of cast to the knee and lower leg
+TNG33,Procedure on the knee joint and lower leg
+TNG33,A cast is custom moulded and applied to the knee joint and lower leg.
+TNG34,Application of custom-moulded cast to knee and lower leg
+TNG34,Custom-moulded cast application to knee and lower leg
+TNG34,Application of cast to knee and lower leg
+TNG34,Procedure on knee joint and lower leg
+TNG34,A custom-moulded cast is applied to the knee and lower leg.
+TNG40,Application of external traction to knee joint and lower leg
+TNG40,External traction of the knee and lower leg
+TNG40,Application of traction to the knee and lower leg
+TNG40,Traction of the knee and lower leg
+TNG40,Procedure on the knee joint and lower leg
+TNG40,Traction is applied externally to the knee joint and lower leg.
+TNH00,Biopsy or puncture of soft tissue or joint of ankle or foot
+TNH00,Biopsy or needle puncture of ankle or foot soft tissue or joint
+TNH00,Biopsy or puncture of soft tissue or joint
+TNH00,Procedure on ankle and foot
+TNH00,"A tissue sample is taken from, or a needle is inserted into, soft tissue or a joint of the ankle or foot."
+TNH10,Arthrocentesis of ankle or foot joint
+TNH10,Aspiration of ankle or foot joint
+TNH10,Joint aspiration of ankle and foot
+TNH10,Arthrocentesis
+TNH10,Procedure on ankle and foot
+TNH10,A needle is inserted into an ankle or foot joint to aspirate synovial fluid.
+TNH11,Injection of diagnostic or therapeutic substance into joint of ankle or foot
+TNH11,Intra-articular injection of diagnostic or therapeutic substance in ankle or foot
+TNH11,Injection into ankle or foot joint
+TNH11,Injection into joint
+TNH11,Procedure on joint of ankle or foot
+TNH11,A diagnostic or therapeutic substance is injected into an ankle or foot joint.
+TNH20,Bone marrow aspiration of ankle and foot
+TNH20,Aspiration of bone marrow from ankle and foot bones
+TNH20,Bone marrow aspiration from bone of the ankle or foot
+TNH20,Bone marrow aspiration
+TNH20,Procedure on bone of ankle and foot
+TNH20,Procedure on ankle and foot
+TNH20,A needle is used to withdraw bone marrow from a bone in the ankle or foot.
+TNH30,Application of soft bandage to ankle and foot
+TNH30,Soft bandaging of ankle and foot
+TNH30,Application of soft dressing to ankle and foot
+TNH30,Bandaging of ankle and foot
+TNH30,Procedure on ankle and foot
+TNH30,A soft bandage is applied to the ankle and foot.
+TNH32,Application of custom-moulded splint to ankle and foot
+TNH32,Application of custom-molded splint to ankle and foot
+TNH32,Fitting of custom-made splint to ankle and foot
+TNH32,Application of splint to ankle and foot
+TNH32,Procedure on ankle and foot
+TNH32,A custom-moulded splint is fitted to the ankle and foot.
+TNH33,Application of custom-molded cast to ankle and foot
+TNH33,Custom moulding of cast for ankle and foot
+TNH33,Application of molded cast to foot and ankle
+TNH33,Application of cast to ankle and foot
+TNH33,Procedure on ankle and foot
+TNH33,A custom-molded cast is made and applied to the ankle and foot.
+TNH34,Application of custom-moulded cast to ankle and foot
+TNH34,Custom moulding and application of cast to ankle and foot
+TNH34,Application of moulded cast to foot and ankle
+TNH34,Cast application to ankle and foot
+TNH34,Procedure on ankle and foot
+TNH34,A custom-moulded cast is applied to the ankle and foot.
+TNX00,Needle biopsy of soft tissue
+TNX00,Soft tissue biopsy by needle
+TNX00,Puncture biopsy of soft tissue
+TNX00,Biopsy of soft tissue
+TNX00,Procedure on soft tissue
+TNX00,A needle is inserted into soft tissue to obtain a tissue sample for examination.
+TNX05,Incision of soft tissue (procedure)
+TNX05,Soft tissue incision
+TNX05,Incisional procedure on soft tissue
+TNX05,Incision of soft tissue
+TNX05,Procedure on soft tissue
+TNX05,An incision is made in soft tissue at an unspecified site.
+TNX10,Arthrocentesis
+TNX10,Joint aspiration
+TNX10,Aspiration of joint
+TNX10,Arthrocentesis of joint
+TNX10,Procedure on joint
+TNX10,A joint is punctured to withdraw fluid.
+TNX11,Injection of substance into joint
+TNX11,Intra-articular injection
+TNX11,Joint injection
+TNX11,Procedure on joint
+TNX11,A diagnostic or therapeutic substance is injected into a joint.
+TNX20,Bone marrow aspiration
+TNX20,Aspiration of bone marrow
+TNX20,Bone marrow aspirate procedure
+TNX20,"Aspiration of bone marrow, unspecified site"
+TNX20,Procedure on bone marrow
+TNX20,Procedure in which bone marrow is aspirated from an unspecified region.
+TNX25,Bone marrow biopsy using drill
+TNX25,Drill biopsy of bone marrow
+TNX25,Bone marrow trephine biopsy
+TNX25,Bone marrow biopsy
+TNX25,Procedure on bone marrow
+TNX25,A drill is used to obtain a bone marrow sample for biopsy.
+TNX30,Application of soft bandage to unspecified body region
+TNX30,Soft bandaging of unspecified body region
+TNX30,Application of a soft dressing to unspecified body region
+TNX30,Application of soft bandage
+TNX30,Bandaging procedure
+TNX30,A soft bandage is applied to an unspecified region of the body.
+TNX32,Application of custom-made splint
+TNX32,Application of custom-moulded splint
+TNX32,Fitting of custom-made splint
+TNX32,Application of splint
+TNX32,Orthopedic procedure
+TNX32,A custom-moulded splint is fitted and applied to an unspecified body region.
+TNX33,Application of custom-moulded cast
+TNX33,Application of custom molded cast
+TNX33,Fitting of custom-moulded cast
+TNX33,Application of cast
+TNX33,Orthopedic procedure
+TNX33,A custom-moulded cast is applied to an unspecified region.
+TNX34,Application of major custom-moulded cast
+TNX34,Application of major custom-molded cast
+TNX34,Application of custom-moulded orthopedic cast
+TNX34,Application of cast
+TNX34,Orthopedic procedure
+TNX34,A major custom-moulded cast is applied to an unspecified region.
+TNX39,Application of orthopedic bandage
+TNX39,Orthopedic bandaging
+TNX39,Application of orthopaedic bandage
+TNX39,Application of bandage
+TNX39,Orthopedic procedure
+TNX39,A bandage is applied for orthopedic care to an unspecified region.
+TNX40,Application of external traction
+TNX40,External skeletal traction
+TNX40,Traction applied to body region
+TNX40,Traction procedure
+TNX40,Orthopedic procedure
+TNX40,External traction is applied to a body region to exert a pulling force.
+TNX50,Insertion of marker into bone
+TNX50,Implantation of bone marker
+TNX50,Insertion of skeletal marker
+TNX50,Implantation of marker into bone
+TNX50,Procedure on bone
+TNX50,A marker is implanted in bone; the specific region is not stated.
+TPH00,Phlebotomy (procedure)
+TPH00,Venesection
+TPH00,Phlebotomy of vein
+TPH00,Procedure on vein
+TPH00,Procedure on peripheral blood vessel
+TPH00,A vein is opened to withdraw blood.
+TPH05,Open cannulation of peripheral vein
+TPH05,Surgical cannulation of a peripheral vein
+TPH05,Open insertion of cannula into peripheral vein
+TPH05,Cannulation of peripheral vein
+TPH05,Procedure on peripheral vein
+TPH05,A peripheral vein is surgically exposed and cannulated.
+TPH07,Insertion of arterial catheter
+TPH07,Arterial catheter insertion
+TPH07,Arterial cannulation
+TPH07,Insertion of catheter into artery
+TPH07,Procedure on artery
+TPH07,A catheter is inserted into an artery.
+TPH10,Sclerotherapy of varicose veins
+TPH10,Injection of sclerosing agent into varicose veins
+TPH10,Injection sclerotherapy of varicose veins
+TPH10,Sclerotherapy of veins
+TPH10,Procedure on peripheral blood vessel
+TPH10,A sclerosing agent is injected into varicose veins to treat them.
+TPH15,Insertion of central venous catheter into jugular vein
+TPH15,Jugular vein central venous catheter insertion
+TPH15,Placement of central venous catheter via internal or external jugular vein
+TPH15,Insertion of central venous catheter
+TPH15,Procedure on jugular vein
+TPH15,A central venous catheter is inserted through an internal or external jugular vein.
+TPH20,Insertion of central venous catheter via subclavian or brachiocephalic vein
+TPH20,Central venous catheterization via subclavian vein
+TPH20,Insertion of central venous line via brachiocephalic vein
+TPH20,Insertion of central venous catheter
+TPH20,Procedure on central vein
+TPH20,A central venous catheter is inserted through the subclavian or brachiocephalic vein.
+TPH90,Removal of intravenous catheter
+TPH90,Removal of indwelling intravenous catheter
+TPH90,Intravenous catheter removal
+TPH90,Removal of catheter
+TPH90,Procedure on peripheral blood vessel
+TPH90,The fixed intravenous catheter is removed.
+TPJ00,Biopsy of superficial lymph node
+TPJ00,Superficial lymph node biopsy
+TPJ00,Biopsy of a superficial node of the lymphatic system
+TPJ00,Biopsy of lymph node
+TPJ00,Procedure on lymph node
+TPJ00,A superficial lymph node is sampled for examination.
+TPJ05,Needle biopsy of lymph node
+TPJ05,Lymph node needle biopsy
+TPJ05,Needle sampling of lymph node
+TPJ05,Biopsy of lymph node
+TPJ05,Procedure on lymph node
+TPJ05,A needle is used to obtain a tissue sample from a lymph node.
+TPW99,Minor surgical procedure on peripheral blood vessel or lymphatic system
+TPW99,Minor operation on a peripheral vessel or lymphatic structure
+TPW99,Minor procedure involving a peripheral blood vessel or lymphatic vessel
+TPW99,Surgical procedure on peripheral vessels or lymphatic system
+TPW99,Procedure on peripheral vascular or lymphatic system
+TPW99,A minor surgical intervention is performed on a peripheral vessel or a structure of the lymphatic system.
+TPX00,Biopsy of blood vessel
+TPX00,Biopsy of artery or vein
+TPX00,Vascular biopsy
+TPX00,Procedure on blood vessel
+TPX00,A sample of tissue is taken from an artery or vein for examination.
+TPX10,Implantation of vascular access port
+TPX10,Insertion of vascular access port
+TPX10,Insertion of implantable venous port
+TPX10,Implantation of vascular access device
+TPX10,Insertion of vascular access device
+TPX10,Vascular access procedure
+TPX10,Procedure on peripheral blood vessel
+TPX10,A vascular access port is implanted to provide a route for repeated vascular injections.
+TPX15,Removal of vascular access port
+TPX15,Removal of implanted vascular injection port
+TPX15,Excision of vascular access port
+TPX15,Removal of vascular access device
+TPX15,Procedure on peripheral blood vessel
+TPX15,The implanted vascular injection port is surgically removed.
+TPX22,Intravenous thrombolytic therapy for arterial thrombosis
+TPX22,Intravenous thrombolysis of artery
+TPX22,Systemic thrombolytic therapy for arterial occlusion
+TPX22,Arterial thrombolysis
+TPX22,Procedure on artery
+TPX22,Thrombolytic medication is administered intravenously to dissolve a clot in an artery.
+TQW11,Negative pressure wound therapy
+TQW11,Vacuum-assisted wound closure
+TQW11,Vacuum dressing treatment of wound
+TQW11,Wound treatment
+TQW11,Procedure on skin
+TQW11,Negative pressure is applied to a wound to assist its treatment.
+TQW38,Sclerotherapy of subcutaneous tissue
+TQW38,Subcutaneous sclerotherapy
+TQW38,Sclerosing injection into subcutaneous tissue
+TQW38,Sclerotherapy
+TQW38,Procedure on skin
+TQW38,A sclerosing agent is injected into subcutaneous tissue.
+TQW99,Minor surgical procedure on skin
+TQW99,Minor skin procedure
+TQW99,Minor operation on skin
+TQW99,Procedure on skin
+TQW99,A minor surgical procedure is performed on the skin.

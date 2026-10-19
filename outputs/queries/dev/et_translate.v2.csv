@@ -1,0 +1,128 @@
+source_code,text
+LAA00,Aspiration of ovarian cyst
+LAA01,Laparoscopic puncture of ovarian cyst
+LAA03,Percutaneous puncture of ovarian cyst
+LAA06,Transvaginal puncture of ovarian cyst
+LAA10,Percutaneous and transvaginal follicular puncture and oocyte retrieval
+LAA11,Laparoscopic oocyte retrieval
+LAA20,Percutaneous or transvaginal injection into ovarian pregnancy
+LAA31,Ovarioscopy
+LAA96,Puncture of ovary
+LAA97,Laparoscopic puncture of ovary
+LAD00,Partial oophorectomy
+LAD01,Laparoscopic partial excision of ovary
+LBF00,Fallopian tube perfusion
+LBF01,Laparoscopic fallopian tube perfusion
+LBF03,Fallopian tube perfusion following reconstruction
+LBF11,Laparoscopy for assisted fertilization
+LBF12,Hysteroscopy for assisted reproduction
+LBF20,Transcervical catheter salpingoplasty
+LBF30,Salpingolysis
+LBF31,Laparoscopic salpingolysis
+LBF40,Fimbrioplasty of fallopian tube for infertility
+LBF41,Laparoscopic fimbrioplasty
+LBF50,Salpingostomy for infertility
+LBF51,Laparoscopic salpingostomy
+LBF60,Partial salpingectomy with tubal anastomosis
+LBF61,Laparoscopic partial salpingectomy and tubal anastomosis
+LBF70,Partial salpingectomy and reimplantation of fallopian tube
+LBF71,Laparoscopic partial excision and reimplantation of fallopian tube
+LBF96,Fallopian tube surgery for infertility
+LBF97,Laparoscopic operation on fallopian tube for infertility
+LBX14,Fallopian tube insufflation with oxygen
+LCF00,Excision of lesion of parametrium
+LCF01,Laparoscopic excision of lesion of parametrium
+LCF10,Excision of parametrial varicocele
+LCF11,Laparoscopic excision of parametrial varicocele
+LCF20,Excision of lesion of pouch of Douglas
+LCF21,Laparoscopic excision of lesion of the pouch of Douglas
+LCF96,Excision of lesion of parametrium
+LCF97,Laparoscopic excision of lesion of parametrium
+LDD00,Suture of cervix
+LDD01,Endoscopic suture of cervix
+LDD03,Suture of cervix uteri in a nonpregnant patient
+LDD10,Plastic repair of cervix
+LDD20,Removal of cervical cerclage
+LEE00,Suture of vagina
+LEE10,Vaginal reconstruction using a graft or tissue flap
+LEE20,Closure of urovaginal fistula using a graft or tissue flap
+LEE21,Percutaneous closure of urovaginal fistula
+LEE30,Closure of enterovaginal fistula using graft or flap
+LEE40,Vaginal construction
+LEE96,Vaginal repair
+LEW96,Procedure on vagina
+LEW97,Endoscopic procedure on vagina
+LWC00,Reoperation for deep infection in gynecologic surgery
+LWC01,Percutaneous endoscopic reoperation for deep infection in gynecologic surgery
+LWW00,Repeat curettage of uterine cavity following induced abortion
+LWW96,Reoperation in gynecologic surgery
+LWW97,Percutaneous endoscopic reoperation in gynecologic surgery
+LWW98,Transluminal endoscopic reoperation in gynecological surgery
+LX1LT,Thermocoagulation of lesion of external genitalia
+MA3AE,First-trimester combined screening
+MAH10,Reduction of prolapsed umbilical cord
+MAH20,Correction of malposition of cephalic presentation
+MAH22,External cephalic version of fetus
+MAH30,Destructive operation on fetus during labor
+MAH41,Application of external abdominal pressure to assist delivery
+MBA00,Vacuum aspiration of the uterine cavity after childbirth or abortion
+MBA03,Uterine cavity curettage after delivery or abortion
+MBA10,Manual exploration of uterine cavity postpartum
+MBA20,Expression of placenta by external manipulation
+MBA30,Manual removal of placenta after delivery
+MBA32,Manual removal of fetal membranes
+MBA40,Medical evacuation of retained products of conception following abortion
+MBA96,Removal of placenta and fetal parts following delivery or abortion
+MCB00,Laparotomy and delivery of fetus in extrauterine pregnancy
+MWC00,Reoperation for deep infection in obstetrics
+MWC01,Percutaneous endoscopic reoperation for deep infection in obstetrics
+MWW00,Repeat curettage of the uterine cavity after childbirth or spontaneous abortion
+MWW96,Reoperation in obstetrics
+MWW97,Percutaneous endoscopic reoperation in obstetrics
+MWW98,Transluminal endoscopic reoperation in obstetrics
+TAB00,Lumbar puncture
+TBA00,Puncture of thyroid gland
+TBA10,Needle biopsy of thyroid gland
+TBA20,Aspiration cytology of thyroid gland
+TDB00,Removal of foreign body from external auditory canal
+TEE00,Needle biopsy of maxilla
+TEG00,Needle biopsy of temporomandibular joint
+TEG10,Arthrocentesis of temporomandibular joint
+TEL00,Needle biopsy of salivary gland
+TFE00,Pericardiocentesis
+TFP00,Temporary use of a transvenous or epicardial cardiac pacemaker
+TFP20,Cardioversion
+TGD00,Needle biopsy of lung
+TKC00,Needle biopsy of bladder
+TKC10,Percutaneous puncture of urinary bladder
+TKC20,Urinary bladder catheterization
+TKC40,"Examination, replacement or removal of suprapubic urinary catheter"
+TLA00,Needle biopsy of ovary
+TLC00,Insertion of intrauterine contraceptive device
+TLC02,Simple removal of intrauterine contraceptive device
+TLW00,Insemination
+TLW11,Transmyometrial embryo transfer
+TLW12,Frozen embryo transfer
+TLW14,Intracytoplasmic sperm injection
+TLW20,Pharmacological induction of ovulation
+TLW99,Minor gynecological surgical procedure
+TNC00,Puncture or needle biopsy of soft tissue of elbow and forearm
+TNC10,Arthrocentesis of elbow and forearm
+TNC11,Injection of diagnostic or therapeutic substance into joint of elbow or forearm
+TNC20,Bone marrow aspiration of elbow and forearm
+TNC30,Procedure on soft tissue of elbow and forearm
+TNC32,Fabrication of custom-made splint for elbow and forearm
+TNC33,Application of custom-made cast to elbow and forearm
+TNC34,Application of custom-made large cast to elbow and forearm
+TNE00,"Puncture or needle biopsy of soft tissue of pelvis, including sacrum and coccyx"
+TNE10,Arthrocentesis of pelvis (including sacrum and coccyx)
+TNE11,"Injection of diagnostic or therapeutic substance into joint of pelvis, including sacrum and coccyx"
+TNE20,Bone marrow aspiration of pelvis
+TNE25,Trephine biopsy of bone marrow of pelvis
+TNE30,"Procedure on soft tissue of the pelvis, including the sacrum and coccyx"
+TNE32,Fabrication of custom-made splint for pelvis (including sacrum and coccyx)
+TNE33,"Application of a custom-made cast to the pelvis, including the sacrum and coccyx"
+TNE34,Application of a large custom-made plaster cast to the pelvis (including the sacrum and coccyx)
+TQX00,Skin biopsy
+TQX10,Needle biopsy of skin
+TQX40,Removal of sutures from skin

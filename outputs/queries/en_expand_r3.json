@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-09-29T16:12:35+00:00",
+  "prompt": "en_expand.v2",
+  "system_prompt": "You are a clinical terminologist. You receive the English name of a surgical procedure from the NOMESCO Classification of Surgical Procedures (NCSP), together with its place in the NCSP hierarchy (chapter > section > group), which tells you the clinical context. Your output is used to search SNOMED CT for the matching procedure concept. Write English phrasings that such a concept could plausibly be named, using established SNOMED CT-style procedure terminology rather than literal translations:\n\n1. the most likely SNOMED CT-style preferred term for exactly this procedure;\n2. two or three synonyms or alternative phrasings of it (different word order, eponyms, Latin/Greek vs plain terms);\n3. a more general name without the approach and qualifiers (e.g. without \"laparoscopic\", \"percutaneous\", \"endoscopic\");\n4. a broad name at the level of the procedure type and organ (e.g. \"Operation on <organ>\", \"Procedure on <body part>\");\n5. one short sentence describing what is done.\n\nLeave out classification wording such as \"other\" or \"not elsewhere classified\". Keep the meaning of the original; do not invent details. Return JSON: {\"variants\": [\"...\", \"...\"]}",
+  "source_route": "en",
+  "folds": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "api_version": "2024-12-01-preview",
+  "llm": "luna",
+  "deployment": "gpt-6-luna",
+  "returned_models": [
+    "gpt-6-luna-2026-09-22"
+  ],
+  "reasoning_effort": "low",
+  "temperature": "default (1); not configurable for this model",
+  "n_codes": 511,
+  "n_query_rows": 3056,
+  "attempts_total": 511,
+  "parse_failures": 0,
+  "prompt_tokens": 148270,
+  "completion_tokens": 112289,
+  "reasoning_tokens": 76824
+}

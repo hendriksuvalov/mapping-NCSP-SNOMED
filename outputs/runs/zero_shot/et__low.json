@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-09-27T11:42:40+00:00",
+  "language": "et",
+  "system_prompt": "You are a clinical terminologist mapping codes from the NOMESCO Classification of Surgical Procedures (NCSP), as used in Estonia, to SNOMED CT. You receive one NCSP procedure name (in Estonian or English) with its place in the NCSP hierarchy. Give the single SNOMED CT procedure concept that best represents it: its SNOMED CT concept identifier (SCTID) and its preferred term. Do not choose a concept that adds information the NCSP name does not state; if there is no exact match, give the closest more general concept.\n\nReturn JSON: {\"sctid\": \"<SNOMED CT concept id>\", \"term\": \"<preferred term>\"}",
+  "reasoning_effort": "low",
+  "folds": null,
+  "api_version": "2024-12-01-preview",
+  "deployment": "gpt-6-luna",
+  "returned_models": [
+    "gpt-6-luna-2026-09-22"
+  ],
+  "n_codes": 638,
+  "failed_codes": 0,
+  "prompt_tokens": 128146,
+  "completion_tokens": 365799
+}

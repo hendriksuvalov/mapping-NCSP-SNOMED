@@ -1,0 +1,638 @@
+Munasarjatsüsti punktsioon
+Laparoskoopiline munasarjatsüsti punktsioon
+Perkutaanne munasarjatsüsti punktsioon
+Transvaginaalne munasarjatsüsti punktsioon
+Folliikuli perkutaanne ja transvaginaalne punktsioon ja ootsüüdi väljatoomine
+Laparoskoopiline ootsüüdi väljatoomine
+Perkutaanne või transvaginaalne injektsioon munasarja rasedusse
+Ovarioskoopia
+Munasarja muu punktsioon
+Muu laparoskoopiline munasarja punktsioon
+Ovariotoomia
+Laparoskoopiline ovariotoomia
+Munasarja biopsia
+Laparoskoopiline munasarja biopsia
+Laparoskoopiline munasarja nõelbiopsia
+Munasarja muu intsisioon või biopsia
+Muu laparoskoopiline munasarja intsisioon või biopsia
+Munasarjatsüsti ekstsisioon
+Laparoskoopiline munasarjatsüsti ekstsisioon
+Munasarjatsüsti fenestratsioon
+Laparoskoopiline munasarjatsüsti fenestratsioon
+Munasarja lesiooni destruktsioon
+Laparoskoopiline munasarja lesiooni destruktsioon
+Paraovariaalse tsüsti ekstsisioon
+Laparoskoopiline paraovariaalse tsüsti ekstsisioon
+Munasarja lesiooni muu ekstsisioon või destruktsioon
+Muu laparoskoopiline munasarja lesiooni ekstsisioon või destruktsioon
+Munasarja osaline eemaldamine
+Laparoskoopiline munasarja osaline eemaldamine
+Ühepoolne ooforektoomia
+Ühepoolne laparoskoopiline ooforektoomia
+Mõlemapoolne ooforektoomia
+Mõlemapoolne laparoskoopiline ooforektoomia
+Ühepoolne salpingo-ooforektoomia
+Ühepoolne laparoskoopiline salpingo-ooforektoomia
+Mõlemapoolne salpingo-ooforektoomia
+Mõlemapoolne laparoskoopiline salpingo-ooforektoomia
+Laparoskoopiline lümfisõlmede eemaldamine munasarja pahaloomulise kasvaja korral
+Unilateraalne transvaginaalne salpingo-ooforektoomia
+Bilateraalne transvaginaalne salpingo-ooforektoomia
+Munasarja liidetest vabastamine
+Laparoskoopiline munasarja liidetest vabastamine
+Ooforopeksia
+Laparoskoopiline ooforopeksia
+Munasarja detorsioon
+Laparoskoopiline munasarja detorsioon
+Muu rekonstruktiivne operatsioon munasarjal
+Muu laparoskoopiline rekonstruktiivne operatsioon munasarjal
+Muu operatsioon munasarjal
+Muu laparoskoopiline operatsioon munasarjal
+Munajuha kateteriseerimine
+Perkutaanne munajuha punktsioon
+Laparoskoopiline munajuha punktsioon
+Transvaginaalne munajuha punktsioon
+Salpingoskoopia
+Muu laparoskoopiline munajuha punktsioon
+Muu endoskoopiline transluminaalne protseduur munajuhal
+Munajuha biopsia
+Laparoskoopiline munajuha biopsia
+Salpingoskoopiline munajuha biopsia
+Laparoskoopiline munajuha nõelbiopsia
+Munajuha muu biopsia
+Perkutaanne injektsioon munajuharasedusse
+Transvaginaalne injektsioon munajuharasedusse
+Laparoskoopiline injektsioon munajuharasedusse
+Falloposkoopiline injektsioon munajuharasedusse
+Viljastumise produktide eemaldamine munajuhast
+Laparoskoopiline viljastumise produktide eemaldamine munajuhast
+Salpingotoomia ja viljastumise produktide eemaldamine
+Laparoskoopiline salpingotoomia ja viljastumise produktide eemaldamine
+Munajuha muu säilitav operatsioon munajuharaseduse korral
+Muu laparoskoopiline munajuha säilitav operatsioon munajuharaseduse korral
+Muu transluminaalne munajuha säilitav operatsioon munajuharaseduse korral
+Munajuha resektsioon
+Laparoskoopiline munajuha resektsioon
+Salpingektoomia
+Laparoskoopiline salpingektoomia
+Munajuha perfusioon
+Laparoskoopiline munajuha perfusioon
+Munajuha perfusioon rekonstruktsiooni järgselt
+Laparoskoopia abistatud viljastamise korral
+Hüsteroskoopia abistatud viljastamise korral
+Transtservikaalne kateeter-salpingoplastika
+Salpingolüüs
+Laparoskoopiline salpingolüüs
+Fimbrioplastika
+Laparoskoopiline fimbrioplastika
+Salpingostoomia
+Laparoskoopiline salpingostoomia
+Munajuha osaline eemaldamine ja anastomoos
+Laparoskoopiline munajuha osaline eemaldamine ja anastomoos
+Munajuha osaline eemaldamine ja reimplantatsioon
+Munajuha laparoskoopiline osaline ekstsisioon ja reimplantatsioon
+Muu operatsioon munajuhal infertiilsuse korral
+Muu laparoskoopiline operatsioon munajuhal infertiilsuse korral
+Munajuha kateteriseerimine rõntgeni kontrolliga
+Munajuha perfusioon gaasilise hapnikuga (PSF)
+Muu operatsioon munajuhal
+Muu laparoskoopiline operatsioon munajuhal
+Muu transluminaalne endoskoopiline operatsioon munajuhal
+Munajuha perfusioon gaasilise hapnikugs (PSF)
+Emaka ja emakasidemete biopsia
+Laparoskoopiline emaka ja emakasidemete biopsia
+Endomeetriumi biopsia
+Emakaõõne abrasioon
+Emakaõõne ja -kaela abrasioon
+Endomeetriumi destruktsioon
+Võõrkeha eemaldamine emakast
+Hüsteroskoopiline võõrkeha eemaldamine
+Ootsüüdi ja embrüo emakaõõnde viimine abistatud viljastamise korral
+Muu emakasisene operatsioon
+Muu transluminaalne endoskoopiline protseduur emakal
+Hüsterotoomia
+Laparoskoopiline hüsterotoomia
+Müomektoomia
+Laparoskoopiline müomektoomia
+Laparoskoopiline müolüüs
+Transvaginaalne müomektoomia
+Hüsteroskoopiline lesiooni ekstsisioon
+Hüsteroskoopiline endomeetriumi ekstsisioon
+Hüsteroskoopiline endomeetriumi destruktsioon
+Emaka nõelbiopsia
+Emaka lesiooni muu ekstsisioon
+Muu laparoskoopiline emaka lesiooni ekstsisioon
+Muu transluminaalne endoskoopiline emaka lesiooni ekstsisioon
+Emaka osaline eemaldamine
+Laparoskoopiline emaka osaline eemaldamine
+Hüsteroskoopiline emakaseina eemaldamine
+Supravaginaalne hüsterektoomia
+Laparoskoopiline subtotaalne hüsterektoomia
+Tupekaudne supravaginaalne hüsterektoomia
+Emaka muu osaline eemaldamine
+Muu laparoskoopiline emaka osaline eemaldamine
+Hüsterektoomia
+Totaalne laparoskoopiline hüsterektoomia
+Laparoskoopiline hüsterektoomia
+Vaginaalne hüsterektoomia
+Laparoskoopiliselt assisteeritud vaginaalne hüsterektoomia
+Radikaalne hüsterektoomia
+Radikaalne laparoskoopiline hüsterektoomia
+Radikaalne vaginaalne hüsterektoomia
+Muu hüsterektoomia
+Muu laparoskoopiline hüsterektoomia
+Vaagnaelundite eesmine evistseratsioon naistel
+Vaagnaelundite tagumine evistseratsioon naistel
+Vaagnaelundite totaalne evistseratsioon naistel
+Vaagnaelundite muu evistseratsioon naistel
+Parameetriumi lesiooni ekstsisioon
+Laparoskoopiline parameetriumi lesiooni ekstsisioon
+Varikotseele ekstsisioon naistel
+Laparoskoopiline varikotseele ekstsisioon naistel
+G.Douglase piirkonna lesiooni eemaldamine
+Laparoskoopiline G.Douglase piirkonna lesiooni eemaldamine
+Parameetriumi lesiooni muu ekstsisioon
+Muu laparoskoopiline parameetriumi lesiooni ekstsisioon
+Hüsteroskoopiline liidete vabastamine
+Emaka suturatsioon
+Laparoskoopiline emaka suturatsioon
+Hüsteropeksia
+Laparoskoopiline hüsteropeksia
+Sakrouteriinsete sidemete resektsioon või transtsisioon
+Laparoskoopiline sakrouteriinsete sidemete resektsioon või transtsisioon
+Emaka rekonstruktsioon
+Laparoskoopiline emaka rekonstruktsioon
+Muu rekonstruktiivne operatsioon emakal
+Muu laparoskoopiline rekonstruktiivne operatsioon emakal
+Muu transluminaalne endoskoopiline rekonstruktiivne operatsioon emakal
+Viljastumisproduktide eemaldamine emakaõõnest vaakum-aspiratsiooni teel
+Viljastumisproduktide eemaldamine emakaõõnest ja emakaõõne küretaaž
+Aborti põhjustavate ravimite amnionisisene või -väline kasutamine
+Aborti indutseeriva ravimi amnioniväline kasutamine
+Aborti indutseeriva ravimi suukaudne kasutamine
+Emakaõõne vaakum-aspiratsioon meditsiiniliselt esilekutsutud abordi järgselt
+Viljastumisproduktide eemaldamine emakaõõnest mittetäieliku indutseeritud abordi järel
+Hüsterektoomia ja viljastumisproduktide evakuatsioon
+Raseduse muu lõpetamine
+Muu operatsioon emakal ja emakasidemetel
+Muu laparoskoopiline operatsioon emakal ja emakasidemetel
+Muu hüsteroskoopiline operatsioon emakal
+Emakakaela dilatatsioon
+Emakakaela abrasioon
+Emakakaela biopsia
+Emakakaela võõrkeha eemaldamine tupe kaudu
+Emakakaela muu biopsia
+Emakakaela lesiooni ekstsisioon
+Emakakaela krüoteraapia
+Emakakaela elektrokoagulatsioon või laserteraapia
+Emakakaela konisatsioon noa abil
+Emakakaela konisatsioon diatermia või laseri abil
+Emakakaela osaline eemaldamine
+Emakakaela radikaalne eemaldamine
+Emakakaela muu eemaldamine
+Emakakaela suturatsioon
+Emakakaela endoskoopiline õmblus
+Emakakaela õmblus mitterasedal
+Emakakaela plastiline korrektsioon
+Emakakaela tugiõmbluse eemaldamine
+Muu operatsioon emakakaelal
+Tupepessaari vahetus
+Kolposkoopia koos biopsiaga
+Täiskasvanu tupest võõrkeha eemaldamine
+Kuldoskoopia
+Kolpotoomia
+Tupe biopsia
+Tupe lesiooni ekstsisioon
+Laparoskoopioline tupe lesiooni eemaldamine
+Tupe tsüsti marsupialisatsioon
+Tupe limaskesta lesiooni destruktsioon
+Tupe osaline eemaldamine
+Tupe vaheseina eemaldamine
+Kolpektoomia
+Emakakaela laparoskoopiline eemaldamine
+Tupe õmblus
+Tupe korrektsioon transplantaadi või koelapi abil
+Urovaginaalse fistuli sulgemine transplantaadi või koelapi abil
+Urovaginaalse fistuli perkutaanne sulgemine
+Intestinovaginaalse fistuli sulgemine transplantaadi või koelapi abil
+Tupe konstruktsioon
+Tupe muu korrektsioon
+Eesmine kolporaafia
+Eesmine kolpraafia võrguga
+Tagumine kolporaafia
+Eesmine kolporaafia võrguta tsüstotseele retsidiivi korral
+Eesmine kolporaafia võrguga tsütotseele retsidiivi korral
+Kolpoperineoplastika
+Kolpoperineoplastika ja vaginaalne hüsterektoomia
+Osaline kolpokleiis
+Täielik kolpokleiis
+Emaka interpositsioon tupe ja põie vahele
+Vaginaalne enterotseele korrektsioon
+Laparoskoopiline enterotseele korrektsioon
+Enterotseele abdominaalne korrektsioon
+Kolpopeksia eelnenud hüsterektoomia järgselt
+Laparoskoopiline kolpopeksia eelnenud hüsterektoomia järgselt
+Vaginaalne kolpopeksia eelnenud hüsterektoomia järgselt
+Lateraalne kolpopeksia
+Vaginaalne hüsteropeksia õmbluste asetamisega
+Muu operatsioon emaka või tupevõlvi prolapsi korral
+Muu laparoskoopiline operatsioon emaka või tupevõlvi prolapsi korral
+Vaginaalne ureterotsüstoraafia
+Vaginaalne ureterotsüstopeksia
+Transobturatoorse lingu asetamine (TOT)
+Vaginaalne transobturatoorne ureteropeksia
+Vaagnapõhja plastiline korrektsioon naistel koos tõstjalihase läbimisega
+Tsüstopeksia lingu läbilõikamine
+Hüsteropeksia võrgu korrektsioon
+Muu vaginaalne operatsioon inkontinentsi puhul
+Muu operatsioon tupel
+Muu endoskoopiline operatsioon tupel
+Välissuguelundite ja perineumi intsisioon
+Mitteperforeerunud hüümeni või hüümeni jäänuse intsisioon
+Välisgenitaalide korrektsioon peale rituaalset ümberlõikamist
+Välissuguelundite ja perineumi biopsia
+Välissuguelundite ja perineumi lesiooni ekstsisioon
+Välissuguelundite ja perineumi lesiooni likvideerimine
+Suguelundite kahjustuse termokoagulatsioon
+Välissuguelundite osaline eemaldamine
+Välissuguelundite või perineumi muu osaline eemaldamine
+Vulvektoomia
+Vulvektoomia ja regionaalsete lümfisõlmede eemaldamine
+Välissuguelundite õmblus
+Välissuguelundite plastiline korrektsioon
+Perineumi õmblus
+Välissuguelundite ja perineumi muu korrektsioon
+Bartholini näärme marsupialisatsioon
+Bartholini näärme ekstsisioon
+Muu operatsioon Bartholini näärmel
+Muu operatsioon välissuguelunditel või perineumil
+Steriliseerimine munajuhade ligeerimisega
+Steriliseerimine munajuhade eemaldamise või läbimisega
+Laparoskoopiline steriliseerimine munajuhade eemaldamise või läbimisega
+Steriliseerimine munajuhade konstriktsiooni teel
+Laparoskoopiline steriliseerimine munajuhade konstriktsiooni teel
+Hüsteroskoopiline steriliseerimine
+Naise muu steriliseerimine
+Muu laparoskoopiline naise steriliseerimine
+Muu transluminaalne endoskoopiline steriliseerimine
+Haava dehistsentsi korrektsioon günekoloogilises kirurgias
+Kordusoperatsioon pindmise infektsiooni korral günekoloogilises kirurgias
+Kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias
+Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias
+Kordusoperatsioon pindmise verejooksu korral günekoloogilises kirurgias
+Kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias
+Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias
+Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias
+Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias
+Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias
+Tsüstopeksia lingu läbilõikamine
+Hüsteropeksia võrgu korrektsioon
+Korduv emakaõõne abrasioon indutseeritud abordi järel
+Muu kordusoperatsioon günekoloogilises kirurgias
+Muu perkutaanne endoskoopiline kordusoperatsioon günekoloogilises kirurgias
+Muu transluminaalne endoskoopiline kordusoperatsioon günekoloogilises kirurgias
+Suguelundite kahjustuse termokoagulatsioon
+Koorioni biopsia ultraheli kontrolli all
+Varase raseduse (I trimestri) kombineeritud sõeluuring
+Amniotsentees
+Koorioni biopsia ultraheli kontrolli all
+Intraamniaalne infusioon
+Amnioreduktsioon
+Koorionihatu biopsia
+Koorionihatu mikrohüsteroskoopiline biopsia
+Emakasisese rasestumisvastase vahendi eemaldamine ultraheli kontrolliga
+Hüsteroskoopiline emakasisese vahendi eemaldamine raseduse ajal
+Kordotsentees
+Loote nabaveresoonte kateteriseerimine
+Loote punktsioon
+Loote üsasisese vereanalüüsi võtmine
+Loote biopsia
+Embrüo külmutamine
+Fetoskoopia
+Platsenta anastomooside laserkoagulatsioon
+Muu rasedusaegne operatsioon emakal või lootel
+Muu hüsteroskoopiline protseduur emakal raseduse ajal või lootel
+Emakakaelale õmbluse asetamine raseduse ajal
+Emakakaela õmbluse eemaldamine enne sünnitust
+Emaka kokkutõmmete pärssimine enneaegsel sünnitusel
+Loote väline pööre
+Ebaõnnestunud loote väline pööre
+Looteveepõie avamine
+Looteveepõie avamine sünnituse ajal
+Sünnitustegevuse esilekutsumine vibraatoriga
+Vettesünnituse abistamine
+Emakakaelakanali sünnituseelne laiendamine
+Vaakum traktsioon
+Traktsioon tangidega
+Sünnitustegevuse esilekutsumine prostaglandiinidega
+Sünnitustegevuse esilekutsumine või stimuleerimine oksütotsiiniga
+Ettevalmistus sünnituseks
+Amnioniväline infusioon sünnituse esilekutsumiseks
+Sünnituse instrumentaalne esilekutsumine või edendamine
+Emakakaela intsisioon sünnituse abistamiseks
+Pubiotoomia sünnituse abistamiseks
+Sünnitusteede muu laiendamine sünnituse abistamiseks
+Vaakumsünnitus
+Õõne- või kõrge vaakumsünnitus
+Ebaõnnestunud vaakumsünnitus
+Muu vaakumsünnitus
+Madaltangsünnitus e. väljapääsutangid loote peaseisu korral
+Õõnetangsünnitus e. keskmised tangid loote peaseisu korral
+Ebaõnnestunud tangsünnitus loote peaseisu korral
+Muu sünnitus peaseisust tangide abil
+Abistatud tuharseis-sünnitus
+Tuharseis-sünnitus, järeltuleva pea väljutamine tangidega
+Tuharseis-sünnitus loote ekstraktsiooniga
+Tuharseis-sünnitus loote ekstraktsiooniga, järeltuleva pea väljutamine tangidega
+Sisemine loote pööre või pööre ekstraktsiooniga
+Muu tuharseis-sünnitus
+Väljalangenud nabaväädi reponeerimine
+Peaseisu valeasendi korrektsioon
+Loote väline pööramine peaseisu
+Loodet purustav operatsioon sünnitusel
+Välise surve rakendamine kõhule sünnituse abistamisel
+Mitmikraseduse vähendamine ühe loote võrra
+Mitmikraseduse vähendamine enam kui ühe loote võrra
+Muu operatsioon raseduse ajal ja sünnitusel
+Muu laparoskoopiline operatsioon raseduse ajal
+Muu transluminaalne endoskoopiline protseduur raseduse ajal
+Emakaõõne vaakumaspiratsioon pärast sünnitust või aborti
+Emakaõõne abrasioon pärast sünnitust või aborti
+Emakaõõne sünnitusjärgne manuaalne revisioon
+Platsenta väljutamine välise võttega
+Platsenta manuaalne eemaldamine pärast sünnitust
+Lootekestade manuaalne eemaldamine
+Abordijärgse retensiooni evakuatsioon ravimitega
+Platsenta ja looteosade muu eemaldamine pärast sünnitust või aborti
+Emaka reponeerimine inversiooni korral
+Emaka sünnitusjärgne tamponeerimine
+Muu manuaalne protseduur emakal pärast sünnitust
+Emakakaela sünnitusrebendite korrektsioon
+Tupe sünnitusrebendite korrektsioon
+Välissuguelundite sünnitusrebendite korrektsioon
+Perineumi osalise rebendi korrektsioon
+Perineumi täieliku rebendi korrektsioon
+Paravaginaalse või välissuguelundite hematoomi korrektsioon pärast sünnitust või aborti
+Sünnitusjärgse emakaverejooksu intravaskulaarne embolisatsioon
+Sünnitusjärgse verejooksu peatamine
+Sünnitusrebendite muu korrektsioon
+Vereproovi võtmine nabaveenist pärast sünnitust
+Muu operatsioon pärast sünnitust või aborti
+Keisrilõige emakakehal
+Keisrilõige emaka alumises segmendis
+Vaginaalne keisrilõige
+Supravaginaalne hüsterektoomia keisrilõikel
+Hüsterektoomia keisrilõikel
+Muu keisrilõige
+Laparotoomia ja sünnitus emakavälise loote korral
+Emakaruptuuri sünnitusjärgne korrektsioon
+Sünnitusjärgne hüsterektoomia
+Muu laparotoomia sünnitusabis
+Haava dehistsentsi korrektsioon sünnitusabis
+Kordusoperatsioon pindmise infektsiooni korral sünnitusabis
+Kordusoperatsioon süvainfektsiooni korral sünnitusabis
+Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral sünnitusabis
+Kordusoperatsioon pindmise verejooksu korral sünnitusabis
+Kordusoperatsioon sisemise verejooksu korral sünnitusabis
+Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis
+Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis
+Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis
+Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis
+Korduv emakaõõne abrasioon pärast sünnitust või spontaanset aborti
+Muu kordusoperatsioon sünnitusabis
+Muu perkutaanne endoskoopiline kordusoperatsioon sünnitusabis
+Muu transluminaalne endoskoopiline kordusoperatsioon sünnitusabis
+Ettevalmistus sünnituseks
+Lumbaalpunktsioon
+Perifeerne närviblokaad
+Kilpnäärme punktsioon
+Kilpnäärme nõelbiopsia
+Kilpnäärme aspiratsiooni tsütoloogia
+Kõrvalkilpnäärme punktsioon
+Kõrvalkilpnäärme nõelbiopsia
+Neerupealise nõelbiopsia
+Muu väike protseduur endokriinkirurgias
+Orbita nõelbiopsia
+Retrobulbaarne terapeutiline injektsioon orbitasse
+Peribulbaarne terapeutiline injektsioon orbitasse
+Silmalau nõelbiopsia
+Ravimi süstimine silmalaugu
+Pisaranäärme nõelbiopsia
+Pisarakanali või nasolakrimaaljuha sondeerimine
+Pisarakanali intubatsioon või nasolakrimaaljuha intubatsioon
+Subkonjuktivaalne terapeutiline injektsioon
+Õmbluste eemaldamine sarvkestast
+Pärissoonkesta nõelbiopsia
+Klaaskeha nõelbiopsia
+Võrkkesta nõebiopsia
+Muu väike protseduur silmakirurgias
+Kõrvalesta või välise kuulmekanali biopsia
+Kõrvalesta või välise kuulmekanali nõelbiopsia
+Kõrvavaigu eemaldamine
+Võõrkeha eemaldamine välisest kuulmekanalist
+Trummikile nõelbiopsia
+Nina nõelbiopsia
+Võõrkeha eemaldamine ninaõõnest
+Ninavaheseina nõelbiopsia
+Põsekoopa nõelbiopsia
+Põseluukoopa punktsioon ja loputus
+Sõelluu ja sõelluukoopa nõelbiopsia
+Otsmikukoopa nõelbiopsia
+Frontaalsiinuse punktsioon
+Põhiluukoopa nõelbiopsia
+Kõri nõelbiopsia
+Huule biopsia
+Huule nõelbiopsia
+Igeme nõelbiopsia
+Lõualuu dislokatsiooni kinnine paigaldamine
+Alalõualuu nõelbiopsia
+Ülalõualuu nõelbiopsia
+Alalõualuuliigese nõelbiopsia
+Alalõualuu artrotsentees
+Kõva suulae nõelbiopsia
+Keele või suupõhja nõelbiopsia
+Süljenäärmete nõelbiopsia
+Mandlite või adenoidide nõelbiopsia
+Neelu või külgnevate struktuuride nõelbiopsia
+Muu väike protseduur hammaste, lõualuude, suu ja neelu kirurgias
+Parema koja või vatsakese kateteriseerimine
+Vasaku koja või vatsakese kateteriseerimine
+Perikardiotsentees
+Südame punktsioon
+Transvenoosse või epikardiaalse südame tehisrütmuri ajutine kasutamine
+Kardioversioon
+Rindkereseina nõelbiopsia
+Pleura nõelbiopsia
+Diafragma nõelbiopsia
+Torakotsentees
+Trahhea nõelbiopsia
+Kopsu nõelbiopsia
+Mediastiinumi nõelbiopsia
+Muu väike protseduur torakaalkirurgias
+Rinnanibu nõelbiopsia
+Rinnanäärme nõelbiopsia
+Muu väike protseduur rinnanäärme kirurgias
+Peritoneaalõõne punktsioon
+Laparotsentees
+Peritoneaaldialüüsi kateetri eemaldamine
+Nasogastraal- või nasogastroduodenaalsondi asetamine
+Gastrostoomi toru vahetus
+Jejunaalkateetri sisseviimine
+Peensoole peroraalne biopsia
+Soole invaginatsiooni likvideerimine kasutades baarium-klistiiri
+Võõrkeha eemaldamine rektumist
+Maksa perkutaanne nõelbiopsia
+Operatsiooniaegne kolangiograafia
+Laparoskoopiline kolangiograafia
+Pankrease perkutaanne nõelbiopsia
+Põrna nõelbiopsia
+Hemodialüüs
+Hemofiltratsioon
+Peritoneaaldialüüs
+Neeru või neeruvaagna nõelbiopsia
+Nõelbiopsia siirdatud neerust
+Neeru või neeruvaagna perkutaanne punktsioon
+Ureeterostoomi sulgemine
+Põie nõelbiopsia
+Põie perkutaanne punktsioon
+Põie kateteriseerimine
+Suprapubikaalse põiekateetri kontrollimine, vahetamine või eemaldamine
+Ureetra dilatatsioon
+Prostata nõelbiopsia
+Prostata aspiratsiooni tsütoloogia
+Prostata punktsioon
+Testise nõelbiopsia
+Epididüümise nõelbiopsia
+Epididüümise punktsioon
+Skrootumi punktsioon
+Hemodialüüs
+Patsiendijuhitud hemodialüüs
+Hemofiltratsioon
+Kodune peritoneaaldialüüs
+Krooniline peritoneaaldialüüs
+Peritoneaaldialüüs
+Krooniline hemodialüüs
+Muu väike kirurgiline protseduur uroloogias
+Munasarja nõelbiopsia
+Munajuha nõelbiopsia
+Emakasisese rasestumisvastase vahendi sissepanek
+Emakasisese rasestumisvastase vahendi lihtne eemaldamine
+Tupe dilatatsioon
+Täiskasvanu tupest võõrkeha eemaldamine
+Võõrkeha eemaldamine tupest lapseeas
+Cul-de-sac’i transvaginaalne punktsioon
+Tupe tamponaad
+Tupepessaari või -rõnga paigaldamine
+Tupepessaari vahetus
+Häbememokkade defibulatsioon
+Inseminatsioon
+Embrüo siirdamine müomeetriumi kaudu
+Külmutatud embrüo siirdamine
+Tsütoplasmasisene sperma injektsioon (ICSI)
+Ovulatsiooni medikamentoosne esilekutsumine
+Muu väike kirurgiline protseduur günekoloogias
+Episiotoomia
+Normaalse sünnituse abistamine
+Loote monitooring
+Rinnaga toitmise toetamine
+Muu väike kirurgiline protseduur sünnitusabis
+Pehme koe punktsioon või nõelbiopsia; lülisammas ja kael
+Artrotsentees; lülisammas ja kael
+Diagnostilise või terapeutilise aine injektsioon liigesesse; lülisammas ja kael
+Luuüdi aspiratsioon; lülisammas ja kael
+Luuüdi puurbiopsia; lülisammas ja kael
+Pehme side; lülisammas ja kael
+Eritellimusel valmistatud lahas; lülisammas ja kael
+Eritellimusel valmistatud kips; lülisammas ja kael
+Pehme koe punktsioon või nõelbiopsia; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Artrotsentees; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Diagnostilise või terapeutilise aine injektsioon liigesesse; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Luuüdi aspiratsioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Pehme side; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Eritellimusel valmistatud lahas; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Eritellimusel valmistatud kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Eritellimusel valmistatud suur kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+Pehme koe punktsioon või nõelbiopsia; küünarnukk ja küünarvars
+Artrotsentees; küünarnukk ja küünarvars
+Diagnostilise või terapeutilise aine injektsioon liigesesse; küünarnukk ja küünarvars
+Luuüdi aspiratsioon; küünarnukk ja küünarvars
+Pehme side; küünarnukk ja küünarvars
+Eritellimusel valmistatud lahas; küünarnukk ja küünarvars
+Eritellimusel valmistatud kips; küünarnukk ja küünarvars
+Eritellimusel valmistatud suur kips; küünarnukk ja küünarvars
+Pehme koe punktsioon või nõelbiopsia; ranne ja labakäsi
+Artrotsentees; ranne ja labakäsi
+Diagnostilise või terapeutilise aine injektsioon liigesesse; ranne ja labakäsi
+Luuüdi aspiratsioon; ranne ja labakäsi
+Pehme side; ranne ja labakäsi
+Eritellimusel valmistatud lahas; ranne ja labakäsi
+Eritellimusel valmistatud kips; ranne ja labakäsi
+Eritellimusel valmistatud suur kips; ranne ja labakäsi
+Pehme koe punktsioon või nõelbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu)
+Artrotsentees; vaagen (kaasaarvatud ristluu ja sabaluu)
+Diagnostilise või terapeutilise aine injektsioon liigesesse; vaagen (kaasaarvatud ristluu ja sabaluu)
+Luuüdi aspiratsioon; vaagen (kaasaarvatud ristluu ja sabaluu)
+Luuüdi puurbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu)
+Pehme side; vaagen (kaasaarvatud ristluu ja sabaluu)
+Eritellimusel valmistatud lahas; vaagen (kaasaarvatud ristluu ja sabaluu)
+Eritellimusel valmistatud kips; vaagen (kaasaarvatud ristluu ja sabaluu)
+Eritellimusel valmistatud suur kips; vaagen (kaasaarvatud ristluu ja sabaluu)
+Pehme koe punktsioon või nõelbiopsia; puusaliiges ja reis
+Artrotsentees; puusaliiges ja reis
+Diagnostilise või terapeutilise aine injektsioon liigesesse; puusaliiges ja reis
+Luuüdi aspiratsioon; puusaliiges ja reis
+Pehme side; puusaliiges ja reis
+Eritellimusel valmistatud lahas; puusaliiges ja reis
+Eritellimusel valmistatud kips; puusaliiges ja reis
+Eritellimusel valmistatud suur kips; puusaliiges ja reis
+Pehme koe punktsioon või nõelbiopsia; põlveliiges ja säär
+Artrotsentees; põlveliiges ja säär
+Diagnostilise või terapeutilise aine injektsioon liigesesse; põlveliiges ja säär
+Luuüdi aspiratsioon; põlveliiges ja säär
+Pehme side; põlveliiges ja säär
+Tööstuslikult toodetud ortoos; põlveliiges ja säär
+Eritellimusel valmistatud lahas; põlveliiges ja säär
+Eritellimusel valmistatud kips; põlveliiges ja säär
+Eritellimusel valmistatud suur kips; põlveliiges ja säär
+Väline traktsioon; põlveliiges ja säär
+Pehme koe punktsioon või nõelbiopsia; hüppeliiges ja labajalg
+Artrotsentees; hüppeliiges ja labajalg
+Diagnostilise või terapeutilise aine injektsioon liigesesse; hüppeliiges ja labajalg
+Luuüdi aspiratsioon; hüppeliiges ja labajalg
+Pehme side; hüppeliiges ja labajalg
+Eritellimusel valmistatud lahas; hüppeliiges ja labajalg
+Eritellimusel valmistatud kips; hüppeliiges ja labajalg
+Eritellimusel valmistatud suur kips; hüppeliiges ja labajalg
+Pehme koe punktsioon või nõelbiopsia; määratlemata piirkond
+Pehme koe lihtne intsisioon; määratlemata piirkond
+Artrotsentees; määratlemata piirkond
+Diagnostilise või terapeutilise aine injektsioon liigesesse; määratlemata piirkond
+Luuüdi aspiratsioon; määratlemata piirkond
+Luuüdi puurbiopsia; määratlemata piirkond
+Pehme side; määratlemata piirkond
+Eritellimusel valmistatud lahas; määratlemata piirkond
+Eritellimusel valmistatud kips; määratlemata piirkond
+Eritellimusel valmistatud suur kips; määratlemata piirkond
+Muu ortopeediline side; määratlemata piirkond
+Väline traktsioon; määratlemata piirkond
+Skeletimarkeri implantatsioon; määratlemata piirkond
+Flebotoomia
+Perifeerse veeni lahtine kanüleerimine
+Intra-arteriaalse kanüüli paigaldamine
+Veenilaiendite skleroteraapia
+Tsentraalse veenikateetri paigaldamine välise või sisemise jugulaarveeni kaudu
+Tsentraalse veenikateetri paigaldamine v. subclavia või v. brachiocephalica kaudu
+Fikseeritud intravenoosse kateetri eemaldamine
+Pindmise lümfisõlme biopsia
+Lümfisõlme nõelbiopsia
+Muu väike kirurgiline protseduur perifeersel veresoonel või lümfisüsteemil
+Arteri või veeni biopsia
+Vaskulaarse injektsioonipordi paigaldamine
+Vaskulaarse injektsioonipordi eemaldamine
+Intravenoosne trombolüüs arteriaalse tromboosi korral
+Haava vaakumravi
+Subkutanne skleroteraapia
+Muu väike protseduur nahal
+Naha biopsia
+Naha nõelbiopsia
+Naha õmbluste eemaldamine

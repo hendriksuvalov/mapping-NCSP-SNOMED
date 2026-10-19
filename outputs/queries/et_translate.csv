@@ -1,0 +1,639 @@
+source_code,text
+LAA00,Puncture of ovarian cyst
+LAA01,Laparoscopic puncture of ovarian cyst
+LAA03,Percutaneous puncture of ovarian cyst
+LAA06,Transvaginal puncture of ovarian cyst
+LAA10,Percutaneous and transvaginal follicle puncture with oocyte retrieval
+LAA11,Laparoscopic oocyte retrieval
+LAA20,Percutaneous or transvaginal injection into ovarian pregnancy
+LAA31,Ovarioscopy
+LAA96,Puncture of ovary
+LAA97,Laparoscopic puncture of ovary
+LAB00,Ovarian incision
+LAB01,Laparoscopic incision of ovary
+LAB10,Biopsy of ovary
+LAB11,Laparoscopic biopsy of ovary
+LAB21,Laparoscopic needle biopsy of ovary
+LAB96,Incision or biopsy of ovary
+LAB97,Laparoscopic incision or biopsy of ovary
+LAC00,Excision of ovarian cyst
+LAC01,Laparoscopic excision of ovarian cyst
+LAC10,Fenestration of ovarian cyst
+LAC11,Laparoscopic fenestration of ovarian cyst
+LAC20,Destruction of lesion of ovary
+LAC21,Laparoscopic destruction of ovarian lesion
+LAC30,Excision of paraovarian cyst
+LAC31,Laparoscopic excision of paraovarian cyst
+LAC96,Excision or destruction of lesion of ovary
+LAC97,Laparoscopic excision or destruction of ovarian lesion
+LAD00,Partial oophorectomy
+LAD01,Laparoscopic partial oophorectomy
+LAE10,Unilateral oophorectomy
+LAE11,Unilateral laparoscopic oophorectomy
+LAE20,Bilateral oophorectomy
+LAE21,Bilateral laparoscopic oophorectomy
+LAF00,Unilateral salpingo-oophorectomy
+LAF01,Unilateral laparoscopic salpingo-oophorectomy
+LAF10,Bilateral salpingo-oophorectomy
+LAF11,Bilateral laparoscopic salpingo-oophorectomy
+LAF17,Laparoscopic lymphadenectomy for malignant neoplasm of ovary
+LAF20,Unilateral transvaginal salpingo-oophorectomy
+LAF30,Bilateral transvaginal salpingo-oophorectomy
+LAG00,Lysis of adhesions of ovary
+LAG01,Laparoscopic adhesiolysis of ovary
+LAG10,Oophoropexy
+LAG11,Laparoscopic oophoropexy
+LAG20,Detorsion of ovary
+LAG21,Laparoscopic detorsion of ovary
+LAG96,Reconstructive operation on ovary
+LAG97,Laparoscopic reconstruction of ovary
+LAW96,Surgical procedure on ovary
+LAW97,Laparoscopic procedure on ovary
+LB1YT,Catheterization of fallopian tube
+LBA00,Percutaneous puncture of fallopian tube
+LBA01,Laparoscopic puncture of fallopian tube
+LBA03,Transvaginal puncture of fallopian tube
+LBA07,Salpingoscopy
+LBA97,Laparoscopic puncture of fallopian tube
+LBA98,Endoscopic transluminal procedure of fallopian tube
+LBB00,Biopsy of fallopian tube
+LBB01,Laparoscopic biopsy of fallopian tube
+LBB04,Salpingoscopic biopsy of fallopian tube
+LBB11,Laparoscopic needle biopsy of fallopian tube
+LBB96,Fallopian tube biopsy
+LBC00,Percutaneous injection into tubal pregnancy
+LBC03,Transvaginal injection into tubal pregnancy
+LBC07,Laparoscopic injection into tubal pregnancy
+LBC08,Falloposcopic injection into tubal ectopic pregnancy
+LBC10,Removal of products of conception from fallopian tube
+LBC11,Laparoscopic removal of products of conception from fallopian tube
+LBC20,Salpingotomy with removal of products of conception
+LBC21,Laparoscopic salpingotomy and removal of products of conception
+LBC96,Fallopian tube-conserving surgery for ectopic pregnancy
+LBC97,Laparoscopic fallopian tube-preserving surgery for tubal ectopic pregnancy
+LBC98,Transluminal fallopian tube-preserving surgery for tubal pregnancy
+LBD00,Resection of fallopian tube
+LBD01,Laparoscopic resection of fallopian tube
+LBE00,Total salpingectomy
+LBE01,Laparoscopic total salpingectomy
+LBF00,Fallopian tube perfusion
+LBF01,Laparoscopic fallopian tube perfusion
+LBF03,Fallopian tube perfusion following reconstruction
+LBF11,Laparoscopy for assisted fertilization
+LBF12,Hysteroscopy for assisted reproduction
+LBF20,Transcervical catheter salpingoplasty
+LBF30,Salpingolysis
+LBF31,Laparoscopic salpingolysis
+LBF40,Fallopian tube fimbrioplasty
+LBF41,Laparoscopic fimbrioplasty of fallopian tube
+LBF50,Salpingostomy
+LBF51,Laparoscopic salpingostomy for infertility
+LBF60,Partial salpingectomy with anastomosis
+LBF61,Laparoscopic partial salpingectomy with fallopian tube anastomosis
+LBF70,Partial salpingectomy and reimplantation
+LBF71,Laparoscopic partial excision and reimplantation of fallopian tube
+LBF96,Fallopian tube surgery for infertility
+LBF97,Laparoscopic surgery on fallopian tube for infertility
+LBW20,Catheterization of fallopian tube under fluoroscopic guidance
+LBW80,Fallopian tube insufflation with oxygen
+LBW96,Procedure on fallopian tube
+LBW97,Laparoscopic procedure on fallopian tube
+LBW98,Transluminal endoscopic procedure on fallopian tube
+LBX14,Perfusion of fallopian tube with oxygen gas
+LCA00,Biopsy of uterus and uterine ligaments
+LCA01,Laparoscopic biopsy of uterus and uterine ligaments
+LCA06,Endometrial biopsy
+LCA10,Curettage of uterine cavity
+LCA13,Curettage of uterine cavity and cervix
+LCA16,Endometrial ablation
+LCA20,Removal of foreign body from uterus
+LCA22,Hysteroscopic removal of foreign body from uterus
+LCA30,Transfer of oocyte and embryo to the uterine cavity for assisted reproduction
+LCA96,Intrauterine operation
+LCA98,Hysteroscopic procedure on uterus
+LCB00,Hysterotomy
+LCB01,Laparoscopic hysterotomy
+LCB10,Myomectomy
+LCB11,Laparoscopic myomectomy
+LCB14,Laparoscopic myolysis
+LCB20,Transvaginal myomectomy
+LCB25,Hysteroscopic excision of uterine lesion
+LCB28,Hysteroscopic excision of endometrium
+LCB32,Hysteroscopic endometrial ablation
+LCB90,Needle biopsy of uterus
+LCB96,Excision of lesion of uterus
+LCB97,Laparoscopic excision of lesion of uterus
+LCB98,Transluminal endoscopic excision of uterine lesion
+LCC00,Subtotal hysterectomy
+LCC01,Laparoscopic partial hysterectomy
+LCC05,Hysteroscopic resection of uterine wall
+LCC10,Supracervical hysterectomy
+LCC11,Laparoscopic supracervical hysterectomy
+LCC20,Vaginal subtotal hysterectomy
+LCC96,Partial hysterectomy
+LCC97,Laparoscopic partial hysterectomy
+LCD00,Total hysterectomy
+LCD01,Total laparoscopic hysterectomy
+LCD04,Total laparoscopic hysterectomy
+LCD10,Total vaginal hysterectomy
+LCD11,Laparoscopically assisted vaginal hysterectomy
+LCD30,Radical hysterectomy
+LCD31,Laparoscopic radical hysterectomy
+LCD40,Radical vaginal hysterectomy
+LCD96,Total hysterectomy
+LCD97,Total laparoscopic hysterectomy
+LCE00,Anterior pelvic exenteration in women
+LCE10,Posterior pelvic exenteration
+LCE20,Total pelvic exenteration in women
+LCE96,Evisceration of pelvic organs in female
+LCF00,Excision of lesion of parametrium
+LCF01,Laparoscopic excision of lesion of parametrium
+LCF10,Excision of parametrial varicocele
+LCF11,Laparoscopic excision of varicocele in a female
+LCF20,Excision of lesion of pouch of Douglas
+LCF21,Laparoscopic excision of lesion of pouch of Douglas
+LCF96,Excision of lesion of parametrium
+LCF97,Laparoscopic excision of lesion of parametrium
+LCG02,Hysteroscopic lysis of intrauterine adhesions
+LCG10,Suture of uterus
+LCG11,Laparoscopic suturing of uterus
+LCG20,Hysteropexy
+LCG21,Laparoscopic hysteropexy
+LCG30,Resection or transection of uterosacral ligaments
+LCG31,Laparoscopic resection or transection of uterosacral ligaments
+LCG40,Reconstruction of uterus
+LCG41,Laparoscopic reconstruction of uterus
+LCG96,Reconstructive operation on uterus
+LCG97,Laparoscopic reconstruction of uterus
+LCG98,Hysteroscopic reconstructive procedure of uterus
+LCH00,Vacuum aspiration of products of conception from uterine cavity
+LCH03,Removal of products of conception from the uterine cavity and curettage of the uterus
+LCH10,Intra-amniotic or extra-amniotic administration of abortifacient drugs
+LCH11,Extra-amniotic administration of abortifacient medication
+LCH12,Oral administration of abortifacient
+LCH13,Vacuum aspiration of the uterine cavity following medically induced abortion
+LCH15,Removal of retained products of conception from the uterine cavity following incomplete induced abortion
+LCH20,Hysterectomy and evacuation of products of conception
+LCH96,Termination of pregnancy
+LCW96,Surgical procedure on uterus and uterine ligaments
+LCW97,Laparoscopic procedure on uterus and uterine ligaments
+LCW98,Hysteroscopic procedure on uterus
+LDA00,Dilation of cervix
+LDA10,Cervical abrasion
+LDA20,Biopsy of cervix
+LDA91,Transvaginal removal of foreign body from cervix
+LDA96,Biopsy of cervix
+LDB00,Excision of cervical lesion
+LDB10,Cryotherapy of cervix
+LDB20,Electrocoagulation or laser therapy of the cervix
+LDC00,Cold knife conization of cervix
+LDC03,Conization of cervix using diathermy or laser
+LDC10,Partial excision of cervix uteri
+LDC20,Radical trachelectomy
+LDC96,Excision of cervix
+LDD00,Suture of cervix
+LDD01,Endoscopic suturing of cervix
+LDD03,Suture of cervix in nonpregnant female
+LDD10,Repair of cervix uteri
+LDD20,Removal of cervical cerclage suture
+LDW96,Surgical procedure on uterine cervix
+LDX12,Replacement of vaginal pessary
+LE003,Colposcopy with biopsy
+LE010,Removal of foreign body from vagina in adult
+LEA01,Culdoscopy
+LEA10,Colpotomy
+LEB00,Biopsy of vagina
+LEB10,Excision of vaginal lesion
+LEB11,Laparoscopic excision of vaginal lesion
+LEB20,Marsupialization of vaginal cyst
+LEB30,Destruction of vaginal mucosal lesion
+LEC00,Partial vaginectomy
+LEC10,Excision of vaginal septum
+LED00,Total vaginectomy
+LED01,Laparoscopic excision of cervix uteri
+LEE00,Suture of vagina
+LEE10,Vaginal repair with graft or tissue flap
+LEE20,Closure of urovaginal fistula with graft or tissue flap
+LEE21,Percutaneous closure of urovaginal fistula
+LEE30,Closure of enterovaginal fistula using a graft or tissue flap
+LEE40,Vaginal construction
+LEE96,Vaginal repair
+LEF00,Anterior colporrhaphy
+LEF01,Anterior colporrhaphy with mesh
+LEF03,Posterior colporrhaphy
+LEF05,Anterior colporrhaphy without mesh for recurrent cystocele
+LEF06,Anterior colporrhaphy with mesh for recurrent cystocele
+LEF10,Colpoperineoplasty
+LEF13,Colpoperineoplasty and vaginal hysterectomy
+LEF20,Partial colpocleisis
+LEF23,Complete colpocleisis
+LEF30,Uterine interposition between vagina and bladder
+LEF40,Vaginal repair of enterocele
+LEF41,Laparoscopic repair of enterocele
+LEF43,Abdominal repair of enterocele
+LEF50,Colpopexy following previous hysterectomy
+LEF51,Laparoscopic colpopexy following previous hysterectomy
+LEF53,Vaginal colpopexy following hysterectomy
+LEF60,Lateral colpopexy
+LEF63,Vaginal hysteropexy with suture placement
+LEF96,Procedure for uterine or vaginal vault prolapse
+LEF97,Laparoscopic surgery for uterine or vaginal vault prolapse
+LEG00,Vaginal ureterocystography
+LEG10,Vaginal urethrocystopexy
+LEG12,Insertion of transobturator tape
+LEG13,Vaginal transobturator urethropexy
+LEG20,Pelvic floor repair with levator ani plication
+LEG70,Division of cystopexy sling
+LEG80,Revision of hysteropexy mesh
+LEG96,Vaginal surgery for incontinence
+LEW96,Procedure on vagina
+LEW97,Endoscopic operation on vagina
+LFA00,Incision of external genitalia and perineum
+LFA10,Incision of imperforate hymen or hymenal remnant
+LFA20,Correction of external genitalia following ritual circumcision
+LFB00,Biopsy of external genitalia and perineum
+LFB10,Excision of lesion of external genitalia and perineum
+LFB20,Destruction of lesion of external genitalia and perineum
+LFB31,Thermocoagulation of lesion of external genitalia
+LFC00,Partial vulvectomy
+LFC96,Partial excision of external genitalia or perineum
+LFD00,Total vulvectomy
+LFD10,Vulvectomy with regional lymphadenectomy
+LFE00,Suture of vulva
+LFE10,Plastic repair of external genitalia
+LFE20,Suture of perineum
+LFE96,Correction of external genitalia and perineum
+LFF00,Marsupialization of Bartholin's gland
+LFF10,Excision of Bartholin's gland
+LFF96,Surgery of Bartholin's gland
+LFW96,Surgical procedure on external genitalia or perineum
+LGA00,Female sterilization by fallopian tube ligation
+LGA10,Female sterilization by removal or interruption of the fallopian tubes
+LGA11,Laparoscopic sterilization by removal or occlusion of the fallopian tubes
+LGA20,Female sterilization by tubal ligation
+LGA21,Laparoscopic tubal ligation
+LGA22,Hysteroscopic sterilization
+LGA96,Female sterilization
+LGA97,Laparoscopic sterilization of female
+LGA98,Female sterilization by transluminal endoscopic approach
+LWA00,Repair of wound dehiscence following gynecological surgery
+LWB00,Reoperation for superficial infection in gynecological surgery
+LWC00,Reoperation for deep infection following gynecologic surgery
+LWC01,Percutaneous endoscopic reoperation for deep infection in gynecologic surgery
+LWD00,Reoperation for superficial hemorrhage in gynecologic surgery
+LWE00,Reoperation for internal hemorrhage in gynecologic surgery
+LWE01,Percutaneous endoscopic reoperation for internal hemorrhage following gynecologic surgery
+LWE02,Transluminal endoscopic reoperation for internal hemorrhage in gynecologic surgery
+LWF00,Reoperation for anastomotic or suture dehiscence in gynecologic surgery
+LWF01,Percutaneous endoscopic reoperation for dehiscence of anastomosis or suture in gynecologic surgery
+LWK03,Division of cystopexy sling
+LWL03,Revision of hysteropexy mesh
+LWW00,Repeat uterine curettage following induced abortion
+LWW96,Reoperation in gynecologic surgery
+LWW97,Percutaneous endoscopic reoperation in gynecologic surgery
+LWW98,Transluminal endoscopic reoperation on female genital organs
+LX1LT,Thermocoagulation of lesion of external genitalia
+MA0AT,Ultrasound-guided chorionic villus sampling
+MA3AE,First-trimester combined prenatal screening
+MAA00,Amniocentesis
+MAA01,Ultrasound-guided chorionic villus sampling
+MAA03,Intra-amniotic infusion
+MAA06,Amnioreduction
+MAA10,Chorionic villus sampling
+MAA12,Microhysteroscopic biopsy of chorionic villi
+MAA20,Removal of intrauterine contraceptive device under ultrasound guidance
+MAA22,Hysteroscopic removal of intrauterine device during pregnancy
+MAA30,Cordocentesis
+MAA32,Catheterization of fetal umbilical vessels
+MAA40,Fetal puncture
+MAA41,Intrauterine fetal blood sampling
+MAA43,Fetal biopsy
+MAA52,Embryo cryopreservation
+MAA54,Fetoscopy
+MAA82,Laser coagulation of placental anastomoses
+MAA96,Operation on uterus or fetus during pregnancy
+MAA98,Hysteroscopic procedure on the uterus during pregnancy or on the fetus
+MAB00,Cervical cerclage during pregnancy
+MAB03,Removal of cervical cerclage before delivery
+MAB04,Tocolysis for preterm labor
+MAB10,External version of fetus
+MAB20,Unsuccessful external cephalic version of fetus
+MAC00,Artificial rupture of membranes
+MAC02,Artificial rupture of membranes during labor
+MAC03,Induction of labor using a vibrator
+MAC04,Assistance with water birth
+MAC10,Prepartum dilatation of the cervical canal
+MAC20,Vacuum extraction delivery
+MAC23,Forceps traction
+MAC31,Induction of labor using prostaglandins
+MAC32,Induction or augmentation of labor using oxytocin
+MAC90,Cervical preparation for labor
+MAC91,Extra-amniotic infusion for induction of labor
+MAC96,Instrumental induction or augmentation of labor
+MAD00,Cervical incision to facilitate delivery
+MAD20,Pubiotomy to assist delivery
+MAD96,Dilation of birth canal to assist delivery
+MAE00,Vacuum extraction delivery
+MAE03,Mid-cavity or high vacuum extraction delivery
+MAE20,Failed vacuum-assisted vaginal delivery
+MAE96,Vacuum extraction delivery
+MAF00,Low (outlet) forceps delivery for cephalic presentation
+MAF10,Midforceps delivery in cephalic presentation
+MAF20,Failed forceps delivery of fetus in cephalic presentation
+MAF96,Forceps delivery in cephalic presentation
+MAG00,Assisted breech delivery
+MAG03,Forceps delivery of aftercoming head in breech delivery
+MAG10,Breech delivery with fetal extraction
+MAG13,Breech delivery with extraction of the fetus and forceps delivery of the aftercoming head
+MAG20,"Internal podalic version, with or without extraction"
+MAG96,Breech delivery
+MAH10,Reduction of prolapsed umbilical cord
+MAH20,Correction of malposition of cephalic presentation
+MAH22,External cephalic version of fetus
+MAH30,Destructive operation on fetus during labor
+MAH41,Application of external abdominal pressure to assist delivery
+MAJ00,Reduction of multiple pregnancy by one fetus
+MAJ10,Multifetal pregnancy reduction by more than one fetus
+MAW96,Surgical procedure during pregnancy and childbirth
+MAW97,Laparoscopic surgery during pregnancy
+MAW98,Transluminal endoscopic procedure during pregnancy
+MBA00,Vacuum aspiration of the uterine cavity after delivery or abortion
+MBA03,Curettage of uterus following delivery or abortion
+MBA10,Manual exploration of the uterine cavity following delivery
+MBA20,Expression of placenta by external manipulation
+MBA30,Manual removal of placenta after delivery
+MBA32,Manual removal of fetal membranes
+MBA40,Medical evacuation of retained products of conception following abortion
+MBA96,Removal of placenta and fetal parts following delivery or abortion
+MBB00,Reduction of uterine inversion
+MBB10,Postpartum uterine tamponade
+MBB96,Manual procedure on uterus following delivery
+MBC00,Repair of obstetric laceration of cervix
+MBC10,Repair of vaginal obstetric laceration
+MBC20,Repair of obstetric laceration of external genitalia
+MBC30,Repair of partial perineal tear
+MBC33,Repair of complete perineal laceration
+MBC40,Repair of paravaginal or external genital hematoma following childbirth or abortion
+MBC80,Intravascular embolization for postpartum uterine hemorrhage
+MBC90,Control of postpartum hemorrhage
+MBC96,Repair of obstetric laceration
+MBS00,Blood specimen collection from the umbilical vein after delivery
+MBW96,Operation following childbirth or abortion
+MCA00,Cesarean section through the body of the uterus
+MCA10,Lower segment cesarean section
+MCA20,Vaginal cesarean section
+MCA30,Cesarean section with supracervical hysterectomy
+MCA33,Hysterectomy during cesarean delivery
+MCA96,Cesarean section
+MCB00,Laparotomy with delivery of extrauterine fetus
+MCC00,Postpartum repair of uterine rupture
+MCW00,Postpartum hysterectomy
+MCW96,Obstetric laparotomy
+MWA00,Repair of obstetric wound dehiscence
+MWB00,Obstetric reoperation for superficial infection
+MWC00,Obstetric reoperation for deep infection
+MWC01,Percutaneous endoscopic reoperation for deep infection in obstetrics
+MWD00,Reoperation for superficial hemorrhage in obstetrics
+MWE00,Reoperation for internal hemorrhage in obstetrics
+MWE01,Percutaneous endoscopic reoperation for internal hemorrhage in obstetrics
+MWE02,Transluminal endoscopic reoperation for internal hemorrhage in obstetrics
+MWF00,Reoperation for anastomotic or suture dehiscence in obstetrics
+MWF01,Percutaneous endoscopic reoperation for obstetric anastomotic or suture dehiscence
+MWW00,Repeat curettage of uterine cavity following delivery or spontaneous abortion
+MWW96,Reoperation in obstetrics
+MWW97,Percutaneous endoscopic reoperation in obstetrics
+MWW98,Transluminal endoscopic reoperation in obstetrics
+MXB00,Preparation for labor
+TAB00,Lumbar puncture
+TAC00,Peripheral nerve block
+TBA00,Puncture of thyroid gland
+TBA10,Needle biopsy of thyroid gland
+TBA20,Thyroid aspiration cytology
+TBB00,Puncture of parathyroid gland
+TBB10,Needle biopsy of parathyroid gland
+TBC00,Needle biopsy of adrenal gland
+TBW99,Minor endocrine surgical procedure
+TCA00,Needle biopsy of orbit
+TCA15,Retrobulbar therapeutic injection into orbit
+TCA20,Peribulbar therapeutic injection into orbit
+TCB00,Needle biopsy of eyelid
+TCB20,Injection of therapeutic substance into eyelid
+TCC00,Needle biopsy of lacrimal gland
+TCC10,Probing of lacrimal canaliculus or nasolacrimal duct
+TCC30,Intubation of lacrimal canaliculus or nasolacrimal duct
+TCF00,Therapeutic subconjunctival injection
+TCG10,Removal of sutures from cornea
+TCK10,Needle biopsy of choroid
+TCK20,Needle biopsy of vitreous body
+TCK30,Needle biopsy of retina
+TCW99,Minor ophthalmic surgical procedure
+TDA00,Biopsy of auricle or external auditory canal
+TDA10,Needle biopsy of auricle or external auditory canal
+TDA90,Removal of cerumen
+TDB00,Removal of foreign body from external auditory canal
+TDC00,Needle biopsy of tympanic membrane
+TDH00,Needle biopsy of nose
+TDH10,Removal of foreign body from nasal cavity
+TDJ00,Needle biopsy of nasal septum
+TDM00,Needle biopsy of maxillary sinus
+TDM10,Maxillary sinus puncture and irrigation
+TDN00,Needle biopsy of ethmoid bone and ethmoid sinus
+TDP00,Needle biopsy of frontal sinus
+TDP05,Puncture of frontal sinus
+TDP10,Needle biopsy of sphenoid sinus
+TDQ00,Needle biopsy of larynx
+TEA00,Biopsy of lip
+TEA10,Needle biopsy of lip
+TEC00,Needle biopsy of gingiva
+TED00,Closed reduction of jaw dislocation
+TED10,Needle biopsy of mandible
+TEE00,Needle biopsy of maxilla
+TEG00,Needle biopsy of temporomandibular joint
+TEG10,Arthrocentesis of temporomandibular joint
+TEH00,Needle biopsy of hard palate
+TEJ00,Needle biopsy of tongue or floor of mouth
+TEL00,Needle biopsy of salivary gland
+TEM00,Needle biopsy of tonsil or adenoid
+TEN00,Needle biopsy of pharynx or adjacent structures
+TEW99,"Minor procedure on teeth, jaws, mouth, and pharynx"
+TFC00,Catheterization of the right atrium or right ventricle
+TFC10,Catheterization of left atrium or ventricle
+TFE00,Pericardiocentesis
+TFJ00,Cardiac puncture
+TFP00,Temporary pacing using a transvenous or epicardial cardiac pacemaker
+TFP20,Cardioversion
+TGA00,Needle biopsy of chest wall
+TGA10,Needle biopsy of pleura
+TGA20,Needle biopsy of diaphragm
+TGA30,Thoracentesis
+TGB00,Needle biopsy of trachea
+TGD00,Needle biopsy of lung
+TGE00,Needle biopsy of mediastinum
+TGW99,Minor thoracic surgical procedure
+THA00,Needle biopsy of nipple
+THA10,Needle biopsy of breast
+THW99,Minor surgical procedure on breast
+TJA00,Puncture of peritoneal cavity
+TJA10,Abdominal paracentesis
+TJA35,Removal of peritoneal dialysis catheter
+TJD00,Insertion of nasogastric or nasogastroduodenal tube
+TJD20,Replacement of gastrostomy tube
+TJF00,Insertion of jejunal catheter
+TJF20,Biopsy of small intestine by peroral approach
+TJF30,Reduction of intestinal intussusception by barium enema
+TJG10,Removal of foreign body from rectum
+TJJ00,Percutaneous needle biopsy of liver
+TJK00,Intraoperative cholangiography
+TJK01,Laparoscopic cholangiography
+TJL00,Percutaneous needle biopsy of pancreas
+TJM00,Needle biopsy of spleen
+TK800,Hemodialysis
+TK810,Hemofiltration
+TK820,Peritoneal dialysis
+TKA00,Needle biopsy of kidney or renal pelvis
+TKA02,Needle biopsy of transplanted kidney
+TKA10,Percutaneous puncture of kidney or renal pelvis
+TKB40,Closure of ureterostomy
+TKC00,Needle biopsy of urinary bladder
+TKC10,Percutaneous puncture of urinary bladder
+TKC20,Urinary bladder catheterization
+TKC40,"Checking, changing, or removal of suprapubic catheter"
+TKD00,Dilation of urethra
+TKE00,Needle biopsy of prostate
+TKE05,Aspiration cytology of prostate
+TKE10,Prostate puncture
+TKF00,Needle biopsy of testis
+TKF20,Needle biopsy of epididymis
+TKF30,Puncture of epididymis
+TKF60,Puncture of scrotum
+TKW10,Hemodialysis
+TKW12,Patient-controlled hemodialysis
+TKW20,Hemofiltration
+TKW22,Home peritoneal dialysis
+TKW24,Chronic peritoneal dialysis
+TKW30,Peritoneal dialysis
+TKW44,Chronic hemodialysis
+TKW99,Minor urological surgical procedure
+TLA00,Needle biopsy of ovary
+TLB00,Needle biopsy of fallopian tube
+TLC00,Insertion of intrauterine contraceptive device
+TLC02,Simple removal of intrauterine contraceptive device
+TLE00,Dilation of vagina
+TLE05,Removal of foreign body from vagina in adult
+TLE10,Removal of foreign body from vagina in childhood
+TLE20,Transvaginal culdocentesis
+TLE30,Vaginal tamponade
+TLE40,Insertion of vaginal pessary or ring
+TLE80,Replacement of vaginal pessary
+TLF00,Defibulation of labia
+TLW00,Insemination
+TLW11,Transmyometrial embryo transfer
+TLW12,Frozen embryo transfer
+TLW14,Intracytoplasmic sperm injection
+TLW20,Pharmacological induction of ovulation
+TLW99,Minor gynecological surgical procedure
+TMA00,Episiotomy
+TMA20,Assistance during normal delivery
+TMA40,Fetal monitoring
+TMA80,Breastfeeding support
+TMW99,Minor surgical procedure in obstetrics
+TNA00,Puncture or needle biopsy of soft tissue of the spine and neck
+TNA10,Arthrocentesis of the spine and neck
+TNA11,Injection of diagnostic or therapeutic agent into joint of spine or neck
+TNA20,Bone marrow aspiration
+TNA25,Bone marrow trephine biopsy of the spine and neck
+TNA30,Soft tissue procedure of spine and neck
+TNA32,Custom-made splint for the spine and neck
+TNA33,Application of custom-made cast to the spine and neck
+TNB00,Puncture or needle biopsy of soft tissue of shoulder and upper arm
+TNB10,Arthrocentesis of shoulder
+TNB11,Injection of diagnostic or therapeutic substance into joint of shoulder and upper arm
+TNB20,Bone marrow aspiration of shoulder and upper arm (including clavicle and scapula)
+TNB30,Soft tissue procedure of shoulder and upper arm (including clavicle and scapula)
+TNB32,"Custom-made splint for the shoulder and upper arm, including the clavicle and scapula"
+TNB33,Application of custom-made plaster cast to shoulder and upper arm
+TNB34,Application of a custom-made large cast
+TNC00,Puncture or needle biopsy of soft tissue of elbow and forearm
+TNC10,Arthrocentesis of elbow and forearm
+TNC11,Injection of diagnostic or therapeutic substance into a joint of the elbow or forearm
+TNC20,Bone marrow aspiration of the elbow and forearm
+TNC30,Application of soft bandage to elbow and forearm
+TNC32,Fabrication of custom-made splint for elbow and forearm
+TNC33,Application of custom-made plaster cast to elbow and forearm
+TNC34,Application of custom-made large cast to the elbow and forearm
+TND00,Puncture or needle biopsy of soft tissue of wrist and hand
+TND10,Arthrocentesis of wrist and hand
+TND11,Injection of diagnostic or therapeutic substance into joint of wrist or hand
+TND20,Bone marrow aspiration of wrist and hand
+TND30,Soft tissue procedure of wrist and hand
+TND32,Fabrication of custom-made splint for wrist and hand
+TND33,Application of custom-made plaster cast to wrist and hand
+TND34,Application of a custom-made large cast to the wrist and hand
+TNE00,"Puncture or needle biopsy of soft tissue of pelvis, including sacrum and coccyx"
+TNE10,"Arthrocentesis of the pelvis, including the sacrum and coccyx"
+TNE11,Injection of diagnostic or therapeutic substance into a joint of the pelvis (including sacrum and coccyx)
+TNE20,Bone marrow aspiration from pelvis (including sacrum and coccyx)
+TNE25,Trephine biopsy of bone marrow of the pelvis (including sacrum and coccyx)
+TNE30,"Procedure on soft tissue of the pelvis, including the sacrum and coccyx"
+TNE32,Application of custom-made splint to pelvis
+TNE33,Application of a custom-made cast to the pelvis (including the sacrum and coccyx)
+TNE34,Application of a custom-made large cast to the pelvis (including the sacrum and coccyx)
+TNF00,Puncture or needle biopsy of soft tissue of the hip and thigh
+TNF10,Arthrocentesis of hip joint
+TNF11,Injection of diagnostic or therapeutic agent into hip joint
+TNF20,Bone marrow aspiration of the hip and thigh
+TNF30,Soft tissue procedure of the hip joint and thigh
+TNF32,Custom-made splint of hip and thigh
+TNF33,Application of a custom-made cast to the hip and thigh
+TNF34,Large custom-made cast of hip and thigh
+TNG00,Puncture or needle biopsy of soft tissue of knee joint and lower leg
+TNG10,Arthrocentesis of knee joint and lower leg
+TNG11,Injection of diagnostic or therapeutic substance into a joint of the knee or lower leg
+TNG20,Bone marrow aspiration of the knee joint and lower leg
+TNG30,Application of soft bandage to the knee joint and lower leg
+TNG31,Fitting of prefabricated orthosis of the knee and lower leg
+TNG32,Custom-made splint for the knee and lower leg
+TNG33,Application of a custom-made cast to the knee joint and lower leg
+TNG34,Application of a custom-made large cast to the knee and lower leg
+TNG40,Application of external traction to the knee joint and lower leg
+TNH00,Puncture or needle biopsy of soft tissue of ankle and foot
+TNH10,Arthrocentesis of ankle and foot
+TNH11,Injection of diagnostic or therapeutic substance into ankle or foot joint
+TNH20,Bone marrow aspiration of the ankle and foot
+TNH30,Application of soft bandage to ankle and foot
+TNH32,Fabrication of a custom-made splint for the ankle and foot
+TNH33,Application of a custom-made plaster cast to the ankle and foot
+TNH34,Application of custom-made large cast to ankle and foot
+TNX00,Puncture or needle biopsy of soft tissue of unspecified site
+TNX05,Simple incision of soft tissue of unspecified site
+TNX10,Arthrocentesis of joint of unspecified site
+TNX11,Injection of diagnostic or therapeutic substance into unspecified joint
+TNX20,Bone marrow aspiration
+TNX25,Bone marrow trephine biopsy of unspecified site
+TNX30,Procedure on soft tissue of unspecified region
+TNX32,"Fabrication of custom-made splint, unspecified region"
+TNX33,Application of custom-made cast
+TNX34,Application of a large custom-made cast to an unspecified body region
+TNX39,Application of orthopedic bandage to unspecified region
+TNX40,Application of external traction to an unspecified region
+TNX50,Implantation of skeletal marker at unspecified site
+TPH00,Phlebotomy
+TPH05,Open cannulation of peripheral vein
+TPH07,Insertion of intra-arterial cannula
+TPH10,Sclerotherapy of varicose veins
+TPH15,Insertion of central venous catheter via external or internal jugular vein
+TPH20,Insertion of central venous catheter via the subclavian or brachiocephalic vein
+TPH90,Removal of indwelling intravenous catheter
+TPJ00,Biopsy of superficial lymph node
+TPJ05,Needle biopsy of lymph node
+TPW99,Minor surgical procedure on a peripheral blood vessel or lymphatic system
+TPX00,Biopsy of artery or vein
+TPX10,Insertion of vascular injection port
+TPX15,Removal of vascular access port
+TPX22,Intravenous thrombolysis for arterial thrombosis
+TQW11,Negative pressure wound therapy
+TQW38,Subcutaneous sclerotherapy
+TQW99,Minor surgical procedure on skin
+TQX00,Skin biopsy
+TQX10,Needle biopsy of skin
+TQX40,Removal of sutures from skin

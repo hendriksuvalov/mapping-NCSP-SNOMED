@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-09-29T15:55:04+00:00",
+  "route": "et_expand_gpt4o",
+  "variant": "large-3072",
+  "k": 30,
+  "prompt": "rerank.v2",
+  "system_prompt": "You are a clinical terminologist mapping codes from the NOMESCO Classification of Surgical Procedures (NCSP), as used in Estonia, to SNOMED CT. You receive one NCSP procedure name (in Estonian or English) with its place in the NCSP hierarchy, and a numbered list of candidate SNOMED CT concepts.\n\nChoose the single candidate that best represents the NCSP procedure. Judge by:\n- the core meaning: the same kind of procedure (action) on the same anatomical site;\n- the clinical context given by the NCSP hierarchy;\n- approach and qualifiers (e.g. laparoscopic, percutaneous) only where a candidate matches them.\n\nDo not choose a candidate that adds information the NCSP name does not state, such as imaging guidance (e.g. \"ultrasound guided\"), a specific technique (e.g. \"fine needle\", \"core needle\"), a narrower anatomical site, a specific device or a specific drug. Prefer the candidate that says exactly what the NCSP name says, even if it is more general; if no candidate matches exactly, choose the closest more general concept rather than a narrower one. Ignore classification wording such as \"other\".\n\nReturn JSON: {\"choice\": <number of the chosen candidate>}",
+  "shown_to_llm": "original NCSP name (et) + NCSP hierarchy path",
+  "reasoning_effort": "low",
+  "temperature": "default (1); not configurable for this model",
+  "folds": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "api_version": "2024-12-01-preview",
+  "llm": "gpt4o",
+  "deployment": "gpt-4o",
+  "returned_models": [
+    "gpt-4o-2024-11-20"
+  ],
+  "n_codes": 511,
+  "failed_codes": 0,
+  "attempts_total": 514,
+  "failed_attempts": 0,
+  "interrupted_attempts": 3,
+  "prompt_tokens": 318831,
+  "completion_tokens": 3069,
+  "reasoning_tokens": 0
+}

@@ -1,0 +1,638 @@
+Ovarian cyst puncture
+Laparoscopic ovarian cyst puncture
+Percutaneous ovarian cyst puncture
+Transvaginal ovarian cyst puncture
+Percutaneous and transvaginal follicular puncture and oocyte retrieval
+Laparoscopic oocyte retrieval
+Percutaneous or transvaginal injection into an ovarian pregnancy
+Ovarioscopy
+Other ovarian puncture
+Other laparoscopic ovarian puncture
+Ovariotomy
+Laparoscopic ovariotomy
+Ovarian biopsy
+Laparoscopic ovarian biopsy
+Laparoscopic ovarian needle biopsy
+Other incision or biopsy of the ovary
+Other laparoscopic incision or biopsy of the ovary
+Excision of an ovarian cyst
+Laparoscopic excision of an ovarian cyst
+Fenestration of an ovarian cyst
+Laparoscopic fenestration of an ovarian cyst
+Destruction of an ovarian lesion
+Laparoscopic destruction of an ovarian lesion
+Excision of a paraovarian cyst
+Laparoscopic excision of a paraovarian cyst
+Other excision or destruction of an ovarian lesion
+Other laparoscopic excision or destruction of an ovarian lesion
+Partial removal of the ovary
+Laparoscopic partial removal of the ovary
+Unilateral oophorectomy
+Unilateral laparoscopic oophorectomy
+Bilateral oophorectomy
+Bilateral laparoscopic oophorectomy
+Unilateral Salpingo-oophorectomy
+Unilateral laparoscopic salpingo-oophorectomy
+Bilateral salpingo-oophorectomy
+Bilateral laparoscopic salpingo-oophorectomy
+Laparoscopic lymph node removal for a malignant ovarian tumor
+Unilateral transvaginal salpingo-oophorectomy
+Bilateral transvaginal salpingo-oophorectomy
+Adhesiolysis of the ovary
+Laparoscopic adhesiolysis of the ovary
+Oophoropexy
+Laparoscopic oophoropexy
+Detorsion of the ovary
+Laparoscopic detorsion of the ovary
+Other reconstructive surgery on the ovary
+Other laparoscopic reconstructive surgery on the ovary
+Other surgery on the ovary
+Other laparoscopic surgery on the ovary
+Catheterization of the fallopian tube
+Percutaneous puncture of the fallopian tube
+Laparoscopic puncture of the fallopian tube
+Transvaginal puncture of the fallopian tube
+Salpingoscopy
+Other laparoscopic puncture of the fallopian tube
+Other endoscopic transluminal procedure on the fallopian tube
+Biopsy of the fallopian tube
+Laparoscopic biopsy of the fallopian tube
+Salpingoscopic biopsy of the fallopian tube
+Laparoscopic needle biopsy of the fallopian tube
+Other biopsy of the fallopian tube
+Percutaneous injection into a tubal pregnancy
+Transvaginal injection into a tubal pregnancy
+Laparoscopic injection into a tubal pregnancy
+Falloposcopic injection into a tubal pregnancy
+Products of conception Removal from the fallopian tube
+Laparoscopic removal of products of conception from the fallopian tube
+Salpingotomy and removal of products of conception
+Laparoscopic salpingotomy and removal of products of conception
+Other fallopian tube-sparing surgery for tubal pregnancy
+Other laparoscopic fallopian tube-sparing surgery for tubal pregnancy
+Other transluminal fallopian tube-sparing surgery for tubal pregnancy
+Resection of the fallopian tube
+Laparoscopic resection of the fallopian tube
+Salpingectomy
+Laparoscopic salpingectomy
+Perfusion of the fallopian tube
+Laparoscopic perfusion of the fallopian tube
+Perfusion of the fallopian tube following reconstruction
+Laparoscopy for assisted reproduction
+Hysteroscopy for assisted reproduction
+Transcervical catheter salpingoplasty
+Salpingolysis
+Laparoscopic salpingolysis
+Fimbrioplasty
+Laparoscopic fimbrioplasty
+Salpingostomy
+Laparoscopic salpingostomy
+Partial removal of the fallopian tube and anastomosis
+Laparoscopic partial removal of the fallopian tube and anastomosis
+Partial removal of the fallopian tube and reimplantation
+Laparoscopic partial excision and reimplantation of the fallopian tube
+Other surgery on the fallopian tube for infertility
+Other laparoscopic surgery on the fallopian tube for infertility
+Catheterization of the fallopian tube under X-ray guidance
+Perfusion of the fallopian tube with gaseous oxygen (PSF)
+Other surgery on the fallopian tube
+Other laparoscopic surgery on the fallopian tube
+Other transluminal endoscopic surgery on the fallopian tube
+Perfusion of the fallopian tube with gaseous oxygen (PSF)
+Biopsy of the uterus and uterine ligaments
+Laparoscopic biopsy of the uterus and uterine ligaments
+Endometrial biopsy
+Abrasion of the uterine cavity
+Abrasion of the uterine cavity and cervix
+Destruction of the endometrium
+Removal of a foreign body from the uterus
+Hysteroscopic removal of a foreign body
+Transfer of an oocyte or embryo into the uterine cavity (assisted reproduction)
+Other intrauterine surgery
+Other transluminal endoscopic procedure on the uterus
+Hysterotomy
+Laparoscopic hysterotomy
+Myomectomy
+Laparoscopic myomectomy
+Laparoscopic myolysis
+Transvaginal myomectomy
+Hysteroscopic excision of a lesion
+Hysteroscopic excision of the endometrium
+Hysteroscopic destruction of the endometrium
+Needle biopsy of the uterus
+Other excision of a uterine lesion
+Other laparoscopic excision of a uterine lesion
+Other transluminal endoscopic excision of a uterine lesion
+Partial removal of the uterus
+Laparoscopic partial removal of the uterus
+Hysteroscopic removal of uterine wall tissue
+Supravaginal hysterectomy
+Laparoscopic subtotal hysterectomy
+Vaginal supravaginal hysterectomy
+Other partial removal of the uterus
+Other laparoscopic partial removal of the uterus
+Hysterectomy
+Total laparoscopic hysterectomy
+Laparoscopic hysterectomy
+Vaginal hysterectomy
+Laparoscopically assisted vaginal hysterectomy
+Radical hysterectomy
+Radical laparoscopic hysterectomy
+Radical vaginal hysterectomy
+Other hysterectomy
+Other laparoscopic hysterectomy
+Anterior pelvic exenteration in women
+Posterior pelvic exenteration in women
+Total pelvic exenteration in women
+Other pelvic exenteration in women
+Excision of a parametrial lesion
+Laparoscopic excision of a parametrial lesion
+Excision of a varicocele in women
+Laparoscopic excision of a varicocele in women
+Removal of a lesion in the pouch of Douglas
+Laparoscopic removal of a lesion in the pouch of Douglas
+Other excision of a parametrial lesion
+Other laparoscopic excision of a parametrial lesion
+Hysteroscopic adhesiolysis
+Suturing of the uterus
+Laparoscopic suturing of the uterus
+Hysteropexy
+Laparoscopic hysteropexy
+Resection or transection of the uterosacral ligaments
+Laparoscopic [resection/transection] of the uterosacral ligaments resection or transsection
+Uterine reconstruction
+Laparoscopic uterine reconstruction
+Other reconstructive surgery on the uterus
+Other laparoscopic reconstructive surgery on the uterus
+Other transluminal endoscopic reconstructive surgery on the uterus
+Removal of products of conception from the uterine cavity via vacuum aspiration
+Removal of products of conception from the uterine cavity and curettage of the uterine cavity
+Intra-amniotic or extra-amniotic administration of abortifacient agents
+Extra-amniotic administration of an abortifacient agent
+Oral administration of an abortifacient agent
+Vacuum aspiration of the uterine cavity following a medically induced abortion
+Removal of products of conception from the uterine cavity following an incomplete induced abortion
+Hysterectomy and evacuation of products of conception
+Other termination of pregnancy
+Other surgery on the uterus and uterine ligaments
+Other laparoscopic surgery on the uterus and uterine ligaments
+Other hysteroscopic surgery on the uterus
+Cervical dilation
+Cervical abrasion
+Cervical biopsy
+Removal of a foreign body from the cervix via the vagina
+Other cervical biopsy
+Excision of a cervical lesion
+Cervical cryotherapy
+Cervical electrocoagulation or laser therapy
+Cervical conization using a knife
+Cervical conization using diathermy or a laser
+Partial removal of the cervix
+Radical removal of the cervix
+Other removal of the cervix
+Cervical Suturing
+Endoscopic cervical suturing
+Cervical suturing in a non-pregnant patient
+Plastic repair of the cervix
+Removal of a cervical cerclage (support suture)
+Other surgery on the cervix
+Replacement of a vaginal pessary
+Colposcopy with biopsy
+Removal of a foreign body from the vagina (adult)
+Culdoscopy
+Colpotomy
+Vaginal biopsy
+Excision of a vaginal lesion
+Laparoscopic removal of a vaginal lesion
+Marsupialization of a vaginal cyst
+Destruction of a lesion of the vaginal mucosa
+Partial vaginectomy
+Removal of a vaginal septum
+Colpectomy
+Laparoscopic removal of the cervix
+Vaginal suturing
+Vaginal repair using a graft or flap
+Closure of a urovaginal fistula using a graft or flap
+Percutaneous closure of a urovaginal fistula
+Closure of an intestinovaginal fistula using a graft or flap
+Vaginoplasty (vaginal construction)
+Other vaginal repair
+Anterior colporrhaphy
+Anterior colporrhaphy with mesh
+Posterior colporrhaphy
+Anterior colporrhaphy without mesh for recurrent cystocele
+Anterior colporrhaphy with mesh for recurrent cystocele
+Colpoperineoplasty
+Colpoperineoplasty and vaginal hysterectomy
+Partial colpocleisis
+Total colpocleisis
+Uterine interposition (between the vagina and the bladder)
+Vaginal repair of an enterocele
+Laparoscopic repair of an enterocele
+Abdominal repair of an enterocele correction
+Colpopexy following a prior hysterectomy
+Laparoscopic colpopexy following a prior hysterectomy
+Vaginal colpopexy following a prior hysterectomy
+Lateral colpopexy
+Vaginal hysteropexy with suture placement
+Other surgery for uterine or vaginal vault prolapse
+Other laparoscopic surgery for uterine or vaginal vault prolapse
+Vaginal ureterocystorrhaphy
+Vaginal ureterocystopexy
+Transobturator tape (TOT) placement
+Vaginal transobturator ureteropexy
+Plastic repair of the female pelvic floor involving the levator ani muscle
+Division of a suburethral sling (tape)
+Hysteropexy with mesh repair
+Other vaginal surgery for incontinence
+Other surgery on the vagina
+Other endoscopic surgery on the vagina
+Incision of the external genitalia and perineum
+Incision of an imperforate hymen or hymenal remnant
+Correction of the external genitalia following ritual circumcision
+Biopsy of the external genitalia and perineum
+Excision of a lesion of the external genitalia and perineum
+Removal of a lesion of the external genitalia and perineum
+Thermocoagulation of a genital lesion
+Partial removal of the external genitalia
+Other partial removal of the external genitalia or perineum
+Vulvectomy
+Vulvectomy with removal of regional lymph nodes
+Suture of the external genitalia
+Plastic repair of the external genitalia
+Suture of the perineum
+Other repair of the external genitalia and perineum
+Marsupialization of a Bartholin's gland
+Excision of a Bartholin's gland
+Other surgery on a Bartholin's gland
+Other Operation on external genitalia or perineum
+Sterilization by tubal ligation
+Sterilization by tubal removal or division
+Laparoscopic sterilization by tubal removal or division
+Sterilization by tubal constriction
+Laparoscopic sterilization by tubal constriction
+Hysteroscopic sterilization
+Other female sterilization
+Other laparoscopic female sterilization
+Other transluminal endoscopic sterilization
+Repair of wound dehiscence in gynecological surgery
+Reoperation for superficial infection in gynecological surgery
+Reoperation for deep infection in gynecological surgery
+Percutaneous endoscopic reoperation for deep infection in gynecological surgery
+Reoperation for superficial hemorrhage in gynecological surgery
+Reoperation for internal hemorrhage in gynecological surgery
+Percutaneous endoscopic reoperation for internal hemorrhage in gynecological surgery
+Transluminal endoscopic reoperation for internal hemorrhage in gynecological surgery
+Reoperation for dehiscence of an anastomosis or suture in gynecological surgery
+Percutaneous endoscopic reoperation for dehiscence of an anastomosis or suture in gynecological surgery
+Division of a sling (cystopexy)
+Revision of a mesh used for hysteropexy
+Repeat abrasion of the uterine cavity Following an induced abortion
+Other repeat operation in gynecological surgery
+Other percutaneous endoscopic repeat operation in gynecological surgery
+Other transluminal endoscopic repeat operation in gynecological surgery
+Thermocoagulation of a genital lesion
+Chorionic villus sampling under ultrasound guidance
+Combined screening for early pregnancy (first trimester)
+Amniocentesis
+Chorionic villus sampling under ultrasound guidance
+Intra-amniotic infusion
+Amnioreduction
+Chorionic villus sampling
+Microhysteroscopic chorionic villus sampling
+Removal of an intrauterine contraceptive device under ultrasound guidance
+Hysteroscopic removal of an intrauterine device during pregnancy
+Cordocentesis
+Catheterization of fetal umbilical vessels
+Fetal puncture
+Collection of fetal blood sample in utero
+Fetal biopsy
+Embryo freezing
+Fetoscopy
+Laser coagulation of placental anastomoses
+Other operation on the uterus or fetus during pregnancy
+Other hysteroscopic procedure on the uterus or fetus during pregnancy
+Placement of a cervical cerclage during pregnancy
+Removal of a cervical cerclage before childbirth
+Suppression of uterine contractions in preterm labor
+External cephalic version
+Failed external cephalic version
+Rupture of the amniotic sac
+Rupture of the amniotic sac during labor
+Induction of labor using a vibrator
+Water birth Assistance
+Pre-labor dilation of the cervical canal
+Vacuum traction
+Traction with forceps
+Induction of labor with prostaglandins
+Induction or stimulation of labor with oxytocin
+Preparation for labor
+Extra-amniotic infusion for the induction of labor
+Instrumental induction or augmentation of labor
+Incision of the cervix to assist labor
+Pubiotomy to assist labor
+Other dilation of the birth canal to assist labor
+Vacuum-assisted delivery
+Mid-cavity or high vacuum-assisted delivery
+Failed vacuum-assisted delivery
+Other vacuum-assisted delivery
+Low forceps delivery (outlet forceps) for fetal head presentation
+Mid-cavity forceps delivery Mid-forceps delivery (cephalic presentation)
+Failed forceps delivery (cephalic presentation)
+Other forceps-assisted delivery (cephalic presentation)
+Assisted breech delivery
+Breech delivery with forceps-assisted delivery of the aftercoming head
+Breech delivery with extraction of the fetus
+Breech delivery with extraction of the fetus and forceps-assisted delivery of the aftercoming head
+Internal version or version with extraction
+Other breech delivery
+Repositioning of a prolapsed umbilical cord
+Correction of malposition (cephalic presentation)
+External cephalic version
+Destructive operation on the fetus during delivery
+Application of external pressure to the abdomen to assist delivery
+Reduction of a multiple pregnancy by one fetus
+Reduction of a multiple pregnancy by more than one fetus
+Other operation during pregnancy or delivery
+Other laparoscopic operation during pregnancy
+Other transluminal endoscopic procedure during pregnancy
+Vacuum aspiration of the uterine cavity following delivery or abortion
+Curettage of the uterine cavity following delivery or abortion
+Manual exploration of the uterine cavity postpartum
+Delivery of the placenta using external maneuvers
+Manual removal of the placenta postpartum
+Manual removal of fetal membranes
+Pharmacological evacuation of retained products following abortion
+Other removal of placenta or fetal parts following delivery or abortion
+Repositioning of the uterus in cases of uterine inversion
+Postpartum uterine [procedure/intervention] Tamponade
+Other manual procedure on the uterus following childbirth
+Repair of obstetric lacerations of the cervix
+Repair of obstetric lacerations of the vagina
+Repair of obstetric lacerations of the external genitalia
+Repair of partial perineal laceration
+Repair of complete perineal laceration
+Repair of paravaginal or vulvar hematoma following childbirth or abortion
+Intravascular embolization for postpartum uterine hemorrhage
+Control of postpartum hemorrhage
+Other repair of obstetric lacerations
+Collection of a blood sample from the umbilical vein following childbirth
+Other surgical procedure following childbirth or abortion
+Cesarean section on the uterine body
+Cesarean section on the lower uterine segment
+Vaginal Cesarean section
+Supravaginal hysterectomy during Cesarean section
+Hysterectomy during Cesarean section
+Other Cesarean section
+Laparotomy and delivery in cases of extrauterine pregnancy
+Repair of uterine rupture following childbirth
+Postpartum hysterectomy
+Other laparotomy in obstetrics
+Repair of wound dehiscence in obstetrics
+Reoperation for superficial infection in obstetrics
+Reoperation for deep infection in obstetrics
+Percutaneous endoscopic reoperation for deep infection in obstetrics
+Reoperation for superficial hemorrhage in obstetrics
+Reoperation for internal hemorrhage in obstetrics
+Percutaneous endoscopic reoperation for internal hemorrhage in obstetrics
+Transluminal endoscopic reoperation for internal bleeding in obstetrics
+Reoperation for dehiscence of an anastomosis or suture in obstetrics
+Percutaneous endoscopic reoperation for dehiscence of an anastomosis or suture in obstetrics
+Repeat abrasion of the uterine cavity following childbirth or spontaneous abortion
+Other reoperation in obstetrics
+Other percutaneous endoscopic reoperation in obstetrics
+Other transluminal endoscopic reoperation in obstetrics
+Preparation for childbirth
+Lumbar puncture
+Peripheral nerve block
+Thyroid puncture
+Thyroid needle biopsy
+Thyroid aspiration cytology
+Parathyroid puncture
+Parathyroid needle biopsy
+Adrenal gland needle biopsy
+Other minor procedure in endocrine surgery
+Orbital needle biopsy
+Retrobulbar therapeutic injection into the orbit
+Peribulbar therapeutic injection into the orbit
+Eyelid needle biopsy
+Injection of medication into the eyelid
+Lacrimal gland needle biopsy
+Probing of the lacrimal duct or nasolacrimal duct
+Intubation of the lacrimal duct or nasolacrimal duct
+Subconjunctival therapeutic injection
+Removal of sutures from the cornea
+Choroidal needle biopsy
+Vitreous body needle biopsy
+Retinal needle biopsy
+Other minor procedure in ophthalmic surgery
+Biopsy of the auricle or external auditory canal
+Needle biopsy of the auricle or external auditory canal
+Removal of earwax
+Removal of a foreign body from the external auditory canal
+Needle biopsy of the eardrum
+Needle biopsy of the nose
+Removal of a foreign body from the nasal cavity
+Needle biopsy of the nasal septum
+Needle biopsy of the maxillary sinus
+Puncture and irrigation of the maxillary sinus
+Needle biopsy of the ethmoid bone and ethmoid sinus
+Needle biopsy of the frontal sinus
+Puncture of the frontal sinus
+Needle biopsy of the sphenoid sinus
+Needle biopsy of the larynx
+Biopsy of the lip
+Needle biopsy of the lip
+Needle biopsy of the gum
+Closed reduction of a jaw dislocation
+Needle biopsy of the mandible
+Needle biopsy of the maxilla
+Needle biopsy of the temporomandibular joint
+Arthrocentesis of the temporomandibular joint
+Needle biopsy of the hard palate
+Needle biopsy of the tongue or floor of the mouth
+Needle biopsy of the salivary glands
+Needle biopsy of the tonsils or adenoids
+Needle biopsy of the pharynx or adjacent structures
+Other minor procedure in oral and maxillofacial surgery
+Catheterization of the right atrium or ventricle
+Catheterization of the left atrium or ventricle
+Pericardiocentesis
+Cardiac puncture
+Temporary use of a transvenous or epicardial cardiac pacemaker
+Cardioversion
+Needle biopsy of the chest wall
+Needle biopsy of the pleura
+Needle biopsy of the diaphragm
+Thoracentesis
+Needle biopsy of the trachea
+Needle biopsy of the lung
+Needle biopsy of the mediastinum
+Other minor procedure in thoracic surgery
+Needle biopsy of the nipple
+Breast Needle biopsy
+Other minor procedure in breast surgery
+Peritoneal cavity puncture
+Laparocentesis
+Removal of a peritoneal dialysis catheter
+Insertion of a nasogastric or nasogastroduodenal tube
+Replacement of a gastrostomy tube
+Insertion of a jejunal catheter
+Oral biopsy of the small intestine
+Reduction of intussusception using a barium enema
+Removal of a foreign body from the rectum
+Percutaneous needle biopsy of the liver
+Intraoperative cholangiography
+Laparoscopic cholangiography
+Percutaneous needle biopsy of the pancreas
+Needle biopsy of the spleen
+Hemodialysis
+Hemofiltration
+Peritoneal dialysis
+Needle biopsy of the kidney or renal pelvis
+Needle biopsy of a transplanted kidney
+Percutaneous puncture of the kidney or renal pelvis
+Closure of a ureterostomy
+Needle biopsy of the bladder
+Percutaneous puncture of the bladder
+Bladder catheterization
+Checking, replacement, or removal of a suprapubic bladder catheter
+Urethral dilation
+Needle biopsy of the prostate
+Aspiration cytology of the prostate
+Puncture of the prostate
+Needle biopsy of the testis
+Needle biopsy of the epididymis
+Puncture of the epididymis
+Puncture of the scrotum
+Hemodialysis
+Patient-managed hemodialysis
+Hemofiltration
+Home peritoneal dialysis
+Chronic peritoneal dialysis
+Peritoneal dialysis
+Chronic hemodialysis
+Other minor surgical procedure in urology
+Ovarian needle biopsy
+Fallopian tube needle biopsy
+Insertion of an intrauterine contraceptive device
+Simple removal of an intrauterine contraceptive device
+Vaginal dilation
+Removal of a foreign body from the vagina (adult)
+Removal of a foreign body from the vagina (child)
+Transvaginal puncture of the cul-de-sac
+Vaginal tamponade
+Insertion of a vaginal pessary or ring
+Replacement of a vaginal pessary
+Defibulation of the labia
+Insemination
+Myometrial embryo transfer
+Frozen embryo transfer
+Intracytoplasmic sperm injection (ICSI)
+Medicated induction of ovulation
+Other minor surgical procedure in gynecology
+Episiotomy
+Assistance with normal childbirth
+Fetal monitoring
+Breastfeeding support
+Other minor surgical procedure in obstetrics
+Soft tissue puncture or needle biopsy; spine and neck
+Arthrocentesis; spine and neck
+Injection of a diagnostic or therapeutic substance into a joint; spine and neck
+Bone marrow aspiration; spine and neck
+Bone marrow trephine biopsy; spine and neck
+Soft dressing/bandage; spine and neck
+Custom-made splint; spine and neck
+Custom-made cast; spine and neck
+Soft tissue puncture or needle biopsy; shoulder and upper arm (including clavicle and scapula)
+Arthrocentesis; shoulder and upper arm (including clavicle and scapula)
+Injection of a diagnostic or therapeutic substance into a joint; shoulder and upper arm (including clavicle and scapula)
+Bone marrow aspiration; shoulder and upper arm (including clavicle and scapula)
+Soft dressing/bandage; shoulder and upper arm (including clavicle and scapula)
+Custom-made splint; shoulder and upper arm (including clavicle and scapula)
+Custom-made cast; Shoulder and upper arm (including clavicle and scapula)
+Custom-made large cast; shoulder and upper arm (including clavicle and scapula)
+Soft tissue puncture or needle biopsy; elbow and forearm
+Arthrocentesis; elbow and forearm
+Injection of a diagnostic or therapeutic substance into a joint; elbow and forearm
+Bone marrow aspiration; elbow and forearm
+Soft dressing/bandage; elbow and forearm
+Custom-made splint; elbow and forearm
+Custom-made cast; elbow and forearm
+Custom-made large cast; elbow and forearm
+Soft tissue puncture or needle biopsy; wrist and hand
+Arthrocentesis; wrist and hand
+Injection of a diagnostic or therapeutic substance into a joint; wrist and hand
+Bone marrow aspiration; wrist and hand
+Soft dressing/bandage; wrist and hand
+Custom-made splint; wrist and hand
+Custom-made cast; wrist and hand
+Custom-made large cast; wrist and hand
+Soft tissue puncture or needle biopsy; pelvis (including sacrum and coccyx)
+Arthrocentesis; pelvis (including sacrum and coccyx)
+Injection of a diagnostic or therapeutic substance into a joint; Pelvis (including sacrum and coccyx)
+Bone marrow aspiration; pelvis (including sacrum and coccyx)
+Bone marrow trephine biopsy; pelvis (including sacrum and coccyx)
+Soft dressing; pelvis (including sacrum and coccyx)
+Custom-made splint; pelvis (including sacrum and coccyx)
+Custom-made cast; pelvis (including sacrum and coccyx)
+Custom-made large cast; pelvis (including sacrum and coccyx)
+Soft tissue puncture or needle biopsy; hip joint and thigh
+Arthrocentesis; hip joint and thigh
+Injection of a diagnostic or therapeutic substance into a joint; hip joint and thigh
+Bone marrow aspiration; hip joint and thigh
+Soft dressing; hip joint and thigh
+Custom-made splint; hip joint and thigh
+Custom-made cast; hip joint and thigh
+Custom-made large cast; hip joint and thigh
+Soft tissue puncture or needle biopsy; knee joint and lower leg
+Arthrocentesis; knee joint and lower leg
+Injection of a diagnostic or therapeutic substance into a joint; knee joint and lower leg
+Bone marrow aspiration; knee joint and lower leg
+Soft dressing; knee joint and lower leg
+Commercially manufactured orthosis; knee joint and lower leg
+Custom-made splint; Knee joint and lower leg
+Custom-made cast; knee joint and lower leg
+Custom-made large cast; knee joint and lower leg
+External traction; knee joint and lower leg
+Soft tissue puncture or needle biopsy; ankle and foot
+Arthrocentesis; ankle and foot
+Injection of a diagnostic or therapeutic substance into a joint; ankle and foot
+Bone marrow aspiration; ankle and foot
+Soft dressing; ankle and foot
+Custom-made splint; ankle and foot
+Custom-made cast; ankle and foot
+Custom-made large cast; ankle and foot
+Soft tissue puncture or needle biopsy; unspecified region
+Simple incision of soft tissue; unspecified region
+Arthrocentesis; unspecified region
+Injection of a diagnostic or therapeutic substance into a joint; unspecified region
+Bone marrow aspiration; unspecified region
+Bone marrow trephine biopsy; unspecified region
+Soft dressing; unspecified region
+Custom-made splint; unspecified region
+Custom-made cast; unspecified region
+Custom-made large cast; unspecified region
+Other orthopedic dressing; unspecified region
+External traction; Unspecified region
+Implantation of a skeletal marker; unspecified region
+Phlebotomy
+Open cannulation of a peripheral vein
+Insertion of an intra-arterial cannula
+Sclerotherapy for varicose veins
+Insertion of a central venous catheter via the external or internal jugular vein
+Insertion of a central venous catheter via the subclavian or brachiocephalic vein
+Removal of an indwelling intravenous catheter
+Biopsy of a superficial lymph node
+Needle biopsy of a lymph node
+Other minor surgical procedure on a peripheral blood vessel or the lymphatic system
+Biopsy of an artery or vein
+Insertion of a vascular injection port
+Removal of a vascular injection port
+Intravenous thrombolysis for arterial thrombosis
+Vacuum-assisted wound therapy
+Subcutaneous sclerotherapy
+Other minor procedure on the skin
+Skin biopsy
+Needle biopsy of the skin
+Removal of skin sutures

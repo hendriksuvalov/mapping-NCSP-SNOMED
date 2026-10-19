@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-09-27T10:55:15+00:00",
+  "prompt": "et_translate.v1",
+  "system_prompt": "You are a clinical terminologist. You receive the Estonian name of a surgical procedure from the NOMESCO Classification of Surgical Procedures (NCSP). Translate it into English medical terminology, phrased the way a SNOMED CT procedure concept would be named. Keep every detail of the original (approach, anatomy, laterality, purpose) and add nothing that is not in the original.\n\nReturn JSON: {\"translation\": \"<English name>\"}",
+  "source_route": "et",
+  "folds": [
+    "1"
+  ],
+  "api_version": "2024-12-01-preview",
+  "deployment": "gpt-6-luna",
+  "returned_models": [
+    "gpt-6-luna-2026-09-22"
+  ],
+  "reasoning_effort": "low",
+  "temperature": "default (1); not configurable for this model",
+  "n_codes": 127,
+  "n_query_rows": 127,
+  "attempts_total": 127,
+  "parse_failures": 0,
+  "prompt_tokens": 14274,
+  "completion_tokens": 11355,
+  "reasoning_tokens": 8207
+}

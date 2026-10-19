@@ -1,0 +1,639 @@
+source_code,text
+LAA00,Munasarjatsüsti punktsioon
+LAA01,Laparoskoopiline munasarjatsüsti punktsioon
+LAA03,Perkutaanne munasarjatsüsti punktsioon
+LAA06,Transvaginaalne munasarjatsüsti punktsioon
+LAA10,Folliikuli perkutaanne ja transvaginaalne punktsioon ja ootsüüdi väljatoomine
+LAA11,Laparoskoopiline ootsüüdi väljatoomine
+LAA20,Perkutaanne või transvaginaalne injektsioon munasarja rasedusse
+LAA31,Ovarioskoopia
+LAA96,Munasarja muu punktsioon
+LAA97,Muu laparoskoopiline munasarja punktsioon
+LAB00,Ovariotoomia
+LAB01,Laparoskoopiline ovariotoomia
+LAB10,Munasarja biopsia
+LAB11,Laparoskoopiline munasarja biopsia
+LAB21,Laparoskoopiline munasarja nõelbiopsia
+LAB96,Munasarja muu intsisioon või biopsia
+LAB97,Muu laparoskoopiline munasarja intsisioon või biopsia
+LAC00,Munasarjatsüsti ekstsisioon
+LAC01,Laparoskoopiline munasarjatsüsti ekstsisioon
+LAC10,Munasarjatsüsti fenestratsioon
+LAC11,Laparoskoopiline munasarjatsüsti fenestratsioon
+LAC20,Munasarja lesiooni destruktsioon
+LAC21,Laparoskoopiline munasarja lesiooni destruktsioon
+LAC30,Paraovariaalse tsüsti ekstsisioon
+LAC31,Laparoskoopiline paraovariaalse tsüsti ekstsisioon
+LAC96,Munasarja lesiooni muu ekstsisioon või destruktsioon
+LAC97,Muu laparoskoopiline munasarja lesiooni ekstsisioon või destruktsioon
+LAD00,Munasarja osaline eemaldamine
+LAD01,Laparoskoopiline munasarja osaline eemaldamine
+LAE10,Ühepoolne ooforektoomia
+LAE11,Ühepoolne laparoskoopiline ooforektoomia
+LAE20,Mõlemapoolne ooforektoomia
+LAE21,Mõlemapoolne laparoskoopiline ooforektoomia
+LAF00,Ühepoolne salpingo-ooforektoomia
+LAF01,Ühepoolne laparoskoopiline salpingo-ooforektoomia
+LAF10,Mõlemapoolne salpingo-ooforektoomia
+LAF11,Mõlemapoolne laparoskoopiline salpingo-ooforektoomia
+LAF17,Laparoskoopiline lümfisõlmede eemaldamine munasarja pahaloomulise kasvaja korral
+LAF20,Unilateraalne transvaginaalne salpingo-ooforektoomia
+LAF30,Bilateraalne transvaginaalne salpingo-ooforektoomia
+LAG00,Munasarja liidetest vabastamine
+LAG01,Laparoskoopiline munasarja liidetest vabastamine
+LAG10,Ooforopeksia
+LAG11,Laparoskoopiline ooforopeksia
+LAG20,Munasarja detorsioon
+LAG21,Laparoskoopiline munasarja detorsioon
+LAG96,Muu rekonstruktiivne operatsioon munasarjal
+LAG97,Muu laparoskoopiline rekonstruktiivne operatsioon munasarjal
+LAW96,Muu operatsioon munasarjal
+LAW97,Muu laparoskoopiline operatsioon munasarjal
+LB1YT,Munajuha kateteriseerimine
+LBA00,Perkutaanne munajuha punktsioon
+LBA01,Laparoskoopiline munajuha punktsioon
+LBA03,Transvaginaalne munajuha punktsioon
+LBA07,Salpingoskoopia
+LBA97,Muu laparoskoopiline munajuha punktsioon
+LBA98,Muu endoskoopiline transluminaalne protseduur munajuhal
+LBB00,Munajuha biopsia
+LBB01,Laparoskoopiline munajuha biopsia
+LBB04,Salpingoskoopiline munajuha biopsia
+LBB11,Laparoskoopiline munajuha nõelbiopsia
+LBB96,Munajuha muu biopsia
+LBC00,Perkutaanne injektsioon munajuharasedusse
+LBC03,Transvaginaalne injektsioon munajuharasedusse
+LBC07,Laparoskoopiline injektsioon munajuharasedusse
+LBC08,Falloposkoopiline injektsioon munajuharasedusse
+LBC10,Viljastumise produktide eemaldamine munajuhast
+LBC11,Laparoskoopiline viljastumise produktide eemaldamine munajuhast
+LBC20,Salpingotoomia ja viljastumise produktide eemaldamine
+LBC21,Laparoskoopiline salpingotoomia ja viljastumise produktide eemaldamine
+LBC96,Munajuha muu säilitav operatsioon munajuharaseduse korral
+LBC97,Muu laparoskoopiline munajuha säilitav operatsioon munajuharaseduse korral
+LBC98,Muu transluminaalne munajuha säilitav operatsioon munajuharaseduse korral
+LBD00,Munajuha resektsioon
+LBD01,Laparoskoopiline munajuha resektsioon
+LBE00,Salpingektoomia
+LBE01,Laparoskoopiline salpingektoomia
+LBF00,Munajuha perfusioon
+LBF01,Laparoskoopiline munajuha perfusioon
+LBF03,Munajuha perfusioon rekonstruktsiooni järgselt
+LBF11,Laparoskoopia abistatud viljastamise korral
+LBF12,Hüsteroskoopia abistatud viljastamise korral
+LBF20,Transtservikaalne kateeter-salpingoplastika
+LBF30,Salpingolüüs
+LBF31,Laparoskoopiline salpingolüüs
+LBF40,Fimbrioplastika
+LBF41,Laparoskoopiline fimbrioplastika
+LBF50,Salpingostoomia
+LBF51,Laparoskoopiline salpingostoomia
+LBF60,Munajuha osaline eemaldamine ja anastomoos
+LBF61,Laparoskoopiline munajuha osaline eemaldamine ja anastomoos
+LBF70,Munajuha osaline eemaldamine ja reimplantatsioon
+LBF71,Munajuha laparoskoopiline osaline ekstsisioon ja reimplantatsioon
+LBF96,Muu operatsioon munajuhal infertiilsuse korral
+LBF97,Muu laparoskoopiline operatsioon munajuhal infertiilsuse korral
+LBW20,Munajuha kateteriseerimine rõntgeni kontrolliga
+LBW80,Munajuha perfusioon gaasilise hapnikuga (PSF)
+LBW96,Muu operatsioon munajuhal
+LBW97,Muu laparoskoopiline operatsioon munajuhal
+LBW98,Muu transluminaalne endoskoopiline operatsioon munajuhal
+LBX14,Munajuha perfusioon gaasilise hapnikugs (PSF)
+LCA00,Emaka ja emakasidemete biopsia
+LCA01,Laparoskoopiline emaka ja emakasidemete biopsia
+LCA06,Endomeetriumi biopsia
+LCA10,Emakaõõne abrasioon
+LCA13,Emakaõõne ja -kaela abrasioon
+LCA16,Endomeetriumi destruktsioon
+LCA20,Võõrkeha eemaldamine emakast
+LCA22,Hüsteroskoopiline võõrkeha eemaldamine
+LCA30,Ootsüüdi ja embrüo  emakaõõnde viimine abistatud viljastamise korral
+LCA96,Muu emakasisene operatsioon
+LCA98,Muu transluminaalne endoskoopiline protseduur emakal
+LCB00,Hüsterotoomia
+LCB01,Laparoskoopiline hüsterotoomia
+LCB10,Müomektoomia
+LCB11,Laparoskoopiline müomektoomia
+LCB14,Laparoskoopiline müolüüs
+LCB20,Transvaginaalne müomektoomia
+LCB25,Hüsteroskoopiline lesiooni ekstsisioon
+LCB28,Hüsteroskoopiline endomeetriumi ekstsisioon
+LCB32,Hüsteroskoopiline endomeetriumi destruktsioon
+LCB90,Emaka nõelbiopsia
+LCB96,Emaka lesiooni muu ekstsisioon
+LCB97,Muu laparoskoopiline emaka lesiooni ekstsisioon
+LCB98,Muu transluminaalne endoskoopiline emaka lesiooni ekstsisioon
+LCC00,Emaka osaline eemaldamine
+LCC01,Laparoskoopiline emaka osaline eemaldamine
+LCC05,Hüsteroskoopiline emakaseina eemaldamine
+LCC10,Supravaginaalne hüsterektoomia
+LCC11,Laparoskoopiline subtotaalne hüsterektoomia
+LCC20,Tupekaudne supravaginaalne hüsterektoomia
+LCC96,Emaka muu osaline eemaldamine
+LCC97,Muu laparoskoopiline emaka osaline eemaldamine
+LCD00,Hüsterektoomia
+LCD01,Totaalne laparoskoopiline hüsterektoomia
+LCD04,Laparoskoopiline hüsterektoomia
+LCD10,Vaginaalne hüsterektoomia
+LCD11,Laparoskoopiliselt assisteeritud vaginaalne hüsterektoomia
+LCD30,Radikaalne hüsterektoomia
+LCD31,Radikaalne laparoskoopiline hüsterektoomia
+LCD40,Radikaalne vaginaalne hüsterektoomia
+LCD96,Muu hüsterektoomia
+LCD97,Muu laparoskoopiline hüsterektoomia
+LCE00,Vaagnaelundite eesmine evistseratsioon naistel
+LCE10,Vaagnaelundite tagumine evistseratsioon naistel
+LCE20,Vaagnaelundite totaalne evistseratsioon naistel
+LCE96,Vaagnaelundite muu evistseratsioon naistel
+LCF00,Parameetriumi lesiooni ekstsisioon
+LCF01,Laparoskoopiline parameetriumi lesiooni ekstsisioon
+LCF10,Varikotseele ekstsisioon naistel
+LCF11,Laparoskoopiline varikotseele ekstsisioon naistel
+LCF20,G.Douglase piirkonna lesiooni eemaldamine
+LCF21,Laparoskoopiline G.Douglase piirkonna lesiooni eemaldamine
+LCF96,Parameetriumi lesiooni muu ekstsisioon
+LCF97,Muu laparoskoopiline parameetriumi lesiooni ekstsisioon
+LCG02,Hüsteroskoopiline liidete vabastamine
+LCG10,Emaka suturatsioon
+LCG11,Laparoskoopiline emaka suturatsioon
+LCG20,Hüsteropeksia
+LCG21,Laparoskoopiline hüsteropeksia
+LCG30,Sakrouteriinsete sidemete resektsioon või transtsisioon
+LCG31,Laparoskoopiline sakrouteriinsete sidemete resektsioon või transtsisioon
+LCG40,Emaka rekonstruktsioon
+LCG41,Laparoskoopiline emaka rekonstruktsioon
+LCG96,Muu rekonstruktiivne operatsioon emakal
+LCG97,Muu laparoskoopiline rekonstruktiivne operatsioon emakal
+LCG98,Muu transluminaalne endoskoopiline rekonstruktiivne operatsioon emakal
+LCH00,Viljastumisproduktide eemaldamine emakaõõnest vaakum-aspiratsiooni teel
+LCH03,Viljastumisproduktide eemaldamine emakaõõnest ja emakaõõne küretaaž
+LCH10,Aborti põhjustavate ravimite amnionisisene või -väline kasutamine
+LCH11,Aborti indutseeriva ravimi amnioniväline kasutamine
+LCH12,Aborti indutseeriva ravimi suukaudne kasutamine
+LCH13,Emakaõõne vaakum-aspiratsioon meditsiiniliselt esilekutsutud abordi järgselt
+LCH15,Viljastumisproduktide eemaldamine emakaõõnest mittetäieliku indutseeritud abordi järel
+LCH20,Hüsterektoomia ja viljastumisproduktide evakuatsioon
+LCH96,Raseduse muu lõpetamine
+LCW96,Muu operatsioon emakal ja emakasidemetel
+LCW97,Muu laparoskoopiline operatsioon emakal ja emakasidemetel
+LCW98,Muu hüsteroskoopiline operatsioon emakal
+LDA00,Emakakaela dilatatsioon
+LDA10,Emakakaela abrasioon
+LDA20,Emakakaela biopsia
+LDA91,Emakakaela võõrkeha eemaldamine tupe kaudu
+LDA96,Emakakaela muu biopsia
+LDB00,Emakakaela lesiooni ekstsisioon
+LDB10,Emakakaela krüoteraapia
+LDB20,Emakakaela elektrokoagulatsioon või laserteraapia
+LDC00,Emakakaela konisatsioon noa abil
+LDC03,Emakakaela konisatsioon diatermia või laseri abil
+LDC10,Emakakaela osaline eemaldamine
+LDC20,Emakakaela radikaalne eemaldamine
+LDC96,Emakakaela muu eemaldamine
+LDD00,Emakakaela suturatsioon
+LDD01,Emakakaela endoskoopiline õmblus
+LDD03,Emakakaela õmblus mitterasedal
+LDD10,Emakakaela plastiline korrektsioon
+LDD20,Emakakaela tugiõmbluse eemaldamine
+LDW96,Muu operatsioon emakakaelal
+LDX12,Tupepessaari vahetus
+LE003,Kolposkoopia koos biopsiaga
+LE010,Täiskasvanu tupest võõrkeha eemaldamine
+LEA01,Kuldoskoopia
+LEA10,Kolpotoomia
+LEB00,Tupe biopsia
+LEB10,Tupe lesiooni ekstsisioon
+LEB11,Laparoskoopioline tupe lesiooni eemaldamine
+LEB20,Tupe tsüsti marsupialisatsioon
+LEB30,Tupe limaskesta lesiooni destruktsioon
+LEC00,Tupe osaline eemaldamine
+LEC10,Tupe vaheseina eemaldamine
+LED00,Kolpektoomia
+LED01,Emakakaela laparoskoopiline eemaldamine
+LEE00,Tupe õmblus
+LEE10,Tupe korrektsioon transplantaadi või koelapi abil
+LEE20,Urovaginaalse fistuli sulgemine transplantaadi või koelapi abil
+LEE21,Urovaginaalse fistuli perkutaanne sulgemine
+LEE30,Intestinovaginaalse fistuli sulgemine transplantaadi või koelapi abil
+LEE40,Tupe konstruktsioon
+LEE96,Tupe muu korrektsioon
+LEF00,Eesmine kolporaafia
+LEF01,Eesmine kolpraafia võrguga
+LEF03,Tagumine kolporaafia
+LEF05,Eesmine kolporaafia võrguta tsüstotseele retsidiivi korral
+LEF06,Eesmine kolporaafia võrguga tsütotseele retsidiivi korral
+LEF10,Kolpoperineoplastika
+LEF13,Kolpoperineoplastika ja vaginaalne hüsterektoomia
+LEF20,Osaline kolpokleiis
+LEF23,Täielik kolpokleiis
+LEF30,Emaka interpositsioon tupe ja põie vahele
+LEF40,Vaginaalne enterotseele korrektsioon
+LEF41,Laparoskoopiline enterotseele korrektsioon
+LEF43,Enterotseele abdominaalne korrektsioon
+LEF50,Kolpopeksia eelnenud hüsterektoomia järgselt
+LEF51,Laparoskoopiline kolpopeksia eelnenud hüsterektoomia järgselt
+LEF53,Vaginaalne kolpopeksia eelnenud hüsterektoomia järgselt
+LEF60,Lateraalne kolpopeksia
+LEF63,Vaginaalne hüsteropeksia õmbluste asetamisega
+LEF96,Muu operatsioon emaka või tupevõlvi prolapsi korral
+LEF97,Muu laparoskoopiline operatsioon emaka või tupevõlvi prolapsi korral
+LEG00,Vaginaalne ureterotsüstoraafia
+LEG10,Vaginaalne ureterotsüstopeksia
+LEG12,Transobturatoorse lingu asetamine (TOT)
+LEG13,Vaginaalne transobturatoorne ureteropeksia
+LEG20,Vaagnapõhja plastiline korrektsioon naistel koos tõstjalihase läbimisega
+LEG70,Tsüstopeksia lingu läbilõikamine
+LEG80,Hüsteropeksia võrgu korrektsioon
+LEG96,Muu vaginaalne operatsioon inkontinentsi puhul
+LEW96,Muu operatsioon tupel
+LEW97,Muu endoskoopiline operatsioon tupel
+LFA00,Välissuguelundite ja perineumi intsisioon
+LFA10,Mitteperforeerunud hüümeni või hüümeni jäänuse intsisioon
+LFA20,Välisgenitaalide korrektsioon peale rituaalset ümberlõikamist
+LFB00,Välissuguelundite ja perineumi biopsia
+LFB10,Välissuguelundite ja perineumi lesiooni ekstsisioon
+LFB20,Välissuguelundite ja perineumi lesiooni likvideerimine
+LFB31,Suguelundite kahjustuse termokoagulatsioon
+LFC00,Välissuguelundite osaline eemaldamine
+LFC96,Välissuguelundite või perineumi muu osaline eemaldamine
+LFD00,Vulvektoomia
+LFD10,Vulvektoomia ja regionaalsete lümfisõlmede eemaldamine
+LFE00,Välissuguelundite õmblus
+LFE10,Välissuguelundite plastiline korrektsioon
+LFE20,Perineumi õmblus
+LFE96,Välissuguelundite ja perineumi muu korrektsioon
+LFF00,Bartholini näärme marsupialisatsioon
+LFF10,Bartholini näärme ekstsisioon
+LFF96,Muu operatsioon Bartholini näärmel
+LFW96,Muu operatsioon välissuguelunditel või perineumil
+LGA00,Steriliseerimine munajuhade ligeerimisega
+LGA10,Steriliseerimine munajuhade eemaldamise või läbimisega
+LGA11,Laparoskoopiline steriliseerimine munajuhade eemaldamise või läbimisega
+LGA20,Steriliseerimine munajuhade konstriktsiooni teel
+LGA21,Laparoskoopiline steriliseerimine munajuhade konstriktsiooni teel
+LGA22,Hüsteroskoopiline steriliseerimine
+LGA96,Naise muu steriliseerimine
+LGA97,Muu laparoskoopiline naise steriliseerimine
+LGA98,Muu transluminaalne endoskoopiline steriliseerimine
+LWA00,Haava dehistsentsi korrektsioon günekoloogilises kirurgias
+LWB00,Kordusoperatsioon pindmise infektsiooni korral günekoloogilises kirurgias
+LWC00,Kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias
+LWC01,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias
+LWD00,Kordusoperatsioon pindmise verejooksu korral günekoloogilises kirurgias
+LWE00,Kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias
+LWE01,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias
+LWE02,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias
+LWF00,Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias
+LWF01,Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias
+LWK03,Tsüstopeksia lingu läbilõikamine
+LWL03,Hüsteropeksia võrgu korrektsioon
+LWW00,Korduv emakaõõne abrasioon indutseeritud abordi järel
+LWW96,Muu kordusoperatsioon günekoloogilises kirurgias
+LWW97,Muu perkutaanne endoskoopiline kordusoperatsioon günekoloogilises kirurgias
+LWW98,Muu transluminaalne endoskoopiline kordusoperatsioon günekoloogilises kirurgias
+LX1LT,Suguelundite kahjustuse termokoagulatsioon
+MA0AT,Koorioni biopsia ultraheli kontrolli all
+MA3AE,Varase raseduse (I trimestri) kombineeritud sõeluuring
+MAA00,Amniotsentees
+MAA01,Koorioni biopsia ultraheli kontrolli all
+MAA03,Intraamniaalne infusioon
+MAA06,Amnioreduktsioon
+MAA10,Koorionihatu biopsia
+MAA12,Koorionihatu mikrohüsteroskoopiline biopsia
+MAA20,Emakasisese rasestumisvastase vahendi eemaldamine ultraheli kontrolliga
+MAA22,Hüsteroskoopiline emakasisese vahendi eemaldamine raseduse ajal
+MAA30,Kordotsentees
+MAA32,Loote nabaveresoonte kateteriseerimine
+MAA40,Loote punktsioon
+MAA41,Loote üsasisese vereanalüüsi võtmine
+MAA43,Loote biopsia
+MAA52,Embrüo külmutamine
+MAA54,Fetoskoopia
+MAA82,Platsenta anastomooside laserkoagulatsioon
+MAA96,Muu rasedusaegne operatsioon emakal või lootel
+MAA98,Muu hüsteroskoopiline protseduur emakal raseduse ajal  või lootel
+MAB00,Emakakaelale õmbluse asetamine raseduse ajal
+MAB03,Emakakaela õmbluse eemaldamine enne sünnitust
+MAB04,Emaka kokkutõmmete pärssimine enneaegsel sünnitusel
+MAB10,Loote väline pööre
+MAB20,Ebaõnnestunud loote väline pööre
+MAC00,Looteveepõie avamine
+MAC02,Looteveepõie avamine sünnituse ajal
+MAC03,Sünnitustegevuse esilekutsumine vibraatoriga
+MAC04,Vettesünnituse abistamine
+MAC10,Emakakaelakanali sünnituseelne laiendamine
+MAC20,Vaakum traktsioon
+MAC23,Traktsioon tangidega
+MAC31,Sünnitustegevuse esilekutsumine prostaglandiinidega
+MAC32,Sünnitustegevuse esilekutsumine või stimuleerimine oksütotsiiniga
+MAC90,Ettevalmistus sünnituseks
+MAC91,Amnioniväline infusioon sünnituse esilekutsumiseks
+MAC96,Sünnituse instrumentaalne esilekutsumine või edendamine
+MAD00,Emakakaela intsisioon sünnituse abistamiseks
+MAD20,Pubiotoomia sünnituse abistamiseks
+MAD96,Sünnitusteede muu laiendamine sünnituse abistamiseks
+MAE00,Vaakumsünnitus
+MAE03,Õõne- või kõrge vaakumsünnitus
+MAE20,Ebaõnnestunud vaakumsünnitus
+MAE96,Muu vaakumsünnitus
+MAF00,Madaltangsünnitus e. väljapääsutangid loote peaseisu korral
+MAF10,Õõnetangsünnitus e. keskmised tangid loote peaseisu korral
+MAF20,Ebaõnnestunud tangsünnitus loote peaseisu korral
+MAF96,Muu sünnitus peaseisust tangide abil
+MAG00,Abistatud tuharseis-sünnitus
+MAG03,"Tuharseis-sünnitus, järeltuleva pea väljutamine tangidega"
+MAG10,Tuharseis-sünnitus loote ekstraktsiooniga
+MAG13,"Tuharseis-sünnitus loote ekstraktsiooniga, järeltuleva pea väljutamine tangidega"
+MAG20,Sisemine loote pööre või pööre ekstraktsiooniga
+MAG96,Muu tuharseis-sünnitus
+MAH10,Väljalangenud nabaväädi reponeerimine
+MAH20,Peaseisu valeasendi korrektsioon
+MAH22,Loote väline pööramine peaseisu
+MAH30,Loodet purustav operatsioon sünnitusel
+MAH41,Välise surve rakendamine kõhule sünnituse abistamisel
+MAJ00,Mitmikraseduse vähendamine ühe loote võrra
+MAJ10,Mitmikraseduse vähendamine enam kui ühe loote võrra
+MAW96,Muu operatsioon raseduse ajal ja sünnitusel
+MAW97,Muu laparoskoopiline operatsioon raseduse ajal
+MAW98,Muu transluminaalne endoskoopiline protseduur raseduse ajal
+MBA00,Emakaõõne vaakumaspiratsioon pärast sünnitust või aborti
+MBA03,Emakaõõne abrasioon pärast sünnitust või aborti
+MBA10,Emakaõõne sünnitusjärgne manuaalne revisioon
+MBA20,Platsenta väljutamine välise võttega
+MBA30,Platsenta manuaalne eemaldamine pärast sünnitust
+MBA32,Lootekestade manuaalne eemaldamine
+MBA40,Abordijärgse retensiooni evakuatsioon ravimitega
+MBA96,Platsenta ja looteosade muu eemaldamine pärast sünnitust või aborti
+MBB00,Emaka reponeerimine inversiooni korral
+MBB10,Emaka sünnitusjärgne tamponeerimine
+MBB96,Muu manuaalne protseduur emakal pärast sünnitust
+MBC00,Emakakaela sünnitusrebendite korrektsioon
+MBC10,Tupe sünnitusrebendite korrektsioon
+MBC20,Välissuguelundite sünnitusrebendite korrektsioon
+MBC30,Perineumi osalise rebendi korrektsioon
+MBC33,Perineumi täieliku rebendi korrektsioon
+MBC40,Paravaginaalse või välissuguelundite hematoomi korrektsioon pärast sünnitust või aborti
+MBC80,Sünnitusjärgse emakaverejooksu intravaskulaarne embolisatsioon
+MBC90,Sünnitusjärgse verejooksu peatamine
+MBC96,Sünnitusrebendite muu korrektsioon
+MBS00,Vereproovi võtmine nabaveenist pärast sünnitust
+MBW96,Muu operatsioon pärast sünnitust või aborti
+MCA00,Keisrilõige emakakehal
+MCA10,Keisrilõige emaka alumises segmendis
+MCA20,Vaginaalne keisrilõige
+MCA30,Supravaginaalne hüsterektoomia keisrilõikel
+MCA33,Hüsterektoomia keisrilõikel
+MCA96,Muu keisrilõige
+MCB00,Laparotoomia ja sünnitus emakavälise loote korral
+MCC00,Emakaruptuuri sünnitusjärgne korrektsioon
+MCW00,Sünnitusjärgne hüsterektoomia
+MCW96,Muu laparotoomia sünnitusabis
+MWA00,Haava dehistsentsi korrektsioon sünnitusabis
+MWB00,Kordusoperatsioon pindmise infektsiooni korral sünnitusabis
+MWC00,Kordusoperatsioon süvainfektsiooni korral sünnitusabis
+MWC01,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral sünnitusabis
+MWD00,Kordusoperatsioon pindmise verejooksu korral sünnitusabis
+MWE00,Kordusoperatsioon sisemise verejooksu korral sünnitusabis
+MWE01,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis
+MWE02,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis
+MWF00,Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis
+MWF01,Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis
+MWW00,Korduv emakaõõne abrasioon pärast sünnitust või spontaanset aborti
+MWW96,Muu kordusoperatsioon sünnitusabis
+MWW97,Muu perkutaanne endoskoopiline kordusoperatsioon sünnitusabis
+MWW98,Muu transluminaalne endoskoopiline kordusoperatsioon sünnitusabis
+MXB00,Ettevalmistus sünnituseks
+TAB00,Lumbaalpunktsioon
+TAC00,Perifeerne närviblokaad
+TBA00,Kilpnäärme punktsioon
+TBA10,Kilpnäärme nõelbiopsia
+TBA20,Kilpnäärme aspiratsiooni tsütoloogia
+TBB00,Kõrvalkilpnäärme punktsioon
+TBB10,Kõrvalkilpnäärme nõelbiopsia
+TBC00,Neerupealise nõelbiopsia
+TBW99,Muu väike protseduur endokriinkirurgias
+TCA00,Orbita nõelbiopsia
+TCA15,Retrobulbaarne terapeutiline injektsioon orbitasse
+TCA20,Peribulbaarne terapeutiline injektsioon orbitasse
+TCB00,Silmalau nõelbiopsia
+TCB20,Ravimi süstimine silmalaugu
+TCC00,Pisaranäärme nõelbiopsia
+TCC10,Pisarakanali või nasolakrimaaljuha sondeerimine
+TCC30,Pisarakanali intubatsioon või nasolakrimaaljuha intubatsioon
+TCF00,Subkonjuktivaalne terapeutiline injektsioon
+TCG10,Õmbluste eemaldamine sarvkestast
+TCK10,Pärissoonkesta nõelbiopsia
+TCK20,Klaaskeha nõelbiopsia
+TCK30,Võrkkesta nõebiopsia
+TCW99,Muu väike protseduur silmakirurgias
+TDA00,Kõrvalesta või välise kuulmekanali biopsia
+TDA10,Kõrvalesta või välise kuulmekanali nõelbiopsia
+TDA90,Kõrvavaigu eemaldamine
+TDB00,Võõrkeha eemaldamine välisest kuulmekanalist
+TDC00,Trummikile nõelbiopsia
+TDH00,Nina nõelbiopsia
+TDH10,Võõrkeha eemaldamine ninaõõnest
+TDJ00,Ninavaheseina nõelbiopsia
+TDM00,Põsekoopa nõelbiopsia
+TDM10,Põseluukoopa punktsioon ja loputus
+TDN00,Sõelluu ja sõelluukoopa nõelbiopsia
+TDP00,Otsmikukoopa nõelbiopsia
+TDP05,Frontaalsiinuse punktsioon
+TDP10,Põhiluukoopa nõelbiopsia
+TDQ00,Kõri nõelbiopsia
+TEA00,Huule biopsia
+TEA10,Huule nõelbiopsia
+TEC00,Igeme nõelbiopsia
+TED00,Lõualuu dislokatsiooni kinnine paigaldamine
+TED10,Alalõualuu nõelbiopsia
+TEE00,Ülalõualuu nõelbiopsia
+TEG00,Alalõualuuliigese nõelbiopsia
+TEG10,Alalõualuu artrotsentees
+TEH00,Kõva suulae nõelbiopsia
+TEJ00,Keele või suupõhja nõelbiopsia
+TEL00,Süljenäärmete nõelbiopsia
+TEM00,Mandlite või adenoidide nõelbiopsia
+TEN00,Neelu või külgnevate struktuuride nõelbiopsia
+TEW99,"Muu väike protseduur hammaste, lõualuude, suu ja neelu kirurgias"
+TFC00,Parema koja või vatsakese kateteriseerimine
+TFC10,Vasaku koja või vatsakese kateteriseerimine
+TFE00,Perikardiotsentees
+TFJ00,Südame punktsioon
+TFP00,Transvenoosse või epikardiaalse südame tehisrütmuri ajutine kasutamine
+TFP20,Kardioversioon
+TGA00,Rindkereseina nõelbiopsia
+TGA10,Pleura nõelbiopsia
+TGA20,Diafragma nõelbiopsia
+TGA30,Torakotsentees
+TGB00,Trahhea nõelbiopsia
+TGD00,Kopsu nõelbiopsia
+TGE00,Mediastiinumi nõelbiopsia
+TGW99,Muu väike protseduur torakaalkirurgias
+THA00,Rinnanibu nõelbiopsia
+THA10,Rinnanäärme nõelbiopsia
+THW99,Muu väike protseduur rinnanäärme kirurgias
+TJA00,Peritoneaalõõne punktsioon
+TJA10,Laparotsentees
+TJA35,Peritoneaaldialüüsi kateetri eemaldamine
+TJD00,Nasogastraal- või nasogastroduodenaalsondi asetamine
+TJD20,Gastrostoomi toru vahetus
+TJF00,Jejunaalkateetri sisseviimine
+TJF20,Peensoole peroraalne biopsia
+TJF30,Soole invaginatsiooni likvideerimine kasutades baarium-klistiiri
+TJG10,Võõrkeha eemaldamine rektumist
+TJJ00,Maksa perkutaanne nõelbiopsia
+TJK00,Operatsiooniaegne kolangiograafia
+TJK01,Laparoskoopiline kolangiograafia
+TJL00,Pankrease perkutaanne nõelbiopsia
+TJM00,Põrna nõelbiopsia
+TK800,Hemodialüüs
+TK810,Hemofiltratsioon
+TK820,Peritoneaaldialüüs
+TKA00,Neeru või neeruvaagna nõelbiopsia
+TKA02,Nõelbiopsia siirdatud neerust
+TKA10,Neeru või neeruvaagna perkutaanne punktsioon
+TKB40,Ureeterostoomi sulgemine
+TKC00,Põie nõelbiopsia
+TKC10,Põie perkutaanne punktsioon
+TKC20,Põie kateteriseerimine
+TKC40,"Suprapubikaalse põiekateetri kontrollimine, vahetamine või eemaldamine"
+TKD00,Ureetra dilatatsioon
+TKE00,Prostata nõelbiopsia
+TKE05,Prostata aspiratsiooni tsütoloogia
+TKE10,Prostata punktsioon
+TKF00,Testise nõelbiopsia
+TKF20,Epididüümise nõelbiopsia
+TKF30,Epididüümise punktsioon
+TKF60,Skrootumi punktsioon
+TKW10,Hemodialüüs
+TKW12,Patsiendijuhitud hemodialüüs
+TKW20,Hemofiltratsioon
+TKW22,Kodune peritoneaaldialüüs
+TKW24,Krooniline peritoneaaldialüüs
+TKW30,Peritoneaaldialüüs
+TKW44,Krooniline hemodialüüs
+TKW99,Muu väike kirurgiline protseduur uroloogias
+TLA00,Munasarja nõelbiopsia
+TLB00,Munajuha nõelbiopsia
+TLC00,Emakasisese rasestumisvastase vahendi sissepanek
+TLC02,Emakasisese rasestumisvastase vahendi lihtne eemaldamine
+TLE00,Tupe dilatatsioon
+TLE05,Täiskasvanu tupest võõrkeha eemaldamine
+TLE10,Võõrkeha eemaldamine tupest lapseeas
+TLE20,Cul-de-sac’i transvaginaalne punktsioon
+TLE30,Tupe tamponaad
+TLE40,Tupepessaari või -rõnga paigaldamine
+TLE80,Tupepessaari vahetus
+TLF00,Häbememokkade defibulatsioon
+TLW00,Inseminatsioon
+TLW11,Embrüo siirdamine müomeetriumi kaudu
+TLW12,Külmutatud embrüo siirdamine
+TLW14,Tsütoplasmasisene sperma injektsioon (ICSI)
+TLW20,Ovulatsiooni medikamentoosne esilekutsumine
+TLW99,Muu väike kirurgiline protseduur günekoloogias
+TMA00,Episiotoomia
+TMA20,Normaalse sünnituse abistamine
+TMA40,Loote monitooring
+TMA80,Rinnaga toitmise toetamine
+TMW99,Muu väike kirurgiline protseduur sünnitusabis
+TNA00,Pehme koe punktsioon või nõelbiopsia; lülisammas ja kael
+TNA10,Artrotsentees; lülisammas ja kael
+TNA11,Diagnostilise või terapeutilise aine injektsioon liigesesse; lülisammas ja kael
+TNA20,Luuüdi aspiratsioon; lülisammas ja kael
+TNA25,Luuüdi puurbiopsia; lülisammas ja kael
+TNA30,Pehme side; lülisammas ja kael
+TNA32,Eritellimusel valmistatud lahas; lülisammas ja kael
+TNA33,Eritellimusel valmistatud kips; lülisammas ja kael
+TNB00,Pehme koe punktsioon või nõelbiopsia; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB10,Artrotsentees; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB11,Diagnostilise või terapeutilise aine injektsioon liigesesse; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB20,Luuüdi aspiratsioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB30,Pehme side; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB32,Eritellimusel valmistatud lahas; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB33,Eritellimusel valmistatud kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNB34,Eritellimusel valmistatud suur kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu)
+TNC00,Pehme koe punktsioon või nõelbiopsia; küünarnukk ja küünarvars
+TNC10,Artrotsentees; küünarnukk ja küünarvars
+TNC11,Diagnostilise või terapeutilise aine injektsioon liigesesse; küünarnukk ja küünarvars
+TNC20,Luuüdi aspiratsioon; küünarnukk ja küünarvars
+TNC30,Pehme side; küünarnukk ja küünarvars
+TNC32,Eritellimusel valmistatud lahas; küünarnukk ja küünarvars
+TNC33,Eritellimusel valmistatud kips; küünarnukk ja küünarvars
+TNC34,Eritellimusel valmistatud suur kips; küünarnukk ja küünarvars
+TND00,Pehme koe punktsioon või nõelbiopsia; ranne ja labakäsi
+TND10,Artrotsentees; ranne ja labakäsi
+TND11,Diagnostilise või terapeutilise aine injektsioon liigesesse; ranne ja labakäsi
+TND20,Luuüdi aspiratsioon; ranne ja labakäsi
+TND30,Pehme side; ranne ja labakäsi
+TND32,Eritellimusel valmistatud lahas; ranne ja labakäsi
+TND33,Eritellimusel valmistatud kips; ranne ja labakäsi
+TND34,Eritellimusel valmistatud suur kips; ranne ja labakäsi
+TNE00,Pehme koe punktsioon või nõelbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE10,Artrotsentees; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE11,Diagnostilise või terapeutilise aine injektsioon liigesesse; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE20,Luuüdi aspiratsioon; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE25,Luuüdi puurbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE30,Pehme side; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE32,Eritellimusel valmistatud lahas; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE33,Eritellimusel valmistatud kips; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNE34,Eritellimusel valmistatud suur kips; vaagen (kaasaarvatud ristluu ja sabaluu)
+TNF00,Pehme koe punktsioon või nõelbiopsia; puusaliiges ja reis
+TNF10,Artrotsentees; puusaliiges ja reis
+TNF11,Diagnostilise või terapeutilise aine injektsioon liigesesse; puusaliiges ja reis
+TNF20,Luuüdi aspiratsioon; puusaliiges ja reis
+TNF30,Pehme side; puusaliiges ja reis
+TNF32,Eritellimusel valmistatud lahas; puusaliiges ja reis
+TNF33,Eritellimusel valmistatud kips; puusaliiges ja reis
+TNF34,Eritellimusel valmistatud suur kips; puusaliiges ja reis
+TNG00,Pehme koe punktsioon või nõelbiopsia; põlveliiges ja säär
+TNG10,Artrotsentees; põlveliiges ja säär
+TNG11,Diagnostilise või terapeutilise aine injektsioon liigesesse; põlveliiges ja säär
+TNG20,Luuüdi aspiratsioon; põlveliiges ja säär
+TNG30,Pehme side; põlveliiges ja säär
+TNG31,Tööstuslikult toodetud ortoos; põlveliiges ja säär
+TNG32,Eritellimusel valmistatud lahas; põlveliiges ja säär
+TNG33,Eritellimusel valmistatud kips; põlveliiges ja säär
+TNG34,Eritellimusel valmistatud suur kips; põlveliiges ja säär
+TNG40,Väline traktsioon; põlveliiges ja säär
+TNH00,Pehme koe punktsioon või nõelbiopsia; hüppeliiges ja labajalg
+TNH10,Artrotsentees; hüppeliiges ja labajalg
+TNH11,Diagnostilise või terapeutilise aine injektsioon liigesesse; hüppeliiges ja labajalg
+TNH20,Luuüdi aspiratsioon; hüppeliiges ja labajalg
+TNH30,Pehme side; hüppeliiges ja labajalg
+TNH32,Eritellimusel valmistatud lahas; hüppeliiges ja labajalg
+TNH33,Eritellimusel valmistatud kips; hüppeliiges ja labajalg
+TNH34,Eritellimusel valmistatud suur kips; hüppeliiges ja labajalg
+TNX00,Pehme koe punktsioon või nõelbiopsia; määratlemata piirkond
+TNX05,Pehme koe lihtne intsisioon; määratlemata piirkond
+TNX10,Artrotsentees; määratlemata piirkond
+TNX11,Diagnostilise või terapeutilise aine injektsioon liigesesse; määratlemata piirkond
+TNX20,Luuüdi aspiratsioon; määratlemata piirkond
+TNX25,Luuüdi puurbiopsia; määratlemata piirkond
+TNX30,Pehme side; määratlemata piirkond
+TNX32,Eritellimusel valmistatud lahas; määratlemata piirkond
+TNX33,Eritellimusel valmistatud kips; määratlemata piirkond
+TNX34,Eritellimusel valmistatud suur kips; määratlemata piirkond
+TNX39,Muu ortopeediline side; määratlemata piirkond
+TNX40,Väline traktsioon; määratlemata piirkond
+TNX50,Skeletimarkeri implantatsioon; määratlemata piirkond
+TPH00,Flebotoomia
+TPH05,Perifeerse veeni lahtine kanüleerimine
+TPH07,Intra-arteriaalse kanüüli paigaldamine
+TPH10,Veenilaiendite skleroteraapia
+TPH15,Tsentraalse veenikateetri paigaldamine välise või sisemise jugulaarveeni kaudu
+TPH20,Tsentraalse veenikateetri paigaldamine v. subclavia või v. brachiocephalica kaudu
+TPH90,Fikseeritud intravenoosse kateetri eemaldamine
+TPJ00,Pindmise lümfisõlme biopsia
+TPJ05,Lümfisõlme nõelbiopsia
+TPW99,Muu väike kirurgiline protseduur perifeersel veresoonel või lümfisüsteemil
+TPX00,Arteri või veeni biopsia
+TPX10,Vaskulaarse injektsioonipordi paigaldamine
+TPX15,Vaskulaarse injektsioonipordi eemaldamine
+TPX22,Intravenoosne trombolüüs arteriaalse tromboosi korral
+TQW11,Haava vaakumravi
+TQW38,Subkutanne skleroteraapia
+TQW99,Muu väike protseduur nahal
+TQX00,Naha biopsia
+TQX10,Naha nõelbiopsia
+TQX40,Naha õmbluste eemaldamine

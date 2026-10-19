@@ -1,0 +1,480 @@
+source_code,source_concept_id,source_vocabulary_id,est_source_code_type,source_code_description,est_target_concept_name,target_concept_id,target_vocabulary_id,est_target_domain,est_target_concept_class_id,est_extension,est_related_diagnosis,valid_start_date,valid_end_date,invalid_reason,est_maps_to_value
+LAA00,2020003175,NCSP codes,ncsp,Munasarjatsüsti punktsioon,Aspiration of ovarian cyst,4127237,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA01,2020003176,NCSP codes,ncsp,Laparoskoopiline munasarjatsüsti punktsioon,Aspiration of ovarian cyst,4127237,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA03,2020003177,NCSP codes,ncsp,Perkutaanne munasarjatsüsti punktsioon,Aspiration of ovarian cyst,4127237,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA06,2020003178,NCSP codes,ncsp,Transvaginaalne munasarjatsüsti punktsioon,Drainage of ovarian cyst by vaginal approach,4033087,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA10,2020003179,NCSP codes,ncsp,Folliikuli perkutaanne ja transvaginaalne punktsioon ja ootsüüdi väljatoomine,Oocyte recovery,4072862,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA11,2020003180,NCSP codes,ncsp,Laparoskoopiline ootsüüdi väljatoomine,Laparoscopic oocyte recovery,4144415,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA20,2020003181,NCSP codes,ncsp,Perkutaanne või transvaginaalne injektsioon munasarja rasedusse,Ovarian pregnancy,200153,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LAA20,2020003181,NCSP codes,ncsp,Perkutaanne või transvaginaalne injektsioon munasarja rasedusse,Injection of ovary,4211249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA31,2020003182,NCSP codes,ncsp,Ovarioskoopia,Ovary endoscopy,4001542,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA96,2020003183,NCSP codes,ncsp,Munasarja muu punktsioon,Aspiration of ovary,4213552,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAA97,2020003184,NCSP codes,ncsp,Muu laparoskoopiline munasarja punktsioon,Aspiration of ovary,4213552,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB00,2020003185,NCSP codes,ncsp,Ovariotoomia,Incision of ovary,4243919,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB01,2020003186,NCSP codes,ncsp,Laparoskoopiline ovariotoomia,Incision of ovary,4243919,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB10,2020003187,NCSP codes,ncsp,Munasarja biopsia,Biopsy of ovary,4174964,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB11,2020003188,NCSP codes,ncsp,Laparoskoopiline munasarja biopsia,Laparoscopic biopsy of ovary,46273536,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB21,2020003189,NCSP codes,ncsp,Laparoskoopiline munasarja nõelbiopsia,Laparoscopic biopsy of ovary,46273536,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB96,2020003190,NCSP codes,ncsp,Munasarja muu intsisioon või biopsia,Incision of ovary,4243919,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAB97,2020003191,NCSP codes,ncsp,Muu laparoskoopiline munasarja intsisioon või biopsia,Laparoscopic biopsy of ovary,46273536,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC00,2020003192,NCSP codes,ncsp,Munasarjatsüsti ekstsisioon,Excision of cyst of ovary,4302672,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC01,2020003193,NCSP codes,ncsp,Laparoskoopiline munasarjatsüsti ekstsisioon,Laparoscopic removal of ovarian cyst,42872569,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC10,2020003194,NCSP codes,ncsp,Munasarjatsüsti fenestratsioon,Marsupialization of ovarian cyst,4215600,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC11,2020003195,NCSP codes,ncsp,Laparoskoopiline munasarjatsüsti fenestratsioon,Laparoscopic marsupialization of cyst of ovary,40481144,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC20,2020003196,NCSP codes,ncsp,Munasarja lesiooni destruktsioon,Open destruction of lesion of ovary,4072855,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC21,2020003197,NCSP codes,ncsp,Laparoskoopiline munasarja lesiooni destruktsioon,Endoscopic extirpation of lesion of ovary,4075026,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC30,2020003198,NCSP codes,ncsp,Paraovariaalse tsüsti ekstsisioon,Excision of paraovarian cyst,4245857,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC31,2020003199,NCSP codes,ncsp,Laparoskoopiline paraovariaalse tsüsti ekstsisioon,Excision of paraovarian cyst,4245857,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC96,2020003200,NCSP codes,ncsp,Munasarja lesiooni muu ekstsisioon või destruktsioon,Excision of lesion of ovary,4262433,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAC97,2020003201,NCSP codes,ncsp,Muu laparoskoopiline munasarja lesiooni ekstsisioon või destruktsioon,Endoscopic extirpation of lesion of ovary,4075026,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAD00,2020003202,NCSP codes,ncsp,Munasarja osaline eemaldamine,Partial oophorectomy,4106090,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAD01,2020003203,NCSP codes,ncsp,Laparoskoopiline munasarja osaline eemaldamine,Partial oophorectomy,4106090,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAE10,2020003204,NCSP codes,ncsp,Ühepoolne ooforektoomia,Oophorectomy,4306298,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAE11,2020003205,NCSP codes,ncsp,Ühepoolne laparoskoopiline ooforektoomia,Laparoscopic oophorectomy,42872496,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAE20,2020003206,NCSP codes,ncsp,Mõlemapoolne ooforektoomia,Excision of bilateral ovaries,4297990,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAE21,2020003207,NCSP codes,ncsp,Mõlemapoolne laparoskoopiline ooforektoomia,Laparoscopic bilateral oophorectomy,43531553,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF00,2020003208,NCSP codes,ncsp,Ühepoolne salpingo-ooforektoomia,Salpingo-oophorectomy,4021363,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF01,2020003209,NCSP codes,ncsp,Ühepoolne laparoskoopiline salpingo-ooforektoomia,Laparoscopic salpingo-oophorectomy,40488381,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF10,2020003210,NCSP codes,ncsp,Mõlemapoolne salpingo-ooforektoomia,Excision of bilateral fallopian tubes and ovaries,4107080,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF11,2020003211,NCSP codes,ncsp,Mõlemapoolne laparoskoopiline salpingo-ooforektoomia,Laparoscopic bilateral salpingo-oophorectomy,43531512,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF17,2020003212,NCSP codes,ncsp,Laparoskoopiline lümfisõlmede eemaldamine munasarja pahaloomulise kasvaja korral,Laparoscopic retroperitoneal lymph node dissection,40493231,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF17,2020003212,NCSP codes,ncsp,Laparoskoopiline lümfisõlmede eemaldamine munasarja pahaloomulise kasvaja korral,Malignant neoplasm of ovary,4181351,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LAF20,2020003213,NCSP codes,ncsp,Unilateraalne transvaginaalne salpingo-ooforektoomia,Salpingo-oophorectomy,4021363,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAF30,2020003214,NCSP codes,ncsp,Bilateraalne transvaginaalne salpingo-ooforektoomia,Excision of bilateral fallopian tubes and ovaries,4107080,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG00,2020003215,NCSP codes,ncsp,Munasarja liidetest vabastamine,Lysis of adhesions of ovary,4059099,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG01,2020003216,NCSP codes,ncsp,Laparoskoopiline munasarja liidetest vabastamine,Endoscopic freeing of adhesions of ovary,4074571,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG10,2020003217,NCSP codes,ncsp,Ooforopeksia,Oophoropexy,4263530,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG11,2020003218,NCSP codes,ncsp,Laparoskoopiline ooforopeksia,Oophoropexy,4263530,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG20,2020003219,NCSP codes,ncsp,Munasarja detorsioon,Detorsion of ovary,4265608,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG21,2020003220,NCSP codes,ncsp,Laparoskoopiline munasarja detorsioon,Detorsion of ovary,4265608,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG96,2020003221,NCSP codes,ncsp,Muu rekonstruktiivne operatsioon munasarjal,Repair of ovary,4032167,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAG97,2020003222,NCSP codes,ncsp,Muu laparoskoopiline rekonstruktiivne operatsioon munasarjal,Repair of ovary,4032167,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAW96,2020003223,NCSP codes,ncsp,Muu operatsioon munasarjal,Operation on ovary,4277585,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LAW97,2020003224,NCSP codes,ncsp,Muu laparoskoopiline operatsioon munasarjal,Operation on ovary,4277585,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LB1YT,2020003225,NCSP codes,ncsp,Munajuha kateteriseerimine,Catheterization of fallopian tube,4032745,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBA00,2020003226,NCSP codes,ncsp,Perkutaanne munajuha punktsioon,Aspiration of fallopian tube,4300645,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBA01,2020003227,NCSP codes,ncsp,Laparoskoopiline munajuha punktsioon,Aspiration of fallopian tube,4300645,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBA03,2020003228,NCSP codes,ncsp,Transvaginaalne munajuha punktsioon,Aspiration of fallopian tube,4300645,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBA07,2020003229,NCSP codes,ncsp,Salpingoskoopia,Laparoscopic salpingoscopy,37466496,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBA97,2020003230,NCSP codes,ncsp,Muu laparoskoopiline munajuha punktsioon,Aspiration of fallopian tube,4300645,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBA98,2020003231,NCSP codes,ncsp,Muu endoskoopiline transluminaalne protseduur munajuhal,Procedure on fallopian tube,4040576,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBB00,2020003232,NCSP codes,ncsp,Munajuha biopsia,Biopsy of fallopian tube,4217612,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBB01,2020003233,NCSP codes,ncsp,Laparoskoopiline munajuha biopsia,Endoscopic biopsy of fallopian tube,4074562,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBB04,2020003234,NCSP codes,ncsp,Salpingoskoopiline munajuha biopsia,Endoscopic biopsy of fallopian tube,4074562,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBB11,2020003235,NCSP codes,ncsp,Laparoskoopiline munajuha nõelbiopsia,Endoscopic biopsy of fallopian tube,4074562,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBB96,2020003236,NCSP codes,ncsp,Munajuha muu biopsia,Biopsy of fallopian tube,4217612,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC00,2020003237,NCSP codes,ncsp,Perkutaanne injektsioon munajuharasedusse,Injection of fallopian tube,4203917,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC00,2020003237,NCSP codes,ncsp,Perkutaanne injektsioon munajuharasedusse,Tubal pregnancy,199076,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LBC03,2020003238,NCSP codes,ncsp,Transvaginaalne injektsioon munajuharasedusse,Injection of fallopian tube,4203917,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC03,2020003238,NCSP codes,ncsp,Transvaginaalne injektsioon munajuharasedusse,Tubal pregnancy,199076,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LBC07,2020003239,NCSP codes,ncsp,Laparoskoopiline injektsioon munajuharasedusse,Tubal pregnancy,199076,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LBC07,2020003239,NCSP codes,ncsp,Laparoskoopiline injektsioon munajuharasedusse,Injection of fallopian tube,4203917,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC08,2020003240,NCSP codes,ncsp,Falloposkoopiline injektsioon munajuharasedusse,Tubal pregnancy,199076,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LBC08,2020003240,NCSP codes,ncsp,Falloposkoopiline injektsioon munajuharasedusse,Injection of fallopian tube,4203917,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC10,2020003241,NCSP codes,ncsp,Viljastumise produktide eemaldamine munajuhast,Removal of ectopic pregnancy from fallopian tube,4299185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC11,2020003242,NCSP codes,ncsp,Laparoskoopiline viljastumise produktide eemaldamine munajuhast,Removal of ectopic pregnancy from fallopian tube,4299185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC20,2020003243,NCSP codes,ncsp,Salpingotoomia ja viljastumise produktide eemaldamine,Removal of ectopic pregnancy from fallopian tube,4299185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC20,2020003243,NCSP codes,ncsp,Salpingotoomia ja viljastumise produktide eemaldamine,Incision of fallopian tube,4185828,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC21,2020003244,NCSP codes,ncsp,Laparoskoopiline salpingotoomia ja viljastumise produktide eemaldamine,Laparoscopic salpingotomy,4201033,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC21,2020003244,NCSP codes,ncsp,Laparoskoopiline salpingotoomia ja viljastumise produktide eemaldamine,Removal of ectopic pregnancy from fallopian tube,4299185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC96,2020003245,NCSP codes,ncsp,Munajuha muu säilitav operatsioon munajuharaseduse korral,Removal of ectopic pregnancy from fallopian tube,4299185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC97,2020003246,NCSP codes,ncsp,Muu laparoskoopiline munajuha säilitav operatsioon munajuharaseduse korral,Removal of ectopic pregnancy from fallopian tube,4299185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC98,2020003247,NCSP codes,ncsp,Muu transluminaalne munajuha säilitav operatsioon munajuharaseduse korral,Procedure on fallopian tube,4040576,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBC98,2020003247,NCSP codes,ncsp,Muu transluminaalne munajuha säilitav operatsioon munajuharaseduse korral,Tubal pregnancy,199076,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LBD00,2020003248,NCSP codes,ncsp,Munajuha resektsioon,Partial salpingectomy,4267567,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBD01,2020003249,NCSP codes,ncsp,Laparoskoopiline munajuha resektsioon,Partial salpingectomy,4267567,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBE00,2020003250,NCSP codes,ncsp,Salpingektoomia,Total salpingectomy,4115223,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBE01,2020003251,NCSP codes,ncsp,Laparoskoopiline salpingektoomia,Laparoscopic salpingectomy,4201639,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF00,2020003252,NCSP codes,ncsp,Munajuha perfusioon,Hydrotubation of fallopian tube,4075018,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF01,2020003253,NCSP codes,ncsp,Laparoskoopiline munajuha perfusioon,Hydrotubation of fallopian tube,4075018,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF03,2020003254,NCSP codes,ncsp,Munajuha perfusioon rekonstruktsiooni järgselt,Hydrotubation of fallopian tube,4075018,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF11,2020003255,NCSP codes,ncsp,Laparoskoopia abistatud viljastamise korral,Assisted fertilization,4272937,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF11,2020003255,NCSP codes,ncsp,Laparoskoopia abistatud viljastamise korral,Laparoscopic salpingoscopy,37466496,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF12,2020003256,NCSP codes,ncsp,Hüsteroskoopia abistatud viljastamise korral,Hysteroscopy,4052532,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF12,2020003256,NCSP codes,ncsp,Hüsteroskoopia abistatud viljastamise korral,Assisted fertilization,4272937,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF20,2020003257,NCSP codes,ncsp,Transtservikaalne kateeter-salpingoplastika,Repair of fallopian tube,4036051,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF30,2020003258,NCSP codes,ncsp,Salpingolüüs,Lysis of adhesions of fallopian tube,4279916,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF31,2020003259,NCSP codes,ncsp,Laparoskoopiline salpingolüüs,Endoscopic freeing of adhesions of fallopian tube,4074443,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF40,2020003260,NCSP codes,ncsp,Fimbrioplastika,Fimbrioplasty,4330560,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF41,2020003261,NCSP codes,ncsp,Laparoskoopiline fimbrioplastika,Laparoscopic fimbrioplasty,4233291,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF50,2020003262,NCSP codes,ncsp,Salpingostoomia,Salpingostomy,4263669,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF51,2020003263,NCSP codes,ncsp,Laparoskoopiline salpingostoomia,Laparoscopic salpingostomy,37154070,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF60,2020003264,NCSP codes,ncsp,Munajuha osaline eemaldamine ja anastomoos,Partial salpingectomy,4267567,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF60,2020003264,NCSP codes,ncsp,Munajuha osaline eemaldamine ja anastomoos,Tubotubal anastomosis,4194116,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF61,2020003265,NCSP codes,ncsp,Laparoskoopiline munajuha osaline eemaldamine ja anastomoos,Partial salpingectomy,4267567,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF61,2020003265,NCSP codes,ncsp,Laparoskoopiline munajuha osaline eemaldamine ja anastomoos,Laparoscopic tubotubal anastomosis,37158185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF70,2020003266,NCSP codes,ncsp,Munajuha osaline eemaldamine ja reimplantatsioon,Tubotubal anastomosis,4194116,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF70,2020003266,NCSP codes,ncsp,Munajuha osaline eemaldamine ja reimplantatsioon,Partial salpingectomy,4267567,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF71,2020003267,NCSP codes,ncsp,Munajuha laparoskoopiline osaline ekstsisioon ja reimplantatsioon,Repair of fallopian tube,4036051,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF71,2020003267,NCSP codes,ncsp,Munajuha laparoskoopiline osaline ekstsisioon ja reimplantatsioon,Partial salpingectomy,4267567,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF96,2020003268,NCSP codes,ncsp,Muu operatsioon munajuhal infertiilsuse korral,Operation on fallopian tube,4189847,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBF97,2020003269,NCSP codes,ncsp,Muu laparoskoopiline operatsioon munajuhal infertiilsuse korral,Operation on fallopian tube,4189847,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBW20,2020003270,NCSP codes,ncsp,Munajuha kateteriseerimine rõntgeni kontrolliga,Catheterization of fallopian tube,4032745,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBW80,2020003271,NCSP codes,ncsp,Munajuha perfusioon gaasilise hapnikuga (PSF),Insufflation of fallopian tube using gas,4121752,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBW96,2020003272,NCSP codes,ncsp,Muu operatsioon munajuhal,Operation on fallopian tube,4189847,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBW97,2020003273,NCSP codes,ncsp,Muu laparoskoopiline operatsioon munajuhal,Operation on fallopian tube,4189847,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBW98,2020003274,NCSP codes,ncsp,Muu transluminaalne endoskoopiline operatsioon munajuhal,Operation on fallopian tube,4189847,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LBX14,2020003275,NCSP codes,ncsp,Munajuha perfusioon gaasilise hapnikugs (PSF),Insufflation of fallopian tube using gas,4121752,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA00,2020003276,NCSP codes,ncsp,Emaka ja emakasidemete biopsia,Biopsy of uterus,4001054,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA01,2020003277,NCSP codes,ncsp,Laparoskoopiline emaka ja emakasidemete biopsia,Laparoscopic biopsy of uterus,4207982,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA06,2020003278,NCSP codes,ncsp,Endomeetriumi biopsia,Endometrial biopsy,4299733,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA10,2020003279,NCSP codes,ncsp,Emakaõõne abrasioon,Curettage of uterus,4074865,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA13,2020003280,NCSP codes,ncsp,Emakaõõne ja -kaela abrasioon,Curettage of uterus,4074865,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA16,2020003281,NCSP codes,ncsp,Endomeetriumi destruktsioon,Endometrial ablation,4141940,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA20,2020003282,NCSP codes,ncsp,Võõrkeha eemaldamine emakast,Removal of uterine foreign body,4202558,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA22,2020003283,NCSP codes,ncsp,Hüsteroskoopiline võõrkeha eemaldamine,Hysteroscopy and removal of impacted foreign body,4208914,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA30,2020003284,NCSP codes,ncsp,Ootsüüdi ja embrüo  emakaõõnde viimine abistatud viljastamise korral,Transfer of embryo to uterus,44790511,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA96,2020003285,NCSP codes,ncsp,Muu emakasisene operatsioon,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA98,2020003286,NCSP codes,ncsp,Muu transluminaalne endoskoopiline protseduur emakal,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCA98,2020003286,NCSP codes,ncsp,Muu transluminaalne endoskoopiline protseduur emakal,Endoscopic procedure,4179713,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB00,2020003287,NCSP codes,ncsp,Hüsterotoomia,Incision of uterus,4173615,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB01,2020003288,NCSP codes,ncsp,Laparoskoopiline hüsterotoomia,Incision of uterus,4173615,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB10,2020003289,NCSP codes,ncsp,Müomektoomia,Uterine myomectomy,4169931,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB11,2020003290,NCSP codes,ncsp,Laparoskoopiline müomektoomia,Laparoscopic myomectomy,42872568,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB14,2020003291,NCSP codes,ncsp,Laparoskoopiline müolüüs,Laparoscopic myomectomy,42872568,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB20,2020003292,NCSP codes,ncsp,Transvaginaalne müomektoomia,Vaginal myomectomy,4130188,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB25,2020003293,NCSP codes,ncsp,Hüsteroskoopiline lesiooni ekstsisioon,Endoscopic excision of lesion of uterus,4140707,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB28,2020003294,NCSP codes,ncsp,Hüsteroskoopiline endomeetriumi ekstsisioon,Endometrial resection,4032738,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB32,2020003295,NCSP codes,ncsp,Hüsteroskoopiline endomeetriumi destruktsioon,Endoscopic ablation of endometrium,40492254,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB90,2020003296,NCSP codes,ncsp,Emaka nõelbiopsia,Biopsy of uterus,4001054,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB96,2020003297,NCSP codes,ncsp,Emaka lesiooni muu ekstsisioon,Excision of lesion of uterus,4338234,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB97,2020003298,NCSP codes,ncsp,Muu laparoskoopiline emaka lesiooni ekstsisioon,Endoscopic excision of lesion of uterus,4140707,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCB98,2020003299,NCSP codes,ncsp,Muu transluminaalne endoskoopiline emaka lesiooni ekstsisioon,Endoscopic excision of lesion of uterus,4140707,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC00,2020003300,NCSP codes,ncsp,Emaka osaline eemaldamine,Partial hysterectomy,4300373,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC01,2020003301,NCSP codes,ncsp,Laparoskoopiline emaka osaline eemaldamine,Partial hysterectomy,4300373,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC05,2020003302,NCSP codes,ncsp,Hüsteroskoopiline emakaseina eemaldamine,Endoscopic excision of lesion of uterus,4140707,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC10,2020003303,NCSP codes,ncsp,Supravaginaalne hüsterektoomia,Partial hysterectomy,4300373,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC11,2020003304,NCSP codes,ncsp,Laparoskoopiline subtotaalne hüsterektoomia,Laparoscopic subtotal hysterectomy,4196148,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC20,2020003305,NCSP codes,ncsp,Tupekaudne supravaginaalne hüsterektoomia,Vaginal subtotal hysterectomy,37162413,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC96,2020003306,NCSP codes,ncsp,Emaka muu osaline eemaldamine,Partial hysterectomy,4300373,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCC97,2020003307,NCSP codes,ncsp,Muu laparoskoopiline emaka osaline eemaldamine,Partial hysterectomy,4300373,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD00,2020003308,NCSP codes,ncsp,Hüsterektoomia,Total hysterectomy,4023403,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD01,2020003309,NCSP codes,ncsp,Totaalne laparoskoopiline hüsterektoomia,Laparoscopic total hysterectomy,4130185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD04,2020003310,NCSP codes,ncsp,Laparoskoopiline hüsterektoomia,Laparoscopic hysterectomy,4127887,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD10,2020003311,NCSP codes,ncsp,Vaginaalne hüsterektoomia,Vaginal hysterectomy,4138738,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD11,2020003312,NCSP codes,ncsp,Laparoskoopiliselt assisteeritud vaginaalne hüsterektoomia,Laparoscopic-assisted vaginal hysterectomy,4294805,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD30,2020003313,NCSP codes,ncsp,Radikaalne hüsterektoomia,Radical hysterectomy,4021530,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD31,2020003314,NCSP codes,ncsp,Radikaalne laparoskoopiline hüsterektoomia,Laparoscopic radical hysterectomy,4032735,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD40,2020003315,NCSP codes,ncsp,Radikaalne vaginaalne hüsterektoomia,Radical vaginal hysterectomy,4262130,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD96,2020003316,NCSP codes,ncsp,Muu hüsterektoomia,Total hysterectomy,4023403,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCD97,2020003317,NCSP codes,ncsp,Muu laparoskoopiline hüsterektoomia,Laparoscopic hysterectomy,4127887,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCE00,2020003318,NCSP codes,ncsp,Vaagnaelundite eesmine evistseratsioon naistel,Anterior exenteration of pelvis,4107571,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCE10,2020003319,NCSP codes,ncsp,Vaagnaelundite tagumine evistseratsioon naistel,Posterior exenteration of pelvis,4107572,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCE20,2020003320,NCSP codes,ncsp,Vaagnaelundite totaalne evistseratsioon naistel,Pelvic exenteration,4178736,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCE96,2020003321,NCSP codes,ncsp,Vaagnaelundite muu evistseratsioon naistel,Pelvic exenteration,4178736,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF00,2020003322,NCSP codes,ncsp,Parameetriumi lesiooni ekstsisioon,Excision of lesion of uterine ligament,4064938,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF01,2020003323,NCSP codes,ncsp,Laparoskoopiline parameetriumi lesiooni ekstsisioon,Endoscopic resection of lesion of peritoneum,4074848,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF10,2020003324,NCSP codes,ncsp,Varikotseele ekstsisioon naistel,Excision of varicocele,4265676,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF11,2020003325,NCSP codes,ncsp,Laparoskoopiline varikotseele ekstsisioon naistel,Excision of varicocele,4265676,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF20,2020003326,NCSP codes,ncsp,G.Douglase piirkonna lesiooni eemaldamine,Excision of lesion of cul-de-sac,4318646,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF21,2020003327,NCSP codes,ncsp,Laparoskoopiline G.Douglase piirkonna lesiooni eemaldamine,Excision of lesion of cul-de-sac,4318646,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF96,2020003328,NCSP codes,ncsp,Parameetriumi lesiooni muu ekstsisioon,Excision of lesion of uterine ligament,4064938,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCF97,2020003329,NCSP codes,ncsp,Muu laparoskoopiline parameetriumi lesiooni ekstsisioon,Endoscopic resection of lesion of peritoneum,4074848,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG02,2020003330,NCSP codes,ncsp,Hüsteroskoopiline liidete vabastamine,Endoscopic freeing of adhesions of ovary,4074571,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG10,2020003331,NCSP codes,ncsp,Emaka suturatsioon,Suture of uterus,4170872,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG11,2020003332,NCSP codes,ncsp,Laparoskoopiline emaka suturatsioon,Suture of uterus,4170872,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG20,2020003333,NCSP codes,ncsp,Hüsteropeksia,Uteropexy,4263634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG21,2020003334,NCSP codes,ncsp,Laparoskoopiline hüsteropeksia,Uteropexy,4263634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG30,2020003335,NCSP codes,ncsp,Sakrouteriinsete sidemete resektsioon või transtsisioon,Excision of uterosacral ligament,4279293,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG31,2020003336,NCSP codes,ncsp,Laparoskoopiline sakrouteriinsete sidemete resektsioon või transtsisioon,Excision of uterosacral ligament,4279293,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG40,2020003337,NCSP codes,ncsp,Emaka rekonstruktsioon,Uterus reconstruction,4003240,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG41,2020003338,NCSP codes,ncsp,Laparoskoopiline emaka rekonstruktsioon,Uterus reconstruction,4003240,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG96,2020003339,NCSP codes,ncsp,Muu rekonstruktiivne operatsioon emakal,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG97,2020003340,NCSP codes,ncsp,Muu laparoskoopiline rekonstruktiivne operatsioon emakal,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCG98,2020003341,NCSP codes,ncsp,Muu transluminaalne endoskoopiline rekonstruktiivne operatsioon emakal,Endoscopic uteroplasty,4138021,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH00,2020003342,NCSP codes,ncsp,Viljastumisproduktide eemaldamine emakaõõnest vaakum-aspiratsiooni teel,Suction evacuation of retained products of conception,4150538,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH03,2020003343,NCSP codes,ncsp,Viljastumisproduktide eemaldamine emakaõõnest ja emakaõõne küretaaž,Dilation of cervix uteri and curettage of products of conception from uterus,4138740,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH10,2020003344,NCSP codes,ncsp,Aborti põhjustavate ravimite amnionisisene või -väline kasutamine,Introduction of abortifacient into uterine cavity,4074869,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH11,2020003345,NCSP codes,ncsp,Aborti indutseeriva ravimi amnioniväline kasutamine,Extraamniotic injection of abortifacient,42872688,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH12,2020003346,NCSP codes,ncsp,Aborti indutseeriva ravimi suukaudne kasutamine,Medical termination of pregnancy,4115153,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH13,2020003347,NCSP codes,ncsp,Emakaõõne vaakum-aspiratsioon meditsiiniliselt esilekutsutud abordi järgselt,Suction evacuation of retained products of conception,4150538,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH13,2020003347,NCSP codes,ncsp,Emakaõõne vaakum-aspiratsioon meditsiiniliselt esilekutsutud abordi järgselt,Medical termination of pregnancy,4115153,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH15,2020003348,NCSP codes,ncsp,Viljastumisproduktide eemaldamine emakaõõnest mittetäieliku indutseeritud abordi järel,Incomplete induced termination of pregnancy,45768717,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LCH15,2020003348,NCSP codes,ncsp,Viljastumisproduktide eemaldamine emakaõõnest mittetäieliku indutseeritud abordi järel,Suction evacuation of retained products of conception,4150538,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH20,2020003349,NCSP codes,ncsp,Hüsterektoomia ja viljastumisproduktide evakuatsioon,Evacuation of retained product of conception,4032621,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH20,2020003349,NCSP codes,ncsp,Hüsterektoomia ja viljastumisproduktide evakuatsioon,Incision of uterus,4173615,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCH96,2020003350,NCSP codes,ncsp,Raseduse muu lõpetamine,Termination of pregnancy,4297250,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCW96,2020003351,NCSP codes,ncsp,Muu operatsioon emakal ja emakasidemetel,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCW96,2020003351,NCSP codes,ncsp,Muu operatsioon emakal ja emakasidemetel,Operation on uterine ligament,4184187,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCW97,2020003352,NCSP codes,ncsp,Muu laparoskoopiline operatsioon emakal ja emakasidemetel,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCW97,2020003352,NCSP codes,ncsp,Muu laparoskoopiline operatsioon emakal ja emakasidemetel,Operation on uterine ligament,4184187,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LCW98,2020003353,NCSP codes,ncsp,Muu hüsteroskoopiline operatsioon emakal,Operation on uterus,4195757,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDA00,2020003354,NCSP codes,ncsp,Emakakaela dilatatsioon,Dilation of cervical canal,4337799,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDA10,2020003355,NCSP codes,ncsp,Emakakaela abrasioon,Endocervical curettage,4200235,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDA20,2020003356,NCSP codes,ncsp,Emakakaela biopsia,Cervical biopsy,4175471,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDA91,2020003357,NCSP codes,ncsp,Emakakaela võõrkeha eemaldamine tupe kaudu,Removal of uterine foreign body,4202558,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDA96,2020003358,NCSP codes,ncsp,Emakakaela muu biopsia,Cervical biopsy,4175471,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDB00,2020003359,NCSP codes,ncsp,Emakakaela lesiooni ekstsisioon,Excision of lesion of cervix,4264661,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDB10,2020003360,NCSP codes,ncsp,Emakakaela krüoteraapia,Cryosurgery of lesion of cervix,4301620,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDB20,2020003361,NCSP codes,ncsp,Emakakaela elektrokoagulatsioon või laserteraapia,Destruction of lesion of cervix,4150671,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDC00,2020003362,NCSP codes,ncsp,Emakakaela konisatsioon noa abil,Cone biopsy of cervix,4181912,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDC03,2020003363,NCSP codes,ncsp,Emakakaela konisatsioon diatermia või laseri abil,Destruction of lesion of cervix,4150671,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDC10,2020003364,NCSP codes,ncsp,Emakakaela osaline eemaldamine,Cervix excision,4003896,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDC20,2020003365,NCSP codes,ncsp,Emakakaela radikaalne eemaldamine,Radical amputation of cervix uteri,1244506,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDC96,2020003366,NCSP codes,ncsp,Emakakaela muu eemaldamine,Cervix excision,4003896,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDD00,2020003367,NCSP codes,ncsp,Emakakaela suturatsioon,Suture of cervix,4214122,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDD01,2020003368,NCSP codes,ncsp,Emakakaela endoskoopiline õmblus,Suture of cervix,4214122,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDD03,2020003369,NCSP codes,ncsp,Emakakaela õmblus mitterasedal,Non-obstetric encircling suture of cervical os,4074293,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDD10,2020003370,NCSP codes,ncsp,Emakakaela plastiline korrektsioon,Hysterotracheloplasty,4338529,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDD20,2020003371,NCSP codes,ncsp,Emakakaela tugiõmbluse eemaldamine,Removal of cerclage from cervix,40307721,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDW96,2020003372,NCSP codes,ncsp,Muu operatsioon emakakaelal,Operation on cervix,4013051,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LDX12,2020003373,NCSP codes,ncsp,Tupepessaari vahetus,Replacement of suppository in vagina,4135206,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LE003,2020003374,NCSP codes,ncsp,Kolposkoopia koos biopsiaga,Vaginal biopsy,4006849,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LE003,2020003374,NCSP codes,ncsp,Kolposkoopia koos biopsiaga,Colposcopy,4189586,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LE010,2020003375,NCSP codes,ncsp,Täiskasvanu tupest võõrkeha eemaldamine,Removal of foreign body from vagina,4072697,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEA01,2020003376,NCSP codes,ncsp,Kuldoskoopia,Endoscopy of cul-de-sac,4195717,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEA10,2020003377,NCSP codes,ncsp,Kolpotoomia,Incision of vagina,4238824,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEB00,2020003378,NCSP codes,ncsp,Tupe biopsia,Vaginal biopsy,4006849,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEB10,2020003379,NCSP codes,ncsp,Tupe lesiooni ekstsisioon,Excision of lesion of vagina,4221619,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEB11,2020003380,NCSP codes,ncsp,Laparoskoopioline tupe lesiooni eemaldamine,Excision of lesion of vagina,4221619,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEB20,2020003381,NCSP codes,ncsp,Tupe tsüsti marsupialisatsioon,Marsupialization of lesion of vagina,4074018,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEB30,2020003382,NCSP codes,ncsp,Tupe limaskesta lesiooni destruktsioon,Destruction of lesion of vagina,4024115,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEC00,2020003383,NCSP codes,ncsp,Tupe osaline eemaldamine,Partial excision of vagina,4102528,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEC10,2020003384,NCSP codes,ncsp,Tupe vaheseina eemaldamine,Excision of vaginal septum,4216191,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LED00,2020003385,NCSP codes,ncsp,Kolpektoomia,Vaginectomy,4280658,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LED01,2020003386,NCSP codes,ncsp,Emakakaela laparoskoopiline eemaldamine,Vaginectomy,4280658,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE00,2020003387,NCSP codes,ncsp,Tupe õmblus,Suture of vagina,4146391,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE10,2020003388,NCSP codes,ncsp,Tupe korrektsioon transplantaadi või koelapi abil,Repair of vagina,4280601,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE20,2020003389,NCSP codes,ncsp,Urovaginaalse fistuli sulgemine transplantaadi või koelapi abil,Repair of vaginal fistula,4094075,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE21,2020003390,NCSP codes,ncsp,Urovaginaalse fistuli perkutaanne sulgemine,Repair of vaginal fistula,4094075,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE30,2020003391,NCSP codes,ncsp,Intestinovaginaalse fistuli sulgemine transplantaadi või koelapi abil,Repair of intestinovaginal fistula,4096257,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE40,2020003392,NCSP codes,ncsp,Tupe konstruktsioon,Construction of vagina,37156474,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEE96,2020003393,NCSP codes,ncsp,Tupe muu korrektsioon,Repair of vagina,4280601,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF00,2020003394,NCSP codes,ncsp,Eesmine kolporaafia,Anterior colporrhaphy,4218385,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF01,2020003395,NCSP codes,ncsp,Eesmine kolpraafia võrguga,Anterior colporrhaphy,4218385,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF03,2020003396,NCSP codes,ncsp,Tagumine kolporaafia,Posterior repair of vagina,4287790,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF05,2020003397,NCSP codes,ncsp,Eesmine kolporaafia võrguta tsüstotseele retsidiivi korral,Anterior colporrhaphy,4218385,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF06,2020003398,NCSP codes,ncsp,Eesmine kolporaafia võrguga tsütotseele retsidiivi korral,Anterior vaginal repair using mesh,4150989,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF10,2020003399,NCSP codes,ncsp,Kolpoperineoplastika,Colpoperineorrhaphy,4127086,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF13,2020003400,NCSP codes,ncsp,Kolpoperineoplastika ja vaginaalne hüsterektoomia,Vaginal hysterectomy,4138738,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF13,2020003400,NCSP codes,ncsp,Kolpoperineoplastika ja vaginaalne hüsterektoomia,Colpoperineorrhaphy,4127086,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF20,2020003401,NCSP codes,ncsp,Osaline kolpokleiis,Partial obliteration of vagina,4217814,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF23,2020003402,NCSP codes,ncsp,Täielik kolpokleiis,Complete colpocleisis,4142398,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF30,2020003403,NCSP codes,ncsp,Emaka interpositsioon tupe ja põie vahele,Repair of uterus,4010270,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF40,2020003404,NCSP codes,ncsp,Vaginaalne enterotseele korrektsioon,Repair of enterocele by vaginal approach,4219236,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF41,2020003405,NCSP codes,ncsp,Laparoskoopiline enterotseele korrektsioon,Repair of vaginal enterocele,4114634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF43,2020003406,NCSP codes,ncsp,Enterotseele abdominaalne korrektsioon,Repair of vaginal enterocele by abdominal approach,4304920,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF50,2020003407,NCSP codes,ncsp,Kolpopeksia eelnenud hüsterektoomia järgselt,Hysterectomy,4127886,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF50,2020003407,NCSP codes,ncsp,Kolpopeksia eelnenud hüsterektoomia järgselt,Fixation of vagina,4078309,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF50,2020003407,NCSP codes,ncsp,Kolpopeksia eelnenud hüsterektoomia järgselt,History of event,1340204,OMOP Extension,Observation,Context-dependent,,,2026-09-18,2099-12-31,,false
+LEF51,2020003408,NCSP codes,ncsp,Laparoskoopiline kolpopeksia eelnenud hüsterektoomia järgselt,Hysterectomy,4127886,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF51,2020003408,NCSP codes,ncsp,Laparoskoopiline kolpopeksia eelnenud hüsterektoomia järgselt,Fixation of vagina,4078309,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF51,2020003408,NCSP codes,ncsp,Laparoskoopiline kolpopeksia eelnenud hüsterektoomia järgselt,History of event,1340204,OMOP Extension,Observation,Context-dependent,,,2026-09-18,2099-12-31,,false
+LEF53,2020003409,NCSP codes,ncsp,Vaginaalne kolpopeksia eelnenud hüsterektoomia järgselt,Fixation of vagina,4078309,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF53,2020003409,NCSP codes,ncsp,Vaginaalne kolpopeksia eelnenud hüsterektoomia järgselt,Hysterectomy,4127886,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF53,2020003409,NCSP codes,ncsp,Vaginaalne kolpopeksia eelnenud hüsterektoomia järgselt,History of event,1340204,OMOP Extension,Observation,Context-dependent,,,2026-09-18,2099-12-31,,false
+LEF60,2020003410,NCSP codes,ncsp,Lateraalne kolpopeksia,Fixation of vagina,4078309,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF63,2020003411,NCSP codes,ncsp,Vaginaalne hüsteropeksia õmbluste asetamisega,Uteropexy,4263634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF96,2020003412,NCSP codes,ncsp,Muu operatsioon emaka või tupevõlvi prolapsi korral,Surgical repair of prolapsed uterus,4262568,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF96,2020003412,NCSP codes,ncsp,Muu operatsioon emaka või tupevõlvi prolapsi korral,Repair of vaginal enterocele,4114634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF97,2020003413,NCSP codes,ncsp,Muu laparoskoopiline operatsioon emaka või tupevõlvi prolapsi korral,Surgical repair of prolapsed uterus,4262568,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEF97,2020003413,NCSP codes,ncsp,Muu laparoskoopiline operatsioon emaka või tupevõlvi prolapsi korral,Repair of vaginal enterocele,4114634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG00,2020003414,NCSP codes,ncsp,Vaginaalne ureterotsüstoraafia,Female urinary stress incontinence,195007,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+LEG00,2020003414,NCSP codes,ncsp,Vaginaalne ureterotsüstoraafia,Vaginal buttress operation,4143510,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG10,2020003415,NCSP codes,ncsp,Vaginaalne ureterotsüstopeksia,Female urinary stress incontinence,195007,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+LEG10,2020003415,NCSP codes,ncsp,Vaginaalne ureterotsüstopeksia,Introduction of tension free vaginal tape,4200280,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG12,2020003416,NCSP codes,ncsp,Transobturatoorse lingu asetamine (TOT),Introduction of female transobturator tape,44793142,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG12,2020003416,NCSP codes,ncsp,Transobturatoorse lingu asetamine (TOT),Female urinary stress incontinence,195007,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+LEG13,2020003417,NCSP codes,ncsp,Vaginaalne transobturatoorne ureteropeksia,Female urinary stress incontinence,195007,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+LEG13,2020003417,NCSP codes,ncsp,Vaginaalne transobturatoorne ureteropeksia,Urethropexy,4218889,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG20,2020003418,NCSP codes,ncsp,Vaagnapõhja plastiline korrektsioon naistel koos tõstjalihase läbimisega,Female urinary stress incontinence,195007,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+LEG20,2020003418,NCSP codes,ncsp,Vaagnapõhja plastiline korrektsioon naistel koos tõstjalihase läbimisega,PFR - Pelvic floor repair,4126114,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG70,2020003419,NCSP codes,ncsp,Tsüstopeksia lingu läbilõikamine,Release of suprapubic sling,4151774,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG80,2020003420,NCSP codes,ncsp,Hüsteropeksia võrgu korrektsioon,Uteropexy,4263634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEG96,2020003421,NCSP codes,ncsp,Muu vaginaalne operatsioon inkontinentsi puhul,Repair of urinary stress incontinence,4242750,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEW96,2020003422,NCSP codes,ncsp,Muu operatsioon tupel,Operation on vagina,4195603,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LEW97,2020003423,NCSP codes,ncsp,Muu endoskoopiline operatsioon tupel,Operation on vagina,4195603,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFA00,2020003424,NCSP codes,ncsp,Välissuguelundite ja perineumi intsisioon,Operation on female perineum,4262807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFA10,2020003425,NCSP codes,ncsp,Mitteperforeerunud hüümeni või hüümeni jäänuse intsisioon,Incision of hymen,4174652,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFA20,2020003426,NCSP codes,ncsp,Välisgenitaalide korrektsioon peale rituaalset ümberlõikamist,Repair of vulva,4266978,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFA20,2020003426,NCSP codes,ncsp,Välisgenitaalide korrektsioon peale rituaalset ümberlõikamist,Ritual circumcision,4072061,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFB00,2020003427,NCSP codes,ncsp,Välissuguelundite ja perineumi biopsia,Biopsy from female perineum,4074013,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFB10,2020003428,NCSP codes,ncsp,Välissuguelundite ja perineumi lesiooni ekstsisioon,Excision of lesion of female perineum,4268043,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFB10,2020003428,NCSP codes,ncsp,Välissuguelundite ja perineumi lesiooni ekstsisioon,Excision of vulval lesion,4127079,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFB20,2020003429,NCSP codes,ncsp,Välissuguelundite ja perineumi lesiooni likvideerimine,Destruction of lesion of perineum,1073191,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFB31,2020003430,NCSP codes,ncsp,Suguelundite kahjustuse termokoagulatsioon,Excision of lesion of female perineum,4268043,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFC00,2020003431,NCSP codes,ncsp,Välissuguelundite osaline eemaldamine,Partial vulvectomy,4074152,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFC96,2020003432,NCSP codes,ncsp,Välissuguelundite või perineumi muu osaline eemaldamine,Excision of female perineum,1244464,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFD00,2020003433,NCSP codes,ncsp,Vulvektoomia,Total vulvectomy,4074151,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFD10,2020003434,NCSP codes,ncsp,Vulvektoomia ja regionaalsete lümfisõlmede eemaldamine,Vulvectomy and block dissection of inguinal lymph nodes,4142397,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFE00,2020003435,NCSP codes,ncsp,Välissuguelundite õmblus,Suture of labia,4204786,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFE10,2020003436,NCSP codes,ncsp,Välissuguelundite plastiline korrektsioon,Repair of vulva,4266978,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFE20,2020003437,NCSP codes,ncsp,Perineumi õmblus,Suture of female perineum,4097988,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFE96,2020003438,NCSP codes,ncsp,Välissuguelundite ja perineumi muu korrektsioon,Repair of female perineum,4131813,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFF00,2020003439,NCSP codes,ncsp,Bartholini näärme marsupialisatsioon,Marsupialization of Bartholin's gland,4072435,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFF10,2020003440,NCSP codes,ncsp,Bartholini näärme ekstsisioon,Excision of Bartholin's gland,4074000,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFF96,2020003441,NCSP codes,ncsp,Muu operatsioon Bartholini näärmel,Operation on Bartholin's gland,4329453,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFW96,2020003442,NCSP codes,ncsp,Muu operatsioon välissuguelunditel või perineumil,Operation on vulva,4069914,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LFW96,2020003442,NCSP codes,ncsp,Muu operatsioon välissuguelunditel või perineumil,Operation on female perineum,4262807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA00,2020003443,NCSP codes,ncsp,Steriliseerimine munajuhade ligeerimisega,Ligation of fallopian tube,4298948,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA10,2020003444,NCSP codes,ncsp,Steriliseerimine munajuhade eemaldamise või läbimisega,Destruction of bilateral fallopian tubes,4199616,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA11,2020003445,NCSP codes,ncsp,Laparoskoopiline steriliseerimine munajuhade eemaldamise või läbimisega,Endoscopic ligation and division of bilateral fallopian tubes,4270077,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA11,2020003445,NCSP codes,ncsp,Laparoskoopiline steriliseerimine munajuhade eemaldamise või läbimisega,Endoscopic destruction of bilateral fallopian tubes,4203609,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA20,2020003446,NCSP codes,ncsp,Steriliseerimine munajuhade konstriktsiooni teel,Ligation of fallopian tube,4298948,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA21,2020003447,NCSP codes,ncsp,Laparoskoopiline steriliseerimine munajuhade konstriktsiooni teel,Tubal occlusion,4098910,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA22,2020003448,NCSP codes,ncsp,Hüsteroskoopiline steriliseerimine,Endoscopic occlusion of bilateral fallopian tubes,4070938,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA96,2020003449,NCSP codes,ncsp,Naise muu steriliseerimine,Female sterilization,4246185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA97,2020003450,NCSP codes,ncsp,Muu laparoskoopiline naise steriliseerimine,Laparoscopic sterilization,4036943,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LGA98,2020003451,NCSP codes,ncsp,Muu transluminaalne endoskoopiline steriliseerimine,Female sterilization,4246185,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWA00,2020003452,NCSP codes,ncsp,Haava dehistsentsi korrektsioon günekoloogilises kirurgias,Resuture of wound dehiscence,4105908,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWA00,2020003452,NCSP codes,ncsp,Haava dehistsentsi korrektsioon günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWA00,2020003452,NCSP codes,ncsp,Haava dehistsentsi korrektsioon günekoloogilises kirurgias,Dehiscence of surgical wound,136580,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWB00,2020003453,NCSP codes,ncsp,Kordusoperatsioon pindmise infektsiooni korral günekoloogilises kirurgias,Excisional debridement of wound for infection,43021498,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWB00,2020003453,NCSP codes,ncsp,Kordusoperatsioon pindmise infektsiooni korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWB00,2020003453,NCSP codes,ncsp,Kordusoperatsioon pindmise infektsiooni korral günekoloogilises kirurgias,Postoperative wound infection-superficial,4308837,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWC00,2020003454,NCSP codes,ncsp,Kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWC00,2020003454,NCSP codes,ncsp,Kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias,Postoperative wound infection-deep,4308542,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWC01,2020003455,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWC01,2020003455,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral günekoloogilises kirurgias,Surgical site infection,4334801,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWD00,2020003456,NCSP codes,ncsp,Kordusoperatsioon pindmise verejooksu korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWD00,2020003456,NCSP codes,ncsp,Kordusoperatsioon pindmise verejooksu korral günekoloogilises kirurgias,Genitourinary tract hemorrhage,4169954,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWE00,2020003457,NCSP codes,ncsp,Kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWE00,2020003457,NCSP codes,ncsp,Kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,Genitourinary tract hemorrhage,4169954,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWE01,2020003458,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,Genitourinary tract hemorrhage,4169954,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWE01,2020003458,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWE02,2020003459,NCSP codes,ncsp,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWE02,2020003459,NCSP codes,ncsp,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral günekoloogilises kirurgias,Genitourinary tract hemorrhage,4169954,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+LWF00,2020003460,NCSP codes,ncsp,Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWF01,2020003461,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWK03,2020003462,NCSP codes,ncsp,Tsüstopeksia lingu läbilõikamine,Release of suprapubic sling,4151774,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWL03,2020003463,NCSP codes,ncsp,Hüsteropeksia võrgu korrektsioon,Uteropexy,4263634,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWW00,2020003464,NCSP codes,ncsp,Korduv emakaõõne abrasioon indutseeritud abordi järel,Aspiration curettage of uterus after abortion,4214018,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWW96,2020003465,NCSP codes,ncsp,Muu kordusoperatsioon günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWW97,2020003466,NCSP codes,ncsp,Muu perkutaanne endoskoopiline kordusoperatsioon günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LWW98,2020003467,NCSP codes,ncsp,Muu transluminaalne endoskoopiline kordusoperatsioon günekoloogilises kirurgias,Operation on female genital organs,4129747,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+LX1LT,2020003468,NCSP codes,ncsp,Suguelundite kahjustuse termokoagulatsioon,Excision of lesion of female perineum,4268043,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MA0AT,2020003469,NCSP codes,ncsp,Koorioni biopsia ultraheli kontrolli all,Biopsy of fetus,4328553,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MA3AE,2020003470,NCSP codes,ncsp,Varase raseduse (I trimestri) kombineeritud sõeluuring,Chromosome abnormality screening,4064932,SNOMED,Measurement,Procedure,,,2026-09-18,2099-12-31,,false
+MAA00,2020003471,NCSP codes,ncsp,Amniotsentees,Amniocentesis,4146045,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA01,2020003472,NCSP codes,ncsp,Koorioni biopsia ultraheli kontrolli all,Sampling of chorionic villus,4120817,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA03,2020003473,NCSP codes,ncsp,Intraamniaalne infusioon,Intra-amniotic injection,1242275,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA06,2020003474,NCSP codes,ncsp,Amnioreduktsioon,Therapeutic drainage of amniotic fluid,4075040,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA10,2020003475,NCSP codes,ncsp,Koorionihatu biopsia,Sampling of chorionic villus,4120817,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA12,2020003476,NCSP codes,ncsp,Koorionihatu mikrohüsteroskoopiline biopsia,Sampling of chorionic villus,4120817,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA12,2020003476,NCSP codes,ncsp,Koorionihatu mikrohüsteroskoopiline biopsia,Microhysteroscopy,4127240,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA20,2020003477,NCSP codes,ncsp,Emakasisese rasestumisvastase vahendi eemaldamine ultraheli kontrolliga,Removal of intrauterine contraceptive device,37166976,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA22,2020003478,NCSP codes,ncsp,Hüsteroskoopiline emakasisese vahendi eemaldamine raseduse ajal,Pregnancy,4299535,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+MAA22,2020003478,NCSP codes,ncsp,Hüsteroskoopiline emakasisese vahendi eemaldamine raseduse ajal,Hysteroscopy,4052532,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA22,2020003478,NCSP codes,ncsp,Hüsteroskoopiline emakasisese vahendi eemaldamine raseduse ajal,Removal of intrauterine contraceptive device from uterine cavity,37166975,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA30,2020003479,NCSP codes,ncsp,Kordotsentees,Intrauterine cordocentesis,4282460,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA32,2020003480,NCSP codes,ncsp,Loote nabaveresoonte kateteriseerimine,Umbilical vessel catheterization,4164522,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA34,2020003481,NCSP codes,ncsp,Infusioon loote nabaveresoonde või kõhuõõnde,,0,None,,,,,2026-09-18,2099-12-31,,false
+MAA40,2020003482,NCSP codes,ncsp,Loote punktsioon,Percutaneous fetal procedure,4073427,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA41,2020003483,NCSP codes,ncsp,Loote üsasisese vereanalüüsi võtmine,Transvaginal fetal blood sampling,4086911,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA43,2020003484,NCSP codes,ncsp,Loote biopsia,Biopsy of fetus,4328553,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA51,2020003485,NCSP codes,ncsp,Embrüoskoopia,,0,None,,,,,2026-09-18,2099-12-31,,false
+MAA52,2020003486,NCSP codes,ncsp,Embrüo külmutamine,Cryopreservation,4338536,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA54,2020003487,NCSP codes,ncsp,Fetoskoopia,Fetoscopy,4012096,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA82,2020003488,NCSP codes,ncsp,Platsenta anastomooside laserkoagulatsioon,Laser ablation of anastomosing vessels in placenta,4127899,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA96,2020003489,NCSP codes,ncsp,Muu rasedusaegne operatsioon emakal või lootel,Intrauterine pregnancy,197031,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+MAA96,2020003489,NCSP codes,ncsp,Muu rasedusaegne operatsioon emakal või lootel,Fetal procedure,4299735,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA98,2020003490,NCSP codes,ncsp,Muu hüsteroskoopiline protseduur emakal raseduse ajal  või lootel,Hysteroscopy,4052532,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAA98,2020003490,NCSP codes,ncsp,Muu hüsteroskoopiline protseduur emakal raseduse ajal  või lootel,Intrauterine pregnancy,197031,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+MAA98,2020003490,NCSP codes,ncsp,Muu hüsteroskoopiline protseduur emakal raseduse ajal  või lootel,Fetal procedure,4299735,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAB00,2020003491,NCSP codes,ncsp,Emakakaelale õmbluse asetamine raseduse ajal,Cerclage of uterine cervix,4142512,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAB03,2020003492,NCSP codes,ncsp,Emakakaela õmbluse eemaldamine enne sünnitust,Removal of cerclage from cervix,40307721,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAB04,2020003493,NCSP codes,ncsp,Emaka kokkutõmmete pärssimine enneaegsel sünnitusel,Premature uterine contraction,4127203,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+MAB04,2020003493,NCSP codes,ncsp,Emaka kokkutõmmete pärssimine enneaegsel sünnitusel,Tocolysis,4013573,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAB10,2020003494,NCSP codes,ncsp,Loote väline pööre,External cephalic version,4344624,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAB20,2020003495,NCSP codes,ncsp,Ebaõnnestunud loote väline pööre,Failed attempted external cephalic version,37465080,SNOMED,Observation,Context-dependent,,,2026-09-18,2099-12-31,,false
+MAC00,2020003496,NCSP codes,ncsp,Looteveepõie avamine,Artificial rupture of membranes,4254204,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC02,2020003497,NCSP codes,ncsp,Looteveepõie avamine sünnituse ajal,Induction of labor by artificial rupture of membranes,4248955,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC03,2020003498,NCSP codes,ncsp,Sünnitustegevuse esilekutsumine vibraatoriga,Induction of labor,4032756,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC04,2020003499,NCSP codes,ncsp,Vettesünnituse abistamine,Water birth delivery,4071632,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC10,2020003500,NCSP codes,ncsp,Emakakaelakanali sünnituseelne laiendamine,Dilatation of cervix for delivery,4202559,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC20,2020003501,NCSP codes,ncsp,Vaakum traktsioon,Delivery by vacuum extraction,4189205,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC23,2020003502,NCSP codes,ncsp,Traktsioon tangidega,Forceps delivery,4114637,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC31,2020003503,NCSP codes,ncsp,Sünnitustegevuse esilekutsumine prostaglandiinidega,Prostaglandin induction of labor,4075179,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC32,2020003504,NCSP codes,ncsp,Sünnitustegevuse esilekutsumine või stimuleerimine oksütotsiiniga,Medical induction of labor,4150970,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC32,2020003504,NCSP codes,ncsp,Sünnitustegevuse esilekutsumine või stimuleerimine oksütotsiiniga,oxytocin,1326115,RxNorm,Drug,Ingredient,,,2026-09-18,2099-12-31,,false
+MAC90,2020003505,NCSP codes,ncsp,Ettevalmistus sünnituseks,Prenatal care education,4070453,SNOMED,Observation,Procedure,,,2026-09-18,2099-12-31,,false
+MAC91,2020003506,NCSP codes,ncsp,Amnioniväline infusioon sünnituse esilekutsumiseks,Medical induction of labor,4150970,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAC96,2020003507,NCSP codes,ncsp,Sünnituse instrumentaalne esilekutsumine või edendamine,Induction of labor,4032756,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAD00,2020003508,NCSP codes,ncsp,Emakakaela intsisioon sünnituse abistamiseks,Obstetrical trachelotomy,4299605,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAD20,2020003509,NCSP codes,ncsp,Pubiotoomia sünnituse abistamiseks,Pubiotomy to assist delivery,4300392,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAD96,2020003510,NCSP codes,ncsp,Sünnitusteede muu laiendamine sünnituse abistamiseks,Operation to facilitate delivery,4128032,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAE00,2020003511,NCSP codes,ncsp,Vaakumsünnitus,Outlet vacuum delivery,42535816,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAE03,2020003512,NCSP codes,ncsp,Õõne- või kõrge vaakumsünnitus,Delivery by vacuum extraction,4189205,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAE20,2020003513,NCSP codes,ncsp,Ebaõnnestunud vaakumsünnitus,Trial of vacuum delivery,4073424,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAE96,2020003514,NCSP codes,ncsp,Muu vaakumsünnitus,Delivery by vacuum extraction,4189205,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAF00,2020003515,NCSP codes,ncsp,Madaltangsünnitus e. väljapääsutangid loote peaseisu korral,Outlet forceps delivery,4127249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAF10,2020003516,NCSP codes,ncsp,Õõnetangsünnitus e. keskmised tangid loote peaseisu korral,Mid forceps delivery,4266683,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAF20,2020003517,NCSP codes,ncsp,Ebaõnnestunud tangsünnitus loote peaseisu korral,Forceps delivery failed,4109462,SNOMED,Observation,Context-dependent,,,2026-09-18,2099-12-31,,false
+MAF96,2020003518,NCSP codes,ncsp,Muu sünnitus peaseisust tangide abil,Forceps cephalic delivery,4075187,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG00,2020003519,NCSP codes,ncsp,Abistatud tuharseis-sünnitus,Assisted breech delivery,4075168,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG03,2020003520,NCSP codes,ncsp,"Tuharseis-sünnitus, järeltuleva pea väljutamine tangidega",Total breech delivery with forceps to aftercoming head,4204679,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG10,2020003521,NCSP codes,ncsp,Tuharseis-sünnitus loote ekstraktsiooniga,Breech extraction,4213387,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG13,2020003522,NCSP codes,ncsp,"Tuharseis-sünnitus loote ekstraktsiooniga, järeltuleva pea väljutamine tangidega",Breech extraction,4213387,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG13,2020003522,NCSP codes,ncsp,"Tuharseis-sünnitus loote ekstraktsiooniga, järeltuleva pea väljutamine tangidega",Total breech delivery with forceps to aftercoming head,4204679,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG20,2020003523,NCSP codes,ncsp,Sisemine loote pööre või pööre ekstraktsiooniga,Internal cephalic version and extraction,4125787,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAG96,2020003524,NCSP codes,ncsp,Muu tuharseis-sünnitus,Complete breech delivery,4034145,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAH10,2020003525,NCSP codes,ncsp,Väljalangenud nabaväädi reponeerimine,Replacement of prolapsed umbilical cord,4288630,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAH20,2020003526,NCSP codes,ncsp,Peaseisu valeasendi korrektsioon,Obstetrical version,4275751,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAH22,2020003527,NCSP codes,ncsp,Loote väline pööramine peaseisu,External cephalic version,4344624,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAH30,2020003528,NCSP codes,ncsp,Loodet purustav operatsioon sünnitusel,Destruction of fetus,1242700,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAH41,2020003529,NCSP codes,ncsp,Välise surve rakendamine kõhule sünnituse abistamisel,Induction and delivery procedures,4075159,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAJ00,2020003530,NCSP codes,ncsp,Mitmikraseduse vähendamine ühe loote võrra,Multifetal pregnancy reduction,4344627,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAJ10,2020003531,NCSP codes,ncsp,Mitmikraseduse vähendamine enam kui ühe loote võrra,Multifetal pregnancy reduction,4344627,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAW96,2020003532,NCSP codes,ncsp,Muu operatsioon raseduse ajal ja sünnitusel,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAW97,2020003533,NCSP codes,ncsp,Muu laparoskoopiline operatsioon raseduse ajal,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MAW98,2020003534,NCSP codes,ncsp,Muu transluminaalne endoskoopiline protseduur raseduse ajal,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA00,2020003535,NCSP codes,ncsp,Emakaõõne vaakumaspiratsioon pärast sünnitust või aborti,Suction evacuation of retained products of conception,4150538,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA03,2020003536,NCSP codes,ncsp,Emakaõõne abrasioon pärast sünnitust või aborti,Dilation and curettage of uterus,4015660,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA10,2020003537,NCSP codes,ncsp,Emakaõõne sünnitusjärgne manuaalne revisioon,Manual postpartum exploration of uterus,4170533,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA20,2020003538,NCSP codes,ncsp,Platsenta väljutamine välise võttega,Crede placental expression,4142513,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA30,2020003539,NCSP codes,ncsp,Platsenta manuaalne eemaldamine pärast sünnitust,Manual removal of placenta from delivered uterus,4069969,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA32,2020003540,NCSP codes,ncsp,Lootekestade manuaalne eemaldamine,Manual removal of products of conception from delivered uterus,4069968,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA40,2020003541,NCSP codes,ncsp,Abordijärgse retensiooni evakuatsioon ravimitega,Evacuation of retained product of conception,4032621,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBA96,2020003542,NCSP codes,ncsp,Platsenta ja looteosade muu eemaldamine pärast sünnitust või aborti,Evacuation of retained product of conception,4032621,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBB00,2020003543,NCSP codes,ncsp,Emaka reponeerimine inversiooni korral,Manual replacement of inverted uterus,4128038,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBB10,2020003544,NCSP codes,ncsp,Emaka sünnitusjärgne tamponeerimine,Uterine balloon tamponade for postpartum hemorrhage,37156605,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBB96,2020003545,NCSP codes,ncsp,Muu manuaalne protseduur emakal pärast sünnitust,Manual postpartum exploration of uterus,4170533,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC00,2020003546,NCSP codes,ncsp,Emakakaela sünnitusrebendite korrektsioon,Repair of obstetric laceration of cervix,4135477,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC10,2020003547,NCSP codes,ncsp,Tupe sünnitusrebendite korrektsioon,Suture of obstetric laceration of vagina,4012330,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC20,2020003548,NCSP codes,ncsp,Välissuguelundite sünnitusrebendite korrektsioon,Repair of obstetric laceration of vulva,4012329,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC30,2020003549,NCSP codes,ncsp,Perineumi osalise rebendi korrektsioon,Repair of obstetrical laceration of perineum,4206479,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC33,2020003550,NCSP codes,ncsp,Perineumi täieliku rebendi korrektsioon,Repair of complete perineal tear,4128040,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC40,2020003551,NCSP codes,ncsp,Paravaginaalse või välissuguelundite hematoomi korrektsioon pärast sünnitust või aborti,Evacuation of hematoma of vagina,4213291,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC80,2020003552,NCSP codes,ncsp,Sünnitusjärgse emakaverejooksu intravaskulaarne embolisatsioon,Embolization of uterine artery,4193984,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC80,2020003552,NCSP codes,ncsp,Sünnitusjärgse emakaverejooksu intravaskulaarne embolisatsioon,Postpartum hemorrhage,443929,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MBC90,2020003553,NCSP codes,ncsp,Sünnitusjärgse verejooksu peatamine,Surgical control of postpartum hemorrhage,4127264,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBC90,2020003553,NCSP codes,ncsp,Sünnitusjärgse verejooksu peatamine,Postpartum hemorrhage,443929,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MBC96,2020003554,NCSP codes,ncsp,Sünnitusrebendite muu korrektsioon,Repair of obstetric laceration,4163766,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBS00,2020003555,NCSP codes,ncsp,Vereproovi võtmine nabaveenist pärast sünnitust,Collection of blood from umbilical cord immediately after delivery,37164416,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MBW96,2020003556,NCSP codes,ncsp,Muu operatsioon pärast sünnitust või aborti,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCA00,2020003557,NCSP codes,ncsp,Keisrilõige emakakehal,Classical cesarean section,4223536,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCA10,2020003558,NCSP codes,ncsp,Keisrilõige emaka alumises segmendis,Lower uterine segment cesarean section,37312440,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCA20,2020003559,NCSP codes,ncsp,Vaginaalne keisrilõige,Vaginal cesarean section,4228344,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCA30,2020003560,NCSP codes,ncsp,Supravaginaalne hüsterektoomia keisrilõikel,Cesarean hysterectomy,4165077,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCA33,2020003561,NCSP codes,ncsp,Hüsterektoomia keisrilõikel,Cesarean hysterectomy,4165077,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCA96,2020003562,NCSP codes,ncsp,Muu keisrilõige,Cesarean section,4015701,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCB00,2020003563,NCSP codes,ncsp,Laparotoomia ja sünnitus emakavälise loote korral,Laparotomy,4314251,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCB00,2020003563,NCSP codes,ncsp,Laparotoomia ja sünnitus emakavälise loote korral,Removal of extrauterine ectopic fetus,4300391,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCC00,2020003564,NCSP codes,ncsp,Emakaruptuuri sünnitusjärgne korrektsioon,Rupture of uterus after labor,619863,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MCC00,2020003564,NCSP codes,ncsp,Emakaruptuuri sünnitusjärgne korrektsioon,Repair of uterus,4010270,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCW00,2020003565,NCSP codes,ncsp,Sünnitusjärgne hüsterektoomia,Obstetrical hysterotomy,4223389,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCW96,2020003566,NCSP codes,ncsp,Muu laparotoomia sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MCW96,2020003566,NCSP codes,ncsp,Muu laparotoomia sünnitusabis,Laparotomy,4314251,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWA00,2020003567,NCSP codes,ncsp,Haava dehistsentsi korrektsioon sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWA00,2020003567,NCSP codes,ncsp,Haava dehistsentsi korrektsioon sünnitusabis,Resuture of wound dehiscence,4105908,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWB00,2020003568,NCSP codes,ncsp,Kordusoperatsioon pindmise infektsiooni korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWB00,2020003568,NCSP codes,ncsp,Kordusoperatsioon pindmise infektsiooni korral sünnitusabis,Infection of superficial obstetric surgical wound,37208108,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWC00,2020003569,NCSP codes,ncsp,Kordusoperatsioon süvainfektsiooni korral sünnitusabis,Infection of deep obstetric surgical wound,37208110,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWC00,2020003569,NCSP codes,ncsp,Kordusoperatsioon süvainfektsiooni korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWC01,2020003570,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWC01,2020003570,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon süvainfektsiooni korral sünnitusabis,Infection of deep obstetric surgical wound,37208110,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWD00,2020003571,NCSP codes,ncsp,Kordusoperatsioon pindmise verejooksu korral sünnitusabis,Postpartum hemorrhage,443929,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWD00,2020003571,NCSP codes,ncsp,Kordusoperatsioon pindmise verejooksu korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWE00,2020003572,NCSP codes,ncsp,Kordusoperatsioon sisemise verejooksu korral sünnitusabis,Postpartum hemorrhage,443929,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWE00,2020003572,NCSP codes,ncsp,Kordusoperatsioon sisemise verejooksu korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWE01,2020003573,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWE01,2020003573,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis,Postpartum hemorrhage,443929,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWE02,2020003574,NCSP codes,ncsp,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWE02,2020003574,NCSP codes,ncsp,Transluminaalne endoskoopiline kordusoperatsioon sisemise verejooksu korral sünnitusabis,Postpartum hemorrhage,443929,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+MWF00,2020003575,NCSP codes,ncsp,Kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWF01,2020003576,NCSP codes,ncsp,Perkutaanne endoskoopiline kordusoperatsioon anastomoosi või õmbluse dehistsentsi korral sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWW00,2020003577,NCSP codes,ncsp,Korduv emakaõõne abrasioon pärast sünnitust või spontaanset aborti,Dilation and curettage of uterus,4015660,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWW96,2020003578,NCSP codes,ncsp,Muu kordusoperatsioon sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWW97,2020003579,NCSP codes,ncsp,Muu perkutaanne endoskoopiline kordusoperatsioon sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MWW98,2020003580,NCSP codes,ncsp,Muu transluminaalne endoskoopiline kordusoperatsioon sünnitusabis,Obstetric operation,4297249,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+MXB00,2020003581,NCSP codes,ncsp,Ettevalmistus sünnituseks,Prenatal care education,4070453,SNOMED,Observation,Procedure,,,2026-09-18,2099-12-31,,false

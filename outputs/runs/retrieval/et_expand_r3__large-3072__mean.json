@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-09-29T16:13:26+00:00",
+  "route": "et_expand_r3",
+  "model": "large",
+  "deployment": "text-embedding-3-large",
+  "dimensions": 3072,
+  "k": 300,
+  "n_codes": 511,
+  "n_query_rows": 3058,
+  "pooling": "mean",
+  "index_run_id": "d4ffd57d860cacd2",
+  "vocabulary_version": "v5.0 29-AUG-26"
+}

@@ -1,0 +1,390 @@
+source_code,source_concept_id,source_vocabulary_id,est_source_code_type,source_code_description,est_target_concept_name,target_concept_id,target_vocabulary_id,est_target_domain,est_target_concept_class_id,est_extension,est_related_diagnosis,valid_start_date,valid_end_date,invalid_reason,est_maps_to_value
+TA100,2020007309,NCSP codes,ncsp,Transkutaanne elektriline närvistimulatsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAA00,2020007310,NCSP codes,ncsp,Terapeutilise aine süstimine koljusse,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAA10,2020007311,NCSP codes,ncsp,Valuravimi testimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAA11,2020007312,NCSP codes,ncsp,Transkutaanne elektriline närvistimulatsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAA12,2020007313,NCSP codes,ncsp,Korduv transkraniaalne magnetstimulatsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAB00,2020007314,NCSP codes,ncsp,Lumbaalpunktsioon,Lumbar puncture,4080549,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TAB10,2020007315,NCSP codes,ncsp,Spinaalpunktsioon kaelapiirkonnas,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAB20,2020007316,NCSP codes,ncsp,Epiduraalne punktsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAB21,2020007317,NCSP codes,ncsp,Epiduraalkateetri paigaldamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAB22,2020007318,NCSP codes,ncsp,Epiduraalne vereplomm liikvorilekke sulgemiseks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAB24,2020007319,NCSP codes,ncsp,Epiduraalse süstesüsteemi paigaldamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAC00,2020007320,NCSP codes,ncsp,Perifeerne närviblokaad,Peripheral block anesthesia,4228073,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TAC20,2020007321,NCSP codes,ncsp,Intrakutaanne närvistimulatsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAD00,2020007322,NCSP codes,ncsp,Sümpaatikuse blokaad,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAD10,2020007323,NCSP codes,ncsp,Botulismitoksiini süstimine EMG kontrolli all,,0,None,,,,,2026-09-18,2099-12-31,,false
+TAW99,2020007324,NCSP codes,ncsp,Muu väike neurokirurgiline protseduur,,0,None,,,,,2026-09-18,2099-12-31,,false
+TBA00,2020007325,NCSP codes,ncsp,Kilpnäärme punktsioon,Paracentesis of endocrine organ,4178833,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TBA10,2020007326,NCSP codes,ncsp,Kilpnäärme nõelbiopsia,Biopsy of thyroid,4085189,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TBA20,2020007327,NCSP codes,ncsp,Kilpnäärme aspiratsiooni tsütoloogia,Laceration of thyroid gland,4120332,SNOMED,Condition,Disorder,,,2026-09-18,2099-12-31,,false
+TBB00,2020007328,NCSP codes,ncsp,Kõrvalkilpnäärme punktsioon,Paracentesis of endocrine organ,4178833,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TBB10,2020007329,NCSP codes,ncsp,Kõrvalkilpnäärme nõelbiopsia,Biopsy of parathyroid gland,4337807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TBC00,2020007330,NCSP codes,ncsp,Neerupealise nõelbiopsia,Biopsy of adrenal gland,4164502,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TBC10,2020007331,NCSP codes,ncsp,Neerupealise aspiratsiooni tsütoloogia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TBW99,2020007332,NCSP codes,ncsp,Muu väike protseduur endokriinkirurgias,Procedure on endocrine system,4043020,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCA00,2020007333,NCSP codes,ncsp,Orbita nõelbiopsia,Biopsy of orbital lesion,4068309,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCA10,2020007334,NCSP codes,ncsp,Orbita aspiratsiooni tsütoloogia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCA15,2020007335,NCSP codes,ncsp,Retrobulbaarne terapeutiline injektsioon orbitasse,Injection of orbit,4311417,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCA20,2020007336,NCSP codes,ncsp,Peribulbaarne terapeutiline injektsioon orbitasse,Injection of orbit,4311417,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCB00,2020007337,NCSP codes,ncsp,Silmalau nõelbiopsia,Biopsy of eyelid,4055495,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCB10,2020007338,NCSP codes,ncsp,Ripsmete lihtne epilatsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCB20,2020007339,NCSP codes,ncsp,Ravimi süstimine silmalaugu,Eyelid injection,4001554,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCB30,2020007340,NCSP codes,ncsp,Ptoosi õmbluse eemaldamine silmalault,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCB35,2020007341,NCSP codes,ncsp,Ptoosi õmbluse kohandamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCC00,2020007342,NCSP codes,ncsp,Pisaranäärme nõelbiopsia,Biopsy of lacrimal gland,4056052,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCC10,2020007343,NCSP codes,ncsp,Pisarakanali või nasolakrimaaljuha sondeerimine,Lacrimal probing,4170407,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCC30,2020007344,NCSP codes,ncsp,Pisarakanali intubatsioon või nasolakrimaaljuha intubatsioon,Intubation of lacrimal drainage structure,4166711,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCC40,2020007345,NCSP codes,ncsp,Pisarakanali sulgemine korgiga,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCE00,2020007346,NCSP codes,ncsp,Terapeutiline injektsioon silmaliigutajalihasesse,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCF00,2020007347,NCSP codes,ncsp,Subkonjuktivaalne terapeutiline injektsioon,Subconjunctival injection,4252594,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCG00,2020007348,NCSP codes,ncsp,Sarvkesta ja skleera kaitsmine pehmete läätsedega,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCG10,2020007349,NCSP codes,ncsp,Õmbluste eemaldamine sarvkestast,Removal of corneal suture,4065834,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCG20,2020007350,NCSP codes,ncsp,Laseriga õmbluse eemaldamine sarvkestalt või skleeralt,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCH10,2020007351,NCSP codes,ncsp,Eeskambri vedeliku nõelaspiratsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCH12,2020007352,NCSP codes,ncsp,Eeskambrist proovimaterjali võtmine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCH20,2020007353,NCSP codes,ncsp,Vikerkesta nõelbiopsia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCH30,2020007354,NCSP codes,ncsp,Tsiliaarkeha nõelbiopsia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TCK10,2020007355,NCSP codes,ncsp,Pärissoonkesta nõelbiopsia,Biopsy of lesion of choroid,4338749,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCK20,2020007356,NCSP codes,ncsp,Klaaskeha nõelbiopsia,Biopsy of vitreous,4338744,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCK30,2020007357,NCSP codes,ncsp,Võrkkesta nõebiopsia,Biopsy of retinal lesion,4068175,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TCW99,2020007358,NCSP codes,ncsp,Muu väike protseduur silmakirurgias,Procedure on eye region,4160360,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDA00,2020007359,NCSP codes,ncsp,Kõrvalesta või välise kuulmekanali biopsia,Biopsy of external ear,4196934,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDA10,2020007360,NCSP codes,ncsp,Kõrvalesta või välise kuulmekanali nõelbiopsia,Biopsy of external ear,4196934,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDA90,2020007361,NCSP codes,ncsp,Kõrvavaigu eemaldamine,Removal of ear wax,4301559,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDB00,2020007362,NCSP codes,ncsp,Võõrkeha eemaldamine välisest kuulmekanalist,Removal of foreign body from external auditory canal,4321430,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDC00,2020007363,NCSP codes,ncsp,Trummikile nõelbiopsia,Biopsy of external ear,4196934,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDH00,2020007364,NCSP codes,ncsp,Nina nõelbiopsia,Biopsy of nose,4186722,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDH10,2020007365,NCSP codes,ncsp,Võõrkeha eemaldamine ninaõõnest,Removal of foreign body from nose,4067474,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDH20,2020007366,NCSP codes,ncsp,Tsütoloogilise uuringumaterjali võtmine ninast,,0,None,,,,,2026-09-18,2099-12-31,,false
+TDH50,2020007367,NCSP codes,ncsp,Imiku ninavaheseina kõveruse repositsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TDJ00,2020007368,NCSP codes,ncsp,Ninavaheseina nõelbiopsia,Biopsy of lesion of nasal septum,4067254,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDM00,2020007369,NCSP codes,ncsp,Põsekoopa nõelbiopsia,Biopsy of lesion of maxillary antrum,4069480,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDM10,2020007370,NCSP codes,ncsp,Põseluukoopa punktsioon ja loputus,Nasal sinus puncture and irrigation,4119392,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDN00,2020007371,NCSP codes,ncsp,Sõelluu ja sõelluukoopa nõelbiopsia,Biopsy of ethmoid sinus,4048635,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDP00,2020007372,NCSP codes,ncsp,Otsmikukoopa nõelbiopsia,Biopsy of frontal sinus,4048636,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDP05,2020007373,NCSP codes,ncsp,Frontaalsiinuse punktsioon,Aspiration of nasal sinus by puncture,4246731,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDP10,2020007374,NCSP codes,ncsp,Põhiluukoopa nõelbiopsia,Biopsy of sphenoid sinus,4048330,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDQ00,2020007375,NCSP codes,ncsp,Kõri nõelbiopsia,Biopsy of larynx,4335676,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TDW00,2020007376,NCSP codes,ncsp,"Muud väikesed protseduurid kõrva, nina ja kõri kirurgias",,0,None,,,,,2026-09-18,2099-12-31,,false
+TEA00,2020007377,NCSP codes,ncsp,Huule biopsia,Biopsy of lip,4017700,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEA10,2020007378,NCSP codes,ncsp,Huule nõelbiopsia,Biopsy of lip,4017700,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEB00,2020007379,NCSP codes,ncsp,Hambakrooni taastamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEB10,2020007380,NCSP codes,ncsp,Hamba taastamine täidisega,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEB20,2020007381,NCSP codes,ncsp,Hamba taastamine panusega,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEB30,2020007382,NCSP codes,ncsp,Hamba juurekanali teraapia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEB40,2020007383,NCSP codes,ncsp,Alveooli abstsessi dreenimine hamba kaudu,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEC00,2020007384,NCSP codes,ncsp,Igeme nõelbiopsia,Biopsy of lesion of gingiva,4071015,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TED00,2020007385,NCSP codes,ncsp,Lõualuu dislokatsiooni kinnine paigaldamine,Closed reduction of dislocation of temporomandibular joint,4079945,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TED10,2020007386,NCSP codes,ncsp,Alalõualuu nõelbiopsia,Biopsy of lesion of mandible,4072257,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEE00,2020007387,NCSP codes,ncsp,Ülalõualuu nõelbiopsia,Biopsy of lesion of maxilla,4343570,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEG00,2020007388,NCSP codes,ncsp,Alalõualuuliigese nõelbiopsia,Biopsy of joint structure,4038184,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEG10,2020007389,NCSP codes,ncsp,Alalõualuu artrotsentees,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEH00,2020007390,NCSP codes,ncsp,Kõva suulae nõelbiopsia,Biopsy of palate,4110247,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEJ00,2020007391,NCSP codes,ncsp,Keele või suupõhja nõelbiopsia,Biopsy of mouth,4119815,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEL00,2020007392,NCSP codes,ncsp,Süljenäärmete nõelbiopsia,Needle biopsy of salivary gland,40487346,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEL10,2020007393,NCSP codes,ncsp,Süljenäärme nõelbiopsia tsütoloogiliseks uuringuks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEL20,2020007394,NCSP codes,ncsp,Süljejuha laiendamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEL40,2020007395,NCSP codes,ncsp,Süljenäärme sondeerimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TEM00,2020007396,NCSP codes,ncsp,Mandlite või adenoidide nõelbiopsia,Biopsy of lymphatic structure,4233827,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEN00,2020007397,NCSP codes,ncsp,Neelu või külgnevate struktuuride nõelbiopsia,Pharyngeal biopsy,4037876,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEW99,2020007398,NCSP codes,ncsp,"Muu väike protseduur hammaste, lõualuude, suu ja neelu kirurgias",Procedure on mouth,4043178,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TEW99,2020007398,NCSP codes,ncsp,"Muu väike protseduur hammaste, lõualuude, suu ja neelu kirurgias",Procedure on pharynx,4043171,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFC00,2020007399,NCSP codes,ncsp,Parema koja või vatsakese kateteriseerimine,Catheterization of right heart,4223626,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFC10,2020007400,NCSP codes,ncsp,Vasaku koja või vatsakese kateteriseerimine,Catheterization of left heart,4195852,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFC20,2020007401,NCSP codes,ncsp,Südame mõlema poole kateteriseerimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TFC25,2020007402,NCSP codes,ncsp,Vasaku koja või vatsakese transseptaalne kateteriseerimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TFE00,2020007403,NCSP codes,ncsp,Perikardiotsentees,Pericardiocentesis,4149930,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFJ00,2020007404,NCSP codes,ncsp,Südame punktsioon,Cardiocentesis,4244544,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFP00,2020007405,NCSP codes,ncsp,Transvenoosse või epikardiaalse südame tehisrütmuri ajutine kasutamine,Insertion of temporary cardiac pacemaker,4085558,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFP20,2020007406,NCSP codes,ncsp,Kardioversioon,Cardioversion,4353741,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TFW99,2020007407,NCSP codes,ncsp,Muu väike protseduur südamekirurgias,,0,None,,,,,2026-09-18,2099-12-31,,false
+TGA00,2020007408,NCSP codes,ncsp,Rindkereseina nõelbiopsia,Biopsy of chest wall,4077080,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGA10,2020007409,NCSP codes,ncsp,Pleura nõelbiopsia,Biopsy of pleura,4021362,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGA20,2020007410,NCSP codes,ncsp,Diafragma nõelbiopsia,Biopsy of diaphragm,4114781,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGA30,2020007411,NCSP codes,ncsp,Torakotsentees,Thoracentesis,4240305,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGA40,2020007412,NCSP codes,ncsp,Tehis-pneumotooraks kopsu kollapsiks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TGA80,2020007413,NCSP codes,ncsp,Pleuraõõne loputus,,0,None,,,,,2026-09-18,2099-12-31,,false
+TGB00,2020007414,NCSP codes,ncsp,Trahhea nõelbiopsia,Biopsy of trachea,4150831,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGB10,2020007415,NCSP codes,ncsp,Aspiratsioonikanüüli perkutaanne asetamine trahheasse,,0,None,,,,,2026-09-18,2099-12-31,,false
+TGD00,2020007416,NCSP codes,ncsp,Kopsu nõelbiopsia,Needle biopsy of lung,4167262,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGE00,2020007417,NCSP codes,ncsp,Mediastiinumi nõelbiopsia,Biopsy of mediastinum,4000518,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TGW99,2020007418,NCSP codes,ncsp,Muu väike protseduur torakaalkirurgias,Surgical procedure on thorax,4300244,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+THA00,2020007419,NCSP codes,ncsp,Rinnanibu nõelbiopsia,Biopsy of lesion of nipple,4142095,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+THA10,2020007420,NCSP codes,ncsp,Rinnanäärme nõelbiopsia,Biopsy of breast,4047494,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+THW99,2020007421,NCSP codes,ncsp,Muu väike protseduur rinnanäärme kirurgias,Operation on breast,4194253,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJA00,2020007422,NCSP codes,ncsp,Peritoneaalõõne punktsioon,Abdominal paracentesis,4231419,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJA10,2020007423,NCSP codes,ncsp,Laparotsentees,Abdominal paracentesis,4231419,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJA20,2020007424,NCSP codes,ncsp,Perkutaanne peritoneaalõõne loputus,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJA33,2020007425,NCSP codes,ncsp,Peritoneaaldialüüsi kateetri perkutaanne sisseviimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJA35,2020007426,NCSP codes,ncsp,Peritoneaaldialüüsi kateetri eemaldamine,Removal of peritoneal dialysis catheter,4031777,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJA40,2020007427,NCSP codes,ncsp,Peritoneaalõõne perkutaanne lokaalne dreenimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJA50,2020007428,NCSP codes,ncsp,Intraperitoneaalse süstepordi asetamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJA55,2020007429,NCSP codes,ncsp,Intraperitoneaalse süstepordi eemaldamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJC00,2020007430,NCSP codes,ncsp,Balloonsondi asetamine söögitoru veenilaiendite tamponaadiks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJD00,2020007431,NCSP codes,ncsp,Nasogastraal- või nasogastroduodenaalsondi asetamine,Insertion of nasoduodenal tube,4123569,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJD00,2020007431,NCSP codes,ncsp,Nasogastraal- või nasogastroduodenaalsondi asetamine,Insertion of nasogastric tube,4227418,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJD10,2020007432,NCSP codes,ncsp,Muu sondi asetamine makku või duodeenumisse,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJD20,2020007433,NCSP codes,ncsp,Gastrostoomi toru vahetus,Change of gastrostomy tube,4266224,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJF00,2020007434,NCSP codes,ncsp,Jejunaalkateetri sisseviimine,Insertion of tube into jejunum,42873099,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJF10,2020007435,NCSP codes,ncsp,Jejunaalkateetri sisseviimine gastrostoomi kaudu,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJF20,2020007436,NCSP codes,ncsp,Peensoole peroraalne biopsia,Biopsy of small intestine,4000606,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJF30,2020007437,NCSP codes,ncsp,Soole invaginatsiooni likvideerimine kasutades baarium-klistiiri,Reduction of intestinal intussusception with barium enema using fluoroscopic guidance,37466138,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJG00,2020007438,NCSP codes,ncsp,Toppunud roojamasside digitaalne eemaldamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJG10,2020007439,NCSP codes,ncsp,Võõrkeha eemaldamine rektumist,Removal of rectum foreign body,4121234,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJJ00,2020007440,NCSP codes,ncsp,Maksa perkutaanne nõelbiopsia,Percutaneous needle biopsy of liver,4123999,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJJ10,2020007441,NCSP codes,ncsp,Maksa lesiooni perkutaanne likvideerimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJK00,2020007442,NCSP codes,ncsp,Operatsiooniaegne kolangiograafia,Intraoperative fluoroscopic cholangiography with contrast,42535259,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJK01,2020007443,NCSP codes,ncsp,Laparoskoopiline kolangiograafia,Laparoscopic intraoperative fluoroscopic cholangiography with contrast,1447834,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJL00,2020007444,NCSP codes,ncsp,Pankrease perkutaanne nõelbiopsia,Needle biopsy of pancreas,4019134,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJL10,2020007445,NCSP codes,ncsp,Pankrease abstsessi või pseudotsüsti perkutaanne dreenimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TJM00,2020007446,NCSP codes,ncsp,Põrna nõelbiopsia,Needle biopsy of spleen,4173510,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TJW99,2020007447,NCSP codes,ncsp,Muu väike protseduur gastroenteroloogilises kirurgias,,0,None,,,,,2026-09-18,2099-12-31,,false
+TK800,2020007448,NCSP codes,ncsp,Hemodialüüs,Hemodialysis,4120120,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TK810,2020007449,NCSP codes,ncsp,Hemofiltratsioon,Hemofiltration,4050864,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TK820,2020007450,NCSP codes,ncsp,Peritoneaaldialüüs,Peritoneal dialysis,4324124,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TK824,2020007451,NCSP codes,ncsp,Peritoneaaldialüüsi kateteetri vahetus,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKA00,2020007452,NCSP codes,ncsp,Neeru või neeruvaagna nõelbiopsia,Needle biopsy of kidney,4173506,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKA02,2020007453,NCSP codes,ncsp,Nõelbiopsia siirdatud neerust,Needle biopsy of kidney,4173506,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKA05,2020007454,NCSP codes,ncsp,Neeru aspiratsiooni tsütoloogia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKA10,2020007455,NCSP codes,ncsp,Neeru või neeruvaagna perkutaanne punktsioon,Percutaneous puncture of kidney,4280600,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKA20,2020007456,NCSP codes,ncsp,Neerutransplantatsiooni jägne lümfotseele punktsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKA40,2020007457,NCSP codes,ncsp,Nefrostoomi sulgemine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKB40,2020007458,NCSP codes,ncsp,Ureeterostoomi sulgemine,Closure of stoma of ureter,4044246,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKB90,2020007459,NCSP codes,ncsp,Ureeteri kateteriseerimine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKB91,2020007460,NCSP codes,ncsp,Uriinikateetri loputus,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKB92,2020007461,NCSP codes,ncsp,Kusepõiekateetri eemaldamine,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKC00,2020007462,NCSP codes,ncsp,Põie nõelbiopsia,Biopsy of urinary bladder,4267975,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKC10,2020007463,NCSP codes,ncsp,Põie perkutaanne punktsioon,Paracentesis of urinary bladder,37167470,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKC20,2020007464,NCSP codes,ncsp,Põie kateteriseerimine,Insertion of catheter into urinary bladder,4257824,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKC40,2020007465,NCSP codes,ncsp,"Suprapubikaalse põiekateetri kontrollimine, vahetamine või eemaldamine",Closure of cystostomy,4323816,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKC50,2020007466,NCSP codes,ncsp,Kusepõie treening,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKC60,2020007467,NCSP codes,ncsp,Kusepõie elektriline stimulatsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKC70,2020007468,NCSP codes,ncsp,Kusepidamatuse ravi vaginaalse või rektaalse stimulatsiooniga,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKC80,2020007469,NCSP codes,ncsp,Kusepidamatuse ravi mehhaanilise vahendiga,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKD00,2020007470,NCSP codes,ncsp,Ureetra dilatatsioon,Dilation of urethra,4147379,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKE00,2020007471,NCSP codes,ncsp,Prostata nõelbiopsia,Needle biopsy of prostate,4343108,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKE05,2020007472,NCSP codes,ncsp,Prostata aspiratsiooni tsütoloogia,Aspiration of prostate using needle,4141158,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKE10,2020007473,NCSP codes,ncsp,Prostata punktsioon,Biopsy of prostate,4278515,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKF00,2020007474,NCSP codes,ncsp,Testise nõelbiopsia,Biopsy of testis,4042506,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKF05,2020007475,NCSP codes,ncsp,Testise aspiratsiooni tsütoloogia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKF10,2020007476,NCSP codes,ncsp,Testise punktsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKF20,2020007477,NCSP codes,ncsp,Epididüümise nõelbiopsia,Fine needle biopsy of epididymis,4295707,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKF25,2020007478,NCSP codes,ncsp,Epididüümise aspiratsiooni tsütoloogia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKF30,2020007479,NCSP codes,ncsp,Epididüümise punktsioon,Aspiration of epididymis,4123434,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKF60,2020007480,NCSP codes,ncsp,Skrootumi punktsioon,Ultrasonography guided aspiration of scrotum,37163788,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKK00,2020007481,NCSP codes,ncsp,Retroperitoneaalse tuumori nõelbiopsia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKK05,2020007482,NCSP codes,ncsp,Retreperitoneaalse tuumori nõelbiopsia tsütoloogiliseks uuringuks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKK10,2020007483,NCSP codes,ncsp,Retroperitoneaalruumi punktsioon,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKW10,2020007484,NCSP codes,ncsp,Hemodialüüs,Hemodialysis,4120120,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW12,2020007485,NCSP codes,ncsp,Patsiendijuhitud hemodialüüs,Hemodialysis,4120120,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW20,2020007486,NCSP codes,ncsp,Hemofiltratsioon,Hemofiltration,4050864,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW22,2020007487,NCSP codes,ncsp,Kodune peritoneaaldialüüs,Peritoneal dialysis,4324124,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW24,2020007488,NCSP codes,ncsp,Krooniline peritoneaaldialüüs,Chronic peritoneal dialysis,4021976,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW30,2020007489,NCSP codes,ncsp,Peritoneaaldialüüs,Peritoneal dialysis,4324124,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW32,2020007490,NCSP codes,ncsp,Peritoneaaldialüüsi kateteetri vahetus,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKW44,2020007491,NCSP codes,ncsp,Krooniline hemodialüüs,Hemodialysis,4120120,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TKW98,2020007492,NCSP codes,ncsp,Sperma ettevalmistus raviks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TKW99,2020007493,NCSP codes,ncsp,Muu väike kirurgiline protseduur uroloogias,Surgical procedure,4301351,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLA00,2020007494,NCSP codes,ncsp,Munasarja nõelbiopsia,Biopsy of ovary,4174964,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLB00,2020007495,NCSP codes,ncsp,Munajuha nõelbiopsia,Biopsy of fallopian tube,4217612,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLC00,2020007496,NCSP codes,ncsp,Emakasisese rasestumisvastase vahendi sissepanek,Insertion of intrauterine contraceptive device,4275113,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLC02,2020007497,NCSP codes,ncsp,Emakasisese rasestumisvastase vahendi lihtne eemaldamine,Removal of intrauterine contraceptive device,37166976,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE00,2020007498,NCSP codes,ncsp,Tupe dilatatsioon,Dilation of vagina,4273759,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE05,2020007499,NCSP codes,ncsp,Täiskasvanu tupest võõrkeha eemaldamine,Removal of foreign body from vagina,4072697,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE10,2020007500,NCSP codes,ncsp,Võõrkeha eemaldamine tupest lapseeas,Removal of foreign body from vagina,4072697,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE20,2020007501,NCSP codes,ncsp,Cul-de-sac’i transvaginaalne punktsioon,Colpoceliocentesis,4072700,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE30,2020007502,NCSP codes,ncsp,Tupe tamponaad,Insertion of tampon into vagina,4308644,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE40,2020007503,NCSP codes,ncsp,Tupepessaari või -rõnga paigaldamine,Insertion of pessary into vagina,4164731,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLE80,2020007504,NCSP codes,ncsp,Tupepessaari vahetus,Replacement of suppository in vagina,4135206,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLF00,2020007505,NCSP codes,ncsp,Häbememokkade defibulatsioon,Defibulation of vulva,40482711,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLW00,2020007506,NCSP codes,ncsp,Inseminatsioon,Artificial insemination,4239302,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLW11,2020007507,NCSP codes,ncsp,Embrüo siirdamine müomeetriumi kaudu,Transmyometrial transfer of embryo to uterus,40490447,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLW12,2020007508,NCSP codes,ncsp,Külmutatud embrüo siirdamine,Frozen embryo transfer,4032737,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLW14,2020007509,NCSP codes,ncsp,Tsütoplasmasisene sperma injektsioon (ICSI),In vitro fertilization with intracytoplasmic spermatozoa injection,4138633,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLW20,2020007510,NCSP codes,ncsp,Ovulatsiooni medikamentoosne esilekutsumine,Ovulation induction,4247007,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TLW99,2020007511,NCSP codes,ncsp,Muu väike kirurgiline protseduur günekoloogias,Procedure on female genital organ,4134148,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TMA00,2020007512,NCSP codes,ncsp,Episiotoomia,Episiotomy,4311671,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TMA20,2020007513,NCSP codes,ncsp,Normaalse sünnituse abistamine,Delivery normal,441641,SNOMED,Condition,Clinical Finding,,,2026-09-18,2099-12-31,,false
+TMA20,2020007513,NCSP codes,ncsp,Normaalse sünnituse abistamine,Normal delivery procedure,4071507,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TMA40,2020007514,NCSP codes,ncsp,Loote monitooring,Cardiotochogram,4306192,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TMA80,2020007515,NCSP codes,ncsp,Rinnaga toitmise toetamine,Breastfeeding support,4254219,SNOMED,Observation,Procedure,,,2026-09-18,2099-12-31,,false
+TMW99,2020007516,NCSP codes,ncsp,Muu väike kirurgiline protseduur sünnitusabis,Obstetric procedure,4302541,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA00,2020007517,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; lülisammas ja kael,Operative procedure on spinal structure,4311038,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA00,2020007517,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; lülisammas ja kael,Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA05,2020007518,NCSP codes,ncsp,Pehme koe lihtne intsisioon; lülisammas ja kael,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA07,2020007519,NCSP codes,ncsp,Kaela pehmekoe nõelbiopsia UH kontrolliga,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA08,2020007520,NCSP codes,ncsp,Kaela pehmekoe punktsioon ultraheli kontrolliga,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA09,2020007521,NCSP codes,ncsp,Kaela pehmekoe punktsioon tsütoloogiliseks uuringuks,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA10,2020007522,NCSP codes,ncsp,Artrotsentees; lülisammas ja kael,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA11,2020007523,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; lülisammas ja kael,Injection of drug or medicament into joint,37153529,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA20,2020007524,NCSP codes,ncsp,Luuüdi aspiratsioon; lülisammas ja kael,"Bone marrow aspiration procedure, spine",4239064,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA25,2020007525,NCSP codes,ncsp,Luuüdi puurbiopsia; lülisammas ja kael,Bone marrow sampling,4120443,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA30,2020007526,NCSP codes,ncsp,Pehme side; lülisammas ja kael,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA31,2020007527,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; lülisammas ja kael,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA32,2020007528,NCSP codes,ncsp,Eritellimusel valmistatud lahas; lülisammas ja kael,Application of splint,4194049,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA33,2020007529,NCSP codes,ncsp,Eritellimusel valmistatud kips; lülisammas ja kael,Application of cast,4041643,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNA34,2020007530,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; lülisammas ja kael,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA39,2020007531,NCSP codes,ncsp,Muu ortopeediline side; lülisammas ja kael,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA40,2020007532,NCSP codes,ncsp,Väline traktsioon; lülisammas ja kael,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNA50,2020007533,NCSP codes,ncsp,Skeletimarkeri implantatsioon; lülisammas ja kael,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNB00,2020007534,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB00,2020007534,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Biopsy of upper limb,4332514,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB05,2020007535,NCSP codes,ncsp,Pehme koe lihtne intsisioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNB10,2020007536,NCSP codes,ncsp,Artrotsentees; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB11,2020007537,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Injection into shoulder joint,4128362,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB20,2020007538,NCSP codes,ncsp,Luuüdi aspiratsioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB25,2020007539,NCSP codes,ncsp,Luuüdi puurbiopsia; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNB30,2020007540,NCSP codes,ncsp,Pehme side; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Procedure on upper extremity,4043025,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB30,2020007540,NCSP codes,ncsp,Pehme side; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB31,2020007541,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNB32,2020007542,NCSP codes,ncsp,Eritellimusel valmistatud lahas; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Application of upper extremity splint,4160269,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB33,2020007543,NCSP codes,ncsp,Eritellimusel valmistatud kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Application of plaster cast to upper limb,4035289,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB34,2020007544,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),Application of plaster cast to upper limb,4035289,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNB39,2020007545,NCSP codes,ncsp,Muu ortopeediline side; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNB40,2020007546,NCSP codes,ncsp,Väline traktsioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNB50,2020007547,NCSP codes,ncsp,Skeletimarkeri implantatsioon; õlg ja õlavars (kaasaarvatud rangluu ja abaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNC00,2020007548,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; küünarnukk ja küünarvars,Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC00,2020007548,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; küünarnukk ja küünarvars,Biopsy of upper limb,4332514,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC05,2020007549,NCSP codes,ncsp,Pehme koe lihtne intsisioon; küünarnukk ja küünarvars,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNC10,2020007550,NCSP codes,ncsp,Artrotsentees; küünarnukk ja küünarvars,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC11,2020007551,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; küünarnukk ja küünarvars,Injection of drug or medicament into joint,37153529,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC20,2020007552,NCSP codes,ncsp,Luuüdi aspiratsioon; küünarnukk ja küünarvars,Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC25,2020007553,NCSP codes,ncsp,Luuüdi puurbiopsia; küünarnukk ja küünarvars,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNC30,2020007554,NCSP codes,ncsp,Pehme side; küünarnukk ja küünarvars,Procedure on upper extremity,4043025,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC30,2020007554,NCSP codes,ncsp,Pehme side; küünarnukk ja küünarvars,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC31,2020007555,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; küünarnukk ja küünarvars,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNC32,2020007556,NCSP codes,ncsp,Eritellimusel valmistatud lahas; küünarnukk ja küünarvars,Application of upper extremity splint,4160269,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC33,2020007557,NCSP codes,ncsp,Eritellimusel valmistatud kips; küünarnukk ja küünarvars,Application of below elbow plaster cast,4083534,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC34,2020007558,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; küünarnukk ja küünarvars,Application of below elbow plaster cast,4083534,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNC39,2020007559,NCSP codes,ncsp,Muu ortopeediline side; küünarnukk ja küünarvars,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNC40,2020007560,NCSP codes,ncsp,Väline traktsioon; küünarnukk ja küünarvars,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNC50,2020007561,NCSP codes,ncsp,Skeletimarkeri implantatsioon; küünarnukk ja küünarvars,,0,None,,,,,2026-09-18,2099-12-31,,false
+TND00,2020007562,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; ranne ja labakäsi,Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND00,2020007562,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; ranne ja labakäsi,Biopsy of upper limb,4332514,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND05,2020007563,NCSP codes,ncsp,Pehme koe lihtne intsisioon; ranne ja labakäsi,,0,None,,,,,2026-09-18,2099-12-31,,false
+TND10,2020007564,NCSP codes,ncsp,Artrotsentees; ranne ja labakäsi,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND11,2020007565,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; ranne ja labakäsi,Injection of wrist joint,44790187,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND11,2020007565,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; ranne ja labakäsi,Hand injection,4002377,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND11,2020007565,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; ranne ja labakäsi,Intra-articular injection,4101113,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND20,2020007566,NCSP codes,ncsp,Luuüdi aspiratsioon; ranne ja labakäsi,Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND25,2020007567,NCSP codes,ncsp,Luuüdi puurbiopsia; ranne ja labakäsi,,0,None,,,,,2026-09-18,2099-12-31,,false
+TND30,2020007568,NCSP codes,ncsp,Pehme side; ranne ja labakäsi,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND30,2020007568,NCSP codes,ncsp,Pehme side; ranne ja labakäsi,Procedure on upper extremity,4043025,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND31,2020007569,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; ranne ja labakäsi,,0,None,,,,,2026-09-18,2099-12-31,,false
+TND32,2020007570,NCSP codes,ncsp,Eritellimusel valmistatud lahas; ranne ja labakäsi,Application of upper extremity splint,4160269,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND33,2020007571,NCSP codes,ncsp,Eritellimusel valmistatud kips; ranne ja labakäsi,Application of short arm cast,4231924,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND34,2020007572,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; ranne ja labakäsi,Application of short arm cast,4231924,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TND39,2020007573,NCSP codes,ncsp,Muu ortopeediline side; ranne ja labakäsi,,0,None,,,,,2026-09-18,2099-12-31,,false
+TND40,2020007574,NCSP codes,ncsp,Väline traktsioon; ranne ja labakäsi,,0,None,,,,,2026-09-18,2099-12-31,,false
+TND50,2020007575,NCSP codes,ncsp,Skeletimarkeri implantatsioon; ranne ja labakäsi,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNE00,2020007576,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu),Operative procedure on hip,4327115,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE00,2020007576,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu),Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE05,2020007577,NCSP codes,ncsp,Pehme koe lihtne intsisioon; vaagen (kaasaarvatud ristluu ja sabaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNE10,2020007578,NCSP codes,ncsp,Artrotsentees; vaagen (kaasaarvatud ristluu ja sabaluu),Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE11,2020007579,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; vaagen (kaasaarvatud ristluu ja sabaluu),Injection of drug or medicament into joint,37153529,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE20,2020007580,NCSP codes,ncsp,Luuüdi aspiratsioon; vaagen (kaasaarvatud ristluu ja sabaluu),Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE25,2020007581,NCSP codes,ncsp,Luuüdi puurbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu),Biopsy of bone of pelvis,40486103,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE25,2020007581,NCSP codes,ncsp,Luuüdi puurbiopsia; vaagen (kaasaarvatud ristluu ja sabaluu),Bone marrow sampling,4120443,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE30,2020007582,NCSP codes,ncsp,Pehme side; vaagen (kaasaarvatud ristluu ja sabaluu),Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE31,2020007583,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; vaagen (kaasaarvatud ristluu ja sabaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNE32,2020007584,NCSP codes,ncsp,Eritellimusel valmistatud lahas; vaagen (kaasaarvatud ristluu ja sabaluu),Application of lower extremity splint,4160270,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE33,2020007585,NCSP codes,ncsp,Eritellimusel valmistatud kips; vaagen (kaasaarvatud ristluu ja sabaluu),Application of cast,4041643,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE34,2020007586,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; vaagen (kaasaarvatud ristluu ja sabaluu),Application of cast,4041643,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNE39,2020007587,NCSP codes,ncsp,Muu ortopeediline side; vaagen (kaasaarvatud ristluu ja sabaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNE40,2020007588,NCSP codes,ncsp,Väline traktsioon; vaagen (kaasaarvatud ristluu ja sabaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNE50,2020007589,NCSP codes,ncsp,Skeletimarkeri implantatsioon; vaagen (kaasaarvatud ristluu ja sabaluu),,0,None,,,,,2026-09-18,2099-12-31,,false
+TNF00,2020007590,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; puusaliiges ja reis,Biopsy of joint of hip,40490486,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF00,2020007590,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; puusaliiges ja reis,Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF05,2020007591,NCSP codes,ncsp,Pehme koe lihtne intsisioon; puusaliiges ja reis,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNF10,2020007592,NCSP codes,ncsp,Artrotsentees; puusaliiges ja reis,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF11,2020007593,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; puusaliiges ja reis,Injection of hip joint,4031174,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF20,2020007594,NCSP codes,ncsp,Luuüdi aspiratsioon; puusaliiges ja reis,Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF25,2020007595,NCSP codes,ncsp,Luuüdi puurbiopsia; puusaliiges ja reis,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNF30,2020007596,NCSP codes,ncsp,Pehme side; puusaliiges ja reis,Procedure on lower extremity,4042650,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF30,2020007596,NCSP codes,ncsp,Pehme side; puusaliiges ja reis,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF31,2020007597,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; puusaliiges ja reis,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNF32,2020007598,NCSP codes,ncsp,Eritellimusel valmistatud lahas; puusaliiges ja reis,Application of lower extremity splint,4160270,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF33,2020007599,NCSP codes,ncsp,Eritellimusel valmistatud kips; puusaliiges ja reis,Application of hip spica cast,4132400,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF34,2020007600,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; puusaliiges ja reis,Application of hip spica cast,4132400,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNF39,2020007601,NCSP codes,ncsp,Muu ortopeediline side; puusaliiges ja reis,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNF40,2020007602,NCSP codes,ncsp,Väline traktsioon; puusaliiges ja reis,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNF50,2020007603,NCSP codes,ncsp,Skeletimarkeri implantatsioon; puusaliiges ja reis,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNG00,2020007604,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; põlveliiges ja säär,Biopsy of lower limb,4332517,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG00,2020007604,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; põlveliiges ja säär,Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG05,2020007605,NCSP codes,ncsp,Pehme koe lihtne intsisioon; põlveliiges ja säär,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNG10,2020007606,NCSP codes,ncsp,Artrotsentees; põlveliiges ja säär,Arthrocentesis of joint of knee,618912,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG11,2020007607,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; põlveliiges ja säär,Injection of knee joint,4103962,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG20,2020007608,NCSP codes,ncsp,Luuüdi aspiratsioon; põlveliiges ja säär,Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG25,2020007609,NCSP codes,ncsp,Luuüdi puurbiopsia; põlveliiges ja säär,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNG30,2020007610,NCSP codes,ncsp,Pehme side; põlveliiges ja säär,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG30,2020007610,NCSP codes,ncsp,Pehme side; põlveliiges ja säär,Procedure on lower extremity,4042650,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG31,2020007611,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; põlveliiges ja säär,Orthosis for lower limb,4145654,SNOMED,Device,Physical Object,,,2026-09-18,2099-12-31,,false
+TNG32,2020007612,NCSP codes,ncsp,Eritellimusel valmistatud lahas; põlveliiges ja säär,Application of lower extremity splint,4160270,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG33,2020007613,NCSP codes,ncsp,Eritellimusel valmistatud kips; põlveliiges ja säär,Application of plaster cast to lower limb,4079602,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG34,2020007614,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; põlveliiges ja säär,Application of plaster cast to lower limb,4079602,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNG39,2020007615,NCSP codes,ncsp,Muu ortopeediline side; põlveliiges ja säär,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNG40,2020007616,NCSP codes,ncsp,Väline traktsioon; põlveliiges ja säär,External fixation system,4130103,SNOMED,Device,Physical Object,,,2026-09-18,2099-12-31,,false
+TNG50,2020007617,NCSP codes,ncsp,Skeletimarkeri implantatsioon; põlveliiges ja säär,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNH00,2020007618,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; hüppeliiges ja labajalg,Biopsy of soft tissue,4327322,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH00,2020007618,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; hüppeliiges ja labajalg,Biopsy of lower limb,4332517,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH05,2020007619,NCSP codes,ncsp,Pehme koe lihtne intsisioon; hüppeliiges ja labajalg,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNH10,2020007620,NCSP codes,ncsp,Artrotsentees; hüppeliiges ja labajalg,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH11,2020007621,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; hüppeliiges ja labajalg,Injection of joint of ankle,4144525,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH20,2020007622,NCSP codes,ncsp,Luuüdi aspiratsioon; hüppeliiges ja labajalg,Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH25,2020007623,NCSP codes,ncsp,Luuüdi puurbiopsia; hüppeliiges ja labajalg,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNH30,2020007624,NCSP codes,ncsp,Pehme side; hüppeliiges ja labajalg,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH30,2020007624,NCSP codes,ncsp,Pehme side; hüppeliiges ja labajalg,Procedure on lower leg,4041271,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH31,2020007625,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; hüppeliiges ja labajalg,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNH32,2020007626,NCSP codes,ncsp,Eritellimusel valmistatud lahas; hüppeliiges ja labajalg,Application of lower extremity splint,4160270,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH33,2020007627,NCSP codes,ncsp,Eritellimusel valmistatud kips; hüppeliiges ja labajalg,Application of below knee plaster cast,4035290,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH34,2020007628,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; hüppeliiges ja labajalg,Application of below knee plaster cast,4035290,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNH39,2020007629,NCSP codes,ncsp,Muu ortopeediline side; hüppeliiges ja labajalg,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNH40,2020007630,NCSP codes,ncsp,Väline traktsioon; hüppeliiges ja labajalg,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNH50,2020007631,NCSP codes,ncsp,Skeletimarkeri implantatsioon; hüppeliiges ja labajalg,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNX00,2020007632,NCSP codes,ncsp,Pehme koe punktsioon või nõelbiopsia; määratlemata piirkond,Fine needle aspiration biopsy of soft tissue,4324613,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX05,2020007633,NCSP codes,ncsp,Pehme koe lihtne intsisioon; määratlemata piirkond,Incision of soft tissue,4003519,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX10,2020007634,NCSP codes,ncsp,Artrotsentees; määratlemata piirkond,Arthrocentesis,4233386,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX11,2020007635,NCSP codes,ncsp,Diagnostilise või terapeutilise aine injektsioon liigesesse; määratlemata piirkond,Injection of drug or medicament into joint,37153529,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX20,2020007636,NCSP codes,ncsp,Luuüdi aspiratsioon; määratlemata piirkond,Bone marrow aspiration procedure,4174208,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX25,2020007637,NCSP codes,ncsp,Luuüdi puurbiopsia; määratlemata piirkond,Bone marrow sampling,4120443,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX30,2020007638,NCSP codes,ncsp,Pehme side; määratlemata piirkond,Application of bandage,4080807,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX31,2020007639,NCSP codes,ncsp,Tööstuslikult toodetud ortoos; määratlemata piirkond,,0,None,,,,,2026-09-18,2099-12-31,,false
+TNX32,2020007640,NCSP codes,ncsp,Eritellimusel valmistatud lahas; määratlemata piirkond,Application of splint,4194049,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX33,2020007641,NCSP codes,ncsp,Eritellimusel valmistatud kips; määratlemata piirkond,Application of cast,4041643,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX34,2020007642,NCSP codes,ncsp,Eritellimusel valmistatud suur kips; määratlemata piirkond,Application of cast,4041643,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX39,2020007643,NCSP codes,ncsp,Muu ortopeediline side; määratlemata piirkond,Bandage,4274503,SNOMED,Device,Physical Object,,,2026-09-18,2099-12-31,,false
+TNX39,2020007643,NCSP codes,ncsp,Muu ortopeediline side; määratlemata piirkond,Orthopedic device,4038746,SNOMED,Device,Physical Object,,,2026-09-18,2099-12-31,,false
+TNX40,2020007644,NCSP codes,ncsp,Väline traktsioon; määratlemata piirkond,Traction,4280205,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX40,2020007644,NCSP codes,ncsp,Väline traktsioon; määratlemata piirkond,Procedure on extremity,4042504,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TNX50,2020007645,NCSP codes,ncsp,Skeletimarkeri implantatsioon; määratlemata piirkond,Splint removal,4224170,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH00,2020007646,NCSP codes,ncsp,Flebotoomia,Phlebotomy,4245372,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH05,2020007647,NCSP codes,ncsp,Perifeerse veeni lahtine kanüleerimine,Open cannulation of vein,4022794,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH05,2020007647,NCSP codes,ncsp,Perifeerse veeni lahtine kanüleerimine,Insertion of peripheral venous cannula into peripheral vein,4049832,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH07,2020007648,NCSP codes,ncsp,Intra-arteriaalse kanüüli paigaldamine,Insertion of catheter into artery,4213288,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH10,2020007649,NCSP codes,ncsp,Veenilaiendite skleroteraapia,Injection of sclerosing agent in varicose vein,4039628,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH15,2020007650,NCSP codes,ncsp,Tsentraalse veenikateetri paigaldamine välise või sisemise jugulaarveeni kaudu,Central venous cannula insertion via jugular vein,4116186,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH20,2020007651,NCSP codes,ncsp,Tsentraalse veenikateetri paigaldamine v. subclavia või v. brachiocephalica kaudu,Central venous cannula insertion via subclavian vein,4052415,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPH90,2020007652,NCSP codes,ncsp,Fikseeritud intravenoosse kateetri eemaldamine,Removal of intravenous cannula,4075238,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPJ00,2020007653,NCSP codes,ncsp,Pindmise lümfisõlme biopsia,Biopsy of lymph node,4071443,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPJ05,2020007654,NCSP codes,ncsp,Lümfisõlme nõelbiopsia,Biopsy of lymph node,4071443,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPJ80,2020007655,NCSP codes,ncsp,Manuaalne lümfi-drenaaž massaaž,,0,None,,,,,2026-09-18,2099-12-31,,false
+TPW99,2020007656,NCSP codes,ncsp,Muu väike kirurgiline protseduur perifeersel veresoonel või lümfisüsteemil,Procedure on blood vessel,4040551,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPW99,2020007656,NCSP codes,ncsp,Muu väike kirurgiline protseduur perifeersel veresoonel või lümfisüsteemil,Procedure on lymphatic vessel,4043177,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPW99,2020007656,NCSP codes,ncsp,Muu väike kirurgiline protseduur perifeersel veresoonel või lümfisüsteemil,Operation on lymphatic structure,4175627,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPX00,2020007657,NCSP codes,ncsp,Arteri või veeni biopsia,Biopsy of artery,4166929,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPX10,2020007658,NCSP codes,ncsp,Vaskulaarse injektsioonipordi paigaldamine,Implantation to cardiovascular system,4040722,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPX15,2020007659,NCSP codes,ncsp,Vaskulaarse injektsioonipordi eemaldamine,Removal of implantable venous access port,4079766,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TPX22,2020007660,NCSP codes,ncsp,Intravenoosne trombolüüs arteriaalse tromboosi korral,Intravenous infusion of thrombolytic,4144062,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQW10,2020007661,NCSP codes,ncsp,Põletushaava sideme vahetus,,0,None,,,,,2026-09-18,2099-12-31,,false
+TQW11,2020007662,NCSP codes,ncsp,Haava vaakumravi,Vacuum assisted skin closure,4232742,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQW12,2020007663,NCSP codes,ncsp,Bioloogiline nekrektoomia,,0,None,,,,,2026-09-18,2099-12-31,,false
+TQW20,2020007664,NCSP codes,ncsp,Tätoveering,,0,None,,,,,2026-09-18,2099-12-31,,false
+TQW38,2020007665,NCSP codes,ncsp,Subkutanne skleroteraapia,Procedure on subcutaneous tissue,4043160,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQW38,2020007665,NCSP codes,ncsp,Subkutanne skleroteraapia,Injection of sclerosing agent,4220838,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQW99,2020007666,NCSP codes,ncsp,Muu väike protseduur nahal,Procedure on skin,4040401,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQX00,2020007667,NCSP codes,ncsp,Naha biopsia,Biopsy of skin,4081731,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQX10,2020007668,NCSP codes,ncsp,Naha nõelbiopsia,Biopsy of skin,4081731,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQX30,2020007669,NCSP codes,ncsp,Naha mikrodialüüs,,0,None,,,,,2026-09-18,2099-12-31,,false
+TQX40,2020007670,NCSP codes,ncsp,Naha õmbluste eemaldamine,Removal of suture from skin,4119985,SNOMED,Procedure,Procedure,,,2026-09-18,2099-12-31,,false
+TQX50,2020007671,NCSP codes,ncsp,Koeekspandri distensioon,,0,None,,,,,2026-09-18,2099-12-31,,false

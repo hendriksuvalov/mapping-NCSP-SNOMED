@@ -1,0 +1,639 @@
+source_code,sctid,term,status,sctid_exists,concept_id,id_name_agrees,concept_id_by_name
+LAA00,287000,Puncture of ovary,ok,True,4102948,False,
+LAA01,236886002,Aspiration of ovarian cyst,ok,True,4127886,False,4127237
+LAA03,236886002,Aspiration of cyst of ovary,ok,True,4127886,False,
+LAA06,392042006,Aspiration of ovarian cyst,ok,True,4194244,False,4127237
+LAA10,236887002,Oocyte retrieval,ok,False,,False,
+LAA11,61586001,Ovum retrieval (procedure),ok,True,4189205,False,
+LAA20,236974003,Injection of therapeutic substance into ectopic pregnancy,ok,False,,False,
+LAA31,236894007,Ovarian puncture,ok,False,,False,
+LAA96,236886002,Puncture of ovary,ok,True,4127886,False,
+LAA97,112798008,Laparoscopic procedure,ok,True,4013354,False,
+LAB00,176?,Incision of ovary,ok,False,,False,4243919
+LAB01,236886002,Laparoscopic ovariotomy,ok,True,4127886,False,
+LAB10,86273004,Biopsy of ovary,ok,True,4311405,False,4174964
+LAB11,118?,Biopsy of ovary,ok,False,,False,4174964
+LAB21,86273004,Biopsy of ovary,ok,True,4311405,False,4174964
+LAB96,386053000,Surgical procedure on ovary,ok,True,4297090,False,
+LAB97,1201005,Biopsy of ovary (procedure),ok,True,312648,False,
+LAC00,236888001,Excision of cyst of ovary (procedure),ok,True,4130185,False,
+LAC01,236887006,Laparoscopic excision of ovarian cyst,ok,True,4127887,False,
+LAC10,236886002,Laparoscopic ovarian cystectomy,ok,True,4127886,False,
+LAC11,236887002,Laparoscopic drainage of ovarian cyst,ok,False,,False,
+LAC20,387713003,Surgical procedure on ovary,ok,True,4301351,False,
+LAC21,236886002,Laparoscopic excision of ovarian cyst,ok,True,4127886,False,
+LAC30,236887006,Excision of lesion of ovary,ok,True,4127887,False,4262433
+LAC31,236886002,Laparoscopic excision of ovarian cyst,ok,True,4127886,False,
+LAC96,176,Excision of lesion of ovary,ok,False,,False,4262433
+LAC97,236882001,Excision of lesion of ovary,ok,False,,False,4262433
+LAD00,236886002,Partial oophorectomy,ok,True,4127886,False,4106090
+LAD01,236888001,Laparoscopic partial oophorectomy (procedure),ok,True,4130185,False,
+LAE10,236887006,Unilateral oophorectomy (procedure),ok,True,4127887,False,
+LAE11,236886002,Laparoscopic oophorectomy,ok,True,4127886,False,42872496
+LAE20,6025007,Bilateral oophorectomy (procedure),ok,True,4243973,False,
+LAE21,274031008,Laparoscopic removal of ovary,ok,True,4166761,False,
+LAF00,176?,Unilateral salpingo-oophorectomy,ok,False,,False,
+LAF01,236886002,Laparoscopic salpingo-oophorectomy,ok,True,4127886,False,40488381
+LAF10,71388002,Bilateral salpingo-oophorectomy,ok,True,4322976,False,
+LAF11,71388002,Salpingo-oophorectomy,ok,True,4322976,False,4021363
+LAF17,387713003,Lymph node excision,ok,True,4301351,False,
+LAF20,236888001,Unilateral salpingo-oophorectomy (procedure),ok,True,4130185,False,
+LAF30,71388002,Bilateral salpingo-oophorectomy,ok,True,4322976,False,
+LAG00,17638009,Lysis of adhesions of ovary,ok,True,4069597,False,4059099
+LAG01,236886002,Laparoscopic lysis of adhesions of ovary,ok,True,4127886,False,
+LAG10,236886002,Oophoropexy (procedure),ok,True,4127886,False,
+LAG11,23607009,Oophoropexy,ok,False,,False,4263530
+LAG20,236886002,Detorsion of ovary,ok,True,4127886,False,4265608
+LAG21,23648004,Detorsion of ovary,ok,False,,False,4265608
+LAG96,236337003,Repair of ovary,ok,False,,False,4032167
+LAG97,236891004,Laparoscopic operation on ovary,ok,False,,False,
+LAW96,118...?,Procedure on ovary,ok,False,,False,4042820
+LAW97,387713003,Procedure on ovary,ok,True,4301351,False,4042820
+LB1YT,112743005,Catheterization of fallopian tube,ok,False,,False,4032745
+LBA00,236?,Puncture of fallopian tube,ok,False,,False,
+LBA01,312681000,Laparoscopic procedure,ok,True,4195803,False,
+LBA03,28757009,Puncture of fallopian tube,ok,False,,False,
+LBA07,71388002,Endoscopy,ok,True,4322976,False,4313889
+LBA97,176,Puncture of fallopian tube,ok,False,,False,
+LBA98,265764009,Endoscopic procedure on fallopian tube,ok,True,4146536,False,
+LBB00,86273004,Biopsy of fallopian tube,ok,True,4311405,False,4217612
+LBB01,177?,Biopsy of fallopian tube,ok,False,,False,4217612
+LBB04,80146002,Biopsy of fallopian tube (procedure),ok,True,4198190,False,
+LBB11,177?,Biopsy of fallopian tube (procedure),ok,False,,False,
+LBB96,86273004,Biopsy of fallopian tube,ok,True,4311405,False,4217612
+LBC00,236?,Percutaneous injection into ectopic pregnancy,ok,False,,False,
+LBC03,236885003,Injection of therapeutic substance into ectopic pregnancy,ok,True,4127092,False,
+LBC07,236885004,Injection of therapeutic substance into ectopic pregnancy,ok,False,,False,
+LBC08,236890004,Injection of therapeutic substance into ectopic pregnancy,ok,False,,False,
+LBC10,236968009,Salpingotomy for ectopic pregnancy,ok,False,,False,
+LBC11,236886002,Salpingotomy,ok,True,4127886,False,
+LBC20,236958009,Salpingotomy (procedure),ok,True,4032756,False,
+LBC21,236886002,Salpingotomy,ok,True,4127886,False,
+LBC96,236888001,Salpingotomy,ok,True,4130185,False,
+LBC97,236896001,Laparoscopic salpingostomy,ok,False,,False,37154070
+LBC98,236887006,Salpingotomy,ok,True,4127887,False,
+LBD00,287664005,Salpingectomy,ok,True,4117038,False,
+LBD01,236886002,Laparoscopic salpingectomy (procedure),ok,True,4127886,False,
+LBE00,236886002,Salpingectomy,ok,True,4127886,False,
+LBE01,112699006,Excision of fallopian tube,ok,False,,False,
+LBF00,386?,Fallopian tube irrigation,ok,False,,False,
+LBF01,363679005,Procedure on fallopian tube,ok,True,4180938,False,4040576
+LBF03,386...,Fallopian tube patency test,ok,False,,False,
+LBF11,386638009,Laparoscopy,ok,True,4297249,False,4251314
+LBF12,80146002,Hysteroscopy,ok,True,4198190,False,4052532
+LBF20,112697007,Operation on fallopian tube,ok,True,4012907,False,4189847
+LBF30,236886002,Salpingolysis,ok,True,4127886,False,
+LBF31,236886002,Laparoscopic adhesiolysis,ok,True,4127886,False,
+LBF40,176?,Fimbrioplasty,ok,False,,False,4330560
+LBF41,236886002,Fimbrioplasty,ok,True,4127886,False,4330560
+LBF50,112697000,Salpingostomy,ok,False,,False,4263669
+LBF51,236886002,Salpingostomy (procedure),ok,True,4127886,False,
+LBF60,236886002,Reanastomosis of fallopian tube,ok,True,4127886,False,
+LBF61,236886002,Salpingectomy,ok,True,4127886,False,
+LBF70,236958009,Salpingectomy,ok,True,4032756,False,
+LBF71,236886002,Salpingectomy,ok,True,4127886,False,
+LBF96,236886002,Operation on fallopian tube,ok,True,4127886,False,4189847
+LBF97,236899006,Laparoscopic operation on fallopian tube,ok,False,,False,
+LBW20,236849005,Catheterization of fallopian tube,ok,False,,False,4032745
+LBW80,177...?,Insufflation of fallopian tube,ok,False,,False,
+LBW96,265765005,Procedure on fallopian tube,ok,True,4140278,False,4040576
+LBW97,236449006,Laparoscopic salpingectomy,ok,False,,False,4201639
+LBW98,265764009,Laparoscopic sterilization,ok,True,4146536,False,4036943
+LBX14,386637004,Procedure on fallopian tube,ok,True,4302541,False,4040576
+LCA00,86273004,Biopsy of cervix,ok,True,4311405,False,
+LCA01,862?,Biopsy of uterus,ok,False,,False,4001054
+LCA06,86290005,Endometrial biopsy (procedure),ok,True,4313591,False,
+LCA10,392021009,Curettage of uterus,ok,True,4213045,False,4074865
+LCA13,236886002,Curettage of uterus,ok,True,4127886,False,4074865
+LCA16,236886002,Endometrial ablation,ok,True,4127886,False,4141940
+LCA20,236883005,Removal of foreign body from uterus,ok,True,4032621,False,
+LCA22,236886002,Removal of foreign body from uterus,ok,True,4127886,False,
+LCA30,445781000,Embryo transfer (procedure),ok,False,,False,
+LCA96,265764009,Procedure on uterus,ok,True,4146536,False,4043197
+LCA98,236886002,Hysteroscopy,ok,True,4127886,False,4052532
+LCB00,236886002,Hysterotomy (procedure),ok,True,4127886,False,
+LCB01,236886002,Laparoscopic hysterotomy,ok,True,4127886,False,
+LCB10,236886002,Myomectomy,ok,True,4127886,False,
+LCB11,236886002,Myomectomy,ok,True,4127886,False,
+LCB14,236889006,Laparoscopic myolysis of uterus,ok,False,,False,
+LCB20,236886002,Myomectomy,ok,True,4127886,False,
+LCB25,236886002,Excision of lesion of uterus,ok,True,4127886,False,4338234
+LCB28,236885002,Endometrial resection,ok,False,,False,4032738
+LCB32,44782008,Endometrial ablation,ok,True,4261322,False,4141940
+LCB90,86273004,Endometrial biopsy,ok,True,4311405,False,4299733
+LCB96,236886002,Excision of lesion of uterus,ok,True,4127886,False,4338234
+LCB97,236886008,Laparoscopic excision of lesion of uterus,ok,False,,False,
+LCB98,236886002,Excision of lesion of uterus,ok,True,4127886,False,4338234
+LCC00,236888001,Subtotal hysterectomy,ok,True,4130185,False,
+LCC01,236887006,Laparoscopic subtotal hysterectomy,ok,True,4127887,False,4196148
+LCC05,236886002,Endometrial ablation (procedure),ok,True,4127886,False,
+LCC10,236888001,Subtotal hysterectomy (procedure),ok,True,4130185,False,
+LCC11,236886002,Laparoscopic subtotal hysterectomy,ok,True,4127886,False,4196148
+LCC20,236891001,Vaginal subtotal hysterectomy,ok,True,4032735,False,37162413
+LCC96,236889009,Subtotal hysterectomy,ok,True,4032622,False,
+LCC97,236886002,Laparoscopic hysterectomy,ok,True,4127886,False,4127887
+LCD00,236887006,Total hysterectomy,ok,True,4127887,False,4023403
+LCD01,236888001,Laparoscopic hysterectomy (procedure),ok,True,4130185,False,
+LCD04,236890000,Laparoscopic hysterectomy,ok,True,4127093,False,4127887
+LCD10,236886002,Vaginal hysterectomy,ok,True,4127886,False,4138738
+LCD11,236888001,Laparoscopic hysterectomy,ok,True,4130185,False,4127887
+LCD30,236886002,Radical hysterectomy,ok,True,4127886,False,4021530
+LCD31,236889009,Radical hysterectomy,ok,True,4032622,False,4021530
+LCD40,236886002,Radical hysterectomy (procedure),ok,True,4127886,False,
+LCD96,236888001,Total hysterectomy,ok,True,4130185,False,4023403
+LCD97,441887006,Total laparoscopic hysterectomy,ok,True,40480938,False,
+LCE00,236?,Anterior pelvic exenteration (procedure),ok,False,,False,
+LCE10,174041007,Posterior pelvic exenteration,ok,True,4017461,False,
+LCE20,430193006,Pelvic exenteration,ok,True,4326177,False,4178736
+LCE96,236886002,Pelvic exenteration (procedure),ok,True,4127886,False,
+LCF00,236886002,Excision of lesion of uterus,ok,True,4127886,False,4338234
+LCF01,236886006,Excision of lesion of ovary,ok,False,,False,4262433
+LCF10,236?,Excision of lesion of parametrium,ok,False,,False,
+LCF11,80146002,Excision of lesion of uterus,ok,True,4198190,False,4338234
+LCF20,176088006,Excision of lesion of pouch of Douglas,ok,False,,False,
+LCF21,236886002,Excision of lesion of peritoneum,ok,True,4127886,False,4195874
+LCF96,236886002,Excision of lesion of uterus,ok,True,4127886,False,4338234
+LCF97,236895003,Laparoscopic excision of lesion of parametrium,ok,False,,False,
+LCG02,236890005,Hysteroscopic division of intrauterine adhesions,ok,False,,False,
+LCG10,236886002,Repair of uterus,ok,True,4127886,False,4010270
+LCG11,236886002,Suture of uterus (procedure),ok,True,4127886,False,
+LCG20,236886005,Hysteropexy,ok,False,,False,
+LCG21,236887006,Laparoscopic hysteropexy,ok,True,4127887,False,
+LCG30,236886003,Excision of lesion of cervix uteri,ok,False,,False,
+LCG31,177161003,Division of uterosacral ligament,ok,False,,False,4207357
+LCG40,236886002,Repair of uterus,ok,True,4127886,False,4010270
+LCG41,236887006,Laparoscopic repair of uterus,ok,True,4127887,False,
+LCG96,236?,Reconstruction of uterus (procedure),ok,False,,False,
+LCG97,236886002,Laparoscopic repair of uterus,ok,True,4127886,False,
+LCG98,236921009,Repair of uterus,ok,True,4127231,False,4010270
+LCH00,236886002,Vacuum aspiration of products of conception,ok,True,4127886,False,
+LCH03,236961005,Evacuation of retained products of conception by curettage,ok,True,4032757,False,
+LCH10,236959001,Medical termination of pregnancy (procedure),ok,True,4127246,False,
+LCH11,236959001,Medical induction of abortion,ok,True,4127246,False,
+LCH12,236947000,Medical termination of pregnancy,ok,True,4127241,False,4115153
+LCH13,236946009,Vacuum aspiration of uterus,ok,True,4130310,False,
+LCH15,236947003,Evacuation of retained products of conception,ok,False,,False,
+LCH20,236886002,Hysterectomy,ok,True,4127886,True,4127886
+LCH96,386637004,Termination of pregnancy (procedure),ok,True,4302541,False,
+LCW96,236886002,Procedure on uterus,ok,True,4127886,False,4043197
+LCW97,265764009,Laparoscopic procedure,ok,True,4146536,False,
+LCW98,386637004,Hysteroscopy,ok,True,4302541,False,4052532
+LDA00,386637004,Dilation of cervix uteri (procedure),ok,True,4302541,False,
+LDA10,118?,Curettage of cervix uteri,ok,False,,False,
+LDA20,86273004,Biopsy of cervix,ok,True,4311405,False,
+LDA91,236890003,Removal of foreign body from cervix uteri,ok,False,,False,
+LDA96,86273004,Biopsy of cervix uteri,ok,True,4311405,False,
+LDB00,28717007,Excision of lesion of cervix uteri,ok,False,,False,
+LDB10,236,Cryotherapy of cervix uteri,ok,False,,False,
+LDB20,236889009,Destruction of lesion of cervix uteri,ok,True,4032622,False,
+LDC00,3920006,Conization of cervix uteri,ok,False,,False,
+LDC03,392?,Conization of cervix uteri,ok,False,,False,
+LDC10,176,Partial excision of cervix uteri,ok,False,,False,
+LDC20,236885003,Radical trachelectomy,ok,True,4127092,False,
+LDC96,176?,Excision of cervix uteri,ok,False,,False,
+LDD00,236958009,Cervical cerclage,ok,True,4032756,False,45761222
+LDD01,236886002,Repair of cervix uteri,ok,True,4127886,False,
+LDD03,236886002,Insertion of cervical cerclage,ok,True,4127886,False,
+LDD10,236986007,Repair of cervix uteri,ok,False,,False,
+LDD20,176?,Removal of cervical cerclage,ok,False,,False,
+LDW96,172,Procedure on cervix uteri,ok,False,,False,
+LDX12,236888001,Replacement of vaginal pessary,ok,True,4130185,False,
+LE003,392?,Colposcopy,ok,False,,False,4189586
+LE010,236208008,Removal of foreign body from vagina,ok,False,,False,4072697
+LEA01,386638009,Endoscopic examination of pelvis,ok,True,4297249,False,
+LEA10,287?,Incision of vagina,ok,False,,False,4238824
+LEB00,86273004,Biopsy of vagina,ok,True,4311405,False,
+LEB10,236?,Excision of lesion of vagina,ok,False,,False,4221619
+LEB11,236733001,Excision of lesion of vagina,ok,False,,False,4221619
+LEB20,236887006,Marsupialization of vaginal cyst,ok,True,4127887,False,
+LEB30,174035007,Destruction of lesion of vagina,ok,False,,False,4024115
+LEC00,236,Partial excision of vagina,ok,False,,False,4102528
+LEC10,236887006,Excision of vaginal septum,ok,True,4127887,False,4216191
+LED00,17600000,Vaginectomy,ok,False,,False,4280658
+LED01,176,Excision of cervix uteri,ok,False,,False,
+LEE00,236886002,Repair of vagina,ok,True,4127886,False,4280601
+LEE10,236886002,Vaginal reconstruction (procedure),ok,True,4127886,False,
+LEE20,236886002,Repair of vesicovaginal fistula,ok,True,4127886,False,
+LEE21,236885003,Repair of vaginal fistula,ok,True,4127092,False,4094075
+LEE30,23699008,Repair of rectovaginal fistula,ok,False,,False,4275570
+LEE40,236886002,Construction of vagina (procedure),ok,True,4127886,False,
+LEE96,236886002,Repair of vagina,ok,True,4127886,False,4280601
+LEF00,236890004,Anterior colporrhaphy,ok,False,,False,4218385
+LEF01,236886002,Anterior colporrhaphy (procedure),ok,True,4127886,False,
+LEF03,236888001,Repair of posterior vaginal wall (procedure),ok,True,4130185,False,
+LEF05,236886002,Anterior colporrhaphy,ok,True,4127886,False,4218385
+LEF06,236886002,Anterior colporrhaphy (procedure),ok,True,4127886,False,
+LEF10,236886002,Vaginal hysterectomy,ok,True,4127886,False,4138738
+LEF13,236886002,Vaginal hysterectomy,ok,True,4127886,False,4138738
+LEF20,236968005,Partial colpocleisis (procedure),ok,False,,False,
+LEF23,236886002,Colpocleisis,ok,True,4127886,False,4032617
+LEF30,236886002,Repair of uterine prolapse,ok,True,4127886,False,
+LEF40,236886002,Repair of enterocele,ok,True,4127886,False,37465165
+LEF41,236886002,Repair of enterocele (procedure),ok,True,4127886,False,
+LEF43,236886002,Repair of enterocele,ok,True,4127886,False,37465165
+LEF50,236885003,Colpopexy,ok,True,4127092,False,
+LEF51,236890000,Colpopexy,ok,True,4127093,False,
+LEF53,236913005,Colpopexy,ok,False,,False,
+LEF60,236884004,Colpopexy,ok,True,4130184,False,
+LEF63,236923009,Vaginal hysteropexy (procedure),ok,False,,False,
+LEF96,236889009,Repair of uterine prolapse,ok,True,4032622,False,
+LEF97,265764009,Repair of uterine prolapse,ok,True,4146536,False,
+LEG00,236887006,Anterior colporrhaphy,ok,True,4127887,False,4218385
+LEG10,387713003,Surgical procedure,ok,True,4301351,True,4301351
+LEG12,232717009,Insertion of suburethral sling,ok,True,4336464,False,
+LEG13,236900008,Urethropexy,ok,False,,False,4218889
+LEG20,236886002,Vaginal repair of pelvic floor,ok,True,4127886,False,
+LEG70,236879005,Division of vaginal sling,ok,True,4127091,False,
+LEG80,236888009,Revision of vaginal mesh (procedure),ok,False,,False,
+LEG96,236886002,Operation for urinary incontinence,ok,True,4127886,False,
+LEW96,386637004,Procedure on female genital system,ok,True,4302541,False,4041261
+LEW97,236886002,Endoscopic operation on vagina,ok,True,4127886,False,
+LFA00,17746008,Incision of vulva,ok,False,,False,4298212
+LFA10,236886002,Hymenotomy,ok,True,4127886,False,
+LFA20,236886002,Reconstruction of vulva,ok,True,4127886,False,
+LFB00,86273004,Biopsy of vulva,ok,True,4311405,False,4172084
+LFB10,359615001,Excision of lesion of vulva (procedure),ok,True,4231736,False,
+LFB20,177000000,Destruction of lesion of vulva,ok,False,,False,
+LFB31,236886002,Destruction of lesion of vulva,ok,True,4127886,False,
+LFC00,39202004,Vulvectomy,ok,False,,False,4278755
+LFC96,236887006,Partial vulvectomy,ok,True,4127887,False,4074152
+LFD00,39202008,Vulvectomy (procedure),ok,False,,False,
+LFD10,172043006,Vulvectomy,ok,True,4066543,False,4278755
+LFE00,176?,Suture of vulva,ok,False,,False,
+LFE10,236902005,Vulvoplasty,ok,False,,False,
+LFE20,236988009,Repair of perineum,ok,False,,False,
+LFE96,392021009,Repair of perineum,ok,True,4213045,False,
+LFF00,173463008,Marsupialization of Bartholin's cyst,ok,False,,False,
+LFF10,17654003,Excision of Bartholin's gland,ok,False,,False,4074000
+LFF96,236884004,Procedure on Bartholin's gland,ok,True,4130184,False,4042341
+LFW96,236886002,Operation on female genital organs,ok,True,4127886,False,4129747
+LGA00,236887006,Sterilization of female by ligation of fallopian tube,ok,True,4127887,False,
+LGA10,71388002,Ligation of fallopian tube,ok,True,4322976,False,4298948
+LGA11,236886002,Laparoscopic sterilization of fallopian tubes,ok,True,4127886,False,
+LGA20,236886002,Ligation of fallopian tube,ok,True,4127886,False,4298948
+LGA21,236886002,Laparoscopic sterilization,ok,True,4127886,False,4036943
+LGA22,236958009,Sterilization of female,ok,True,4032756,False,
+LGA96,236886002,Female sterilization (procedure),ok,True,4127886,False,
+LGA97,236886002,Laparoscopic sterilization of female,ok,True,4127886,False,
+LGA98,386637004,Female sterilization,ok,True,4302541,False,4246185
+LWA00,172684004,Repair of wound dehiscence,ok,False,,False,
+LWB00,430193006,Revision of surgical wound,ok,True,4326177,False,
+LWC00,65801008,Reoperation,ok,True,4279903,False,4128317
+LWC01,234262008,Reoperation (procedure),ok,True,4120961,False,
+LWD00,387713003,Surgical procedure,ok,True,4301351,True,4301351
+LWE00,236987007,Reoperation for hemorrhage,ok,False,,False,
+LWE01,359615001,Reoperation,ok,True,4231736,False,4128317
+LWE02,359615001,Control of bleeding,ok,True,4231736,False,
+LWF00,112714009,Repair of dehiscence of surgical wound,ok,False,,False,
+LWF01,257903006,Reoperation,ok,True,4117981,False,4128317
+LWK03,236886002,Sling operation,ok,True,4127886,False,
+LWL03,236887006,Revision of vaginal mesh,ok,True,4127887,False,
+LWW00,236886002,Curettage of uterus,ok,True,4127886,False,4074865
+LWW96,65801008,Reoperation,ok,True,4279903,False,4128317
+LWW97,387713003,Surgical procedure,ok,True,4301351,True,4301351
+LWW98,387713003,Surgical procedure (procedure),ok,True,4301351,False,
+LX1LT,236889002,Destruction of lesion of vulva,ok,False,,False,
+MA0AT,177?,Chorionic villus sampling (procedure),ok,False,,False,
+MA3AE,385941009,First trimester screening for fetal aneuploidy,ok,False,,False,
+MAA00,118,Amniocentesis (procedure),ok,False,,False,
+MAA01,386637004,Chorionic villus sampling,ok,True,4302541,False,
+MAA03,236974009,Amnioinfusion,ok,False,,False,4127245
+MAA06,236971002,Amnioreduction,ok,False,,False,
+MAA10,386054006,Chorionic villus sampling (procedure),ok,True,4295223,False,
+MAA12,252000,Chorionic villus sampling (procedure),ok,True,4097310,False,
+MAA20,236710001,Removal of intrauterine contraceptive device,ok,False,,False,37166976
+MAA22,386637004,Removal of intrauterine contraceptive device (procedure),ok,True,4302541,False,
+MAA30,398,Cordocentesis,ok,False,,False,
+MAA32,392,Catheterization of umbilical vessel,ok,False,,False,
+MAA40,386053000,Puncture of fetus,ok,True,4297090,False,
+MAA41,237193007,Fetal blood sampling (procedure),ok,False,,False,
+MAA43,236886002,Biopsy of fetus (procedure),ok,True,4127886,False,
+MAA52,71388002,Cryopreservation of embryo (procedure),ok,True,4322976,False,
+MAA54,236,Fetoscopy (procedure),ok,False,,False,
+MAA82,236886004,Fetoscopic laser coagulation of placental anastomoses,ok,False,,False,
+MAA96,236894009,Intrauterine surgery (procedure),ok,True,4032737,False,
+MAA98,73761001,Hysteroscopy,ok,True,4249893,False,4052532
+MAB00,236886002,Insertion of cervical cerclage suture,ok,True,4127886,False,
+MAB03,177157003,Removal of cervical cerclage,ok,True,4073422,False,
+MAB04,236958009,Tocolysis,ok,True,4032756,False,4013573
+MAB10,236974004,External cephalic version,ok,True,4128031,False,4344624
+MAB20,177184002,External cephalic version of fetus,ok,True,4071507,False,
+MAC00,236958009,Artificial rupture of membranes,ok,True,4032756,False,4254204
+MAC02,236958009,Artificial rupture of membranes,ok,True,4032756,False,4254204
+MAC03,236958009,Induction of labor,ok,True,4032756,True,4032756
+MAC04,236973005,Vaginal delivery,ok,True,4128030,False,4125611
+MAC10,236000000,Dilation of cervix uteri,ok,False,,False,
+MAC20,236958009,Vacuum extraction delivery,ok,True,4032756,False,
+MAC23,236974004,Forceps delivery,ok,True,4128031,False,4114637
+MAC31,236961005,Induction of labor by prostaglandin,ok,True,4032757,False,
+MAC32,236960006,Induction of labor by oxytocin,ok,True,4130312,False,
+MAC90,86273004,Induction of labor,ok,True,4311405,False,4032756
+MAC91,236958009,Induction of labor (procedure),ok,True,4032756,False,
+MAC96,237001001,Induction of labor,ok,True,4127260,False,4032756
+MAD00,236886002,Incision of cervix uteri,ok,True,4127886,False,
+MAD20,236000,Pubiotomy,ok,False,,False,4136097
+MAD96,236973005,Surgical enlargement of birth canal,ok,True,4128030,False,
+MAE00,236958009,Vacuum extraction delivery,ok,True,4032756,False,
+MAE03,236958009,Vacuum extraction delivery,ok,True,4032756,False,
+MAE20,236958009,Vacuum extraction of fetus,ok,True,4032756,False,
+MAE96,236958009,Vacuum extraction delivery (procedure),ok,True,4032756,False,
+MAF00,236960000,Low forceps delivery,ok,False,,False,4088084
+MAF10,236958009,Forceps delivery of fetus,ok,True,4032756,False,
+MAF20,236963008,Failed forceps delivery,ok,True,4032758,False,
+MAF96,236958009,Forceps delivery,ok,True,4032756,False,4114637
+MAG00,177143000,Assisted breech delivery,ok,True,4075161,False,4075168
+MAG03,236970000,Forceps delivery,ok,False,,False,4114637
+MAG10,236958009,Breech extraction,ok,True,4032756,False,4213387
+MAG13,236958009,Breech extraction,ok,True,4032756,False,4213387
+MAG20,236974009,Internal podalic version,ok,False,,False,
+MAG96,236958009,Breech delivery,ok,True,4032756,False,
+MAH10,236974009,Reduction of prolapsed umbilical cord (procedure),ok,False,,False,
+MAH20,236960006,Manual rotation of fetal head,ok,True,4130312,False,4010271
+MAH22,236319001,External cephalic version of fetus,ok,False,,False,
+MAH30,236974009,Destructive operation on fetus (procedure),ok,False,,False,
+MAH41,236976002,Application of fundal pressure during delivery,ok,True,4127249,False,
+MAJ00,236974004,Reduction of multiple pregnancy,ok,True,4128031,False,
+MAJ10,236958009,Reduction of multiple pregnancy,ok,True,4032756,False,
+MAW96,386637004,Surgical procedure on pregnant patient,ok,True,4302541,False,
+MAW97,415070008,Laparoscopic procedure,ok,True,4216130,False,
+MAW98,71388002,Endoscopic procedure,ok,True,4322976,False,4179713
+MBA00,236961005,Suction curettage of uterus,ok,True,4032757,False,
+MBA03,236886002,Evacuation of retained products of conception,ok,True,4127886,False,
+MBA10,236973005,Manual removal of placenta (procedure),ok,True,4128030,False,
+MBA20,236947004,Delivery of placenta (procedure),ok,False,,False,
+MBA30,236973005,Manual removal of placenta (procedure),ok,True,4128030,False,
+MBA32,236958009,Manual removal of placenta,ok,True,4032756,False,
+MBA40,236958009,Evacuation of retained products of conception,ok,True,4032756,False,
+MBA96,236888001,Removal of retained products of conception from uterus,ok,True,4130185,False,
+MBB00,236891001,Manual reposition of inverted uterus (procedure),ok,True,4032735,False,
+MBB10,236980001,Uterine tamponade (procedure),ok,False,,False,
+MBB96,265764009,Manual exploration of uterus,ok,True,4146536,False,
+MBC00,236986005,Repair of obstetric laceration of cervix,ok,False,,False,4135477
+MBC10,236974004,Repair of obstetric laceration of vagina,ok,True,4128031,False,
+MBC20,236970008,Repair of obstetric laceration,ok,True,4128028,False,4163766
+MBC30,236975003,Repair of obstetric laceration of perineum,ok,True,4127248,False,
+MBC33,236974009,Repair of perineum,ok,False,,False,
+MBC40,392001001,Drainage of hematoma,ok,False,,False,
+MBC80,387713003,Uterine artery embolization (procedure),ok,True,4301351,False,
+MBC90,236974004,Control of postpartum hemorrhage,ok,True,4128031,False,
+MBC96,236974004,Repair of obstetric laceration,ok,True,4128031,False,4163766
+MBS00,28520004,Blood specimen collection,ok,True,4102442,False,
+MBW96,386637004,Obstetric procedure,ok,True,4302541,True,4302541
+MCA00,236975003,Classical cesarean section,ok,True,4127248,False,4223536
+MCA10,177141003,Lower segment caesarean section,ok,True,4075182,False,
+MCA20,11466000,Cesarean section,ok,True,4015701,True,4015701
+MCA30,236974004,Caesarean hysterectomy,ok,True,4128031,False,
+MCA33,177141003,Caesarean section with hysterectomy,ok,True,4075182,False,
+MCA96,11466000,Caesarean section (procedure),ok,True,4015701,False,
+MCB00,86481000,Laparotomy,ok,True,4314251,True,4314251
+MCC00,236986003,Repair of uterus,ok,False,,False,4010270
+MCW00,236886002,Hysterectomy (procedure),ok,True,4127886,False,
+MCW96,86481000,Laparotomy (procedure),ok,True,4314251,False,
+MWA00,17237006,Repair of wound,ok,False,,False,
+MWB00,387713003,Surgical procedure,ok,True,4301351,True,4301351
+MWC00,225358003,Reoperation,ok,True,4021315,False,4128317
+MWC01,359615001,Revision of surgical procedure,ok,True,4231736,False,
+MWD00,112697007,Reoperation,ok,True,4012907,False,4128317
+MWE00,236986009,Reoperation for haemorrhage,ok,False,,False,
+MWE01,35963001,Control of bleeding (procedure),ok,True,4262838,False,
+MWE02,57485005,Hemostasis,ok,True,4239130,False,
+MWF00,265764009,Repair of wound,ok,True,4146536,False,
+MWF01,174041007,Repair of wound dehiscence,ok,True,4017461,False,
+MWW00,236886002,Curettage of uterus,ok,True,4127886,False,4074865
+MWW96,183460006,Reoperation (procedure),ok,True,4080059,False,
+MWW97,236914004,Reoperation of obstetric procedure,ok,False,,False,
+MWW98,416940007,Reoperation,ok,True,4215685,False,4128317
+MXB00,236973005,Induction of labor,ok,True,4128030,False,4032756
+TAB00,6025007,Lumbar puncture (procedure),ok,True,4243973,False,
+TAC00,231,Peripheral nerve block,ok,False,,False,
+TBA00,392021009,Fine needle aspiration biopsy of thyroid gland,ok,True,4213045,False,
+TBA10,86290005,Fine needle aspiration biopsy of thyroid gland,ok,True,4313591,False,
+TBA20,241615005,Fine needle aspiration biopsy of thyroid gland,ok,True,4082984,False,
+TBB00,392...,Aspiration of parathyroid gland,ok,False,,False,
+TBB10,86274005,Biopsy of parathyroid gland,ok,True,4313427,False,4337807
+TBC00,86273004,Biopsy of adrenal gland,ok,True,4311405,False,4164502
+TBW99,387713003,Surgical procedure,ok,True,4301351,True,4301351
+TCA00,392?,Biopsy of orbit,ok,False,,False,
+TCA15,387713003,Injection of therapeutic substance into eye,ok,True,4301351,False,
+TCA20,11210000,Injection of therapeutic substance,ok,False,,False,
+TCB00,65801008,Biopsy of eyelid,ok,True,4279903,False,4055495
+TCB20,784161005,Injection of therapeutic substance into eyelid,ok,False,,False,
+TCC00,392...?,Biopsy of lacrimal gland,ok,False,,False,4056052
+TCC10,392,Probing of lacrimal duct (procedure),ok,False,,False,
+TCC30,173173009,Intubation of nasolacrimal duct,ok,False,,False,40492309
+TCF00,387711001,Subconjunctival injection of therapeutic substance,ok,True,4300392,False,
+TCG10,112688005,Removal of suture (procedure),ok,False,,False,
+TCK10,392?,Biopsy of choroid,ok,False,,False,
+TCK20,86273004,Biopsy of eye,ok,True,4311405,False,
+TCK30,86273004,Biopsy of eye,ok,True,4311405,False,
+TCW99,118...,Procedure on eye,ok,False,,False,4043334
+TDA00,392?,Biopsy of external ear,ok,False,,False,4196934
+TDA10,172177003,Biopsy of ear,ok,False,,False,4027713
+TDA90,392021009,Removal of ear wax (procedure),ok,True,4213045,False,
+TDB00,65801008,Removal of foreign body from external auditory canal,ok,True,4279903,False,4321430
+TDC00,274031008,Biopsy of tympanic membrane,ok,True,4166761,False,
+TDH00,86273004,Biopsy of nose,ok,True,4311405,False,4186722
+TDH10,112?,Removal of foreign body from nose,ok,False,,False,4067474
+TDJ00,80146002,Biopsy of nose,ok,True,4198190,False,4186722
+TDM00,23256005,Biopsy of maxillary sinus,ok,False,,False,
+TDM10,172970007,Lavage of maxillary sinus,ok,False,,False,
+TDN00,17217000,Biopsy of ethmoid sinus,ok,False,,False,4048635
+TDP00,86273004,Biopsy of nasal cavity,ok,True,4311405,False,
+TDP05,232480006,Puncture of frontal sinus,ok,False,,False,
+TDP10,39283000,Biopsy of sphenoid sinus,ok,False,,False,4048330
+TDQ00,86273004,Biopsy of larynx,ok,True,4311405,False,4335676
+TEA00,86273004,Biopsy of skin,ok,True,4311405,False,4081731
+TEA10,86273004,Biopsy of lip,ok,True,4311405,False,4017700
+TEC00,86273004,Biopsy of gingiva,ok,True,4311405,False,
+TED00,234,Closed reduction of dislocation of temporomandibular joint,ok,False,,False,4079945
+TED10,234?,Needle biopsy of mandible,ok,False,,False,
+TEE00,86273004,Biopsy of bone,ok,True,4311405,False,4029787
+TEG00,86276007,Biopsy of joint,ok,True,4311406,False,
+TEG10,118710009,Arthrocentesis of temporomandibular joint,ok,True,4042650,False,40488485
+TEH00,86273004,Biopsy of oral cavity,ok,True,4311405,False,
+TEJ00,86273004,Biopsy of oral cavity,ok,True,4311405,False,
+TEL00,86273004,Biopsy of salivary gland,ok,True,4311405,False,4150846
+TEM00,122,Needle biopsy of tonsil,ok,False,,False,
+TEN00,112802003,Biopsy of pharynx,ok,False,,False,
+TEW99,387713003,Surgical procedure,ok,True,4301351,True,4301351
+TFC00,392021009,Right heart catheterization,ok,True,4213045,False,
+TFC10,415070008,Left heart catheterization,ok,True,4216130,False,
+TFE00,233573008,Pericardiocentesis,ok,True,4052536,False,4149930
+TFJ00,80146002,Cardiac puncture,ok,True,4198190,False,
+TFP00,233,Temporary cardiac pacing,ok,False,,False,
+TFP20,180325003,Cardioversion,ok,True,4078793,False,4353741
+TGA00,392024001,Biopsy of chest wall,ok,True,4309434,False,4077080
+TGA10,39202000,Biopsy of pleura,ok,False,,False,4021362
+TGA20,86269006,Biopsy of diaphragm,ok,False,,False,4114781
+TGA30,240,Thoracentesis,ok,False,,False,4240305
+TGB00,86273004,Biopsy of trachea,ok,True,4311405,False,4150831
+TGD00,86273004,Biopsy of lung,ok,True,4311405,False,4303062
+TGE00,392000008,Biopsy of mediastinum,ok,False,,False,4000518
+TGW99,359615001,Procedure on thorax,ok,True,4231736,False,4043023
+THA00,86273004,Biopsy of breast,ok,True,4311405,False,4047494
+THA10,86273004,Biopsy of breast,ok,True,4311405,False,4047494
+THW99,392018005,Procedure on breast,ok,False,,False,
+TJA00,2876006,Paracentesis (procedure),ok,False,,False,
+TJA10,6025007,Paracentesis of peritoneal cavity,ok,True,4243973,False,
+TJA35,265765005,Removal of peritoneal dialysis catheter,ok,True,4140278,False,4031777
+TJD00,430193006,Insertion of nasogastric tube,ok,True,4326177,False,4227418
+TJD20,18286008,Replacement of gastrostomy tube,ok,True,4057420,False,
+TJF00,397,Insertion of jejunostomy tube,ok,False,,False,
+TJF20,86273004,Biopsy of small intestine,ok,True,4311405,False,4000606
+TJF30,387713003,Reduction of intussusception,ok,True,4301351,False,
+TJG10,112742005,Removal of foreign body from rectum,ok,False,,False,
+TJJ00,86273004,Liver biopsy,ok,True,4311405,False,
+TJK00,73761001,Cholangiography,ok,True,4249893,False,
+TJK01,77477000,Cholangiography,ok,True,4300757,False,
+TJL00,86273004,Biopsy of pancreas,ok,True,4311405,False,4138981
+TJM00,86275006,Biopsy of spleen,ok,True,4313587,False,4138388
+TK800,302497006,Hemodialysis,ok,True,4120120,True,4120120
+TK810,265764009,Hemofiltration,ok,True,4146536,False,4050864
+TK820,108241001,Peritoneal dialysis,ok,True,4032243,False,4324124
+TKA00,86273004,Biopsy of kidney,ok,True,4311405,False,
+TKA02,86273004,Biopsy of kidney,ok,True,4311405,False,
+TKA10,430,Puncture of kidney,ok,False,,False,
+TKB40,236892001,Closure of ureterostomy,ok,False,,False,
+TKC00,86273004,Biopsy of bladder,ok,True,4311405,False,
+TKC10,112790001,Puncture of urinary bladder,ok,True,4010253,False,
+TKC20,52101004,Catheterization of urinary bladder,ok,True,4181412,False,
+TKC40,428118009,Suprapubic catheter care,ok,True,4325212,False,
+TKD00,265?,Dilation of urethra,ok,False,,False,4147379
+TKE00,86273004,Biopsy of prostate,ok,True,4311405,False,4278515
+TKE05,86273004,Biopsy of prostate,ok,True,4311405,False,4278515
+TKE10,86273004,Biopsy of prostate,ok,True,4311405,False,4278515
+TKF00,86273004,Biopsy of prostate,ok,True,4311405,False,4278515
+TKF20,274000,Biopsy of epididymis,ok,False,,False,4143522
+TKF30,174041007,Puncture of epididymis,ok,True,4017461,False,
+TKF60,274000006,Puncture of scrotum,ok,False,,False,
+TKW10,108241001,Hemodialysis,ok,True,4032243,False,4120120
+TKW12,302497006,Hemodialysis,ok,True,4120120,True,4120120
+TKW20,233573008,Hemofiltration,ok,True,4052536,False,4050864
+TKW22,108241001,Peritoneal dialysis,ok,True,4032243,False,4324124
+TKW24,108241001,Peritoneal dialysis,ok,True,4032243,False,4324124
+TKW30,265764009,Peritoneal dialysis,ok,True,4146536,False,4324124
+TKW44,108241001,Hemodialysis (procedure),ok,True,4032243,False,
+TKW99,129304002,Procedure on urinary system,ok,True,4044525,False,4041263
+TLA00,86275006,Biopsy of ovary,ok,True,4313587,False,4174964
+TLB00,86269002,Biopsy of fallopian tube,ok,True,382034,False,4217612
+TLC00,392142008,Insertion of intrauterine contraceptive device,ok,True,4194266,False,4275113
+TLC02,236?,Removal of intrauterine contraceptive device (procedure),ok,False,,False,
+TLE00,236886002,Dilatation of vagina (procedure),ok,True,4127886,False,
+TLE05,236?,Removal of foreign body from vagina,ok,False,,False,4072697
+TLE10,118?,Removal of foreign body from vagina,ok,False,,False,4072697
+TLE20,28776006,Culdocentesis (procedure),ok,False,,False,
+TLE30,236974004,Vaginal packing,ok,True,4128031,False,
+TLE40,236938002,Insertion of vaginal pessary (procedure),ok,False,,False,
+TLE80,236887009,Replacement of vaginal pessary,ok,False,,False,
+TLF00,236973009,Defibulation of vulva,ok,False,,False,40482711
+TLW00,44608003,Artificial insemination,ok,True,4258677,False,4239302
+TLW11,445707006,Transmyometrial embryo transfer,ok,False,,False,
+TLW12,236887005,Embryo transfer,ok,False,,False,4327048
+TLW14,445?,Intracytoplasmic sperm injection,ok,False,,False,
+TLW20,698,Ovulation induction (procedure),ok,False,,False,
+TLW99,236886002,Procedure on female genital system,ok,True,4127886,False,4041261
+TMA00,236973005,Episiotomy (procedure),ok,True,4128030,False,
+TMA20,236958009,Normal delivery,ok,True,4032756,False,
+TMA40,276000,Fetal monitoring,ok,False,,False,
+TMA80,229064009,Breastfeeding support (procedure),ok,False,,False,
+TMW99,386637004,Obstetric procedure,ok,True,4302541,True,4302541
+TNA00,86273004,Biopsy of soft tissue,ok,True,4311405,False,4327322
+TNA10,387713003,Arthrocentesis,ok,True,4301351,False,4233386
+TNA11,76601001,Injection of joint,ok,True,4295880,False,
+TNA20,234,Bone marrow aspiration,ok,False,,False,
+TNA25,86273004,Bone marrow biopsy,ok,True,4311405,False,
+TNA30,385785006,Application of dressing,ok,False,,False,4305581
+TNA32,274474001,Application of splint,ok,True,4170947,False,4194049
+TNA33,274804006,Application of cast,ok,True,4168236,False,4041643
+TNB00,90105005,Biopsy of soft tissue,ok,True,4234095,False,4327322
+TNB10,387713003,Arthrocentesis,ok,True,4301351,False,4233386
+TNB11,20655006,Injection into joint,ok,True,4049036,False,
+TNB20,397?,Bone marrow aspiration (procedure),ok,False,,False,
+TNB30,112742005,Procedure on shoulder,ok,False,,False,4040397
+TNB32,274100004,Application of splint (procedure),ok,True,376713,False,
+TNB33,17224000,Application of cast to upper arm,ok,False,,False,
+TNB34,2847000,Application of cast,ok,False,,False,4041643
+TNC00,86274005,Biopsy of subcutaneous tissue,ok,True,4313427,False,4243780
+TNC10,129284003,Aspiration of joint,ok,True,4045049,False,
+TNC11,73761001,Injection of therapeutic substance into joint,ok,True,4249893,False,
+TNC20,265764009,Bone marrow aspiration,ok,True,4146536,False,
+TNC30,225358003,Application of bandage,ok,True,4021315,False,4080807
+TNC32,274474001,Application of splint,ok,True,4170947,False,4194049
+TNC33,302,Application of cast,ok,False,,False,4041643
+TNC34,274474001,Application of long arm cast,ok,True,4170947,False,4234781
+TND00,86273004,Biopsy of soft tissue,ok,True,4311405,False,4327322
+TND10,386640004,Arthrocentesis of wrist joint,ok,True,4302542,False,
+TND11,20655006,Injection of therapeutic substance into joint,ok,True,4049036,False,
+TND20,274,Bone marrow aspiration,ok,False,,False,
+TND30,225358003,Application of bandage,ok,True,4021315,False,4080807
+TND32,274474001,Application of splint,ok,True,4170947,False,4194049
+TND33,27438007,Application of cast,ok,False,,False,4041643
+TND34,274474001,Application of cast,ok,True,4170947,False,4041643
+TNE00,86273004,Biopsy of soft tissue,ok,True,4311405,False,4327322
+TNE10,274031008,Arthrocentesis (procedure),ok,True,4166761,False,
+TNE11,182,Injection of therapeutic substance into joint,ok,False,,False,
+TNE20,234,Bone marrow aspiration (procedure),ok,False,,False,
+TNE25,86273004,Bone marrow biopsy,ok,True,4311405,False,
+TNE30,387713003,Surgical procedure on soft tissue,ok,True,4301351,False,4159949
+TNE32,183460006,Orthotic fitting,ok,True,4080059,False,
+TNE33,20499002,Application of cast,ok,False,,False,4041643
+TNE34,3677000,Application of cast,ok,False,,False,4041643
+TNF00,392021009,Biopsy of soft tissue,ok,True,4213045,False,4327322
+TNF10,274032001,Arthrocentesis of hip joint,ok,True,4166762,False,
+TNF11,362961001,Injection of therapeutic substance into joint,ok,True,4176642,False,
+TNF20,397,Bone marrow aspiration,ok,False,,False,
+TNF30,387713003,Surgical procedure on soft tissue,ok,True,4301351,False,4159949
+TNF32,428191000,Orthotic device fitting (procedure),ok,False,,False,
+TNF33,428,Application of hip spica cast,ok,False,,False,4132400
+TNF34,274864001,Application of cast,ok,False,,False,4041643
+TNG00,129314006,Biopsy of soft tissue (procedure),ok,True,4043842,False,
+TNG10,129,Arthrocentesis,ok,False,,False,4233386
+TNG11,76601001,Injection of therapeutic substance into joint,ok,True,4295880,False,
+TNG20,234000,Bone marrow aspiration,ok,True,4051783,False,
+TNG30,274441001,Procedure on soft tissue,ok,True,4164516,False,4043161
+TNG31,385783003,Fitting of orthosis,ok,False,,False,
+TNG32,428191000,Fabrication of orthosis,ok,False,,False,
+TNG33,8205005,Application of cast (procedure),ok,True,4220073,False,
+TNG34,274100004,Application of long leg cast (procedure),ok,True,376713,False,
+TNG40,398,Application of traction to lower limb,ok,False,,False,
+TNH00,86273004,Biopsy of soft tissue,ok,True,4311405,False,4327322
+TNH10,274030009,Arthrocentesis of joint,ok,True,4158901,False,
+TNH11,18629005,Injection of therapeutic substance into joint,ok,True,4088217,False,
+TNH20,387713003,Bone marrow aspiration,ok,True,4301351,False,
+TNH30,385798007,Application of dressing,ok,True,4301466,False,4305581
+TNH32,274474001,Application of splint,ok,True,4170947,False,4194049
+TNH33,428191000,Application of cast to lower limb,ok,False,,False,
+TNH34,274?,Application of cast to foot,ok,False,,False,
+TNX00,86273004,Biopsy of soft tissue,ok,True,4311405,False,4327322
+TNX05,80146002,Incision of skin,ok,True,4198190,False,4214428
+TNX10,119?,Arthrocentesis,ok,False,,False,4233386
+TNX11,285,Injection of therapeutic substance into joint,ok,False,,False,
+TNX20,234,Bone marrow aspiration (procedure),ok,False,,False,
+TNX25,86273004,Bone marrow biopsy,ok,True,4311405,False,
+TNX30,386638009,Procedure on soft tissue,ok,True,4297249,False,4043161
+TNX32,274440006,Application of splint,ok,False,,False,4194049
+TNX33,274474001,Application of cast,ok,True,4170947,False,4041643
+TNX34,274474001,Application of cast,ok,True,4170947,False,4041643
+TNX39,385798007,Application of bandage,ok,True,4301466,False,4080807
+TNX40,22925008,Application of skeletal traction,ok,True,4042220,False,
+TNX50,387713003,Surgical procedure on bone,ok,True,4301351,False,
+TPH00,397895001,Phlebotomy,ok,False,,False,4245372
+TPH05,392232006,Insertion of peripheral venous catheter,ok,False,,False,
+TPH07,392...,Arterial catheterization,ok,False,,False,
+TPH10,387713003,Sclerotherapy,ok,True,4301351,False,
+TPH15,392230005,Insertion of central venous catheter,ok,True,4214115,False,
+TPH20,233573008,Insertion of central venous catheter,ok,True,4052536,False,
+TPH90,448,Removal of intravenous catheter,ok,False,,False,
+TPJ00,90199006,Biopsy of lymph node,ok,True,4234536,False,4071443
+TPJ05,86273004,Fine needle aspiration biopsy of lymph node,ok,True,4311405,False,
+TPW99,387713003,Surgical procedure,ok,True,4301351,True,4301351
+TPX00,392000000,Biopsy of blood vessel,ok,False,,False,4146689
+TPX10,429892002,Insertion of totally implantable venous access device,ok,True,4324450,False,
+TPX15,447562003,Removal of implanted venous access device,ok,True,40493313,False,
+TPX22,392012005,Thrombolytic therapy (procedure),ok,False,,False,
+TQW11,609588000,Negative pressure wound therapy (procedure),ok,True,43531648,False,
+TQW38,44808001,Sclerotherapy,ok,True,316999,False,
+TQW99,118?,Procedure on skin,ok,False,,False,4040401
+TQX00,86273004,Biopsy of skin,ok,True,4311405,False,4081731
+TQX10,86273004,Biopsy of skin,ok,True,4311405,False,4081731
+TQX40,398166005,Removal of sutures from skin,ok,True,4160030,False,
