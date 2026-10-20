@@ -52,7 +52,7 @@ def hierarchy_figure():
     labels = [label for _, rows in groups for label, _ in rows] + [g for g, _ in groups]
     label_w = max(pdfmetrics.stringWidth(label, "TNR", FONT) for label in labels) + 10
     plot_w = WIDTH - label_w - 12  # room for the "100%" tick label
-    bar_h, gap, head_h, group_gap, legend_h, axis_h = 8.5, 2.2, 9, 5, 13, 12
+    bar_h, gap, head_h, group_gap, legend_h, axis_h = 7.5, 1.8, 8.5, 3, 12, 12
     n_rows = sum(len(rows) for _, rows in groups)
     h = legend_h + len(groups) * head_h + (len(groups) - 1) * group_gap + n_rows * (bar_h + gap) + axis_h
     d = Drawing(WIDTH, h)
